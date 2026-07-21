@@ -5,6 +5,6 @@
 *.out
 *.log
 *.toc
-*.pdf
+# *.pdf  -- included in repo for convenience
 *.swp
 texput.log
