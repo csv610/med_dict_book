@@ -8,3 +8,7 @@
 # *.pdf  -- included in repo for convenience
 *.swp
 texput.log
+
+# Latexmk build artifacts
+*.fdb_latexmk
+*.fls

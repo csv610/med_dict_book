@@ -1,6 +1,6 @@
 # Medical Dictionary by Specialty
 
-A comprehensive medical dictionary organised by 43 medical specialties, not alphabetically. **5,507 entries** across **968 pages**, built with LaTeX.
+A comprehensive medical dictionary organised by 43 medical specialties, not alphabetically. **6,445 entries** across **1,113 pages**, built with LaTeX.
 
 ![Frontpage](frontpage.png)
 
@@ -8,28 +8,28 @@ A comprehensive medical dictionary organised by 43 medical specialties, not alph
 
 | # | Specialty | Entries | # | Specialty | Entries |
 |---|-----------|---:|---|-----------|---:|
-| 1 | Anatomy | 281 | 23 | Nephrology | 141 |
-| 2 | Anesthesiology | 107 | 24 | Neurology | 169 |
-| 3 | Biochemistry | 44 | 25 | Nuclear Medicine | 50 |
-| 4 | Cardiology | 280 | 26 | Obstetrics & Gynecology | 436 |
-| 5 | Clinical Nutrition | 52 | 27 | Oncology | 91 |
-| 6 | Dentistry | 51 | 28 | Ophthalmology | 131 |
-| 7 | Dermatology | 179 | 29 | Orthopedics | 126 |
-| 8 | ENT | 123 | 30 | Pathology | 136 |
-| 9 | Emergency Medicine | 44 | 31 | Pediatrics | 222 |
-| 10 | Endocrinology | 197 | 32 | Pharmacology | 310 |
-| 11 | Forensic Medicine | 52 | 33 | Physiology | 101 |
-| 12 | Gastroenterology | 276 | 34 | Psychiatry | 186 |
-| 13 | General | 4 | 35 | Public Health | 86 |
-| 14 | Genetics | 43 | 36 | Pulmonology | 299 |
-| 15 | Geriatrics | 51 | 37 | Radiology | 69 |
-| 16 | Hematology | 109 | 38 | Rehabilitation | 50 |
-| 17 | Immunology | 66 | 39 | Rheumatology | 60 |
-| 18 | Infectious Disease | 166 | 40 | Surgery | 103 |
-| 19 | Medical Implants | 38 | 41 | Toxicology | 50 |
-| 20 | Medical Instruments | 82 | 42 | Urology | 59 |
-| 21 | Medical Tests | 184 | 43 | Vascular Surgery | 51 |
-| 22 | Microbiology | 152 | | **Total** | **5,507** |
+| 1 | Anatomy | 351 | 23 | Nephrology | 152 |
+| 2 | Anesthesiology | 106 | 24 | Neurology | 188 |
+| 3 | Biochemistry | 93 | 25 | Nuclear Medicine | 49 |
+| 4 | Cardiology | 295 | 26 | Obstetrics & Gynecology | 476 |
+| 5 | Clinical Nutrition | 51 | 27 | Oncology | 98 |
+| 6 | Dentistry | 50 | 28 | Ophthalmology | 141 |
+| 7 | Dermatology | 209 | 29 | Orthopedics | 125 |
+| 8 | ENT | 135 | 30 | Pathology | 146 |
+| 9 | Emergency Medicine | 89 | 31 | Pediatrics | 253 |
+| 10 | Endocrinology | 209 | 32 | Pharmacology | 497 |
+| 11 | Forensic Medicine | 106 | 33 | Physiology | 184 |
+| 12 | Gastroenterology | 284 | 34 | Psychiatry | 195 |
+| 13 | General | 3 | 35 | Public Health | 85 |
+| 14 | Genetics | 83 | 36 | Pulmonology | 311 |
+| 15 | Geriatrics | 50 | 37 | Radiology | 84 |
+| 16 | Hematology | 128 | 38 | Rehabilitation | 49 |
+| 17 | Immunology | 105 | 39 | Rheumatology | 87 |
+| 18 | Infectious Disease | 193 | 40 | Surgery | 118 |
+| 19 | Medical Implants | 37 | 41 | Toxicology | 49 |
+| 20 | Medical Instruments | 81 | 42 | Urology | 58 |
+| 21 | Medical Tests | 183 | 43 | Vascular Surgery | 50 |
+| 22 | Microbiology | 209 | | **Total** | **6,445** |
 
 ## Build
 
