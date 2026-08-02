@@ -1,99 +1,325 @@
-\chapter{Nuclear Medicine \& Molecular Imaging}
+\chapter{Nuclear Medicine & Molecular Imaging}
 
-\medterm{Biological Half-Life}-- Time required for the human body to eliminate half the administered quantity of a drug or radiopharmaceutical through physiological excretory pathways (renal, fecal, pulmonary, hepatic), independent of radioactive decay.
+\medterm{Biological Half-Life}-- Time required for the human body to eliminate half the administered quantity of a drug or radiopharmaceutical through metabolic and excretory processes. Different from physical half-life (radioactive decay) and effective half-life (combined biological and physical elimination). Formula: 1/T_effective = 1/T_physical + 1/T_biological.
 
-\medterm{Collimator}-- Lead or tungsten shielding device mounted on a gamma camera or SPECT detector containing precision holes that permit only gamma rays traveling along specific geometric trajectories to reach the scintillation detector, preventing scattered photons from blurring the image.
+\medterm{Fludeoxyglucose F-18 (FDG)}-- Radiotracer used in PET imaging, analog of glucose labeled with fluorine-18. Taken up by cells via glucose transporters and phosphorylated by hexokinase, trapped intracellularly. Uptake reflects metabolic activity. Used for oncology (tumor detection, staging, response assessment), neurology (epilepsy, dementia), cardiology (viability). Standardized uptake value (SUV) quantifies uptake.
 
-\medterm{Cyclotron}-- Particle accelerator used in nuclear medicine radiopharmacies to bombard stable target nuclei with high-energy protons or deuterons to manufacture short-lived positron-emitting radionuclides such as Fluorine-18 ($^{18}\text{F}$), Carbon-11 ($^{11}\text{C}$), Nitrogen-13 ($^{13}\text{N}$), and Oxygen-15 ($^{15}\text{O}$).
+\medterm{Positron Emission Tomography (PET)}-- Functional imaging modality using positron-emitting radionuclides. Common isotope: fluorine-18 (110 min half-life). Detection: annihilation photons (511 keV) detected in coincidence. Tracers: FDG (metabolism), florbetapir (amyloid), flortaucipir (tau), PSMA (prostate cancer). Combined with CT (PET/CT) or MRI (PET/MRI) for anatomical correlation.
 
-\medterm{DaTscan (Ioflupane I-123)}-- Radiopharmaceutical ($^{123}\text{I-ioflupane}$) SPECT imaging agent that binds to presynaptic dopamine transporters (DaT) in the striatum; used to differentiate Essential Tremor (normal uptake) from Parkinsonian Syndromes (Parkinson disease, Multiple System Atrophy, Progressive Supranuclear Palsy showing reduced striatal uptake).
+\medterm{Single Photon Emission Computed Tomography (SPECT)}-- Nuclear medicine imaging using gamma-emitting isotopes (technetium-99m most common). Rotating gamma camera acquires images. Applications: myocardial perfusion, bone scans, thyroid imaging, renal scans, brain perfusion. Lower resolution than PET but more widely available and cost-effective.
 
-\medterm{DMSA Renal Scan}-- Nuclear medicine imaging procedure using Technetium-99m dimercaptosuccinic acid ($^{99m}\text{Tc-DMSA}$) which binds to cortical renal tubular cells; gold standard for evaluating static renal cortical mass, detecting cortical scarring from recurrent pyelonephritis, and assessing differential renal function.
+\medterm{Technetium-99m}-- Most widely used radionuclide in nuclear medicine. Half-life: 6 hours. Emits 140 keV gamma rays. Produced from molybdenum-99/technetium-99m generator. Used with various ligands: MDP (bone), sestamibi (myocardium), DTPA (renal), nanocolloid (lymphatic), HMPAO (brain perfusion).
 
-\medterm{Dose Calibrator}-- Ionization chamber instrument utilized in radiopharmacies to measure the radioactivity (Bequerels or Curies) of radiopharmaceutical doses prior to administration to patients.
+\medterm{Radioimmunoassay (RIA)}-- Sensitive immunoassay using radiolabeled antigens or antibodies. Competitive binding principle. Used for hormone measurement (thyroid, reproductive), tumor markers, drug levels. Largely replaced by non-radioactive methods (ELISA) but still used for some assays.
 
-\medterm{DTPA Renal Scan}-- Dynamic renal scintigraphy using Technetium-99m diethylenetriaminepentaacetic acid ($^{99m}\text{Tc-DTPA}$), an agent excreted exclusively by glomerular filtration; used to measure Glomerular Filtration Rate (GFR) and assess renal arterial perfusion.
+\medterm{Theranostics}-- Combined therapy and diagnostics using matched radiopharmaceutical pairs. Diagnostic isotope (e.g., Ga-68) identifies target, therapeutic isotope (e.g., Lu-177) delivers treatment. Examples: Ga-68/Lu-177 DOTATATE (neuroendocrine tumors), PSMA theranostics (prostate cancer).
 
-\medterm{Effective Half-Life}-- Net rate of clearance of a radiopharmaceutical from the body combining both physical radioactive decay half-life ($T_p$) and biological clearance half-life ($T_b$), calculated by $(T_p \times T_b) / (T_p + T_b)$.
+\medterm{Radioactive Iodine (I-131)}-- Used for thyroid imaging and treatment. I-131 emits beta particles (therapy) and gamma rays (imaging). Half-life: 8 days. Used for hyperthyroidism (Graves, toxic nodules) and thyroid cancer ablation. I-123 for diagnostics (shorter half-life, pure gamma).
 
-\medterm{Fluorodeoxyglucose (18F-FDG)}-- Positron-emitting radiopharmaceutical and glucose analog ($^{18}\text{F-FDG}$) widely utilized in Positron Emission Tomography (PET) imaging. Pathophysiology: FDG is transported into cells via GLUT transporters and phosphorylated by hexokinase into FDG-6-phosphate; because FDG-6-phosphate cannot be further metabolized in the glycolytic pathway, it becomes metabolic trapped inside hypermetabolic cells. Clinical utility: Oncology (detection, staging, and therapy response monitoring of primary and metastatic malignancies, which exhibit high glucose utilization via the Warburg effect), Neurology (evaluation of Alzheimer's disease showing parietotemporal hypometabolism, and localization of epileptic foci), and Cardiology (assessment of myocardial viability).
+\medterm{Bone Scan}-- Skeletal imaging using Tc-99m MDP. Detects osteoblastic activity. Sensitivity: high; specificity: low. Used for metastasis detection, fracture, infection, metabolic bone disease. "Hot spots" indicate increased uptake; "cold spots" indicate decreased uptake.
 
-\medterm{Fluorodeoxyglucose PET-CT (FDG-PET/CT)}-- Hybrid molecular imaging modality combining high-sensitivity Positron Emission Tomography (PET) tracking glucose metabolism with high-resolution Computed Tomography (CT) providing precise anatomical localization. Essential in modern clinical oncology for tumor staging (TNM), restaging following therapy, detecting occult recurrence, guiding biopsy of hypermetabolic tissue, and planning radiation therapy fields. Standardized Uptake Value (SUV) is a quantitative measurement of radiotracer uptake used to differentiate malignant from benign lesions.
+\medterm{Myocardial Perfusion Imaging}-- Assessment of blood flow to heart muscle. Tracers: Tc-99m sestamibi, Tc-99m tetrofosmin, thallium-201. Stress test (exercise or pharmacological) followed by rest imaging. Defects indicate ischemia (reversible) or infarction (fixed).
 
-\medterm{Gallium-68 PSMA (68Ga-PSMA)}-- Positron-emitting radiopharmaceutical targeting Prostate-Specific Membrane Antigen (PSMA), highly expressed on prostate adenocarcinoma cells; utilized in PET-CT for restaging prostate cancer with biochemical recurrence (elevated PSA) and detecting occult micrometastases.
+\medterm{Renal Scintigraphy}-- Renal imaging using Tc-99m compounds. MAG3 (tubular secretion) for functional assessment, DTPA (glomerular filtration) for GFR measurement. Used for obstruction, function, transplant monitoring, renin-mediated hypertension.
 
-\medterm{Gamma Camera}-- Core imaging detector in conventional nuclear medicine, designed to detect gamma rays emitted from radiopharmaceuticals administered to patients and convert them into two-dimensional projection images (scintigrams). Major components: lead collimator (discriminates gamma ray direction), sodium iodide (NaI) scintillation crystal (converts gamma photons into visible light flashes), photomultiplier tubes (PMTs—convert light into electrical signals), and positioning electronics. Used for planar imaging and rotated around the patient to perform Single-Photon Emission Computed Tomography (SPECT).
+\medterm{Ventilation/Perfusion (V/Q) Scan}-- Pulmonary embolism diagnosis. Ventilation: inhaled Tc-99m DTPA aerosol. Perfusion: injected Tc-99m MAA. Mismatch (perfusion defect with preserved ventilation) suggests PE. High single-photon emission computed tomography (SPECT) sensitivity.
 
-\medterm{Gastric Emptying Study}-- Diagnostic nuclear medicine procedure where a patient ingests a radiolabeled standardized meal (e.g., egg whites labeled with $^{99m}\text{Tc-sulfur colloid}$) and sequential gamma camera images are acquired to measure gastric retention percentage over 4 hours; gold standard for diagnosing gastroparesis.
+\medterm{Thyroid Scintigraphy}-- Thyroid imaging using I-123, I-131, or Tc-99m pertechnetate. Assesses function, nodules, ectopic tissue. Hot nodules (functioning) rarely malignant; cold nodules require ultrasound/FNA.
 
-\medterm{HIDA Scan (Cholescintigraphy)}-- Dynamic hepatobiliary nuclear imaging using Technetium-99m iminodiacetic acid analogs ($^{99m}\text{Tc-mebrofenin}$ or $^{99m}\text{Tc-disofenin}$); excreted by hepatocytes into bile, allowing visualization of gallbladder, biliary tree, and duodenum. Non-visualization of gallbladder at 4 hours indicates acute cholecystitis due to cystic duct obstruction.
+\medterm{Hepatobiliary Scintigraphy}-- Liver/gallbladder imaging using Tc-99m mebrofenin or disofenin. Assess biliary patency, gallbladder function, bile leak, acute cholecystitis (non-visualization of gallbladder).
 
-\medterm{Indium-111 WBC Scan}-- Diagnostic imaging technique where patient leukocytes are harvested, labeled in vitro with Indium-111 oxine ($^{111}\text{In-WBC}$), and reinjected; highly specific for localizing occult intra-abdominal abscesses, osteomyelitis in complicated diabetic feet, and inflammatory bowel disease.
+\medterm{Gastrointestinal Bleeding Scan}-- Detection of GI bleeding using Tc-99m labeled RBCs. Sensitive for active bleeding (>0.1 mL/min). Localizes bleeding site. Alternative: tagged RBC scan, CT angiography.
 
-\medterm{Iodine-123 MIBG (123I-MIBG)}-- Radiopharmaceutical structural analog of norepinephrine concentrated in sympathetic adrenergic tissue; used in SPECT imaging to detect neuroblastoma, pheochromocytoma, and paraganglioma, and assess cardiac sympathetic innervation.
+\medterm{Salivary Gland Scintigraphy}-- Salivary gland function assessment using Tc-99m pertechnetate. Used for Sjogren syndrome, obstruction, radiation sialadenitis.
 
-\medterm{Krypton-81m (81mKr)}-- Ultra-short half-life (13 seconds) inert radioactive gas generated on-site from a Rubidium-81 generator; inhaled to perform real-time continuous pulmonary ventilation scintigraphy paired with perfusion imaging.
+\medterm{Lymphoscintigraphy}-- Lymphatic system imaging using Tc-99m nanocolloid injected near lesion. Used for sentinel lymph node biopsy (melanoma, breast cancer), lymphedema evaluation.
 
-\medterm{Lutetium-177 DOTATATE (177Lu-DOTATATE)}-- Targeted peptide receptor radionuclide therapy (PRRT) utilizing a beta-emitting radioisotope linked to a somatostatin analog; indicated for the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs).
+\medterm{Cardiac SPECT}-- Myocardial perfusion imaging using SPECT. Quantifies ischemia, infarction, viability. Stress-rest protocol. gated SPECT assesses ventricular function.
 
-\medterm{Lymphoscintigraphy}-- Nuclear medicine procedure mapping lymphatic drainage pathways following intradermal injection of $^{99m}\text{Tc-sulfur colloid}$ or $^{99m}\text{Tc-tilmanocept}$ around a primary malignancy (melanoma, breast cancer) to identify and guide surgical biopsy of the Sentinel Lymph Node.
+\medterm{Brain SPECT}-- Cerebral perfusion imaging using Tc-99m HMPAO or ECD. Used for epilepsy localization, dementia differentiation, cerebrovascular disease.
 
-\medterm{MAG3 Renal Scan}-- Dynamic renal scintigraphy using Technetium-99m mercaptoacetyltriglycine ($^{99m}\text{Tc-MAG3}$), excreted predominantly by renal tubular secretion; ideal radiotracer for evaluating urinary tract obstruction (hydronephrosis) and renal dysfunction in patients with impaired renal function.
+\medterm{Theranostic Pair}-- See theranostics.
 
-\medterm{Meckel Scintigraphy}-- Nuclear medicine scan following intravenous injection of Technetium-99m pertechnetate ($^{99m}\text{TcO}_4^-$), which selectively accumulates in ectopic gastric mucosa; gold standard diagnostic test for detecting Meckel's diverticulum presenting with lower gastrointestinal bleeding.
+\medterm{Radionuclide Therapy}-- Internal radiation therapy using radiopharmaceuticals. Examples: I-131 (thyroid), Lu-177 DOTATATE (neuroendocrine tumors), Lu-177 PSMA (prostate cancer), Ra-223 (bone metastases), Y-90 microspheres (liver cancer).
 
-\medterm{Myocardial Perfusion Imaging (MPI)}-- Diagnostic nuclear cardiology test used to evaluate myocardial blood flow at rest and during physiological or pharmacological stress (adenosine, regadenoson, dobutamine). Radiopharmaceuticals used: Technetium-99m sestamibi ($^{99m}\text{Tc-sestamibi}$), Technetium-99m tetrofosmin, or Thallium-201 ($^{201}\text{Tl}$). Images captured using SPECT camera allow detection of inducible ischemia (reversible perfusion defect: normal at rest, reduced during stress—indicating significant coronary artery disease) versus myocardial infarction (fixed perfusion defect: reduced at both rest and stress—indicating scar tissue).
+\medterm{Radiation Safety}-- Principles: time, distance, shielding. ALARA (As Low As Reasonably Achievable). Radioactive materials handled in designated areas. Waste disposal per regulations. Pregnancy screening for women of childbearing age.
 
-\medterm{Nuclear Medicine \& Molecular Imaging}-- Specialized branch of medical imaging and therapeutics that utilizes small amounts of radioactive substances (radiopharmaceuticals or radiotracers) to diagnose, stage, evaluate, and treat human diseases. Unlike anatomical imaging (plain X-ray, CT, MRI) which visualizes structure, nuclear medicine visualizes functional physiological processes at the cellular and molecular level (organ perfusion, cell metabolism, receptor density, bone turnover). Encompasses diagnostic modalities (SPECT, PET, planar scintigraphy) and targeted radionuclide therapy (Theranostics).
+\medterm{PET/CT}-- Combined PET and CT imaging. CT provides anatomical localization and attenuation correction. Essential for accurate interpretation. Low-dose CT for attenuation correction; diagnostic CT for detailed anatomy.
 
-\medterm{Parathyroid Scintigraphy}-- Subtractive or dual-phase SPECT/CT imaging utilizing Technetium-99m sestamibi ($^{99m}\text{Tc-sestamibi}$) which washes out rapidly from normal thyroid tissue but is retained in hyperfunctioning parathyroid adenomas or hyperplasia, guiding minimally invasive parathyroidectomy.
+\medterm{PET/MRI}-- Combined PET and MRI. Superior soft tissue contrast, no ionizing radiation from CT. Useful for neurology, oncology, cardiology. Longer scan time, higher cost.
 
-\medterm{PET-MRI}-- Hybrid diagnostic imaging modality combining the high metabolic sensitivity of Positron Emission Tomography (PET) with the superior soft-tissue contrast and non-ionizing anatomical imaging of Magnetic Resonance Imaging (MRI).
+\medterm{Standardized Uptake Value (SUV)}-- Quantitative PET measure: tissue activity divided by injected dose per body weight. Normalizes for body size, injection dose. SUVmax: maximum pixel value in lesion. SUVmean: average lesion uptake. Background: blood pool, liver.
 
-\medterm{Positron Decay}-- Mode of radioactive decay ($\\beta^+$ decay) occurring in proton-rich unstable nuclei, where a proton converts into a neutron, emitting a positron ($e^+$) and a neutrino ($\nu$).
+\medterm{Half-life (Physical)}-- Time for radioactive isotope to decay to half its original activity. F-18: 110 min; Tc-99m: 6 hours; I-131: 8 days; Ga-68: 68 min. Affects imaging timing, radiation dose.
 
-\medterm{Positron Emission Tomography (PET)}-- Advanced 3D tomographic molecular imaging technique based on the detection of annihilation photon pairs. When a positron-emitting radiotracer (e.g., Fluorine-18, Carbon-11, Gallium-68) decays, emitted positrons travel a short distance before colliding with an electron, resulting in an annihilation event that produces two $511\text{ keV}$ gamma ray photons traveling in opposite directions ($180^\circ$ apart). Detectors surrounding the patient register these simultaneous coincidence events to construct high-resolution functional images.
+\medterm{Radiopharmaceutical}-- Radioactive compound used for diagnostic or therapeutic purposes. Components: radionuclide + targeting molecule. Selectivity determines biodistribution and image quality.
 
-\medterm{Radioactive Iodine Therapy (131I)}-- Targeted radionuclide therapy utilizing Iodine-131 ($^{131}\text{I}$), a beta- and gamma-emitting isotope, to selectively destroy functioning thyroid tissue. Thyroid follicular cells actively trap circulating iodide via the sodium-iodide symporter (NIS). Emitted beta particles (mean range ~1--2 mm) deliver localized cytotoxic radiation while sparing adjacent neck structures. Clinical indications: definitive treatment of hyperthyroidism (Graves' disease, toxic multinodular goiter) and adjuvant ablation of residual normal thyroid tissue or metastatic disease following surgery for differentiated thyroid cancer (papillary and follicular carcinoma).
+\medterm{Auger Electrons}-- Low-energy electrons emitted during electron capture decay. Short range (nanometers), high linear energy transfer. Potential for targeted radiotherapy if localized near DNA.
 
-\medterm{Radioimmunoassay (RIA)}-- In vitro quantitative laboratory technique utilizing radiolabeled antigens ($^{125}\text{I}$) and specific antibodies to measure extremely low concentrations of hormones, drugs, and proteins in blood plasma.
+\medterm{Bremsstrahlung}-- Braking radiation produced when beta particles decelerate in matter. Continuous spectrum. Detected in I-131 imaging (poor quality). Used for Y-90 bremsstrahlung SPECT.
 
-\medterm{Radionuclide Bone Scan}-- Highly sensitive nuclear medicine imaging procedure used to evaluate bone turnover and osteoblastic activity throughout the skeleton. Radiopharmaceutical: Technetium-99m labeled diphosphonates ($^{99m}\text{Tc-MDP}$), which adsorb directly onto hydroxyapatite crystals in areas of active bone remodeling. Three-phase bone scan (flow phase, blood pool phase, delayed skeletal phase) differentiates osteomyelitis from cellulitis. Highly sensitive for detecting skeletal metastases (prostate, breast, lung cancer—appearing as multiple asymmetrical "hot spots"), stress fractures, occult trauma, and Paget disease of bone.
+\medterm{Coincidence Detection}-- Principle of PET imaging. Two 511 keV photons detected simultaneously (within nanoseconds) by opposing detectors. Line of response defined. Time-of-flight PET improves localization.
 
-\medterm{Radiopharmaceutical}-- Pharmaceutical drug compound containing one or more radioactive isotopes (radionuclides) suitable for human administration, used for medical diagnosis or targeted therapy. Composed of two parts: a targeting molecule (antibody, peptide, metabolic substrate, or ligand) that binds to specific cellular receptors or physiological pathways, linked to a radionuclide that emits detectable radiation (gamma or positron for imaging; beta or alpha for therapy). Common radionuclides: Technetium-99m ($^{99m}\text{Tc}$), Fluorine-18 ($^{18}\text{F}$), Iodine-131 ($^{131}\text{I}$), Gallium-68 ($^{68}\text{Ga}$), Lutetium-177 ($^{177}\text{Lu}$), and Yttrium-90 ($^{90}\text{Y}$).
+\medterm{Decay Correction}-- Mathematical adjustment for radioactive decay during imaging. Essential for quantitative comparison between studies.
 
-\medterm{Radium-223 Dichloride (223Ra)}-- Alpha-emitting targeted radiopharmaceutical that acts as a calcium mimetic, selectively targeting areas of high bone turnover; approved for improving overall survival in castration-resistant prostate cancer with symptomatic bone metastases.
+\medterm{Energy Window}-- Range of photon energies accepted by gamma camera. Typically 20% centered on photopeak. Reduces scatter, improves image quality.
 
-\medterm{Samarium-153 Lexidronam (153Sm)}-- Beta-emitting radiopharmaceutical complexed with tetramethylene phosphonate, concentrating in osteoblastic bone lesions; used for palliative pain relief in widespread painful skeletal metastases.
+\medterm{Image Reconstruction}-- Mathematical process converting projection data to cross-sectional images. Iterative methods (OSEM) superior to filtered back projection. Corrects for attenuation, scatter, resolution.
 
-\medterm{Schilling Test}-- Historical classic radioisotope absorption test utilizing Cobalt-57 labeled Vitamin B12 ($^{57}\text{Co-B12}$) to elucidate the underlying etiology of megaloblastic anemia (differentiating intrinsic factor deficiency / pernicious anemia from ileal malabsorption).
+\medterm{Isotope}-- See radionuclide.
 
-\medterm{Secular Equilibrium}-- Radioactive equilibrium established in a parent-daughter isotope pair when the physical half-life of the parent radionuclide is extremely long compared to that of the daughter (e.g., Radium-226 decaying to Radon-222).
+\medterm{Mammography}-- See radiology.
 
-\medterm{Single-Photon Emission Computed Tomography (SPECT)}-- 3D tomographic nuclear imaging technique where one or more gamma cameras rotate around the patient, acquiring multiple 2D projection images from different angles that are computer-reconstructed into cross-sectional axial, coronal, and sagittal slices. Utilizes single-photon gamma-emitting radiotracers (primarily Technetium-99m, Iodine-123, Indium-111). Frequently combined with CT (hybrid SPECT/CT) for precise anatomical registration. Used extensively in myocardial perfusion imaging, bone scans, brain SPECT (DaTscan for Parkinsonism), and neuroendocrine tumor localization.
+\medterm{Nanocolloid}-- Tc-99m labeled colloidal particles for lymphatic imaging. Particle size 10-100 nm. Used for sentinel node detection.
 
-\medterm{Standardized Uptake Value (SUV)}-- Semi-quantitative measurement of radiotracer concentration in a region of interest normalized to injected dose and patient body weight, calculated during PET imaging to differentiate malignant (high SUV) from benign lesions.
+\medterm{Positron}-- Anti-particle of electron. Emitted by PET radionuclides. Annihilation with electron produces two 511 keV photons.
 
-\medterm{Strontium-89 Chloride (89Sr)}-- Beta-emitting radioisotope and calcium analog that deposits in active osteoblastic bone lesions; utilized for long-term palliative relief of bone pain caused by osseous metastases.
+\medterm{Quantification}-- Measurement of radiotracer uptake or clearance. SUV (PET), clearance rates (renal), ejection fraction (cardiac). Essential for treatment monitoring.
 
-\medterm{Technetium-99m (99mTc)}-- The most widely used diagnostic radionuclide in modern nuclear medicine, accounting for over 80\% of all nuclear imaging procedures globally. Ideal physical properties: emits pure $140\text{ keV}$ gamma rays (optimal energy for gamma camera detection with minimal radiation dose to patient), has a convenient physical half-life of 6.0 hours (short enough to minimize radiation exposure, long enough for complex imaging protocols), and decays by isomeric transition to Technetium-99 without emitting particulate (beta/alpha) radiation. Produced on-site in hospital radiopharmacies using a Molybdenum-99 / Technetium-99m generator ("moly cow").
+\medterm{Resolution}-- Ability to distinguish small details. PET: 4-6 mm; SPECT: 8-12 mm; CT: sub-mm. Limited by physics (positron range, non-collinearity).
 
-\medterm{Technetium-99m HMPAO}-- Lipophilic radiopharmaceutical ($^{99m}\text{Tc-hexamethylpropyleneamine oxime}$) that crosses the blood-brain barrier and becomes intracellularly trapped in brain tissue in proportion to regional cerebral blood flow; utilized in SPECT brain imaging to confirm Brain Death.
+\medterm{Sensitivity}-- Ability to detect small amounts of tracer. PET more sensitive than SPECT. Affected by detector efficiency, acquisition time.
 
-\medterm{Technetium-99m MAA}-- Technetium-99m labeled Macroaggregated Albumin ($^{99m}\text{Tc-MAA}$), consisting of radiolabeled albumin particles ($20--90~\mu\text{m}$) that temporary lodge in pulmonary capillaries; used for pulmonary perfusion imaging and pre-transarterial radioembolization (TARE) planning.
+\medterm{Specific Activity}-- Radioactivity per unit mass of compound. High specific activity essential for receptor targeting (low receptor density).
 
-\medterm{Technetium-99m Sestamibi}-- Lipophilic cationic radiopharmaceutical ($^{99m}\text{Tc-sestamibi}$) that passively diffuses into cells and concentrates in mitochondrial membranes; used extensively in myocardial perfusion imaging, parathyroid imaging, and breast imaging.
+\medterm{Tracer Principle}-- Administered in amounts too small to produce pharmacological effect. Dose optimized for imaging, not therapeutic.
 
-\medterm{Thallium-201 (201Tl)}-- Cyclotron-produced potassium analog radionuclide emitting low-energy X-rays; historically used for myocardial perfusion imaging and differentiating cerebral lymphoma from toxoplasmosis in immunocompromised patients.
+\medterm{Uptake}-- Cellular accumulation of radiotracer. Depends on blood flow, membrane transport, metabolism, binding.
 
-\medterm{Theranostics}-- Emerging paradigm in nuclear medicine and oncology that combines targeted diagnostic imaging and targeted radionuclide therapy using the same molecular vector or paired radiotracers. A diagnostic radiotracer (e.g., Gallium-68 PSMA for prostate cancer, or $^{68}\text{Ga-DOTATATE}$ for neuroendocrine tumors) is first used with PET-CT to visualize, localize, and quantify target receptor expression on tumor cells. If positive, the same targeting vector is labeled with a therapeutic beta- or alpha-emitting radionuclide (e.g., Lutetium-177 PSMA, or $^{177}\text{Lu-DOTATATE}$) to deliver destructive ionizing radiation selectively to tumor sites while sparing healthy tissue.
+\medterm{Whole-Body Scan}-- Acquisition of images covering entire body. Used for oncology staging, infection localization. PET/CT typically neck-to-mid-thigh or full body.
 
-\medterm{Thyroid Scintigraphy (123I / 99mTc)}-- Diagnostic nuclear imaging procedure evaluating the anatomical structure and functional activity of the thyroid gland. Radiotracers: Iodine-123 ($^{123}\text{I}$) or Technetium-99m pertechnetate ($^{99m}\text{TcO}_4^-$). Clinical indications: differential diagnosis of hyperthyroidism—diffuse homogeneous increased uptake (Graves' disease), toxic nodular goiter (multiple hot nodules), toxic adenoma (single hyperfunctioning "hot" nodule suppressing rest of gland), or subacute thyroiditis (suppressed, absent uptake); and evaluation of thyroid nodules ("cold" non-functioning nodules carry a ~15--20\% risk of malignancy and require fine-needle aspiration).
+\medterm{X-ray Attenuation}-- See CT.
 
-\medterm{Transient Equilibrium}-- Radioactive equilibrium condition occurring when the physical half-life of the parent radionuclide is slightly longer than that of the daughter radionuclide, as seen in Molybdenum-99 ($T_{1/2}=66\text{ h}$) decaying to Technetium-99m ($T_{1/2}=6\text{ h}$).
+\medterm{Fluorine-18}-- PET radionuclide, half-life 110 minutes. Produced in cyclotron via O-18(p,n)F-18 reaction. Used in FDG and other tracers. Requires on-site or nearby cyclotron due to short half-life.
 
-\medterm{Ventilation-Perfusion Scan (V/Q Scan)}-- Nuclear medicine study evaluating pulmonary ventilation and blood perfusion to diagnose pulmonary embolism (PE), particularly in patients with contraindications to CT Pulmonary Angiography (e.g., severe contrast allergy, renal failure, pregnancy). Ventilation phase: inhalation of Radioactive Xenon-133 gas or $^{99m}\text{Tc}$-Technegas aerosol. Perfusion phase: intravenous injection of Technetium-99m macroaggregated albumin ($^{99m}\text{Tc-MAA}$), which microembolizes in pulmonary capillaries. Classic PE finding: one or more segmental "mismatched" defects (normal ventilation with absent perfusion).
+\medterm{Gallium-68}-- PET radionuclide, half-life 68 minutes. Produced from Ge-68/Ga-68 generator. Used in DOTATATE, PSMA, and other theranostic applications.
 
-\medterm{Xenon-133 (133Xe)}-- Inhaled radioactive inert gas emitting $81\text{ keV}$ gamma rays; used in planar nuclear ventilation imaging to evaluate regional pulmonary airflow and trapped gas in chronic obstructive pulmonary disease.
+\medterm{Indium-111}-- SPECT radionuclide, half-life 2.8 days. Used in WBC labeling, octreotide scanning. Emits gamma rays at 171 and 245 keV.
 
-\medterm{Yttrium-90 Microspheres (90Y)}-- Radioembolization selective internal radiation therapy (SIRT) utilizing glass or resin microspheres loaded with Yttrium-90 ($^{90}\text{Y}$), delivered via hepatic artery catheterization to treat primary hepatocellular carcinoma or unresectable liver metastases.
+\medterm{Iodine-123}-- Pure gamma emitter, half-life 13 hours. Used for thyroid imaging. No beta emission, lower radiation dose than I-131.
+
+\medterm{Iodine-131}-- See radioactive iodine.
+
+\medterm{Molybdenum-99}-- Parent isotope of Tc-99m, half-life 66 hours. Produced in nuclear reactors. Generator systems provide Tc-99m for 1 week.
+
+\medterm{Thallium-201}-- SPECT radionuclide, half-life 73 hours. Used for myocardial perfusion imaging. Mechanism: K+ analog, taken up by Na+/K+ ATPase.
+
+\medterm{Yttrium-90}-- Beta emitter, half-life 64 hours. Used in radioembolization (Y-90 microspheres) for liver cancer. Bremsstrahlung imaging possible.
+
+\medterm{Lutetium-177}-- Beta and gamma emitter, half-life 6.7 days. Used in peptide receptor radionuclide therapy (PRRT) and PSMA therapy. Both therapeutic and imaging capabilities.
+
+\medterm{Radium-223}-- Alpha emitter, half-life 11.4 days. Used for bone metastases from prostate cancer. Mimics calcium, targets bone turnover sites.
+
+\medterm{Cobalt-57}-- Calibration source for gamma cameras. Half-life 271 days. Used for quality control.
+
+\medterm{Barium-133}-- Calibration source. Half-life 10.5 years. Used for energy calibration.
+
+\medterm{Selenium-75}-- Calibration source. Half-life 119 days. Used for uniformity correction.
+
+\medterm{Phantom}-- Device simulating human anatomy for quality control and calibration. Types: line source, uniform, Jaszczak, NEMA IU body phantom.
+
+\medterm{Gamma Camera}-- Imaging device using NaI(Tl) scintillation crystal, photomultiplier tubes, collimator. Detects gamma rays from radiopharmaceuticals. Anger camera principle.
+
+\medterm{Collimator}-- Lead device with holes to define gamma ray direction. Types: parallel-hole, pinhole, converging, diverging. Resolution vs. sensitivity trade-off.
+
+\medterm{Scintillation Crystal}-- Sodium iodide doped with thallium (NaI:Tl) crystal converts gamma rays to light photons. Coupled to photomultiplier tubes.
+
+\medterm{Photomultiplier Tube}-- Converts light photons to electrical signals. Array of PMTs positioned behind crystal. Positioning circuit determines interaction location.
+
+\medterm{PET Scanner}-- Ring of detectors capturing coincidence events. BGO, LSO, or LYSO crystals. Time-of-flight PET improves signal-to-noise.
+
+\medterm{Cycle Time}-- Time for complete image acquisition. PET: minutes. SPECT: 20-30 minutes.
+
+\medterm{Field of View}-- Area imaged simultaneously. PET: larger FOV than SPECT.
+
+\medterm{Spectral Analysis}-- Energy discrimination to reject scatter. Energy window typically 20% centered on photopeak.
+
+\medterm{Dead Time}-- Period after each event during which system cannot process another event. Limits count rate. Corrected electronically.
+
+\medterm{Random Events}-- Coincidence events from unrelated photons. Reduced by timing window and energy discrimination.
+
+\medterm{Scatter Events}-- Photons deflected from original path. Corrected by energy windowing and scatter correction algorithms.
+
+\medterm{Attenuation Correction}-- Compensation for photon absorption in tissue. CT-based (PET/CT), transmission source (SPECT), or MR-based (PET/MRI).
+
+\medterm{Normalization}-- Correction for detector efficiency variations. Performed daily with uniform source.
+
+\medterm{Quality Control}-- Daily, weekly, monthly tests ensure system performance. Uniformity, energy, sensitivity, spatial resolution, count rate performance.
+
+\medterm{American College of Nuclear Medicine}-- Professional organization setting standards for nuclear medicine practice.
+
+\medterm{SNMMI}-- Society of Nuclear Medicine and Molecular Imaging. Professional society for nuclear medicine physicians and technologists.
+
+\medterm{IAEA}-- International Atomic Energy Agency. Sets safety standards for radiation use in medicine.
+
+\medterm{NCRP}-- National Council on Radiation Protection and Measurements. US organization providing radiation protection guidance.
+
+\medterm{IRMM}-- International Radiation Protection Association. Global organization for radiation protection.
+
+\medterm{Occupational Exposure}-- Radiation exposure to nuclear medicine staff. Monitored with dosimeters. Limits: 50 mSv/year whole body, 150 mSv/year lens, 500 mSv/year extremities.
+
+\medterm{Public Exposure}-- Radiation exposure to public from nuclear medicine patients. Guidelines for discharge after therapy. I-131 therapy: radiation safety instructions for 3-7 days.
+
+\medterm{Radiation Dose}-- Effective dose from diagnostic procedures. PET/CT: 15-25 mSv. Bone scan: 3-5 mSv. Myocardial perfusion: 8-15 mSv. Justification: benefit should exceed risk.
+
+\medterm{Pediatric Nuclear Medicine}-- Special considerations for children: lower doses, sedation often needed, distraction techniques. Dose reduction: weight-based activity, optimized protocols.
+
+\medterm{Pregnancy}-- Nuclear medicine generally contraindicated during pregnancy. Breastfeeding: interruption period depends on radiopharmaceutical. I-131: permanent cessation. Tc-99m: 24 hours.
+
+\medterm{Radiopharmacy}-- Preparation and dispensing of radiopharmaceuticals. Good manufacturing practice (GMP) required. Sterility, pyrogen testing, quality control.
+
+\medterm{Generator}-- System for producing short-lived radionuclide from longer-lived parent. Tc-99m from Mo-99. Elution with saline. Quality control: Mo-99 breakthrough, Al-3+ breakthrough, sterility.
+
+\medterm{Kit}-- Lyophilized kit for Tc-99m labeling. Add Tc-99m pertechnetate, wait for labeling. Examples: MDP, sestamibi, HMPAO.
+
+\medterm{Synthesis Module}-- Automated system for radiopharmaceutical preparation. PET tracer synthesis: FDG, Florbetapir. Quality control: radiochemical purity, pH, sterility.
+
+\medterm{HPLC}-- High-performance liquid chromatography for radiochemical purity analysis.
+
+\medterm{TLC}-- Thin-layer chromatography for radiochemical purity.
+
+\medterm{Radiochemistry}-- Chemistry of radiopharmaceuticals. Labeling, purification, quality control.
+
+\medterm{Radiobiology}-- Study of radiation effects on biological systems. DNA damage, cell death, repair mechanisms.
+
+\medterm{Radiation Biology}-- See radiobiology.
+
+\medterm{Stochastic Effects}-- Random radiation effects with no threshold. Cancer, genetic effects. Probability increases with dose.
+
+\medterm{Deterministic Effects}-- Radiation effects with threshold dose. Cataracts, skin erythema, bone marrow suppression. Severity increases with dose.
+
+\medterm{LD50}-- Lethal dose for 50% of population. For humans: ~4 Gy whole body without treatment.
+
+\medterm{Relative Biological Effectiveness (RBE)}-- Ratio of dose of reference radiation to dose of test radiation for same effect. Alpha particles: RBE 10-20.
+
+\medterm{Linear Energy Transfer (LET)}-- Energy deposited per unit path length. High LET (alpha, neutrons) more biologically effective.
+
+\medterm{Oxygen Enhancement Ratio}-- Ratio of dose under hypoxic vs. aerobic conditions. Higher for low LET radiation.
+
+\medterm{Therapeutic Index}-- Ratio of toxic dose to therapeutic dose. Wider index = safer drug.
+
+\medterm{Specific Absorbed Fraction}-- Fraction of emitted energy absorbed in target organ.
+
+\medterm{MIRD Schema}-- Medical Internal Radiation Dose. Method for calculating radiation absorbed doses.
+
+\medterm{OLINDA}-- Organ Level Internal Dose Assessment. Software for MIRD calculations.
+
+\medterm{Dosimetry}-- Measurement and calculation of radiation dose. Patient dosimetry for therapy.
+
+\medterm{Compton Scattering}-- Photon interaction with loosely bound electron. Major interaction in diagnostic energy range.
+
+\medterm{Photoelectric Effect}-- Photon absorption by inner shell electron. Major interaction at low energies, high Z materials.
+
+\medterm{Pair Production}-- Photon interaction producing electron-positron pair. Requires energy >1.022 MeV.
+
+\medterm{Annihilation}-- Positron-electron annihilation producing two 511 keV photons in opposite directions.
+
+\medterm{Scintillation}-- Light emission from crystal when irradiated. NaI(Tl) scintillation decay time: 230 ns.
+
+\medterm{Photopeak}-- Full-energy peak in gamma spectrum. Used for energy window setting.
+
+\medterm{Energy Resolution}-- Ability to distinguish different gamma energies. FWHM of photopeak. NaI(Tl): ~10% at 140 keV.
+
+\medterm{Spatial Resolution}-- Ability to distinguish small objects. PET: 4-6 mm. SPECT: 8-12 mm.
+
+\medterm{Sensitivity}-- See sensitivity above.
+
+\medterm{Count Rate}-- Number of detected events per second. Dead time losses at high count rates.
+
+\medterm{Signal-to-Noise Ratio}-- Ratio of true counts to statistical noise. Improved by longer acquisition, higher activity.
+
+\medterm{Image Processing}-- Post-acquisition manipulation: filtering, reconstruction, correction.
+
+\medterm{Filtered Back Projection}-- Traditional image reconstruction method. Fast but noisy.
+
+\medterm{Iterative Reconstruction}-- Modern reconstruction method. OSEM (Ordered Subsets Expectation Maximization). Better quality, longer computation.
+
+\medterm{Attenuation Correction}-- See attenuation correction.
+
+\medterm{Scatter Correction}-- Correction for scattered photons. Dual energy window method.
+
+\medterm{Resolution Recovery}-- Correction for detector resolution degradation with distance.
+
+\medterm{Motion Correction}-- Correction for patient motion during acquisition. Respiratory gating, navigation.
+
+\medterm{Quantitative PET}-- Measurement of absolute tracer concentration. SUV, kinetic modeling.
+
+\medterm{Kinetic Modeling}-- Mathematical description of tracer behavior. Compartmental models, graphical analysis.
+
+\medterm{Patlak Plot}-- Linear graphical method for quantitative PET.
+
+\medterm{SUV}-- See standardized uptake value.
+
+\medterm{Metabolic Tumor Volume}-- Total volume of metabolically active tumor on PET. Prognostic in lymphoma.
+
+\medterm{Total Lesion Glycolysis}-- Product of metabolic tumor volume and mean SUV. Prognostic marker.
+
+\medterm{Response Evaluation Criteria}-- RECIST criteria for tumor response. PERCIST for PET.
+
+\medterm{Deauville Criteria}-- 5-point scale for PET response in lymphoma.
+
+\medterm{Lugano Classification}-- Staging and response assessment for lymphoma.
+
+\medterm{PSMA}-- Prostate-specific membrane antigen. Target for PET imaging and therapy in prostate cancer.
+
+\medterm{DOTATATE}-- Somatostatin analog labeled with Ga-68 for PET imaging of neuroendocrine tumors.
+
+\medterm{Amyloid PET}-- Tracers: Florbetapir, Flutemetamol, Florbetaben. Detect amyloid plaques in Alzheimer disease.
+
+\medterm{Tau PET}-- Tracers: Flortaucipir, MK-6240. Detect tau tangles in neurodegenerative diseases.
+
+\medterm{Perfusion PET}-- Tracers: Rb-82, N-13 ammonia, O-15 water. Measure blood flow.
+
+\medterm{Myocardial Viability}-- PET assessment of hibernating myocardium. FDG uptake indicates viable myocardium.
+
+\medterm{Infection Imaging}-- WBC scanning, gallium scanning, FDG PET. Detection of occult infection.
+
+\medterm{Inflammation Imaging}-- FDG PET sensitive for inflammatory processes. Differentiate infection from malignancy challenging.
+
+\medterm{Oncology PET}-- FDG PET/CT standard for many cancers. Staging, response assessment, restaging.
+
+\medterm{Neurology PET}-- Dementia evaluation, epilepsy localization, Parkinson plus syndromes.
+
+\medterm{Cardiac PET}-- Viability, perfusion, amyloidosis. Quantitative perfusion measurement.
+
+\medterm{Therapy Monitoring}-- PET for early response assessment. Chang criteria in lymphoma.
+
+\medterm{Research Applications}-- Novel tracers, pharmacokinetics, receptor imaging, enzyme imaging.
+
+\medterm{Clinical Trials}-- Phase I-IV trials for new radiopharmaceuticals. Safety, efficacy, dosimetry.
+
+\medterm{Regulatory Approval}-- FDA approval process for radiopharmaceuticals. IND, NDA applications.
+
+\medterm{Compounding}-- Preparation of radiopharmaceuticals for individual patients. USP <797> standards.
+
+\medterm{Waste Management}-- Decay-in-storage for short-lived isotopes. Disposal per regulations.
+
+\medterm{Shielding}-- Lead, tungsten, acrylic shielding for radiation protection.
+
+\medterm{Transport}-- Regulations for shipping radioactive materials. Package types: excepted, A, B.
+
+\medterm{Emergency Procedures}-- Spill response, contamination control, radiation exposure.
+
+\medterm{Documentation}-- Record keeping for radioactive materials. Inventory, disposal, patient release.
+
+\medterm{Accreditation}-- ACR, SNMMI accreditation for nuclear medicine facilities.
+
+\medterm{Board Certification}-- American Board of Nuclear Medicine certification.
+
+\medterm{Continuing Education}-- Mandatory CME for board certification maintenance.
+
+\medterm{Multidisciplinary Team}-- Nuclear medicine involves physicians, technologists, physicists, pharmacists, nurses.
+
+\medterm{Patient Preparation}-- Fasting for FDG PET, hydration, bladder emptying. Medication review.
+
+\medterm{Patient Positioning}-- Supine, arms raised for PET. Comfort and reproducibility important.
+
+\medterm{Acquisition Time}-- Typical PET acquisition: 2-3 minutes per bed position. Total: 20-30 minutes.
+
+\medterm{Image Display}-- Transaxial, coronal, sagittal, MIP, fused images. Windowing for optimal visualization.
+
+\medterm{Reporting}-- Structured reporting with standardized terminology. BI-RADS, LI-RADS, PI-RADS equivalents for PET.
+
+\medterm{Critical Findings}-- Unexpected significant findings require immediate notification. Incidentalomas.
+
+\medterm{Follow-up Recommendations}-- Based on guidelines. Fleischner Society for lung nodules, RECIST for response.
