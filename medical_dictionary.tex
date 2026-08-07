@@ -39,9 +39,13 @@
 \sectionfont{\Large\bfseries\color{blue!70!black}}
 \subsectionfont{\normalsize\bfseries\color{blue!50!black}}
 
-\newcommand{\medterm}[1]{\noindent\textbf{\Large \textcolor{red!70!black}{#1}}\index{#1}\newline}
+\newcommand{\medterm}[1]{{\raggedright\noindent\textbf{\Large\textcolor{red!70!black}{#1}}\index{#1}\par}\nobreak\vspace{1pt}\noindent\ignorespaces}
 \newcommand{\pronun}[1]{}
 \newcommand{\abbrev}[1]{\textsc{#1}}
+
+\raggedbottom
+\sloppy
+\setlength{\emergencystretch}{3em}
 
 \setlength{\columnsep}{0.3in}
 \setlength{\parindent}{0pt}
