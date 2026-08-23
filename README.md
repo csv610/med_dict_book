@@ -34,9 +34,9 @@ A comprehensive medical dictionary organised by 43 medical specialties, not alph
 ## Build
 
 ```bash
-pdflatex medical_dictionary.tex
-makeindex medical_dictionary.idx
-pdflatex medical_dictionary.tex
+pdflatex med_dictionary.tex
+makeindex med_dictionary.idx
+pdflatex med_dictionary.tex
 ```
 
 ## Author
