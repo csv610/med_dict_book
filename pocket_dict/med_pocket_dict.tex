@@ -1,0 +1,147 @@
+\documentclass[11pt,twocolumn,twoside]{book}
+
+\usepackage[margin=0.75in,top=1in,bottom=1in,headheight=14pt]{geometry}
+\usepackage{titlesec}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{microtype}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage{sectsty}
+\usepackage{parskip}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\makeindex
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\textit{\leftmark}}
+\fancyhead[RO]{\textit{\leftmark}}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!60!black,
+    urlcolor=blue!60!black,
+    citecolor=blue!60!black,
+}
+
+\chapterfont{\centering\LARGE\bfseries\color{blue!70!black}}
+\sectionfont{\Large\bfseries\color{blue!70!black}}
+\subsectionfont{\normalsize\bfseries\color{blue!50!black}}
+
+\newcommand{\medterm}[1]{\hypertarget{#1}{}{\raggedright\noindent\textbf{\large\textcolor{red!70!black}{#1}}\index{#1}\par}\nobreak\vspace{1pt}\noindent\ignorespaces}
+\newcommand{\pronun}[1]{}
+\newcommand{\abbrev}[1]{\textsc{#1}}
+\newcommand{\1}{\ifmmode\mathbin{\%}\else\%\fi}
+
+\raggedbottom
+\sloppy
+\setlength{\emergencystretch}{3em}
+
+\setlength{\columnsep}{0.3in}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+
+\title{\textbf{\Huge Medical Dictionary by Specialty}\\[0.5em]
+\Large A Comprehensive Reference of Medical Terminology}
+\author{Chaman Singh Verma}
+\date{\today}
+
+\begin{document}
+
+\onecolumn
+\frontmatter
+\maketitle
+\thispagestyle{fancy}
+
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+
+\noindent Medical dictionaries have traditionally been organised alphabetically, an arrangement well suited for looking up an unfamiliar term when you already know its name. But medicine is not learned alphabetically, nor is it practised that way. A cardiologist thinking through a differential diagnosis reaches for cardiac terms, not a mixture of cardiology wedged between caesarean section and cataract.
+
+\medskip
+
+\noindent This dictionary is organised by medical specialty for precisely that reason. Each of the 43 chapters corresponds to a recognised clinical or preclinical discipline, with terms listed alphabetically within that chapter. The result is a reference that mirrors the structure of medical knowledge itself: renal terms in Nephrology, antiarrhythmics in Cardiology, autoimmune diseases in Rheumatology. Cross-references redirect the reader from variant names and alternative spellings to the main entry, so ``Pertussis'' still leads to ``Whooping Cough'' and ``Hepatolenticular Degeneration'' points to ``Wilson Disease.''
+
+\medskip
+
+\noindent The entries are drawn primarily from Black's Medical Dictionary (42nd Edition) and supplemented with definitions reflecting contemporary clinical practice. Each entry is written in a concise single-line format, with the term displayed in bold red and automatically indexed. The dictionary runs to over 5,500 entries across 960 pages, covering anatomy, physiology, pathology, pharmacology, clinical medicine, surgery, and the allied health sciences.
+
+\medskip
+
+\noindent This work is a living document. The LaTeX source is designed to be easily extended, corrected, and reorganised. Contributions, corrections, and suggestions are welcome.
+
+\medskip
+
+\noindent\textit{Chaman Singh Verma}
+
+
+\chapter*{Medical Disclaimer}
+\addcontentsline{toc}{chapter}{Medical Disclaimer}
+
+\noindent \textbf{Educational and Reference Purpose Only}: This publication, \textit{Medical Dictionary by Specialty}, is prepared and compiled strictly for educational, academic, historical, and reference purposes. It is intended for medical students, healthcare professionals, educators, and researchers.
+
+\medskip
+
+\noindent \textbf{No Medical Advice}: The information contained herein does not constitute professional medical advice, clinical diagnosis, treatment protocols, or formal therapeutic recommendations. It should not be used as a substitute for the professional judgment of qualified physicians, surgeons, or certified healthcare providers.
+
+\medskip
+
+\noindent \textbf{Clinical Practice Guidelines}: Healthcare practitioners must always consult primary evidence-based medical literature, institutional protocols, manufacturer prescribing information, and national clinical guidelines (such as WHO, CDC, NICE, or national medical councils) when making diagnostic or therapeutic decisions for individual patients.
+
+\medskip
+
+\noindent \textbf{Limitation of Liability}: Neither the author nor the publishers accept any legal responsibility or liability for any errors, omissions, or clinical outcomes resulting from the use or application of any information presented in this work.
+
+\newpage
+\tableofcontents
+\twocolumn
+\mainmatter
+\setcounter{tocdepth}{0}
+
+
+
+
+\input{chapters/med_terms_a}
+\input{chapters/med_terms_b}
+\input{chapters/med_terms_c}
+\input{chapters/med_terms_d}
+\input{chapters/med_terms_e}
+\input{chapters/med_terms_f}
+\input{chapters/med_terms_g}
+\input{chapters/med_terms_h}
+\input{chapters/med_terms_i}
+\input{chapters/med_terms_j}
+\input{chapters/med_terms_k}
+\input{chapters/med_terms_l}
+\input{chapters/med_terms_m}
+\input{chapters/med_terms_n}
+\input{chapters/med_terms_o}
+\input{chapters/med_terms_p}
+\input{chapters/med_terms_q}
+\input{chapters/med_terms_r}
+\input{chapters/med_terms_s}
+\input{chapters/med_terms_t}
+\input{chapters/med_terms_u}
+\input{chapters/med_terms_v}
+\input{chapters/med_terms_w}
+\input{chapters/med_terms_x}
+\input{chapters/med_terms_y}
+\input{chapters/med_terms_z}
+
+\phantomsection
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+\end{document}
