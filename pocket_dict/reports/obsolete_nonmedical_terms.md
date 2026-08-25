@@ -1,6 +1,6 @@
 # Obsolete and Non-Medical Term Audit
 
-Generated from the current chapter files using the clinical-current standard. Placeholder definitions and clearly non-medical entries identified during review were removed; retained historical terms include current terminology or an explicit historical context.
+Generated from the current chapter files using the clinical-current standard. This is a report-only audit; no dictionary entries were removed or rewritten.
 
 ## Summary
 
@@ -89,6 +89,7 @@ Generated from the current chapter files using the clinical-current standard. Pl
 ## Audit limitations
 
 This report flags high-confidence cases only. Broad terms such as family, occupation, religion, food, and government can be medically relevant in public health, social medicine, epidemiology, or healthcare administration; they are not automatically classified as non-medical. A subject-matter review is recommended before deleting any term.
+
 
 
 
