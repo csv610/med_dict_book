@@ -3,7 +3,6 @@
 \usepackage[margin=0.75in,top=1in,bottom=1in,headheight=14pt]{geometry}
 \usepackage{titlesec}
 \usepackage{amsmath}
-\usepackage{multicol}
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{fancyhdr}
@@ -23,8 +22,6 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\textit{\leftmark}}
-\fancyhead[RO]{\textit{\leftmark}}
 \fancyfoot[LE,RO]{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
@@ -37,16 +34,22 @@
 }
 
 \chapterfont{\centering\LARGE\bfseries\color{blue!70!black}}
+\titleformat{\chapter}[display]
+  {\centering\LARGE\bfseries\color{blue!70!black}}
+  {}{0pt}{}
 \sectionfont{\Large\bfseries\color{blue!70!black}}
 \subsectionfont{\normalsize\bfseries\color{blue!50!black}}
 
-\newcommand{\medterm}[1]{\hypertarget{#1}{}{\raggedright\noindent\textbf{\large\textcolor{red!70!black}{#1}}\index{#1}\par}\nobreak\vspace{1pt}\noindent\ignorespaces}
+\newcommand{\medterm}[1]{\addvspace{\baselineskip}\hypertarget{#1}{}{\raggedright\noindent\textbf{\large\textcolor{red!70!black}{#1}}\index{#1}\par}\nobreak\noindent\ignorespaces}
 \newcommand{\pronun}[1]{}
 \newcommand{\abbrev}[1]{\textsc{#1}}
 \newcommand{\1}{\ifmmode\mathbin{\%}\else\%\fi}
 
 \raggedbottom
 \sloppy
+% The dictionary's short, narrow-column entries naturally produce many
+% harmless short final lines. Do not report these as underfull-box warnings.
+\hbadness=10000
 \setlength{\emergencystretch}{3em}
 
 \setlength{\columnsep}{0.3in}
@@ -164,6 +167,13 @@
 \input{chapters/med_terms_y}
 \chapter{Z}
 \input{chapters/med_terms_z}
+
+\clearpage
+\onecolumn
+\chapter*{Bibliography and Sources}
+\addcontentsline{toc}{chapter}{Bibliography and Sources}
+\input{chapters/bibliography}
+\twocolumn
 
 \phantomsection
 \addcontentsline{toc}{section}{Index}
