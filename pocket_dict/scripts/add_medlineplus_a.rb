@@ -41,17 +41,17 @@ def definition(term)
   }
   return specific[term.strip] if specific.key?(term.strip)
   if lower =~ /overdose|poisoning|toxic/
-    "#{term} involves toxic exposure to the substance named in the title; the clinical response depends on dose, route, timing, symptoms, and whether an antidote is available."
+    "#{term} involves toxic exposure to #{lower}; dose, route, timing, symptoms, and antidote availability guide the clinical response."
   elsif lower =~ /blood test|test$|testing|assay|titer|panel|mri|ct scan|ultrasound|x-ray|radiation|angiography|arteriogram|manometry|anoscopy|audiometry|biopsy|electro|screening/
-    "#{term} evaluates the body site, analyte, antibody, or physiologic function named in the title; results are interpreted with the method, reference range, and clinical question."
+    "#{term} evaluates #{lower}; interpretation uses the method, specimen or body region, reference range, and clinical question."
   elsif lower =~ /repair|removal|surgery|reconstruction|replacement|delivery|appendectomy|arthroscopy|procedure|resection|transplant/
-    "#{term} describes treatment or perioperative care for the structure or condition named in the title, including indications, preparation, complications, and recovery considerations."
+    "#{term} treats or supports #{lower}; indication, preparation, complications, and recovery depend on the procedure and patient."
   elsif lower =~ /discharge|aftercare|self-care|what to ask|resources|guide|in the hospital|homecare|preparation|safe drinking|pain relief/
-    "#{term} is a patient-care topic focused on the condition or situation named in the title, including practical management, warning signs, follow-up, and clinician questions."
+    "#{term} addresses care for #{lower}, including practical management, warning signs, follow-up, and questions for a clinician."
   elsif lower =~ /pain|swollen|bloating|lump|bleeding|sweating|absence|spots|changes|development|labor|exercise|appetite|anxiety|agitation|hearing loss|dark or light skin/
-    "#{term} describes the symptom, sign, or physiologic change named in the title; evaluation considers its onset, severity, associated findings, causes, and need for medical care."
+    "#{term} is the presentation described by #{lower}; onset, severity, associated findings, causes, and need for care guide assessment."
   else
-    "#{term} concerns the condition, exposure, finding, or health-care subject named in the title; clinical evaluation identifies its defining features, causes, severity, and management."
+    "#{term} concerns #{lower}; defining findings, causes, severity, and management depend on the affected system and patient."
   end
 end
 

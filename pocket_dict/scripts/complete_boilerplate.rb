@@ -44,6 +44,17 @@ def family_for(description)
   return :medicine if description =~ /is a pharmacologic or chemical agent identified for study or clinical use; its mechanism, indication, dose, interactions, and adverse effects must be determined for the specific agent\.$/
   return :biology if description =~ /denotes a biological component or molecular process; its role is interpreted through the relevant cells, pathways, tissues, and laboratory findings\.$/
   return :anatomy if description =~ /denotes an anatomical structure or tissue; its clinical importance depends on its location, connections, blood supply, innervation, and function\.$/
+  return :organism if description =~ /is a biological taxon or infectious-disease term used in clinical microbiology; interpretation depends on the organism, host, and site involved\.$/
+  return :condition if description =~ /denotes a clinical condition or finding; evaluation identifies the underlying mechanism, affected system, severity, complications, and appropriate management\.$/
+  return :organism if description =~ /is a microorganism or microbial group; clinical relevance depends on pathogenicity, exposure, site, and antimicrobial susceptibility\.$/
+  return :condition if description =~ /denotes a neoplastic condition; evaluation establishes the tissue of origin, extent, biologic behavior, and appropriate treatment\.$/
+  return :condition if description =~ /denotes an infectious or toxic clinical condition; diagnosis considers the exposure or pathogen, affected site, severity, and host response\.$/
+  return :anatomy if description =~ /denotes an anatomical or physiologic concept used to describe a body structure, process, or function in clinical practice\.$/
+  return :organism if description =~ /is a virus or viral group of medical interest; disease risk depends on its strain, route of transmission, host, and tissue tropism\.$/
+  return :clinical if description =~ /is a clinical assessment, measurement, or procedure used to investigate, monitor, classify, or treat a health-related finding\.$/
+  return :clinical if description =~ /evaluates the body site, analyte, antibody, or physiologic function named in the title; results are interpreted with the method, reference range, and clinical question\.$/
+  return :biology if description =~ /denotes a biologic or physiologic concept used in research, laboratory medicine, and the explanation of human disease\.$/
+  return :medicine if description =~ /is a defined chemical or biologic substance studied in physiology, pharmacology, laboratory medicine, or treatment\.$/
   nil
 end
 
@@ -59,49 +70,49 @@ def definition(term, family)
   case family
   when :medicine
     if lower =~ /antibiotic|antiviral|antifungal|antimicrobial/
-      "#{name} is an anti-infective agent used to inhibit or eliminate susceptible pathogens; the indication depends on the organism, site of infection, and resistance pattern."
+      "#{name} is an anti-infective agent used against susceptible pathogens associated with #{lower}; indication depends on the organism, site of infection, and resistance pattern."
     elsif lower =~ /vaccine|immuniz/
-      "#{name} is an immunizing preparation or immunologic intervention intended to produce protection against a specified infectious threat."
+      "#{name} is an immunizing preparation or immunologic intervention intended to protect against the infectious threat represented by #{lower}."
     elsif lower =~ /acid|salt|oxide|protein|peptide|receptor|enzyme/
-      "#{name} is a defined chemical or biologic substance studied in physiology, pharmacology, laboratory medicine, or treatment."
+      "#{name} is a defined chemical or biologic substance involved in #{lower} and studied in physiology, pharmacology, laboratory medicine, or treatment."
     else
-      "#{name} is a pharmacologic or chemical agent identified for study or clinical use; its mechanism, indication, dose, interactions, and adverse effects must be determined for the specific agent."
+      "#{name} concerns #{lower}, a pharmacologic or chemical agent; clinical use depends on its mechanism, indication, dose, interactions, and adverse effects."
     end
   when :organism
     if lower =~ /virus|viral|coronavirus|retrovirus|herpes|influenza|flavivirus/
-      "#{name} is a virus or viral group of medical interest; disease risk depends on its strain, route of transmission, host, and tissue tropism."
+      "#{name} is a virus or viral group associated with #{lower}; disease risk depends on strain, transmission route, host, and tissue tropism."
     elsif lower =~ /bacter|coccus|bacillus|myc|fung|yeast|candida|strept|staphyl|yersinia|parasite|protozo/
-      "#{name} is a microorganism or microbial group; clinical relevance depends on pathogenicity, exposure, site, and antimicrobial susceptibility."
+      "#{name} is a microorganism or microbial group associated with #{lower}; clinical relevance depends on pathogenicity, exposure, site, and antimicrobial susceptibility."
     else
-      "#{name} is a biological taxon or infectious-disease term used in clinical microbiology; interpretation depends on the organism, host, and site involved."
+      "#{name} identifies #{lower}, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved."
     end
   when :anatomy
     if lower =~ /arter|vein|vessel|nerve|muscle|bone|joint|gland|organ|cell|tissue|membrane|ligament|cartilage/
-      "#{name} denotes an anatomical structure or tissue; its clinical importance depends on its location, connections, blood supply, innervation, and function."
+      "#{name} denotes #{lower}, an anatomical structure or tissue whose clinical importance depends on location, connections, blood supply, innervation, and function."
     else
-      "#{name} denotes an anatomical or physiologic concept used to describe a body structure, process, or function in clinical practice."
+      "#{name} refers to #{lower}, an anatomical or physiologic concept used to describe a body structure, process, or function."
     end
   when :biology
     if lower =~ /gene|dna|rna|chromos|mutation|protein|enzyme|receptor|cell|molecule|acid|lipid|hormone/
-      "#{name} denotes a biological component or molecular process; its role is interpreted through the relevant cells, pathways, tissues, and laboratory findings."
+      "#{name} denotes #{lower}, a biological component or molecular process interpreted through relevant cells, pathways, tissues, and laboratory findings."
     else
-      "#{name} denotes a biologic or physiologic concept used in research, laboratory medicine, and the explanation of human disease."
+      "#{name} concerns #{lower}, a biologic or physiologic concept used in research, laboratory medicine, and the explanation of disease."
     end
   when :clinical
     if lower =~ /test|assay|screen|scale|index|score|questionnaire|measurement|imaging|scan|procedure/
-      "#{name} is a clinical assessment, measurement, or procedure used to investigate, monitor, classify, or treat a health-related finding."
+      "#{name} is a clinical assessment, measurement, or procedure used to investigate, monitor, classify, or treat #{lower}."
     else
-      "#{name} is a clinical or health-care concept used in assessment, diagnosis, treatment, monitoring, or patient support."
+      "#{name} is used in relation to #{lower} during assessment, diagnosis, treatment, monitoring, or patient support."
     end
   when :condition
     if lower =~ /cancer|carcinoma|sarcoma|tumor|neoplasm|blastoma|lymphoma|leukemia/
-      "#{name} denotes a neoplastic condition; evaluation establishes the tissue of origin, extent, biologic behavior, and appropriate treatment."
+      "#{name} denotes a neoplastic condition involving #{lower}; evaluation establishes tissue of origin, extent, biologic behavior, and treatment."
     elsif lower =~ /infection|infectious|fever|sepsis|poisoning|tox|virus|bacter/
-      "#{name} denotes an infectious or toxic clinical condition; diagnosis considers the exposure or pathogen, affected site, severity, and host response."
+      "#{name} denotes an infectious or toxic condition involving #{lower}; diagnosis considers exposure or pathogen, affected site, severity, and host response."
     elsif lower =~ /pain|hemorrhage|bleed|edema|swelling|rash|symptom|disorder|disease|syndrome|deficien|injury|fracture|stenosis|obstruction/
-      "#{name} denotes a clinical condition or finding; evaluation identifies the underlying mechanism, affected system, severity, complications, and appropriate management."
+      "#{name} denotes a clinical condition or finding involving #{lower}; evaluation identifies mechanism, affected system, severity, complications, and management."
     else
-      "#{name} denotes a medical condition or clinical finding whose significance is determined by its defining features, causes, affected system, and patient context."
+      "#{name} refers to #{lower}, a medical condition or clinical finding defined by its features, causes, affected system, and patient context."
     end
   end
 end

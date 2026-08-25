@@ -54,25 +54,25 @@ def definition(term)
   }
   return specific[name] if specific.key?(name)
   if lower =~ /overdose|poisoning|toxic|battery/
-    "#{name} involves toxic exposure to the substance named in the title; the clinical response depends on dose, route, timing, symptoms, and whether an antidote is available."
+    "#{name} involves toxic exposure to #{lower}; dose, route, timing, symptoms, and antidote availability guide the clinical response."
   elsif lower =~ /blood test|test$|testing|assay|titer|panel|culture|smear|scan|x-ray|mri|ultrasound|biopsy|pet scan|measurement|screening|baer/
-    "#{name} evaluates the body site, analyte, antibody, or physiologic function named in the title; results are interpreted with the method, reference range, and clinical question."
+    "#{name} evaluates #{lower}; interpretation uses the method, specimen or body region, reference range, and clinical question."
   elsif lower =~ /repair|removal|surgery|reconstruction|replacement|transplant|injection|arthroscopy|procedure|graft|transfusion|delivery|pumping/
-    "#{name} describes treatment or perioperative care for the structure or condition named in the title, including indications, complications, preparation, and recovery."
+    "#{name} treats or supports #{lower}; indication, preparation, complications, and recovery depend on the procedure and patient."
   elsif lower =~ /aftercare|discharge|self-care/
-    "#{name} provides post-treatment or home-care guidance for the condition named in the title, including recovery, warning signs, activity, medicines, and follow-up."
+    "#{name} addresses recovery from #{lower}, including activity, medicines, warning signs, and follow-up."
   elsif lower =~ /resources|what to ask/
-    "#{name} provides educational and clinical-planning information about the subject named in the title, including care options, safety, support, and questions for a clinician."
+    "#{name} summarizes care planning for #{lower}, including options, safety, support, and questions for a clinician."
   elsif lower =~ /safety|first aid/
-    "#{name} explains prevention or immediate response for the hazard named in the title, including risk reduction and when urgent help is needed."
+    "#{name} focuses on preventing or responding to #{lower}, including risk reduction and signs requiring urgent help."
   elsif lower =~ /bathing|bedtime habits|breastfeeding|pumping|storing|formula feeding|bonding/
-    "#{name} addresses practical infant or family care related to the subject named in the title, including safe technique, common concerns, and when to seek advice."
+    "#{name} addresses practical care for #{lower}, including safe technique, common concerns, and when to seek advice."
   elsif lower =~ /active|benefits|safe drinking|pain relief/
-    "#{name} discusses behavior or lifestyle guidance related to the subject named in the title, including expected benefits, limits, and situations requiring professional advice."
+    "#{name} discusses guidance for #{lower}, balancing expected benefits, personal limits, and professional advice."
   elsif lower =~ /pain|swollen|lump|bleeding|discoloration|odor|difficulty|breathing|spell|rash|bowel|incontinence|bedwetting|appetite|enlargement|tenderness|burns|boils|bunion|bruise|stool|semen/
-    "#{name} describes the symptom, sign, or physiologic change named in the title; evaluation considers onset, severity, associated findings, causes, and need for medical care."
+    "#{name} is the presentation described by #{lower}; onset, severity, associated findings, causes, and need for care guide assessment."
   else
-    "#{name} concerns the condition, exposure, finding, or health-care subject named in the title; clinical evaluation identifies its defining features, causes, severity, and management."
+    "#{name} concerns #{lower}; defining findings, causes, severity, and management depend on the affected system and patient."
   end
 end
 
