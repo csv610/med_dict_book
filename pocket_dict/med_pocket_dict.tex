@@ -14,7 +14,6 @@
 \usepackage{lmodern}
 \usepackage{xcolor}
 \usepackage{textcomp}
-\usepackage{sectsty}
 \usepackage{parskip}
 \usepackage{makeidx}
 \usepackage{graphicx}
@@ -33,12 +32,15 @@
     citecolor=blue!60!black,
 }
 
-\chapterfont{\centering\LARGE\bfseries\color{blue!70!black}}
 \titleformat{\chapter}[display]
   {\centering\LARGE\bfseries\color{blue!70!black}}
   {}{0pt}{}
-\sectionfont{\Large\bfseries\color{blue!70!black}}
-\subsectionfont{\normalsize\bfseries\color{blue!50!black}}
+\titleformat{\section}
+  {\Large\bfseries\color{blue!70!black}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalsize\bfseries\color{blue!50!black}}
+  {\thesubsection}{1em}{}
 
 \newcommand{\medterm}[1]{\addvspace{\baselineskip}\hypertarget{#1}{}{\raggedright\noindent\textbf{\large\textcolor{red!70!black}{#1}}\index{#1}\par}\nobreak\noindent\ignorespaces}
 \newcommand{\pronun}[1]{}
