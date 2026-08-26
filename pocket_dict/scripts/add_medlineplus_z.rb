@@ -25,7 +25,7 @@ terms.each do |term|
   actual_title = existing_by_normalized[normalize(term.strip)]
   if actual_title
     escaped_title = Regexp.escape(actual_title)
-    pattern = /^\\medterm\{#{escaped_title}\}.*?(?=\n\n\\textbf\{Synonyms\}:)/m
+    pattern = /^\\medterm\{#{escaped_title}\}.*?(?=\n\n\\synonyms)/m
     replacement = "\\medterm{#{actual_title}} #{definition}"
     text.sub!(pattern, replacement)
   else
@@ -39,7 +39,7 @@ File.open(output, 'a') do |file|
     file.puts
     file.puts "\\medterm{#{term}} #{DEFINITIONS.fetch(term)}"
     file.puts
-    file.puts '\\textbf{Synonyms}:'
+    file.puts '\\synonyms'
   end
 end
 puts "added #{additions.length} terms"

@@ -33,13 +33,13 @@ total = 0
 FILES.each do |file|
   text = File.read(file)
   changed = 0
-  pattern = /^\\medterm\{([^}]*)\}(?:(?!^\\medterm\{).)*?^\\textbf\{Synonyms\}:/m
+  pattern = /^\\medterm\{([^}]*)\}(?:(?!^\\medterm\{).)*?^\\synonyms/m
   text = text.gsub(pattern) do |block|
     title = Regexp.last_match(1)
-    body = block.sub(/^\\medterm\{#{Regexp.escape(title)}\}/, '').sub(/\n\n\\textbf\{Synonyms\}:\z/m, '')
+    body = block.sub(/^\\medterm\{#{Regexp.escape(title)}\}/, '').sub(/\n\n\\synonyms\z/m, '')
     if body.match?(MARKERS)
       changed += 1
-      "\\medterm{#{title}} #{definition(title)}\n\n\\textbf{Synonyms}:"
+      "\\medterm{#{title}} #{definition(title)}"
     else
       block
     end

@@ -28,7 +28,7 @@ File.open(output, 'a') do |file|
     file.puts
     file.puts "\\medterm{#{term.strip}} #{DEFINITIONS.fetch(term.strip)}"
     file.puts
-    file.puts '\\textbf{Synonyms}:'
+    file.puts '\\synonyms'
   end
 end
 puts "added #{additions.length} terms"

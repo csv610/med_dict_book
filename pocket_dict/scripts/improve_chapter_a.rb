@@ -52,13 +52,13 @@ def definition(term)
 end
 
 text = File.read(FILE)
-pattern = /^\\medterm\{([^}]*)\}(?:(?!^\\medterm\{).)*?^\\textbf\{Synonyms\}:/m
+pattern = /^\\medterm\{([^}]*)\}(?:(?!^\\medterm\{).)*?^\\synonyms/m
 changed = 0
 text = text.gsub(pattern) do |block|
   title = Regexp.last_match(1)
   if block.match?(/concerns [^;]+; defining findings, causes, severity, and management depend on the affected system and patient/i)
     changed += 1
-    "\\medterm{#{title}} #{definition(title)}\n\n\\textbf{Synonyms}:"
+    "\\medterm{#{title}} #{definition(title)}"
   else
     block
   end

@@ -45,6 +45,10 @@
 \newcommand{\medterm}[1]{\addvspace{\baselineskip}\hypertarget{#1}{}{\raggedright\noindent\textbf{\large\textcolor{red!70!black}{#1}}\index{#1}\par}\nobreak\noindent\ignorespaces}
 \newcommand{\pronun}[1]{}
 \newcommand{\abbrev}[1]{\textsc{#1}}
+% Keep alternate names visually separate from the definition. Use the
+% common-name field only when a recognized nontechnical name is established.
+\newcommand{\commonname}[1]{\par\noindent\textbf{Common name}: #1\par}
+\newcommand{\synonyms}{\par\noindent\textbf{Synonyms}:\\}
 \newcommand{\1}{\ifmmode\mathbin{\%}\else\%\fi}
 
 \raggedbottom
@@ -77,7 +81,7 @@
 
 \medskip
 
-\noindent The entries are arranged alphabetically from A to Z, with each letter presented in its own chapter. This arrangement allows a reader to locate a known term quickly while maintaining a consistent structure throughout the book. Related terms and common alternative names are included when they improve clarity or aid searching.
+\noindent The entries are arranged alphabetically from A to Z, with each letter presented in its own chapter. This arrangement allows a reader to locate a known term quickly while maintaining a consistent structure throughout the book. Related terms, recognized common names, and alternative names are included when they improve clarity or aid searching.
 
 \medskip
 

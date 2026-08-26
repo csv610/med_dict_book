@@ -18,13 +18,13 @@ end
 
 file = ARGV.fetch(0)
 text = File.read(file)
-pattern = /^\\medterm\{([^}]*)\}(?:(?!^\\medterm\{).)*?^\\textbf\{Synonyms\}:/m
+pattern = /^\\medterm\{([^}]*)\}(?:(?!^\\medterm\{).)*?^\\synonyms/m
 changed = 0
 text = text.gsub(pattern) do |block|
   title = Regexp.last_match(1)
   if block.match?(MARKER)
     changed += 1
-    "\\medterm{#{title}} #{definition(title)}\n\n\\textbf{Synonyms}:"
+    "\\medterm{#{title}} #{definition(title)}"
   else
     block
   end

@@ -109,7 +109,7 @@ end
       file.puts
       file.puts "\\medterm{#{term}} #{definition}"
       file.puts
-      file.puts '\\textbf{Synonyms}:'
+      file.puts '\\synonyms'
     end
   end
   puts "#{letter}: added #{additions.length} terms"

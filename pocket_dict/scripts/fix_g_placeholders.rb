@@ -57,7 +57,7 @@ end
 text = File.read(FILE)
 titles = text.lines.filter_map { |line| MARKERS.any? { |m| line.include?(m) } ? line[/^\\medterm\{([^}]*)\}/, 1] : nil }
 titles.each do |title|
-  pattern = /^\\medterm\{#{Regexp.escape(title)}\}.*?(?=\n\n\\textbf\{Synonyms\}:)/m
+  pattern = /^\\medterm\{#{Regexp.escape(title)}\}.*?(?=\n\n\\synonyms)/m
   text.sub!(pattern) { "\\medterm{#{title}} #{definition(title)}" }
 end
 File.write(FILE, text)
