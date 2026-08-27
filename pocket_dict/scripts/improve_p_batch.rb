@@ -1,4 +1,4 @@
-FILE='chapters/med_terms_p.tex'
+FILE=ARGV.fetch(0, 'chapters/med_terms_p.tex')
 MARKER=/is a .*concept|clinical meaning depends|diagnosis and management depend|clinical features and causes vary|appropriate use depends|a disorder affecting|a medical term used to describe/i
 def definition(t)
   x=t.downcase
@@ -11,9 +11,9 @@ def definition(t)
 end
 t=File.read(FILE); n=0
 t.scan(/^\\medterm\{[^}]+\} .*?(?=^\\medterm\{|\z)/m).each do |b|
-  break if n==70; next unless b.match?(MARKER)
+  break if n==100; next unless b.match?(MARKER)
   term=b[/^\\medterm\{([^}]+)\}/,1]; next unless term
   t=t.sub(b,"\\medterm{#{term}} #{definition(term)}\n\n"); n+=1
 end
-raise "expected 70, got #{n}" unless n==70
+raise "expected 100, got #{n}" unless n==100
 File.write(FILE,t); puts "replaced=#{n}"
