@@ -11,9 +11,9 @@ def definition(t)
 end
 t=File.read(FILE); n=0
 t.scan(/^\\medterm\{[^}]+\} .*?(?=^\\medterm\{|\z)/m).each do |b|
-  break if n==27; next unless b.match?(MARKER)
+  break if n==11; next unless b.match?(MARKER)
   term=b[/^\\medterm\{([^}]+)\}/,1]; next unless term
   t=t.sub(b,"\\medterm{#{term}} #{definition(term)}\n\n"); n+=1
 end
-raise "expected 27, got #{n}" unless n==27
+raise "expected 11, got #{n}" unless n==11
 File.write(FILE,t); puts "replaced=#{n}"
