@@ -8,6 +8,7 @@
 \usepackage{fancyhdr}
 \usepackage{booktabs}
 \usepackage{tabularx}
+\usepackage{longtable}
 \usepackage{microtype}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -175,13 +176,14 @@
 \input{chapters/med_terms_z}
 
 \clearpage
+\onecolumn
 \appendix
 \chapter{Medical Prefix}
-\input{appendices/medical_prefix}
+\input{appendices/medical_prefix_table}
 
 \clearpage
 \chapter{Medical Suffixes}
-\input{appendices/medical_suffixes}
+\input{appendices/medical_suffixes_table}
 
 \clearpage
 \onecolumn
