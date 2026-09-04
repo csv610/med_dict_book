@@ -36113,108 +36113,30 @@
       "body_systems": []
     },
     {
-      "term": "Pacemaker, Artificial",
+      "term": "Analgesics",
       "category": [
-        "condition"
+        "medication"
       ],
       "definitions": {
         "Harvard": {
-          "text": "A small electronic device generally placed in the chest to correct an irregular heartbeat. It generates small electrical pulses that prompt the heart to beat at a normal pace.",
+          "text": "Medicines used to relieve pain. They include nonopioid analgesics, opioid analgesics, and adjuvant medicines used for selected pain conditions.",
           "source_url": "https://www.health.harvard.edu/a-through-c",
           "retrieved_on": "2026-08-27",
           "created_on": "2026-08-27",
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "An implanted device that sends electrical impulses to maintain an appropriate heart rhythm.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pacemaker-artificial",
-      "normalized_term": "pacemaker, artificial",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Pacemaker, Natural",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "Harvard": {
-          "text": "A specialized cluster of cells called the sinoatrial node in the top of the right atrium. The pacemaker produces a steady flow of beat now signals that flash across the atria and then pass through the atrioventricular node to the ventricles.",
-          "source_url": "https://www.health.harvard.edu/a-through-c",
-          "retrieved_on": "2026-08-27",
-          "created_on": "2026-08-27",
-          "last_modified_on": "2026-08-27"
-        },
-        "LLM": {
-          "text": "The sinoatrial node, whose cells normally initiate the heartbeat.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pacemaker-natural",
-      "normalized_term": "pacemaker, natural",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "PAD",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "Harvard": {
-          "text": "Abbreviation for peripheral artery disease, a condition caused by atherosclerosis in the arteries in the legs or leading to them.",
-          "source_url": "https://www.health.harvard.edu/a-through-c",
-          "retrieved_on": "2026-08-27",
-          "created_on": "2026-08-27",
-          "last_modified_on": "2026-08-27"
-        },
-        "LLM": {
-          "text": "Peripheral artery disease caused by narrowed arteries, usually affecting the legs.",
+          "text": "Medicines used to relieve pain. They include nonopioid analgesics, opioid analgesics, and adjuvant medicines used for selected pain conditions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
       },
       "common_names": [],
       "synonyms": [
-        "peripheral artery disease"
+        "Painkillers"
       ],
-      "id": "pad",
-      "normalized_term": "pad",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Painkillers",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "Harvard": {
-          "text": "Drugs that relieve pain.",
-          "source_url": "https://www.health.harvard.edu/a-through-c",
-          "retrieved_on": "2026-08-27",
-          "created_on": "2026-08-27",
-          "last_modified_on": "2026-08-27"
-        },
-        "LLM": {
-          "text": "Medicines or other treatments that relieve pain.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "painkillers",
-      "normalized_term": "painkillers",
+      "id": "analgesics",
+      "normalized_term": "analgesics",
       "related_terms": [],
       "body_systems": []
     },
@@ -37554,7 +37476,10 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "PAD",
+        "Peripheral Arterial Disease"
+      ],
       "id": "peripheral-artery-disease",
       "normalized_term": "peripheral artery disease",
       "related_terms": [],
@@ -43295,7 +43220,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "RA"
+      ],
       "id": "rheumatoid-arthritis",
       "normalized_term": "rheumatoid arthritis",
       "related_terms": [],
@@ -45463,7 +45390,9 @@
       "common_names": [
         "sinus node, initiates the heart's electrical activity"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pacemaker, natural"
+      ],
       "id": "sinoatrial-node",
       "normalized_term": "sinoatrial node",
       "related_terms": [],
@@ -53555,7 +53484,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Stomach pain"
+      ],
       "id": "abdominal-pain",
       "normalized_term": "abdominal pain",
       "related_terms": [],
@@ -127403,7 +127334,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Caeruloplasmin"
+      ],
       "id": "ceruloplasmin",
       "normalized_term": "ceruloplasmin",
       "related_terms": [],
@@ -128885,7 +128818,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Pain, chest"
+      ],
       "id": "chest-pain",
       "normalized_term": "chest pain",
       "related_terms": [],
@@ -173250,7 +173185,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Painful Urination"
+      ],
       "id": "dysuria",
       "normalized_term": "dysuria",
       "related_terms": [],
@@ -290765,7 +290702,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Pain, knee"
+      ],
       "id": "knee-pain",
       "normalized_term": "knee pain",
       "related_terms": [],
@@ -316833,7 +316772,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Painful periods"
+      ],
       "id": "menstrual-cramps",
       "normalized_term": "menstrual cramps",
       "related_terms": [],
@@ -345447,7 +345388,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Pain, neck"
+      ],
       "id": "neck-pain",
       "normalized_term": "neck pain",
       "related_terms": [],
@@ -367734,7 +367677,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Pacemaker, artificial"
+      ],
       "id": "pacemaker",
       "normalized_term": "pacemaker",
       "related_terms": [],
@@ -367836,25 +367781,6 @@
       "body_systems": []
     },
     {
-      "term": "PAD Management",
-      "category": [
-        "treatment"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Atherosclerotic occlusive disease of arteries supplying the lower limbs, causing reduced blood flow. See peripheral arterial disease.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pad-management",
-      "normalized_term": "pad management",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Page kidney",
       "category": [
         "anatomy"
@@ -367886,28 +367812,14 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Osteitis Deformans",
+        "PDB",
+        "Paget Disease of the Bone",
+        "Paget's Disease"
+      ],
       "id": "paget-disease-of-bone",
       "normalized_term": "paget disease of bone",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Paget's Disease",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "A chronic bone disorder characterized by excessive, disorganized bone remodeling with increased osteoclastic bone resorption followed by compensatory osteoblastic bone formation, producing structurally abnormal bone that is enlarged, weak, and prone to fracture. See Paget Disease of Bone.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "paget-s-disease",
-      "normalized_term": "paget's disease",
       "related_terms": [],
       "body_systems": []
     },
@@ -368009,7 +367921,7 @@
     {
       "term": "Pain Management",
       "category": [
-        "symptom"
+        "treatment"
       ],
       "definitions": {
         "LLM": {
@@ -368041,25 +367953,6 @@
       "synonyms": [],
       "id": "pain-relief-analgesia",
       "normalized_term": "pain relief (analgesia)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Pair Production",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Photon interaction producing electron-positron pair. Requires energy >1.022 MeV.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pair-production",
-      "normalized_term": "pair production",
       "related_terms": [],
       "body_systems": []
     },
@@ -368199,7 +368092,7 @@
     {
       "term": "Palpation",
       "category": [
-        "condition"
+        "procedure"
       ],
       "definitions": {
         "LLM": {
@@ -371087,7 +370980,7 @@
     {
       "term": "Pediatrician",
       "category": [
-        "condition"
+        "professional"
       ],
       "definitions": {
         "LLM": {
@@ -371097,7 +370990,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Paediatrician"
+      ],
       "id": "pediatrician",
       "normalized_term": "pediatrician",
       "related_terms": [],
@@ -371106,7 +371001,7 @@
     {
       "term": "Pediatrics",
       "category": [
-        "condition"
+        "specialty"
       ],
       "definitions": {
         "LLM": {
@@ -371116,7 +371011,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Paediatrics"
+      ],
       "id": "pediatrics",
       "normalized_term": "pediatrics",
       "related_terms": [],
@@ -372696,25 +372593,6 @@
       "synonyms": [],
       "id": "peripheral",
       "normalized_term": "peripheral",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Peripheral Arterial Disease",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Atherosclerotic narrowing of arteries supplying limbs. Symptoms: intermittent claudication (pain with walking, relieved by rest), critical limb ischemia (rest pain, ulcers, gangrene). Diagnosis: ABI <0.9, Doppler, angiography. Treatment: risk factor modification, exercise, cilostazol, revascularization for severe disease.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "peripheral-arterial-disease",
-      "normalized_term": "peripheral arterial disease",
       "related_terms": [],
       "body_systems": []
     },
@@ -385274,25 +385152,6 @@
       "synonyms": [],
       "id": "palladium",
       "normalized_term": "palladium",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "palm oil",
-      "category": [
-        "nutrition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Palm oil is an edible plant oil high in palmitic and oleic acids; its nutritional effects depend on total dietary pattern and the fats it replaces.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "palm-oil",
-      "normalized_term": "palm oil",
       "related_terms": [],
       "body_systems": []
     },
@@ -400478,25 +400337,6 @@
       "body_systems": []
     },
     {
-      "term": "Painful urination (dysuria)",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Pain, burning, or discomfort during urination, commonly caused by urinary infection, inflammation, stones, irritation, or sexually transmitted infection.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "painful-urination-dysuria",
-      "normalized_term": "painful urination (dysuria)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Peeling skin",
       "category": [
         "anatomy"
@@ -400611,82 +400451,6 @@
       "body_systems": []
     },
     {
-      "term": "Pain, chest",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label; see Chest pain.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pain-chest",
-      "normalized_term": "pain, chest",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Pain, knee",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label; see Knee pain.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pain-knee",
-      "normalized_term": "pain, knee",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Pain, neck",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label; see Neck pain.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pain-neck",
-      "normalized_term": "pain, neck",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Pain, wrist",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label; see Wrist pain.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pain-wrist",
-      "normalized_term": "pain, wrist",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Painful bladder syndrome",
       "category": [
         "disease"
@@ -400702,25 +400466,6 @@
       "synonyms": [],
       "id": "painful-bladder-syndrome",
       "normalized_term": "painful bladder syndrome",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Painful periods",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label; see Menstrual cramps.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "painful-periods",
-      "normalized_term": "painful periods",
       "related_terms": [],
       "body_systems": []
     },
@@ -402207,25 +401952,6 @@
       "body_systems": []
     },
     {
-      "term": "Paget disease of the bone",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Paget disease of bone is abnormal remodeling that produces enlarged, weakened, or deformed bone and may cause pain, fractures, hearing loss, or nerve compression.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "paget-disease-of-the-bone",
-      "normalized_term": "paget disease of the bone",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Pain and your emotions",
       "category": [
         "symptom"
@@ -402304,11 +402030,11 @@
     {
       "term": "Paint, lacquer, and varnish remover poisoning",
       "category": [
-        "disease"
+        "toxicology"
       ],
       "definitions": {
         "LLM": {
-          "text": "Paint, lacquer, and varnish remover poisoning involves toxic or environmental exposure to paint, lacquer, and varnish remover poisoning; dose, route, timing, symptoms, and organ involvement determine urgency and treatment.",
+          "text": "Poisoning caused by ingestion, inhalation, or skin or eye exposure to solvents and other chemicals in paint, lacquer, or varnish removers. Effects may include irritation, central nervous system depression, respiratory injury, metabolic abnormalities, or organ damage; severity depends on the substance, dose, route, and timing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -402336,101 +402062,6 @@
       "synonyms": [],
       "id": "palatal-myoclonus",
       "normalized_term": "palatal myoclonus",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Palliative care - fear and anxiety",
-      "category": [
-        "mental health"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Palliative care - fear and anxiety addresses care related to palliative care - fear and anxiety, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "palliative-care-fear-and-anxiety",
-      "normalized_term": "palliative care - fear and anxiety",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Palliative care - fluid, food, and digestion",
-      "category": [
-        "nutrition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Palliative care - fluid, food, and digestion addresses care related to palliative care - fluid, food, and digestion, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "palliative-care-fluid-food-and-digestion",
-      "normalized_term": "palliative care - fluid, food, and digestion",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Palliative care - managing pain",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Palliative care - managing pain addresses care related to palliative care - managing pain, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "palliative-care-managing-pain",
-      "normalized_term": "palliative care - managing pain",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Palliative care - shortness of breath",
-      "category": [
-        "treatment"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Palliative care - shortness of breath addresses care related to palliative care - shortness of breath, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "palliative-care-shortness-of-breath",
-      "normalized_term": "palliative care - shortness of breath",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Palliative care - what the final days are like",
-      "category": [
-        "treatment"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Palliative care - what the final days are like addresses care related to palliative care - what the final days are like, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "palliative-care-what-the-final-days-are-like",
-      "normalized_term": "palliative care - what the final days are like",
       "related_terms": [],
       "body_systems": []
     },
@@ -407432,25 +407063,6 @@
       "body_systems": []
     },
     {
-      "term": "Pagets Disease (Paget's Disease)",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label for Paget's Disease.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pagets-disease-paget-s-disease",
-      "normalized_term": "pagets disease (paget's disease)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Pain Cancer (Cancer Pain)",
       "category": [
         "disease"
@@ -407637,25 +407249,6 @@
       "synonyms": [],
       "id": "pain-scrotum-testicular-disorders",
       "normalized_term": "pain scrotum (testicular disorders)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Pain Stomach (Abdominal Pain (Causes, Remedies, Treatment))",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label for Abdominal Pain (Causes, Remedies, Treatment).",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "pain-stomach-abdominal-pain-causes-remedies-treatment",
-      "normalized_term": "pain stomach (abdominal pain (causes, remedies, treatment))",
       "related_terms": [],
       "body_systems": []
     },
@@ -410035,9 +409628,9 @@
       "body_systems": []
     },
     {
-      "term": "p.c.",
+      "term": "Post Cibum",
       "category": [
-        "condition"
+        "medication instruction"
       ],
       "definitions": {
         "LLM": {
@@ -410047,16 +409640,19 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
-      "id": "p-c",
-      "normalized_term": "p.c.",
+      "synonyms": [
+        "P.C.",
+        "After Meals"
+      ],
+      "id": "post-cibum",
+      "normalized_term": "post cibum",
       "related_terms": [],
       "body_systems": []
     },
     {
-      "term": "p.o.",
+      "term": "Oral Route",
       "category": [
-        "condition"
+        "medication instruction"
       ],
       "definitions": {
         "LLM": {
@@ -410066,16 +409662,20 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
-      "id": "p-o",
-      "normalized_term": "p.o.",
+      "synonyms": [
+        "P.O.",
+        "Per Os",
+        "By Mouth"
+      ],
+      "id": "oral-route",
+      "normalized_term": "oral route",
       "related_terms": [],
       "body_systems": []
     },
     {
-      "term": "p.r.n.",
+      "term": "Pro Re Nata",
       "category": [
-        "condition"
+        "medication instruction"
       ],
       "definitions": {
         "LLM": {
@@ -410085,9 +409685,12 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
-      "id": "p-r-n",
-      "normalized_term": "p.r.n.",
+      "synonyms": [
+        "P.R.N.",
+        "As Needed"
+      ],
+      "id": "pro-re-nata",
+      "normalized_term": "pro re nata",
       "related_terms": [],
       "body_systems": []
     },
@@ -410168,25 +409771,6 @@
       "body_systems": []
     },
     {
-      "term": "Paget disease",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "paget-disease",
-      "normalized_term": "paget disease",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Pain unit",
       "category": [
         "symptom"
@@ -410202,25 +409786,6 @@
       "synonyms": [],
       "id": "pain-unit",
       "normalized_term": "pain unit",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Painful urination",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Dysuria, or pain, burning, or discomfort during urination, commonly caused by urinary infection, urethritis, stones, irritation, or inflammatory genital disease.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "painful-urination",
-      "normalized_term": "painful urination",
       "related_terms": [],
       "body_systems": []
     },
@@ -430285,25 +429850,6 @@
       "synonyms": [],
       "id": "red-eye",
       "normalized_term": "red eye",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "RA",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label; see Rheumatoid arthritis.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "ra",
-      "normalized_term": "ra",
       "related_terms": [],
       "body_systems": []
     },
@@ -470683,25 +470229,6 @@
       "body_systems": []
     },
     {
-      "term": "Tonsils",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Aggregated lymphoid tissue forming Waldeyer's ring at the pharyngeal entrance. Pharyngeal tonsils (adenoids) in the nasopharynx, palatine tonsils at the oropharyngeal pillars, lingual tonsils at the tongue base, and tubal tonsils near the Eustachian tube orifices. They are the first line of defense against inhaled or ingested pathogens.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "tonsils",
-      "normalized_term": "tonsils",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Tooth",
       "category": [
         "condition"
@@ -478352,7 +477879,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Tonsils"
+      ],
       "id": "tonsil",
       "normalized_term": "tonsil",
       "related_terms": [],
@@ -502501,7 +502030,9 @@
         }
       },
       "common_names": [],
-      "synonyms": [],
+      "synonyms": [
+        "Pain, wrist"
+      ],
       "id": "wrist-pain",
       "normalized_term": "wrist pain",
       "related_terms": [],
@@ -508243,6 +507774,384 @@
       "id": "zymogen",
       "normalized_term": "zymogen",
       "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Pain Medicine",
+      "category": [
+        "specialty"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "The medical specialty concerned with assessing and treating acute, chronic, and complex pain through medication, procedures, rehabilitation, and multidisciplinary care.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [
+        "Pain clinic"
+      ],
+      "id": "pain-medicine",
+      "normalized_term": "pain medicine",
+      "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Acute Respiratory Failure",
+      "category": [
+        "disease"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A sudden inability of the respiratory system to maintain adequate oxygenation, carbon-dioxide removal, or both. It may result from lung disease, airway obstruction, neuromuscular weakness, or impaired respiratory drive and requires urgent evaluation.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "acute-respiratory-failure",
+      "normalized_term": "acute respiratory failure",
+      "related_terms": [],
+      "body_systems": [
+        "respiratory system"
+      ]
+    },
+    {
+      "term": "Accessory Muscles",
+      "category": [
+        "anatomy"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Muscles recruited to assist the primary muscles of respiration or another movement when the normal workload is increased; use of respiratory accessory muscles may indicate respiratory distress.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "accessory-muscles",
+      "normalized_term": "accessory muscles",
+      "related_terms": [],
+      "body_systems": [
+        "respiratory system"
+      ]
+    },
+    {
+      "term": "Accessory Pathway",
+      "category": [
+        "cardiology"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "An abnormal electrical connection between the atria and ventricles that can bypass the atrioventricular node and cause pre-excitation or tachyarrhythmias, including atrioventricular reentrant tachycardia.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "accessory-pathway",
+      "normalized_term": "accessory pathway",
+      "related_terms": [],
+      "body_systems": [
+        "cardiovascular system"
+      ]
+    },
+    {
+      "term": "Accommodation Reflex",
+      "category": [
+        "ophthalmology"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "The coordinated adjustment of the lens, ciliary muscle, and pupils that shifts the eye from distance to near focus; it includes lens thickening, convergence, and pupillary constriction.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "accommodation-reflex",
+      "normalized_term": "accommodation reflex",
+      "related_terms": [],
+      "body_systems": [
+        "eye"
+      ]
+    },
+    {
+      "term": "Accommodative Insufficiency",
+      "category": [
+        "ophthalmology"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Inability of the eye to increase lens power adequately for near focusing, causing eyestrain, blurred near vision, headache, or difficulty reading.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "accommodative-insufficiency",
+      "normalized_term": "accommodative insufficiency",
+      "related_terms": [],
+      "body_systems": [
+        "eye"
+      ]
+    },
+    {
+      "term": "Acetone Body",
+      "category": [
+        "biochemistry"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A ketone body produced during fatty-acid metabolism; acetone is one of the three major ketone bodies and may contribute to the characteristic odor of ketosis.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [
+        "Acetone"
+      ],
+      "id": "acetone-body",
+      "normalized_term": "acetone body",
+      "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Acetonuria",
+      "category": [
+        "laboratory test"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "The presence of acetone or other ketone bodies in the urine, which may occur with fasting, vomiting, uncontrolled diabetes, or other states of increased fat metabolism.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "acetonuria",
+      "normalized_term": "acetonuria",
+      "related_terms": [],
+      "body_systems": [
+        "urinary system"
+      ]
+    },
+    {
+      "term": "Acidophil",
+      "category": [
+        "histology"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A cell or tissue component that stains readily with acidic dyes, especially eosin; acidophilic cells are recognized in histology and include selected endocrine and pituitary cell populations.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [
+        "Acidophilic"
+      ],
+      "id": "acidophil",
+      "normalized_term": "acidophil",
+      "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Acitretin",
+      "category": [
+        "medication"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "An oral retinoid used mainly for severe psoriasis and selected keratinization disorders. It is highly teratogenic and requires strict pregnancy precautions and monitoring for adverse effects.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "acitretin",
+      "normalized_term": "acitretin",
+      "related_terms": [],
+      "body_systems": [
+        "skin"
+      ]
+    },
+    {
+      "term": "Adenohypophysis",
+      "category": [
+        "anatomy"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "The anterior lobe of the pituitary gland, which produces and secretes hormones including adrenocorticotropic hormone, thyroid-stimulating hormone, growth hormone, prolactin, and gonadotropins.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [
+        "Anterior pituitary"
+      ],
+      "id": "adenohypophysis",
+      "normalized_term": "adenohypophysis",
+      "related_terms": [],
+      "body_systems": [
+        "endocrine system"
+      ]
+    },
+    {
+      "term": "Adenolymphoma",
+      "category": [
+        "disease"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A benign salivary-gland tumor, also called Warthin tumor, composed of oncocytic epithelium and lymphoid stroma and occurring most often in the parotid gland.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [
+        "Warthin tumor"
+      ],
+      "synonyms": [],
+      "id": "adenolymphoma",
+      "normalized_term": "adenolymphoma",
+      "related_terms": [],
+      "body_systems": [
+        "salivary glands"
+      ]
+    },
+    {
+      "term": "Adenosis",
+      "category": [
+        "condition"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A benign or abnormal increase in the number or size of glands or glandular tissue; the clinical meaning depends on the organ, such as breast adenosis or pulmonary adenosis.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "adenosis",
+      "normalized_term": "adenosis",
+      "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Adhesion Molecules",
+      "category": [
+        "physiology"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Cell-surface proteins that mediate attachment between cells or between cells and the extracellular matrix; they are important in leukocyte trafficking, inflammation, tissue organization, and metastasis.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "adhesion-molecules",
+      "normalized_term": "adhesion molecules",
+      "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Acoustic Shock",
+      "category": [
+        "condition"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Auditory and other symptoms after exposure to a sudden or intense sound, potentially including ear pain, tinnitus, hyperacusis, dizziness, or temporary hearing change.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "acoustic-shock",
+      "normalized_term": "acoustic shock",
+      "related_terms": [
+        "acoustic trauma"
+      ],
+      "body_systems": [
+        "ear"
+      ]
+    },
+    {
+      "term": "Acute Retinal Necrosis",
+      "category": [
+        "disease"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A rapidly progressive necrotizing viral retinitis, usually caused by herpes viruses, with vitreous inflammation, peripheral retinal necrosis, occlusive vasculitis, and risk of retinal detachment.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "acute-retinal-necrosis",
+      "normalized_term": "acute retinal necrosis",
+      "related_terms": [],
+      "body_systems": [
+        "eye"
+      ]
+    },
+    {
+      "term": "Balneotherapy",
+      "category": [
+        "treatment"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Balneotherapy is the therapeutic use of mineral-rich thermal waters, baths, muds, or related spa treatments for selected medical conditions; evidence, contraindications, and safety depend on the indication and treatment.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "balneotherapy",
+      "normalized_term": "balneotherapy",
+      "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Colicky Pain",
+      "category": [
+        "symptom"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Intermittent, wave-like cramping pain caused by contraction, distension, or obstruction of a hollow organ; common examples include biliary, renal, and intestinal colic.",
+          "generated_on": "2026-09-04",
+          "review_status": "unreviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "colicky-pain",
+      "normalized_term": "colicky pain",
+      "related_terms": [
+        "Colic"
+      ],
       "body_systems": []
     }
   ]

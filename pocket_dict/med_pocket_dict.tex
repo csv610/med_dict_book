@@ -34,7 +34,7 @@
 }
 
 \titleformat{\chapter}[display]
-  {\centering\LARGE\bfseries\color{blue!70!black}}
+  {\centering\Huge\bfseries\color{blue!70!black}}
   {}{0pt}{}
 \titleformat{\section}
   {\Large\bfseries\color{blue!70!black}}
@@ -49,7 +49,7 @@
 % Keep alternate names visually separate from the definition. Use the
 % common-name field only when a recognized nontechnical name is established.
 \newcommand{\commonname}[1]{\par\noindent\textbf{Common name}: #1\par}
-\newcommand{\synonyms}{\par\noindent\textbf{Synonyms}:\\}
+\newcommand{\synonyms}{\par\noindent\textbf{Alternate Names}:\\}
 \newcommand{\1}{\ifmmode\mathbin{\%}\else\%\fi}
 
 \raggedbottom
@@ -180,10 +180,16 @@
 \appendix
 \chapter{Medical Prefix}
 \input{appendices/medical_prefix_table}
+\input{appendices/pressbooks_prefix_table}
 
 \clearpage
 \chapter{Medical Suffixes}
 \input{appendices/medical_suffixes_table}
+\input{appendices/pressbooks_suffix_table}
+
+\clearpage
+\chapter{Alternate Names}
+\input{appendices/alternate_names_table}
 
 \clearpage
 \onecolumn

@@ -1,0 +1,1235 @@
+# Non-Medical Terms Audit
+
+This report identifies dictionary headwords that should be reviewed under the strict recognized-medical-term policy. It does not modify or delete entries.
+
+## Flagged consumer/resource/care-instruction titles
+
+The following 624 headwords match non-medical title patterns such as guides, questions, resources, aftercare, discharge, lifestyle instructions, and consumer-facing advice. Some may describe medically relevant subject matter but are not themselves standard medical terms.
+
+- `Abdominal Aortic Aneurysm Repair - Open - Discharge` — `chapters/med_terms_a.tex:93` — consumer/resource or care-instruction title
+- `Abdominal Pain (Causes, Remedies, Treatment)` — `chapters/med_terms_a.tex:179` — consumer/resource or care-instruction title
+- `Abdominal Radiation - Discharge` — `chapters/med_terms_a.tex:186` — consumer/resource or care-instruction title
+- `Abortion - Procedure - Aftercare` — `chapters/med_terms_a.tex:338` — consumer/resource or care-instruction title
+- `Abortion Spontaneous (Miscarriage Causes And Symptoms)` — `chapters/med_terms_a.tex:340` — consumer/resource or care-instruction title
+- `Abscessed Tooth Guide` — `chapters/med_terms_a.tex:378` — consumer/resource or care-instruction title
+- `Abuse Child (Child Abuse Facts)` — `chapters/med_terms_a.tex:436` — consumer/resource or care-instruction title
+- `Acetaminophen Dosing For Children` — `chapters/med_terms_a.tex:601` — consumer/resource or care-instruction title
+- `Achilles Tendon Rupture - Aftercare` — `chapters/med_terms_a.tex:676` — consumer/resource or care-instruction title
+- `ACL Reconstruction - Discharge` — `chapters/med_terms_a.tex:779` — consumer/resource or care-instruction title
+- `Acne - Self-Care` — `chapters/med_terms_a.tex:788` — consumer/resource or care-instruction title
+- `Advance Statements About Medical Treatment` — `chapters/med_terms_a.tex:1859` — consumer/resource or care-instruction title
+- `Advanced Cardiac Life Support` — `chapters/med_terms_a.tex:1864` — consumer/resource or care-instruction title
+- `Advanced Cardiovascular Life Support` — `chapters/med_terms_a.tex:1866` — consumer/resource or care-instruction title
+- `Afib (Atrial Fibrillation (AFib) Warning Symptoms)` — `chapters/med_terms_a.tex:1985` — consumer/resource or care-instruction title
+- `AFib Vs VFib Symptoms (Atrial Fibrillation Vs. Ventricular Fibrillation)` — `chapters/med_terms_a.tex:1989` — consumer/resource or care-instruction title
+- `Alcohol Use Disorder - Resources` — `chapters/med_terms_a.tex:2469` — consumer/resource or care-instruction title
+- `Allergic Rhinitis - Self-Care` — `chapters/med_terms_a.tex:2626` — consumer/resource or care-instruction title
+- `Allergic Rhinitis - What To Ask Your Doctor - Adult` — `chapters/med_terms_a.tex:2628` — consumer/resource or care-instruction title
+- `Allergic Rhinitis - What To Ask Your Doctor - Child` — `chapters/med_terms_a.tex:2630` — consumer/resource or care-instruction title
+- `ALS - Resources` — `chapters/med_terms_a.tex:2821` — consumer/resource or care-instruction title
+- `Alzheimer Disease - Resources` — `chapters/med_terms_a.tex:2905` — consumer/resource or care-instruction title
+- `Alzheimer's Disease Causes, Stages, And Symptoms` — `chapters/med_terms_a.tex:2914` — consumer/resource or care-instruction title
+- `Alzheimer's Disease Symptoms And Stages` — `chapters/med_terms_a.tex:2916` — consumer/resource or care-instruction title
+- `Alzheimers Disease Stages And Symptoms (Alzheimer's Disease Symptoms And Stages)` — `chapters/med_terms_a.tex:2921` — consumer/resource or care-instruction title
+- `Anal Itching - Self-Care` — `chapters/med_terms_a.tex:3310` — consumer/resource or care-instruction title
+- `Angina - Discharge` — `chapters/med_terms_a.tex:3633` — consumer/resource or care-instruction title
+- `Angina Symptoms` — `chapters/med_terms_a.tex:3644` — consumer/resource or care-instruction title
+- `Angioplasty And Stent - Heart - Discharge` — `chapters/med_terms_a.tex:3707` — consumer/resource or care-instruction title
+- `Angioplasty And Stent Placement - Carotid Artery - Discharge` — `chapters/med_terms_a.tex:3711` — consumer/resource or care-instruction title
+- `Angioplasty And Stent Placement - Peripheral Arteries - Discharge` — `chapters/med_terms_a.tex:3717` — consumer/resource or care-instruction title
+- `Animal Bites - Self-Care` — `chapters/med_terms_a.tex:3762` — consumer/resource or care-instruction title
+- `Ankle Fracture - Aftercare` — `chapters/med_terms_a.tex:3807` — consumer/resource or care-instruction title
+- `Ankle Replacement - Discharge` — `chapters/med_terms_a.tex:3826` — consumer/resource or care-instruction title
+- `Ankle Sprain - Aftercare` — `chapters/med_terms_a.tex:3833` — consumer/resource or care-instruction title
+- `Anterior Cruciate Ligament (ACL) Injury - Aftercare` — `chapters/med_terms_a.tex:4010` — consumer/resource or care-instruction title
+- `Anti-Reflux Surgery - Children - Discharge` — `chapters/med_terms_a.tex:4142` — consumer/resource or care-instruction title
+- `Anti-Reflux Surgery - Discharge` — `chapters/med_terms_a.tex:4144` — consumer/resource or care-instruction title
+- `Aortic Aneurysm Repair - Endovascular - Discharge` — `chapters/med_terms_a.tex:4669` — consumer/resource or care-instruction title
+- `Arthritis - Resources` — `chapters/med_terms_a.tex:5342` — consumer/resource or care-instruction title
+- `Asthma - Child - Discharge` — `chapters/med_terms_a.tex:5722` — consumer/resource or care-instruction title
+- `Asthma And Allergy Resources` — `chapters/med_terms_a.tex:5730` — consumer/resource or care-instruction title
+- `Asthma In Adults - What To Ask The Doctor` — `chapters/med_terms_a.tex:5741` — consumer/resource or care-instruction title
+- `Asthma In Children - What To Ask Your Doctor` — `chapters/med_terms_a.tex:5745` — consumer/resource or care-instruction title
+- `Asthma OTC Medication (Asthma: Over The Counter Treatment)` — `chapters/med_terms_a.tex:5749` — consumer/resource or care-instruction title
+- `Asthma: Over The Counter Treatment` — `chapters/med_terms_a.tex:5769` — consumer/resource or care-instruction title
+- `Atopic Dermatitis - Self-Care` — `chapters/med_terms_a.tex:5941` — consumer/resource or care-instruction title
+- `Atrial Fibrillation (AFib) Warning Symptoms` — `chapters/med_terms_a.tex:5999` — consumer/resource or care-instruction title
+- `Atrial Fibrillation AFib Treatment Drugs` — `chapters/med_terms_a.tex:6009` — consumer/resource or care-instruction title
+- `Autism - Resources` — `chapters/med_terms_a.tex:6275` — consumer/resource or care-instruction title
+- `Bacterial Vaginosis (Causes, Symptoms, Treatment)` — `chapters/med_terms_b.tex:296` — consumer/resource or care-instruction title
+- `Bacterial Vaginosis - Aftercare` — `chapters/med_terms_b.tex:298` — consumer/resource or care-instruction title
+- `Basic Life Support` — `chapters/med_terms_b.tex:787` — consumer/resource or care-instruction title
+- `Before Weight-Loss Surgery - What To Ask Your Doctor` — `chapters/med_terms_b.tex:1011` — consumer/resource or care-instruction title
+- `Benign Positional Vertigo - Aftercare` — `chapters/med_terms_b.tex:1178` — consumer/resource or care-instruction title
+- `Benign Prostate Hyperplasia (BPH) - Resources` — `chapters/med_terms_b.tex:1182` — consumer/resource or care-instruction title
+- `Best Foods To Eat For Constipation Relief (Top Foods For Constipation Relief)` — `chapters/med_terms_b.tex:1318` — consumer/resource or care-instruction title
+- `Best Foods To Eat When You Have Gallstones` — `chapters/med_terms_b.tex:1320` — consumer/resource or care-instruction title
+- `Best Home Remedies For Upper Respiratory Infection` — `chapters/med_terms_b.tex:1324` — consumer/resource or care-instruction title
+- `Best Home Remedies For Vaginal Itching` — `chapters/med_terms_b.tex:1326` — consumer/resource or care-instruction title
+- `Best Medicine And Treatment For Bronchitis` — `chapters/med_terms_b.tex:1332` — consumer/resource or care-instruction title
+- `Best Treatment For Degenerative Disc Disease` — `chapters/med_terms_b.tex:1344` — consumer/resource or care-instruction title
+- `Best Treatment For Hidradenitis Suppurativa` — `chapters/med_terms_b.tex:1346` — consumer/resource or care-instruction title
+- `Best Treatment For Yellow Jacket Stings` — `chapters/med_terms_b.tex:1348` — consumer/resource or care-instruction title
+- `Best Treatment Options For Acne Rosacea` — `chapters/med_terms_b.tex:1350` — consumer/resource or care-instruction title
+- `Bite Dog (Dog Bite Treatment)` — `chapters/med_terms_b.tex:2150` — consumer/resource or care-instruction title
+- `Bland Diet` — `chapters/med_terms_b.tex:2334` — consumer/resource or care-instruction title
+- `Bleeding During Cancer Treatment` — `chapters/med_terms_b.tex:2398` — consumer/resource or care-instruction title
+- `Blindness - Resources` — `chapters/med_terms_b.tex:2474` — consumer/resource or care-instruction title
+- `Blood Treatment` — `chapters/med_terms_b.tex:2684` — consumer/resource or care-instruction title
+- `Blood When I Wipe: 11 Causes Of Rectal Bleeding` — `chapters/med_terms_b.tex:2704` — consumer/resource or care-instruction title
+- `Bone Marrow Transplant - Discharge` — `chapters/med_terms_b.tex:3052` — consumer/resource or care-instruction title
+- `Bone Marrow Transplant In Children - Discharge` — `chapters/med_terms_b.tex:3054` — consumer/resource or care-instruction title
+- `Brain Aneurysm Repair - Discharge` — `chapters/med_terms_b.tex:3485` — consumer/resource or care-instruction title
+- `Brain Injury - Discharge` — `chapters/med_terms_b.tex:3545` — consumer/resource or care-instruction title
+- `Brain Radiation - Discharge` — `chapters/med_terms_b.tex:3577` — consumer/resource or care-instruction title
+- `Brain Surgery - Discharge` — `chapters/med_terms_b.tex:3589` — consumer/resource or care-instruction title
+- `Breast Cancer (Facts, Stages)` — `chapters/med_terms_b.tex:3708` — consumer/resource or care-instruction title
+- `Breast Cancer And Coping With Stress` — `chapters/med_terms_b.tex:3713` — consumer/resource or care-instruction title
+- `Breast Cancer Questions To Ask The Doctor` — `chapters/med_terms_b.tex:3728` — consumer/resource or care-instruction title
+- `Breast Discharge` — `chapters/med_terms_b.tex:3754` — consumer/resource or care-instruction title
+- `Breast External Beam Radiation - Discharge` — `chapters/med_terms_b.tex:3768` — consumer/resource or care-instruction title
+- `Breastfeeding - Resources` — `chapters/med_terms_b.tex:3855` — consumer/resource or care-instruction title
+- `Breastfeeding - Self-Care` — `chapters/med_terms_b.tex:3857` — consumer/resource or care-instruction title
+- `Bringing Your Child To Visit A Very Ill Sibling` — `chapters/med_terms_b.tex:3994` — consumer/resource or care-instruction title
+- `Broken Collarbone - Aftercare` — `chapters/med_terms_b.tex:4050` — consumer/resource or care-instruction title
+- `Broken Kneecap - Aftercare` — `chapters/med_terms_b.tex:4070` — consumer/resource or care-instruction title
+- `Broken Toe - Self-Care` — `chapters/med_terms_b.tex:4092` — consumer/resource or care-instruction title
+- `Bronchiolitis - Discharge` — `chapters/med_terms_b.tex:4198` — consumer/resource or care-instruction title
+- `Bronchoscopy - Aftercare` — `chapters/med_terms_b.tex:4273` — consumer/resource or care-instruction title
+- `Brucellosis Facts` — `chapters/med_terms_b.tex:4346` — consumer/resource or care-instruction title
+- `Bunion Removal - Discharge` — `chapters/med_terms_b.tex:4542` — consumer/resource or care-instruction title
+- `Burns - Resources` — `chapters/med_terms_b.tex:4632` — consumer/resource or care-instruction title
+- `Can'T Sleep? Try These Tips` — `chapters/med_terms_c.tex:467` — consumer/resource or care-instruction title
+- `Cancer - Resources` — `chapters/med_terms_c.tex:497` — consumer/resource or care-instruction title
+- `Cancer Causes` — `chapters/med_terms_c.tex:505` — consumer/resource or care-instruction title
+- `Cancer Inflammatory Breast (Breast Cancer (Facts, Stages))` — `chapters/med_terms_c.tex:527` — consumer/resource or care-instruction title
+- `Cancer Risk (Cancer Causes)` — `chapters/med_terms_c.tex:553` — consumer/resource or care-instruction title
+- `Cancer Treatment - Dealing With Pain` — `chapters/med_terms_c.tex:571` — consumer/resource or care-instruction title
+- `Cancer Treatment - Early Menopause` — `chapters/med_terms_c.tex:573` — consumer/resource or care-instruction title
+- `Cancer Treatment - Preventing Infection` — `chapters/med_terms_c.tex:575` — consumer/resource or care-instruction title
+- `Cancer Treatment: Dealing With Hot Flashes And Night Sweats` — `chapters/med_terms_c.tex:577` — consumer/resource or care-instruction title
+- `Cancer Treatment: Fertility And Sexual Side Effects In Women` — `chapters/med_terms_c.tex:579` — consumer/resource or care-instruction title
+- `Cardiac Catheterization - Discharge` — `chapters/med_terms_c.tex:1181` — consumer/resource or care-instruction title
+- `Cardiac Diet` — `chapters/med_terms_c.tex:1209` — consumer/resource or care-instruction title
+- `Caregiving - Resources - Older Adults` — `chapters/med_terms_c.tex:1537` — consumer/resource or care-instruction title
+- `Carotid Artery Stenosis - Self-Care` — `chapters/med_terms_c.tex:1626` — consumer/resource or care-instruction title
+- `Carotid Artery Surgery - Discharge` — `chapters/med_terms_c.tex:1633` — consumer/resource or care-instruction title
+- `Cataracts - What To Ask Your Doctor` — `chapters/med_terms_c.tex:1848` — consumer/resource or care-instruction title
+- `Causes And Risks For Obesity In Children` — `chapters/med_terms_c.tex:2012` — consumer/resource or care-instruction title
+- `Causes Symptoms Of Hormonal Imbalances Women` — `chapters/med_terms_c.tex:2014` — consumer/resource or care-instruction title
+- `Celiac Disease - Resources` — `chapters/med_terms_c.tex:2193` — consumer/resource or care-instruction title
+- `Cerebral Palsy - Resources` — `chapters/med_terms_c.tex:2655` — consumer/resource or care-instruction title
+- `Cerebrovascular Accident (Stroke Symptoms And Treatment)` — `chapters/med_terms_c.tex:2739` — consumer/resource or care-instruction title
+- `Chemical Dependence - Resources` — `chapters/med_terms_c.tex:3203` — consumer/resource or care-instruction title
+- `Chemotherapy - What To Ask Your Doctor` — `chapters/med_terms_c.tex:3307` — consumer/resource or care-instruction title
+- `Chemotherapy Treatment` — `chapters/med_terms_c.tex:3315` — consumer/resource or care-instruction title
+- `Chest Radiation - Discharge` — `chapters/med_terms_c.tex:3354` — consumer/resource or care-instruction title
+- `Child Abuse Facts` — `chapters/med_terms_c.tex:3471` — consumer/resource or care-instruction title
+- `Children's Cough Causes And Treatments` — `chapters/med_terms_c.tex:3583` — consumer/resource or care-instruction title
+- `Chloride In Diet` — `chapters/med_terms_c.tex:3716` — consumer/resource or care-instruction title
+- `Cholesterol - Drug Treatment` — `chapters/med_terms_c.tex:3913` — consumer/resource or care-instruction title
+- `Cholesterol - What To Ask Your Doctor` — `chapters/med_terms_c.tex:3915` — consumer/resource or care-instruction title
+- `Choosing A Doctor And Hospital For Your Cancer Treatment` — `chapters/med_terms_c.tex:4014` — consumer/resource or care-instruction title
+- `Chromium In Diet` — `chapters/med_terms_c.tex:4125` — consumer/resource or care-instruction title
+- `Chronic Fatigue Syndrome - Resources` — `chapters/med_terms_c.tex:4209` — consumer/resource or care-instruction title
+- `Chronic Obstructive Pulmonary Disease - Adults - Discharge` — `chapters/med_terms_c.tex:4340` — consumer/resource or care-instruction title
+- `Chronic Pain - Resources` — `chapters/med_terms_c.tex:4347` — consumer/resource or care-instruction title
+- `Cirrhosis - Discharge` — `chapters/med_terms_c.tex:4577` — consumer/resource or care-instruction title
+- `Clear Liquid Diet` — `chapters/med_terms_c.tex:4699` — consumer/resource or care-instruction title
+- `Cleft Lip And Palate Repair - Discharge` — `chapters/med_terms_c.tex:4722` — consumer/resource or care-instruction title
+- `Cleft Palate - Resources` — `chapters/med_terms_c.tex:4729` — consumer/resource or care-instruction title
+- `Clinic Visit` — `chapters/med_terms_c.tex:4749` — consumer/resource or care-instruction title
+- `Closed Reduction Of A Fractured Bone - Aftercare` — `chapters/med_terms_c.tex:4899` — consumer/resource or care-instruction title
+- `Colds And The Flu - What To Ask Your Doctor - Adult` — `chapters/med_terms_c.tex:5343` — consumer/resource or care-instruction title
+- `Colds And The Flu - What To Ask Your Doctor - Child` — `chapters/med_terms_c.tex:5345` — consumer/resource or care-instruction title
+- `Colic And Crying - Self-Care` — `chapters/med_terms_c.tex:5357` — consumer/resource or care-instruction title
+- `Collateral Ligament (CL) Injury - Aftercare` — `chapters/med_terms_c.tex:5419` — consumer/resource or care-instruction title
+- `Colles Wrist Fracture - Aftercare` — `chapters/med_terms_c.tex:5433` — consumer/resource or care-instruction title
+- `Colonoscopy Discharge` — `chapters/med_terms_c.tex:5500` — consumer/resource or care-instruction title
+- `Colorectal Cancer - Resources` — `chapters/med_terms_c.tex:5539` — consumer/resource or care-instruction title
+- `Common Cold Stages And Timeline Of Symptoms` — `chapters/med_terms_c.tex:5648` — consumer/resource or care-instruction title
+- `Common Early Symptoms Of Myasthenia Gravis` — `chapters/med_terms_c.tex:5650` — consumer/resource or care-instruction title
+- `Common Symptoms During Pregnancy` — `chapters/med_terms_c.tex:5676` — consumer/resource or care-instruction title
+- `Concussion In Adults - Discharge` — `chapters/med_terms_c.tex:5985` — consumer/resource or care-instruction title
+- `Concussion In Adults - What To Ask Your Doctor` — `chapters/med_terms_c.tex:5987` — consumer/resource or care-instruction title
+- `Concussion In Children - Discharge` — `chapters/med_terms_c.tex:5989` — consumer/resource or care-instruction title
+- `Concussion In Children - What To Ask Your Doctor` — `chapters/med_terms_c.tex:5991` — consumer/resource or care-instruction title
+- `Constipation - Self-Care` — `chapters/med_terms_c.tex:6311` — consumer/resource or care-instruction title
+- `Constipation - What To Ask Your Doctor` — `chapters/med_terms_c.tex:6313` — consumer/resource or care-instruction title
+- `Constipation Foods To Avoid (Top Foods That Cause Constipation)` — `chapters/med_terms_c.tex:6315` — consumer/resource or care-instruction title
+- `Constipation Home Remedies (Constipation)` — `chapters/med_terms_c.tex:6317` — consumer/resource or care-instruction title
+- `Consumption (Tuberculosis (TB) Facts)` — `chapters/med_terms_c.tex:6342` — consumer/resource or care-instruction title
+- `COPD - What To Ask Your Doctor` — `chapters/med_terms_c.tex:6609` — consumer/resource or care-instruction title
+- `Coping With Cancer - Finding The Support You Need` — `chapters/med_terms_c.tex:6628` — consumer/resource or care-instruction title
+- `Coping With Cancer - Hair Loss` — `chapters/med_terms_c.tex:6630` — consumer/resource or care-instruction title
+- `Coping With Cancer - Looking And Feeling Your Best` — `chapters/med_terms_c.tex:6632` — consumer/resource or care-instruction title
+- `Coping With Cancer - Managing Fatigue` — `chapters/med_terms_c.tex:6634` — consumer/resource or care-instruction title
+- `Copper In Diet` — `chapters/med_terms_c.tex:6641` — consumer/resource or care-instruction title
+- `Corneal Transplant - Discharge` — `chapters/med_terms_c.tex:6733` — consumer/resource or care-instruction title
+- `Cosmetic Breast Surgery - Discharge` — `chapters/med_terms_c.tex:6992` — consumer/resource or care-instruction title
+- `COVID-19 Prevention Tips` — `chapters/med_terms_c.tex:7089` — consumer/resource or care-instruction title
+- `COVID-19 Symptoms` — `chapters/med_terms_c.tex:7091` — consumer/resource or care-instruction title
+- `COVID-19 Vaccines For Children Ages 6 Months And Older` — `chapters/med_terms_c.tex:7101` — consumer/resource or care-instruction title
+- `COVID-19 – What To Do When You Are Sick` — `chapters/med_terms_c.tex:7109` — consumer/resource or care-instruction title
+- `Craniosynostosis Repair - Discharge` — `chapters/med_terms_c.tex:7264` — consumer/resource or care-instruction title
+- `Crohn Disease - Children - Discharge` — `chapters/med_terms_c.tex:7424` — consumer/resource or care-instruction title
+- `Crohn Disease - Discharge` — `chapters/med_terms_c.tex:7426` — consumer/resource or care-instruction title
+- `Croup - Discharge` — `chapters/med_terms_c.tex:7464` — consumer/resource or care-instruction title
+- `Crutches And Children - Proper Fit And Safety Tips` — `chapters/med_terms_c.tex:7518` — consumer/resource or care-instruction title
+- `Cystic Fibrosis - Resources` — `chapters/med_terms_c.tex:8089` — consumer/resource or care-instruction title
+- `DASH Diet To Lower High Blood Pressure` — `chapters/med_terms_d.tex:173` — consumer/resource or care-instruction title
+- `DASH Diet` — `chapters/med_terms_d.tex:169` — consumer/resource or care-instruction title
+- `Deep Vein Thrombosis - Discharge` — `chapters/med_terms_d.tex:452` — consumer/resource or care-instruction title
+- `Dehydration: Causes And Prevention` — `chapters/med_terms_d.tex:607` — consumer/resource or care-instruction title
+- `Dementia - Keeping Safe In The Home` — `chapters/med_terms_d.tex:761` — consumer/resource or care-instruction title
+- `Dementia - What To Ask Your Doctor` — `chapters/med_terms_d.tex:763` — consumer/resource or care-instruction title
+- `Dementia Due To Metabolic Causes` — `chapters/med_terms_d.tex:767` — consumer/resource or care-instruction title
+- `Dental Plaque Identification At Home` — `chapters/med_terms_d.tex:962` — consumer/resource or care-instruction title
+- `Depression - Resources` — `chapters/med_terms_d.tex:1143` — consumer/resource or care-instruction title
+- `Diabetes - Keeping Active` — `chapters/med_terms_d.tex:1588` — consumer/resource or care-instruction title
+- `Diabetes - Resources` — `chapters/med_terms_d.tex:1592` — consumer/resource or care-instruction title
+- `Diabetes Myths And Facts` — `chapters/med_terms_d.tex:1655` — consumer/resource or care-instruction title
+- `Diabetes Symptoms In Men` — `chapters/med_terms_d.tex:1664` — consumer/resource or care-instruction title
+- `Diabetes Symptoms In Women` — `chapters/med_terms_d.tex:1666` — consumer/resource or care-instruction title
+- `Diabetes Treatment` — `chapters/med_terms_d.tex:1670` — consumer/resource or care-instruction title
+- `Diabetic Diet For Type 2 Diabetes` — `chapters/med_terms_d.tex:1713` — consumer/resource or care-instruction title
+- `Diabetic Diet` — `chapters/med_terms_d.tex:1708` — consumer/resource or care-instruction title
+- `Dialysis Centers - What To Expect` — `chapters/med_terms_d.tex:1857` — consumer/resource or care-instruction title
+- `Diarrhea - What To Ask Your Doctor - Child` — `chapters/med_terms_d.tex:1919` — consumer/resource or care-instruction title
+- `Diarrhea - What To Ask Your Health Care Provider  - Adult` — `chapters/med_terms_d.tex:1921` — consumer/resource or care-instruction title
+- `Diet - Chronic Kidney Disease` — `chapters/med_terms_d.tex:2068` — consumer/resource or care-instruction title
+- `Diet - Liver Disease` — `chapters/med_terms_d.tex:2070` — consumer/resource or care-instruction title
+- `Diet After Gastric Banding` — `chapters/med_terms_d.tex:2072` — consumer/resource or care-instruction title
+- `Diet And Cancer` — `chapters/med_terms_d.tex:2074` — consumer/resource or care-instruction title
+- `Diet And Eating After Esophagectomy` — `chapters/med_terms_d.tex:2076` — consumer/resource or care-instruction title
+- `Diet Diabetes (Diabetic Diet)` — `chapters/med_terms_d.tex:2078` — consumer/resource or care-instruction title
+- `Diet For Rapid Weight Loss` — `chapters/med_terms_d.tex:2080` — consumer/resource or care-instruction title
+- `Diet IBS (Irritable Bowel Syndrome (IBS) Triggers, Prevention)` — `chapters/med_terms_d.tex:2082` — consumer/resource or care-instruction title
+- `Diet Myths And Facts` — `chapters/med_terms_d.tex:2084` — consumer/resource or care-instruction title
+- `Diet Therapy` — `chapters/med_terms_d.tex:2086` — consumer/resource or care-instruction title
+- `Diet Ulcerative Colitis (Ulcerative Colitis Diet)` — `chapters/med_terms_d.tex:2088` — consumer/resource or care-instruction title
+- `Diet-Boosting Foods` — `chapters/med_terms_d.tex:2090` — consumer/resource or care-instruction title
+- `Diet-Busting Foods` — `chapters/med_terms_d.tex:2092` — consumer/resource or care-instruction title
+- `Diet` — `chapters/med_terms_d.tex:2066` — consumer/resource or care-instruction title
+- `Diphtheria Facts` — `chapters/med_terms_d.tex:2494` — consumer/resource or care-instruction title
+- `Disaster Preparedness` — `chapters/med_terms_d.tex:2612` — consumer/resource or care-instruction title
+- `Discharge Planning` — `chapters/med_terms_d.tex:2622` — consumer/resource or care-instruction title
+- `Discharge` — `chapters/med_terms_d.tex:2620` — consumer/resource or care-instruction title
+- `Dislocated Shoulder - Aftercare` — `chapters/med_terms_d.tex:2733` — consumer/resource or care-instruction title
+- `Diverticulitis - What To Ask Your Doctor` — `chapters/med_terms_d.tex:2920` — consumer/resource or care-instruction title
+- `Diverticulitis And Diverticulosis - Discharge` — `chapters/med_terms_d.tex:2922` — consumer/resource or care-instruction title
+- `Dizziness And Vertigo - Aftercare` — `chapters/med_terms_d.tex:2958` — consumer/resource or care-instruction title
+- `Dizziness: Causes, Symptoms, And Treatment` — `chapters/med_terms_d.tex:2960` — consumer/resource or care-instruction title
+- `Dizziness: When To See A Doctor?` — `chapters/med_terms_d.tex:2962` — consumer/resource or care-instruction title
+- `Dog Bite Treatment` — `chapters/med_terms_d.tex:3118` — consumer/resource or care-instruction title
+- `Drinking Water Safely During Cancer Treatment` — `chapters/med_terms_d.tex:3467` — consumer/resource or care-instruction title
+- `Drug Reaction With Eosinophilia And Systemic Symptoms` — `chapters/med_terms_d.tex:3600` — consumer/resource or care-instruction title
+- `Dry Mouth During Cancer Treatment` — `chapters/med_terms_d.tex:3744` — consumer/resource or care-instruction title
+- `Dry Skin - Self-Care` — `chapters/med_terms_d.tex:3756` — consumer/resource or care-instruction title
+- `Dysphagia Diet` — `chapters/med_terms_d.tex:4177` — consumer/resource or care-instruction title
+- `Ear Discharge` — `chapters/med_terms_e.tex:46` — consumer/resource or care-instruction title
+- `Ear Tube Surgery - What To Ask Your Doctor` — `chapters/med_terms_e.tex:92` — consumer/resource or care-instruction title
+- `Eating Disorders - Resources` — `chapters/med_terms_e.tex:162` — consumer/resource or care-instruction title
+- `Eczema Facts` — `chapters/med_terms_e.tex:441` — consumer/resource or care-instruction title
+- `EGD Discharge` — `chapters/med_terms_e.tex:580` — consumer/resource or care-instruction title
+- `Elbow Replacement - Discharge` — `chapters/med_terms_e.tex:739` — consumer/resource or care-instruction title
+- `Elbow Sprain - Aftercare` — `chapters/med_terms_e.tex:741` — consumer/resource or care-instruction title
+- `Elder Care - Resources` — `chapters/med_terms_e.tex:752` — consumer/resource or care-instruction title
+- `Empirical Treatment` — `chapters/med_terms_e.tex:1139` — consumer/resource or care-instruction title
+- `End-Stage COPD: Signs, Symptoms, And Prognosis` — `chapters/med_terms_e.tex:1233` — consumer/resource or care-instruction title
+- `Enlarged Prostate - What To Ask Your Doctor` — `chapters/med_terms_e.tex:1641` — consumer/resource or care-instruction title
+- `Epilepsy - Resources` — `chapters/med_terms_e.tex:2157` — consumer/resource or care-instruction title
+- `Epilepsy And Seizures: How To Treat` — `chapters/med_terms_e.tex:2159` — consumer/resource or care-instruction title
+- `Epilepsy In Adults - What To Ask Your Doctor` — `chapters/med_terms_e.tex:2161` — consumer/resource or care-instruction title
+- `Epilepsy In Children - Discharge` — `chapters/med_terms_e.tex:2165` — consumer/resource or care-instruction title
+- `Epilepsy In Children - What To Ask Your Doctor` — `chapters/med_terms_e.tex:2167` — consumer/resource or care-instruction title
+- `Epilepsy Or Seizures - Discharge` — `chapters/med_terms_e.tex:2169` — consumer/resource or care-instruction title
+- `Episiotomy - Aftercare` — `chapters/med_terms_e.tex:2232` — consumer/resource or care-instruction title
+- `Erection Problems - Aftercare` — `chapters/med_terms_e.tex:2372` — consumer/resource or care-instruction title
+- `Esophagectomy - Discharge` — `chapters/med_terms_e.tex:2748` — consumer/resource or care-instruction title
+- `Exclusion Diet` — `chapters/med_terms_e.tex:3253` — consumer/resource or care-instruction title
+- `Expectant Treatment` — `chapters/med_terms_e.tex:3438` — consumer/resource or care-instruction title
+- `Extrapyramidal Symptoms` — `chapters/med_terms_e.tex:3657` — consumer/resource or care-instruction title
+- `Eye Burning - Itching And Discharge` — `chapters/med_terms_e.tex:3733` — consumer/resource or care-instruction title
+- `Eye Muscle Repair - Discharge` — `chapters/med_terms_e.tex:3782` — consumer/resource or care-instruction title
+- `Facts About Monounsaturated Fats` — `chapters/med_terms_f.tex:180` — consumer/resource or care-instruction title
+- `Facts About Polyunsaturated Fats` — `chapters/med_terms_f.tex:182` — consumer/resource or care-instruction title
+- `Facts About Saturated Fats` — `chapters/med_terms_f.tex:184` — consumer/resource or care-instruction title
+- `Facts About Trans Fats` — `chapters/med_terms_f.tex:186` — consumer/resource or care-instruction title
+- `Family Troubles - Resources` — `chapters/med_terms_f.tex:375` — consumer/resource or care-instruction title
+- `Fast Food Tips` — `chapters/med_terms_f.tex:440` — consumer/resource or care-instruction title
+- `Febrile Seizures - What To Ask Your Doctor` — `chapters/med_terms_f.tex:602` — consumer/resource or care-instruction title
+- `Feeding Patterns And Diet - Babies And Infants` — `chapters/med_terms_f.tex:691` — consumer/resource or care-instruction title
+- `Feeding Patterns And Diet - Children 6 Months To 2 Years` — `chapters/med_terms_f.tex:693` — consumer/resource or care-instruction title
+- `Feingold Diet` — `chapters/med_terms_f.tex:703` — consumer/resource or care-instruction title
+- `Femur Fracture Repair - Discharge` — `chapters/med_terms_f.tex:817` — consumer/resource or care-instruction title
+- `Fibromyalgia Facts` — `chapters/med_terms_f.tex:1215` — consumer/resource or care-instruction title
+- `Fire Safety At Home` — `chapters/med_terms_f.tex:1405` — consumer/resource or care-instruction title
+- `Fluoride In Diet` — `chapters/med_terms_f.tex:1847` — consumer/resource or care-instruction title
+- `FODMAP Diet` — `chapters/med_terms_f.tex:1994` — consumer/resource or care-instruction title
+- `Folic Acid In Diet` — `chapters/med_terms_f.tex:2028` — consumer/resource or care-instruction title
+- `Foods - Fresh Vs. Frozen Or Canned` — `chapters/med_terms_f.tex:2192` — consumer/resource or care-instruction title
+- `Foot Amputation - Discharge` — `chapters/med_terms_f.tex:2196` — consumer/resource or care-instruction title
+- `Foot Sprain - Aftercare` — `chapters/med_terms_f.tex:2216` — consumer/resource or care-instruction title
+- `Frozen Shoulder - Aftercare` — `chapters/med_terms_f.tex:2788` — consumer/resource or care-instruction title
+- `Full Liquid Diet` — `chapters/med_terms_f.tex:2867` — consumer/resource or care-instruction title
+- `Gallbladder Removal - Laparoscopic - Discharge` — `chapters/med_terms_g.tex:214` — consumer/resource or care-instruction title
+- `Gallbladder Removal - Open - Discharge` — `chapters/med_terms_g.tex:219` — consumer/resource or care-instruction title
+- `Gallstones - Discharge` — `chapters/med_terms_g.tex:266` — consumer/resource or care-instruction title
+- `Gastric Bypass Surgery - Discharge` — `chapters/med_terms_g.tex:485` — consumer/resource or care-instruction title
+- `Gastroesophageal Reflux - Discharge` — `chapters/med_terms_g.tex:666` — consumer/resource or care-instruction title
+- `Gastrointestinal Diseases - Resources` — `chapters/med_terms_g.tex:715` — consumer/resource or care-instruction title
+- `Generalized Anxiety Disorder - Self-Care` — `chapters/med_terms_g.tex:983` — consumer/resource or care-instruction title
+- `Genital Herpes - Self-Care` — `chapters/med_terms_g.tex:1119` — consumer/resource or care-instruction title
+- `Gestational Diabetes - Self-Care` — `chapters/med_terms_g.tex:1375` — consumer/resource or care-instruction title
+- `Gestational Diabetes Diet` — `chapters/med_terms_g.tex:1377` — consumer/resource or care-instruction title
+- `Getting Support When Your Child Has Cancer` — `chapters/med_terms_g.tex:1420` — consumer/resource or care-instruction title
+- `Getting Your Home Ready - After The Hospital` — `chapters/med_terms_g.tex:1425` — consumer/resource or care-instruction title
+- `Getting Your Home Ready - Knee Or Hip Surgery` — `chapters/med_terms_g.tex:1430` — consumer/resource or care-instruction title
+- `Gluten-Free Diet` — `chapters/med_terms_g.tex:2086` — consumer/resource or care-instruction title
+- `Goitrogenic Foods` — `chapters/med_terms_g.tex:2315` — consumer/resource or care-instruction title
+- `Gram Stain Of Urethral Discharge` — `chapters/med_terms_g.tex:2584` — consumer/resource or care-instruction title
+- `Guide Device` — `chapters/med_terms_g.tex:2988` — consumer/resource or care-instruction title
+- `Gunshot Wounds - Aftercare` — `chapters/med_terms_g.tex:3061` — consumer/resource or care-instruction title
+- `Halo Brace - Aftercare` — `chapters/med_terms_h.tex:329` — consumer/resource or care-instruction title
+- `Hammer Toe Repair - Discharge` — `chapters/med_terms_h.tex:384` — consumer/resource or care-instruction title
+- `Hamstring Strain - Aftercare` — `chapters/med_terms_h.tex:410` — consumer/resource or care-instruction title
+- `Hand Fracture - Aftercare` — `chapters/med_terms_h.tex:419` — consumer/resource or care-instruction title
+- `Hangover Treatment` — `chapters/med_terms_h.tex:475` — consumer/resource or care-instruction title
+- `Headache - What To Ask Your Doctor` — `chapters/med_terms_h.tex:706` — consumer/resource or care-instruction title
+- `Hearing Or Speech Impairment - Resources` — `chapters/med_terms_h.tex:872` — consumer/resource or care-instruction title
+- `Heart Attack - Discharge` — `chapters/med_terms_h.tex:907` — consumer/resource or care-instruction title
+- `Heart Attack - What To Ask Your Provider` — `chapters/med_terms_h.tex:909` — consumer/resource or care-instruction title
+- `Heart Bypass Surgery - Discharge` — `chapters/med_terms_h.tex:922` — consumer/resource or care-instruction title
+- `Heart Bypass Surgery - Minimally Invasive - Discharge` — `chapters/med_terms_h.tex:926` — consumer/resource or care-instruction title
+- `Heart Disease - Resources` — `chapters/med_terms_h.tex:939` — consumer/resource or care-instruction title
+- `Heart Disease And Diet` — `chapters/med_terms_h.tex:945` — consumer/resource or care-instruction title
+- `Heart Failure - Discharge` — `chapters/med_terms_h.tex:955` — consumer/resource or care-instruction title
+- `Heart Failure - What To Ask Your Doctor` — `chapters/med_terms_h.tex:967` — consumer/resource or care-instruction title
+- `Heart Failure Stages` — `chapters/med_terms_h.tex:973` — consumer/resource or care-instruction title
+- `Heart Pacemaker - Discharge` — `chapters/med_terms_h.tex:1012` — consumer/resource or care-instruction title
+- `Heart Valve Surgery - Discharge` — `chapters/med_terms_h.tex:1071` — consumer/resource or care-instruction title
+- `Heartburn - What To Ask Your Provider` — `chapters/med_terms_h.tex:1094` — consumer/resource or care-instruction title
+- `Heel Pain And Achilles Tendonitis - Aftercare` — `chapters/med_terms_h.tex:1183` — consumer/resource or care-instruction title
+- `Hemophilia - Resources` — `chapters/med_terms_h.tex:1610` — consumer/resource or care-instruction title
+- `Hemorrhoid Removal - Discharge` — `chapters/med_terms_h.tex:1652` — consumer/resource or care-instruction title
+- `Herbal Remedies And Supplements For Weight Loss` — `chapters/med_terms_h.tex:2005` — consumer/resource or care-instruction title
+- `Herpes - Resources` — `chapters/med_terms_h.tex:2122` — consumer/resource or care-instruction title
+- `High Blood Pressure - What To Ask Your Doctor` — `chapters/med_terms_h.tex:2388` — consumer/resource or care-instruction title
+- `High Blood Pressure And Diet` — `chapters/med_terms_h.tex:2390` — consumer/resource or care-instruction title
+- `High Blood Sugar - Self-Care` — `chapters/med_terms_h.tex:2408` — consumer/resource or care-instruction title
+- `High Protein Diet` — `chapters/med_terms_h.tex:2420` — consumer/resource or care-instruction title
+- `High-Fiber Foods` — `chapters/med_terms_h.tex:2448` — consumer/resource or care-instruction title
+- `Hip Flexor Strain - Aftercare` — `chapters/med_terms_h.tex:2516` — consumer/resource or care-instruction title
+- `Hip Fracture - Discharge` — `chapters/med_terms_h.tex:2526` — consumer/resource or care-instruction title
+- `Hip Or Knee Replacement - After - What To Ask Your Doctor` — `chapters/med_terms_h.tex:2543` — consumer/resource or care-instruction title
+- `Hip Or Knee Replacement - Before - What To Ask Your Doctor` — `chapters/med_terms_h.tex:2545` — consumer/resource or care-instruction title
+- `Hip Replacement - Discharge` — `chapters/med_terms_h.tex:2560` — consumer/resource or care-instruction title
+- `HIV/AIDS - Resources` — `chapters/med_terms_h.tex:2741` — consumer/resource or care-instruction title
+- `Human Bites - Self-Care` — `chapters/med_terms_h.tex:3123` — consumer/resource or care-instruction title
+- `Hypercalcemia - Discharge` — `chapters/med_terms_h.tex:3583` — consumer/resource or care-instruction title
+- `Hypertrophic Cardiomyopathy Treatment` — `chapters/med_terms_h.tex:3956` — consumer/resource or care-instruction title
+- `Hypospadias Repair - Discharge` — `chapters/med_terms_h.tex:4267` — consumer/resource or care-instruction title
+- `Hysterectomy - Abdominal - Discharge` — `chapters/med_terms_h.tex:4386` — consumer/resource or care-instruction title
+- `Hysterectomy - Laparoscopic - Discharge` — `chapters/med_terms_h.tex:4388` — consumer/resource or care-instruction title
+- `Hysterectomy - Vaginal - Discharge` — `chapters/med_terms_h.tex:4390` — consumer/resource or care-instruction title
+- `IBD Diet (Inflammatory Bowel Disease (IBD) Diet Plan)` — `chapters/med_terms_i.tex:19` — consumer/resource or care-instruction title
+- `Ibuprofen Dosing For Children` — `chapters/med_terms_i.tex:37` — consumer/resource or care-instruction title
+- `Ileostomy - Discharge` — `chapters/med_terms_i.tex:300` — consumer/resource or care-instruction title
+- `Ileostomy - What To Ask Your Doctor` — `chapters/med_terms_i.tex:302` — consumer/resource or care-instruction title
+- `Ileostomy And Your Diet` — `chapters/med_terms_i.tex:306` — consumer/resource or care-instruction title
+- `Iliotibial Band Syndrome - Aftercare` — `chapters/med_terms_i.tex:336` — consumer/resource or care-instruction title
+- `Immunotherapy: Questions To Ask Your Doctor` — `chapters/med_terms_i.tex:663` — consumer/resource or care-instruction title
+- `Implantable Cardioverter Defibrillator - Discharge` — `chapters/med_terms_i.tex:752` — consumer/resource or care-instruction title
+- `Incontinence - Resources` — `chapters/med_terms_i.tex:923` — consumer/resource or care-instruction title
+- `Infertility - Resources` — `chapters/med_terms_i.tex:1304` — consumer/resource or care-instruction title
+- `Inflammatory Bowel Disease (IBD) Diet Plan` — `chapters/med_terms_i.tex:1369` — consumer/resource or care-instruction title
+- `Inflammatory Bowel Disease Diet` — `chapters/med_terms_i.tex:1371` — consumer/resource or care-instruction title
+- `Ingrown Toenail Removal - Discharge` — `chapters/med_terms_i.tex:1486` — consumer/resource or care-instruction title
+- `Inguinal Hernia Repair - Discharge` — `chapters/med_terms_i.tex:1501` — consumer/resource or care-instruction title
+- `Integrative Medicine For Cancer Treatment` — `chapters/med_terms_i.tex:1844` — consumer/resource or care-instruction title
+- `Interstitial Cystitis - Resources` — `chapters/med_terms_i.tex:2118` — consumer/resource or care-instruction title
+- `Interstitial Lung Disease - Adults - Discharge` — `chapters/med_terms_i.tex:2139` — consumer/resource or care-instruction title
+- `Intestinal Or Bowel Obstruction - Discharge` — `chapters/med_terms_i.tex:2262` — consumer/resource or care-instruction title
+- `Involuntary Psychiatric Treatment` — `chapters/med_terms_i.tex:2727` — consumer/resource or care-instruction title
+- `Iodine In Diet` — `chapters/med_terms_i.tex:2757` — consumer/resource or care-instruction title
+- `Iron In Diet` — `chapters/med_terms_i.tex:2892` — consumer/resource or care-instruction title
+- `Irradiated Foods` — `chapters/med_terms_i.tex:2909` — consumer/resource or care-instruction title
+- `Irritable Bowel Syndrome - Aftercare` — `chapters/med_terms_i.tex:2946` — consumer/resource or care-instruction title
+- `Irritable Bowel Syndrome Diet` — `chapters/med_terms_i.tex:2948` — consumer/resource or care-instruction title
+- `Ischemic Chest Pain (Angina Symptoms)` — `chapters/med_terms_i.tex:2989` — consumer/resource or care-instruction title
+- `Ischemic Ulcers - Self-Care` — `chapters/med_terms_i.tex:3018` — consumer/resource or care-instruction title
+- `IV Treatment At Home` — `chapters/med_terms_i.tex:3200` — consumer/resource or care-instruction title
+- `Jaundice Causes` — `chapters/med_terms_j.tex:69` — consumer/resource or care-instruction title
+- `Keeping Your Medicines Organized` — `chapters/med_terms_k.tex:109` — consumer/resource or care-instruction title
+- `Kegel Exercises - Self-Care` — `chapters/med_terms_k.tex:115` — consumer/resource or care-instruction title
+- `Ketogenic Diet` — `chapters/med_terms_k.tex:268` — consumer/resource or care-instruction title
+- `Kidney Disease - Resources` — `chapters/med_terms_k.tex:333` — consumer/resource or care-instruction title
+- `Kidney Removal - Discharge` — `chapters/med_terms_k.tex:366` — consumer/resource or care-instruction title
+- `Kidney Stones - Self-Care` — `chapters/med_terms_k.tex:384` — consumer/resource or care-instruction title
+- `Kidney Stones - What To Ask Your Doctor` — `chapters/med_terms_k.tex:386` — consumer/resource or care-instruction title
+- `Kidney Stones And Lithotripsy - Discharge` — `chapters/med_terms_k.tex:388` — consumer/resource or care-instruction title
+- `Knee Arthroscopy - Discharge` — `chapters/med_terms_k.tex:575` — consumer/resource or care-instruction title
+- `Knee Joint Replacement - Discharge` — `chapters/med_terms_k.tex:597` — consumer/resource or care-instruction title
+- `Knee Pain Facts` — `chapters/med_terms_k.tex:610` — consumer/resource or care-instruction title
+- `Kneecap Dislocation - Aftercare` — `chapters/med_terms_k.tex:628` — consumer/resource or care-instruction title
+- `Labyrinthitis - Aftercare` — `chapters/med_terms_l.tex:77` — consumer/resource or care-instruction title
+- `Laceration - Sutures Or Staples - At Home` — `chapters/med_terms_l.tex:92` — consumer/resource or care-instruction title
+- `Laparoscopic Gastric Banding - Discharge` — `chapters/med_terms_l.tex:332` — consumer/resource or care-instruction title
+- `Laparoscopic Spleen Removal In Adults - Discharge` — `chapters/med_terms_l.tex:334` — consumer/resource or care-instruction title
+- `Large Bowel Resection - Discharge` — `chapters/med_terms_l.tex:361` — consumer/resource or care-instruction title
+- `Lasik Eye Surgery - Discharge` — `chapters/med_terms_l.tex:560` — consumer/resource or care-instruction title
+- `Leaving The Hospital - Your Discharge Plan` — `chapters/med_terms_l.tex:760` — consumer/resource or care-instruction title
+- `Leg Amputation - Discharge` — `chapters/med_terms_l.tex:867` — consumer/resource or care-instruction title
+- `Leukemia - Resources` — `chapters/med_terms_l.tex:1200` — consumer/resource or care-instruction title
+- `Liddle Syndrome Treatment` — `chapters/med_terms_l.tex:1462` — consumer/resource or care-instruction title
+- `Liquid Diet` — `chapters/med_terms_l.tex:1857` — consumer/resource or care-instruction title
+- `Liver Disease - Resources` — `chapters/med_terms_l.tex:1989` — consumer/resource or care-instruction title
+- `Liver Disease Diet` — `chapters/med_terms_l.tex:1991` — consumer/resource or care-instruction title
+- `Local Treatment` — `chapters/med_terms_l.tex:2181` — consumer/resource or care-instruction title
+- `Loss Of A Child - Resources` — `chapters/med_terms_l.tex:2346` — consumer/resource or care-instruction title
+- `Loss Of A Spouse - Resources` — `chapters/med_terms_l.tex:2348` — consumer/resource or care-instruction title
+- `Low Blood Pressure (Hypotension) Causes` — `chapters/med_terms_l.tex:2399` — consumer/resource or care-instruction title
+- `Low Blood Sugar - Self-Care` — `chapters/med_terms_l.tex:2407` — consumer/resource or care-instruction title
+- `Low FODMAP Diet` — `chapters/med_terms_l.tex:2413` — consumer/resource or care-instruction title
+- `Low-Calorie Diet` — `chapters/med_terms_l.tex:2457` — consumer/resource or care-instruction title
+- `Low-Fiber Diet` — `chapters/med_terms_l.tex:2471` — consumer/resource or care-instruction title
+- `Low-Phosphorus Diet` — `chapters/med_terms_l.tex:2480` — consumer/resource or care-instruction title
+- `Low-Potassium Diet` — `chapters/med_terms_l.tex:2484` — consumer/resource or care-instruction title
+- `Low-Residue Diet` — `chapters/med_terms_l.tex:2489` — consumer/resource or care-instruction title
+- `Low-Salt Diet` — `chapters/med_terms_l.tex:2493` — consumer/resource or care-instruction title
+- `Lower Urinary Tract Symptoms` — `chapters/med_terms_l.tex:2523` — consumer/resource or care-instruction title
+- `Lung Disease - Resources` — `chapters/med_terms_l.tex:2680` — consumer/resource or care-instruction title
+- `Lung Surgery - Discharge` — `chapters/med_terms_l.tex:2721` — consumer/resource or care-instruction title
+- `Lupus - Resources` — `chapters/med_terms_l.tex:2752` — consumer/resource or care-instruction title
+- `Lyme Disease - What To Ask Your Doctor` — `chapters/med_terms_l.tex:2841` — consumer/resource or care-instruction title
+- `Lymphedema - Self-Care` — `chapters/med_terms_l.tex:2959` — consumer/resource or care-instruction title
+- `Magnesium In Diet` — `chapters/med_terms_m.tex:179` — consumer/resource or care-instruction title
+- `Make The Most Of Your Doctor Visit` — `chapters/med_terms_m.tex:276` — consumer/resource or care-instruction title
+- `Malaria Facts` — `chapters/med_terms_m.tex:312` — consumer/resource or care-instruction title
+- `Mallet Finger - Aftercare` — `chapters/med_terms_m.tex:465` — consumer/resource or care-instruction title
+- `Managing Latex Allergies At Home` — `chapters/med_terms_m.tex:562` — consumer/resource or care-instruction title
+- `Managing Menopause At Home` — `chapters/med_terms_m.tex:564` — consumer/resource or care-instruction title
+- `Managing Migraines At Home` — `chapters/med_terms_m.tex:566` — consumer/resource or care-instruction title
+- `Managing Tension Headaches At Home` — `chapters/med_terms_m.tex:570` — consumer/resource or care-instruction title
+- `Marburg Virus History, Symptoms, And Treatment` — `chapters/med_terms_m.tex:715` — consumer/resource or care-instruction title
+- `Mastectomy - Discharge` — `chapters/med_terms_m.tex:850` — consumer/resource or care-instruction title
+- `Mastectomy And Breast Reconstruction - What To Ask Your Doctor` — `chapters/med_terms_m.tex:852` — consumer/resource or care-instruction title
+- `Mechanical Circulatory Support` — `chapters/med_terms_m.tex:1125` — consumer/resource or care-instruction title
+- `Medifast Diet` — `chapters/med_terms_m.tex:1438` — consumer/resource or care-instruction title
+- `Mediterranean Diet` — `chapters/med_terms_m.tex:1444` — consumer/resource or care-instruction title
+- `Mediterranean Fever (Brucellosis Facts)` — `chapters/med_terms_m.tex:1448` — consumer/resource or care-instruction title
+- `Melanoma Treatment` — `chapters/med_terms_m.tex:1574` — consumer/resource or care-instruction title
+- `Meniere Disease - Self-Care` — `chapters/med_terms_m.tex:1726` — consumer/resource or care-instruction title
+- `Meniscus Tears - Aftercare` — `chapters/med_terms_m.tex:1812` — consumer/resource or care-instruction title
+- `Menstrual Cramps And PMS Medication Guide` — `chapters/med_terms_m.tex:1863` — consumer/resource or care-instruction title
+- `Metatarsal Fracture (Acute) - Aftercare` — `chapters/med_terms_m.tex:2239` — consumer/resource or care-instruction title
+- `Metatarsal Stress Fractures - Aftercare` — `chapters/med_terms_m.tex:2241` — consumer/resource or care-instruction title
+- `Migraine - Resources` — `chapters/med_terms_m.tex:2842` — consumer/resource or care-instruction title
+- `Migraine And Seizures Symptoms And Signs` — `chapters/med_terms_m.tex:2844` — consumer/resource or care-instruction title
+- `Migraine And Stroke Symptoms` — `chapters/med_terms_m.tex:2846` — consumer/resource or care-instruction title
+- `Mild To Moderate COVID-19 - Discharge` — `chapters/med_terms_m.tex:2884` — consumer/resource or care-instruction title
+- `Minor Burns - Aftercare` — `chapters/med_terms_m.tex:3045` — consumer/resource or care-instruction title
+- `Miscarriage Causes And Symptoms` — `chapters/med_terms_m.tex:3092` — consumer/resource or care-instruction title
+- `Molluscum Contagiosum Facts` — `chapters/med_terms_m.tex:3447` — consumer/resource or care-instruction title
+- `Motor Fluctuations Causes In Parkinson’s Disease` — `chapters/med_terms_m.tex:3785` — consumer/resource or care-instruction title
+- `Mouth And Neck Radiation - Discharge` — `chapters/med_terms_m.tex:3822` — consumer/resource or care-instruction title
+- `Multiple Sclerosis (MS) Symptoms And Treatments` — `chapters/med_terms_m.tex:3978` — consumer/resource or care-instruction title
+- `Multiple Sclerosis - Discharge` — `chapters/med_terms_m.tex:4244` — consumer/resource or care-instruction title
+- `Multiple Sclerosis - Resources` — `chapters/med_terms_m.tex:4246` — consumer/resource or care-instruction title
+- `Muscle Strain Treatment` — `chapters/med_terms_m.tex:4404` — consumer/resource or care-instruction title
+- `Muscular Dystrophy - Resources` — `chapters/med_terms_m.tex:4431` — consumer/resource or care-instruction title
+- `Muscular Dystrophy: Symptoms, Causes And Types` — `chapters/med_terms_m.tex:4433` — consumer/resource or care-instruction title
+- `Myasthenia Gravis - Resources` — `chapters/med_terms_m.tex:4528` — consumer/resource or care-instruction title
+- `Myocarditis Treatment` — `chapters/med_terms_m.tex:4787` — consumer/resource or care-instruction title
+- `Nasal Fracture - Aftercare` — `chapters/med_terms_n.tex:168` — consumer/resource or care-instruction title
+- `Neck Dissection - Discharge` — `chapters/med_terms_n.tex:301` — consumer/resource or care-instruction title
+- `Negative Calorie Diet` — `chapters/med_terms_n.tex:392` — consumer/resource or care-instruction title
+- `Negative Symptoms` — `chapters/med_terms_n.tex:406` — consumer/resource or care-instruction title
+- `Nerve Damage From Diabetes - Self-Care` — `chapters/med_terms_n.tex:660` — consumer/resource or care-instruction title
+- `Newborn Jaundice - Discharge` — `chapters/med_terms_n.tex:1077` — consumer/resource or care-instruction title
+- `Newborn Jaundice - What To Ask Your Doctor` — `chapters/med_terms_n.tex:1079` — consumer/resource or care-instruction title
+- `NICU Consultants And Support Staff` — `chapters/med_terms_n.tex:1162` — consumer/resource or care-instruction title
+- `Nipple Discharge` — `chapters/med_terms_n.tex:1218` — consumer/resource or care-instruction title
+- `Open Spleen Removal In Adults - Discharge` — `chapters/med_terms_o.tex:808` — consumer/resource or care-instruction title
+- `Opioid Agonist Treatment` — `chapters/med_terms_o.tex:882` — consumer/resource or care-instruction title
+- `Oral Mucositis - Self-Care` — `chapters/med_terms_o.tex:1091` — consumer/resource or care-instruction title
+- `Orthodontic Treatment (Dental Braces)` — `chapters/med_terms_o.tex:1315` — consumer/resource or care-instruction title
+- `Osteomyelitis - Discharge` — `chapters/med_terms_o.tex:1624` — consumer/resource or care-instruction title
+- `Ostomy - Resources` — `chapters/med_terms_o.tex:1712` — consumer/resource or care-instruction title
+- `Pain Knee (Knee Pain Facts)` — `chapters/med_terms_p.tex:177` — consumer/resource or care-instruction title
+- `Pain Stomach (Abdominal Pain (Causes, Remedies, Treatment))` — `chapters/med_terms_p.tex:204` — consumer/resource or care-instruction title
+- `Palliative Treatment` — `chapters/med_terms_p.tex:306` — consumer/resource or care-instruction title
+- `Pancreatitis - Discharge` — `chapters/med_terms_p.tex:550` — consumer/resource or care-instruction title
+- `Parkinson Disease - Discharge` — `chapters/med_terms_p.tex:912` — consumer/resource or care-instruction title
+- `Parkinson Disease - Resources` — `chapters/med_terms_p.tex:914` — consumer/resource or care-instruction title
+- `Parkinsons Disease Diet (Parkinson's Disease: Eating Right)` — `chapters/med_terms_p.tex:930` — consumer/resource or care-instruction title
+- `Patient Discharge` — `chapters/med_terms_p.tex:1267` — consumer/resource or care-instruction title
+- `Pectus Excavatum - Discharge` — `chapters/med_terms_p.tex:1413` — consumer/resource or care-instruction title
+- `Pediatric Heart Surgery - Discharge` — `chapters/med_terms_p.tex:1467` — consumer/resource or care-instruction title
+- `PEG Tube Insertion - Discharge` — `chapters/med_terms_p.tex:1554` — consumer/resource or care-instruction title
+- `Pelvic Inflammatory Disease (PID) - Aftercare` — `chapters/med_terms_p.tex:1625` — consumer/resource or care-instruction title
+- `Pelvic Radiation - Discharge` — `chapters/med_terms_p.tex:1659` — consumer/resource or care-instruction title
+- `Pelvic Support Problems, Uterine Prolapse` — `chapters/med_terms_p.tex:1666` — consumer/resource or care-instruction title
+- `Penile Discharge` — `chapters/med_terms_p.tex:1743` — consumer/resource or care-instruction title
+- `Peptic Ulcer Disease - Discharge` — `chapters/med_terms_p.tex:1855` — consumer/resource or care-instruction title
+- `Percutaneous Urinary Procedures - Discharge` — `chapters/med_terms_p.tex:1956` — consumer/resource or care-instruction title
+- `Peripheral Artery Bypass - Leg - Discharge` — `chapters/med_terms_p.tex:2269` — consumer/resource or care-instruction title
+- `Peripheral Artery Disease Of The Legs - Self-Care` — `chapters/med_terms_p.tex:2280` — consumer/resource or care-instruction title
+- `Phosphorus In Diet` — `chapters/med_terms_p.tex:2992` — consumer/resource or care-instruction title
+- `Plague (Plague Facts)` — `chapters/med_terms_p.tex:3463` — consumer/resource or care-instruction title
+- `Plague Facts` — `chapters/med_terms_p.tex:3465` — consumer/resource or care-instruction title
+- `Plasmodium Infection (Malaria Facts)` — `chapters/med_terms_p.tex:3613` — consumer/resource or care-instruction title
+- `Pneumonia In Adults - Discharge` — `chapters/med_terms_p.tex:3894` — consumer/resource or care-instruction title
+- `Pneumonia In Children - Discharge` — `chapters/med_terms_p.tex:3898` — consumer/resource or care-instruction title
+- `Polio Facts` — `chapters/med_terms_p.tex:4013` — consumer/resource or care-instruction title
+- `Positive Airway Pressure Treatment` — `chapters/med_terms_p.tex:4443` — consumer/resource or care-instruction title
+- `Positive Symptoms` — `chapters/med_terms_p.tex:4466` — consumer/resource or care-instruction title
+- `Posterior Cruciate Ligament (PCL) Injury - Aftercare` — `chapters/med_terms_p.tex:4609` — consumer/resource or care-instruction title
+- `Postherpetic Neuralgia - Aftercare` — `chapters/med_terms_p.tex:4680` — consumer/resource or care-instruction title
+- `Postsurgical Pain Treatment In Adults` — `chapters/med_terms_p.tex:4841` — consumer/resource or care-instruction title
+- `Potassium In Diet` — `chapters/med_terms_p.tex:4887` — consumer/resource or care-instruction title
+- `Preeclampsia - Self-Care` — `chapters/med_terms_p.tex:5084` — consumer/resource or care-instruction title
+- `Pregnancy Diet (Pregnancy: Your Guide To Eating Right)` — `chapters/med_terms_p.tex:5119` — consumer/resource or care-instruction title
+- `Premature Menopause (Medical Procedural Causes)` — `chapters/med_terms_p.tex:5220` — consumer/resource or care-instruction title
+- `Premenstrual Syndrome (Menstrual Cramps And PMS Medication Guide)` — `chapters/med_terms_p.tex:5279` — consumer/resource or care-instruction title
+- `Premenstrual Syndrome - Self-Care` — `chapters/med_terms_p.tex:5282` — consumer/resource or care-instruction title
+- `Pressure Injuries - What To Ask Your Doctor` — `chapters/med_terms_p.tex:5393` — consumer/resource or care-instruction title
+- `Pressure Support Ventilation` — `chapters/med_terms_p.tex:5399` — consumer/resource or care-instruction title
+- `Preventing Falls - What To Ask Your Doctor` — `chapters/med_terms_p.tex:5455` — consumer/resource or care-instruction title
+- `Preventing Infections When Visiting Someone In The Hospital` — `chapters/med_terms_p.tex:5465` — consumer/resource or care-instruction title
+- `Primary Biliary Cirrhosis Treatment (PBC)` — `chapters/med_terms_p.tex:5533` — consumer/resource or care-instruction title
+- `Prolactinoma Treatment` — `chapters/med_terms_p.tex:5840` — consumer/resource or care-instruction title
+- `Prostate Brachytherapy - Discharge` — `chapters/med_terms_p.tex:6056` — consumer/resource or care-instruction title
+- `Prostate Cancer - Resources` — `chapters/med_terms_p.tex:6066` — consumer/resource or care-instruction title
+- `Prostate Cancer Treatment` — `chapters/med_terms_p.tex:6072` — consumer/resource or care-instruction title
+- `Prostate Radiation - Discharge` — `chapters/med_terms_p.tex:6089` — consumer/resource or care-instruction title
+- `Prostate Resection - Minimally Invasive - Discharge` — `chapters/med_terms_p.tex:6093` — consumer/resource or care-instruction title
+- `Prostatitis - Bacterial - Self-Care` — `chapters/med_terms_p.tex:6118` — consumer/resource or care-instruction title
+- `Protein In Diet` — `chapters/med_terms_p.tex:6223` — consumer/resource or care-instruction title
+- `Psoriasis - Resources` — `chapters/med_terms_p.tex:6514` — consumer/resource or care-instruction title
+- `Psychological Support` — `chapters/med_terms_p.tex:6573` — consumer/resource or care-instruction title
+- `Psychosocial Support` — `chapters/med_terms_p.tex:6612` — consumer/resource or care-instruction title
+- `Pulmonary Embolism Treatment` — `chapters/med_terms_p.tex:6825` — consumer/resource or care-instruction title
+- `Pulmonary Hypertension - At Home` — `chapters/med_terms_p.tex:6858` — consumer/resource or care-instruction title
+- `Purulent Discharge` — `chapters/med_terms_p.tex:7089` — consumer/resource or care-instruction title
+- `Questions To Ask Your Child's Doctor About Cancer` — `chapters/med_terms_q.tex:154` — consumer/resource or care-instruction title
+- `Questions To Ask Your Doctor About Getting Pregnant` — `chapters/med_terms_q.tex:156` — consumer/resource or care-instruction title
+- `Questions To Ask Your Doctor About Going Home With Your Baby` — `chapters/med_terms_q.tex:158` — consumer/resource or care-instruction title
+- `Questions To Ask Your Doctor About Hospital Care After Delivery` — `chapters/med_terms_q.tex:160` — consumer/resource or care-instruction title
+- `Questions To Ask Your Doctor About Staying Healthy During Pregnancy` — `chapters/med_terms_q.tex:162` — consumer/resource or care-instruction title
+- `Questions To Ask Your Doctor After Knee Replacement` — `chapters/med_terms_q.tex:164` — consumer/resource or care-instruction title
+- `Questions To Ask Your Doctor Before Knee Replacement` — `chapters/med_terms_q.tex:166` — consumer/resource or care-instruction title
+- `Questions To Ask Your Health Care Provider About Labor And Delivery` — `chapters/med_terms_q.tex:168` — consumer/resource or care-instruction title
+- `Questions To Ask Your Health Care Provider About Post Pregnancy Care` — `chapters/med_terms_q.tex:170` — consumer/resource or care-instruction title
+- `Questions To Ask Your Surgeon About Spinal Surgery` — `chapters/med_terms_q.tex:172` — consumer/resource or care-instruction title
+- `Radial Head Fracture - Aftercare` — `chapters/med_terms_r.tex:45` — consumer/resource or care-instruction title
+- `Radiation Therapy - Questions To Ask Your Doctor` — `chapters/med_terms_r.tex:141` — consumer/resource or care-instruction title
+- `Radical Prostatectomy - Discharge` — `chapters/med_terms_r.tex:167` — consumer/resource or care-instruction title
+- `Reducing Diet` — `chapters/med_terms_r.tex:843` — consumer/resource or care-instruction title
+- `Refractive Corneal Surgery - Discharge` — `chapters/med_terms_r.tex:913` — consumer/resource or care-instruction title
+- `Refractive Corneal Surgery - What To Ask Your Doctor` — `chapters/med_terms_r.tex:915` — consumer/resource or care-instruction title
+- `Remembering Tips` — `chapters/med_terms_r.tex:1092` — consumer/resource or care-instruction title
+- `Renal Diet` — `chapters/med_terms_r.tex:1199` — consumer/resource or care-instruction title
+- `Resources` — `chapters/med_terms_r.tex:1521` — consumer/resource or care-instruction title
+- `Reverse Total Shoulder Replacement - Discharge` — `chapters/med_terms_r.tex:1975` — consumer/resource or care-instruction title
+- `Reye Syndrome - Resources` — `chapters/med_terms_r.tex:2000` — consumer/resource or care-instruction title
+- `Rib Fracture - Aftercare` — `chapters/med_terms_r.tex:2190` — consumer/resource or care-instruction title
+- `Rotator Cuff - Self-Care` — `chapters/med_terms_r.tex:2608` — consumer/resource or care-instruction title
+- `Sacroiliac Joint Pain - Aftercare` — `chapters/med_terms_s.tex:85` — consumer/resource or care-instruction title
+- `Safe Eating During Cancer Treatment` — `chapters/med_terms_s.tex:105` — consumer/resource or care-instruction title
+- `Sciatica: Causes, Treatment, And Symptoms` — `chapters/med_terms_s.tex:706` — consumer/resource or care-instruction title
+- `Scleroderma - Resources` — `chapters/med_terms_s.tex:753` — consumer/resource or care-instruction title
+- `Scoliosis - Resources` — `chapters/med_terms_s.tex:790` — consumer/resource or care-instruction title
+- `Seizures Symptoms And Types` — `chapters/med_terms_s.tex:1119` — consumer/resource or care-instruction title
+- `Selective Mutism - Resources` — `chapters/med_terms_s.tex:1139` — consumer/resource or care-instruction title
+- `Selenium In Diet` — `chapters/med_terms_s.tex:1154` — consumer/resource or care-instruction title
+- `Septoplasty - Discharge` — `chapters/med_terms_s.tex:1366` — consumer/resource or care-instruction title
+- `Serious Diseases And Health Problems (Symptoms Of Serious Diseases And Health Problems)` — `chapters/med_terms_s.tex:1387` — consumer/resource or care-instruction title
+- `Severe COVID-19 - Discharge` — `chapters/med_terms_s.tex:1527` — consumer/resource or care-instruction title
+- `Sexual Abuse In Children - What To Know` — `chapters/med_terms_s.tex:1549` — consumer/resource or care-instruction title
+- `Shin Splints - Self-Care` — `chapters/med_terms_s.tex:1698` — consumer/resource or care-instruction title
+- `Shingles - Aftercare` — `chapters/med_terms_s.tex:1705` — consumer/resource or care-instruction title
+- `Shoulder Replacement - Discharge` — `chapters/med_terms_s.tex:1790` — consumer/resource or care-instruction title
+- `Shoulder Separation - Aftercare` — `chapters/med_terms_s.tex:1792` — consumer/resource or care-instruction title
+- `Shoulder Surgery - Discharge` — `chapters/med_terms_s.tex:1794` — consumer/resource or care-instruction title
+- `Sickle Cell Anemia - Resources` — `chapters/med_terms_s.tex:1876` — consumer/resource or care-instruction title
+- `SIDS - Resources` — `chapters/med_terms_s.tex:1912` — consumer/resource or care-instruction title
+- `Sinusitis In Adults - Aftercare` — `chapters/med_terms_s.tex:2127` — consumer/resource or care-instruction title
+- `Skier's Thumb - Aftercare` — `chapters/med_terms_s.tex:2246` — consumer/resource or care-instruction title
+- `Skin Flaps And Grafts - Self-Care` — `chapters/med_terms_s.tex:2370` — consumer/resource or care-instruction title
+- `Skin Lesion Removal - Aftercare` — `chapters/med_terms_s.tex:2406` — consumer/resource or care-instruction title
+- `Skin Sagging Treatment - Underarms` — `chapters/med_terms_s.tex:2439` — consumer/resource or care-instruction title
+- `Small Bowel Resection - Discharge` — `chapters/med_terms_s.tex:2686` — consumer/resource or care-instruction title
+- `Snoring How To Stop (How To Stop Snoring)` — `chapters/med_terms_s.tex:2854` — consumer/resource or care-instruction title
+- `Social And Psychological Causes Of Alcoholism` — `chapters/med_terms_s.tex:2869` — consumer/resource or care-instruction title
+- `Sodium In Diet` — `chapters/med_terms_s.tex:2908` — consumer/resource or care-instruction title
+- `Spina Bifida - Resources` — `chapters/med_terms_s.tex:3220` — consumer/resource or care-instruction title
+- `Spinal Injury - Resources` — `chapters/med_terms_s.tex:3313` — consumer/resource or care-instruction title
+- `Spine Surgery - Discharge` — `chapters/med_terms_s.tex:3365` — consumer/resource or care-instruction title
+- `Spiritual Support` — `chapters/med_terms_s.tex:3390` — consumer/resource or care-instruction title
+- `Spitting Up - Self-Care` — `chapters/med_terms_s.tex:3414` — consumer/resource or care-instruction title
+- `Spleen Removal - Child - Discharge` — `chapters/med_terms_s.tex:3437` — consumer/resource or care-instruction title
+- `Stages Of Change` — `chapters/med_terms_s.tex:3698` — consumer/resource or care-instruction title
+- `Stages Of Labor` — `chapters/med_terms_s.tex:3703` — consumer/resource or care-instruction title
+- `Staph Infections - Self-Care At Home` — `chapters/med_terms_s.tex:3752` — consumer/resource or care-instruction title
+- `Staying Safe At Home` — `chapters/med_terms_s.tex:3834` — consumer/resource or care-instruction title
+- `Stereotactic Radiosurgery - Discharge` — `chapters/med_terms_s.tex:3941` — consumer/resource or care-instruction title
+- `Stop Smoking Support Programs` — `chapters/med_terms_s.tex:4106` — consumer/resource or care-instruction title
+- `Stress Breast Cancer (Breast Cancer And Coping With Stress)` — `chapters/med_terms_s.tex:4195` — consumer/resource or care-instruction title
+- `Stroke - Discharge` — `chapters/med_terms_s.tex:4271` — consumer/resource or care-instruction title
+- `Stroke Symptoms And Treatment (CVA)` — `chapters/med_terms_c.tex:7956` — consumer/resource or care-instruction title
+- `Stroke Symptoms And Treatment` — `chapters/med_terms_s.tex:4279` — consumer/resource or care-instruction title
+- `Substance Use Recovery And Diet` — `chapters/med_terms_s.tex:4513` — consumer/resource or care-instruction title
+- `Subway Diet` — `chapters/med_terms_s.tex:4528` — consumer/resource or care-instruction title
+- `Surgery For Pancreatic Cancer - Discharge` — `chapters/med_terms_s.tex:4813` — consumer/resource or care-instruction title
+- `Surgical Wound Infection - Treatment` — `chapters/med_terms_s.tex:4870` — consumer/resource or care-instruction title
+- `Symptomatic Treatment` — `chapters/med_terms_s.tex:5078` — consumer/resource or care-instruction title
+- `Tailbone Trauma - Aftercare` — `chapters/med_terms_t.tex:140` — consumer/resource or care-instruction title
+- `Targeted Therapy: Questions To Ask Your Doctor` — `chapters/med_terms_t.tex:275` — consumer/resource or care-instruction title
+- `Tay-Sachs - Resources` — `chapters/med_terms_t.tex:324` — consumer/resource or care-instruction title
+- `Tennis Elbow Surgery - Discharge` — `chapters/med_terms_t.tex:572` — consumer/resource or care-instruction title
+- `Thyroid Disease Symptoms And Signs` — `chapters/med_terms_t.tex:1345` — consumer/resource or care-instruction title
+- `Thyroid Gland Removal - Discharge` — `chapters/med_terms_t.tex:1377` — consumer/resource or care-instruction title
+- `TIPS` — `chapters/med_terms_t.tex:1709` — consumer/resource or care-instruction title
+- `Tonsil And Adenoid Removal - Discharge` — `chapters/med_terms_t.tex:1966` — consumer/resource or care-instruction title
+- `Tonsil Removal - What To Ask Your Doctor` — `chapters/med_terms_t.tex:1970` — consumer/resource or care-instruction title
+- `Tooth Infected (Abscessed Tooth Guide)` — `chapters/med_terms_t.tex:2040` — consumer/resource or care-instruction title
+- `Total Colectomy Or Proctocolectomy - Discharge` — `chapters/med_terms_t.tex:2200` — consumer/resource or care-instruction title
+- `Transjugular Intrahepatic Portosystemic Shunt (TIPS)` — `chapters/med_terms_t.tex:1711` — consumer/resource or care-instruction title
+- `Transjugular Intrahepatic Portosystemic Shunt (TIPS)` — `chapters/med_terms_t.tex:2640` — consumer/resource or care-instruction title
+- `Transurethral Resection Of The Prostate - Discharge` — `chapters/med_terms_t.tex:2738` — consumer/resource or care-instruction title
+- `Traveler's Diarrhea Diet` — `chapters/med_terms_t.tex:2843` — consumer/resource or care-instruction title
+- `Traveler's Guide To Avoiding Infectious Diseases` — `chapters/med_terms_t.tex:2845` — consumer/resource or care-instruction title
+- `Treatment Epoch` — `chapters/med_terms_t.tex:2872` — consumer/resource or care-instruction title
+- `Treatment For Childhood Cancer - Long-Term Risks` — `chapters/med_terms_t.tex:2874` — consumer/resource or care-instruction title
+- `Treatment-Resistant Depression` — `chapters/med_terms_t.tex:2876` — consumer/resource or care-instruction title
+- `Treatment` — `chapters/med_terms_t.tex:2869` — consumer/resource or care-instruction title
+- `Tremor - Self-Care` — `chapters/med_terms_t.tex:2887` — consumer/resource or care-instruction title
+- `Tubal Ligation - Discharge` — `chapters/med_terms_t.tex:3201` — consumer/resource or care-instruction title
+- `Tuberculosis (TB) Facts (TB)` — `chapters/med_terms_t.tex:331` — consumer/resource or care-instruction title
+- `Tuberculosis (TB) Facts` — `chapters/med_terms_t.tex:3233` — consumer/resource or care-instruction title
+- `Type 1 Diabetes - Self-Care` — `chapters/med_terms_t.tex:3474` — consumer/resource or care-instruction title
+- `Type 2 Diabetes - Self-Care` — `chapters/med_terms_t.tex:3493` — consumer/resource or care-instruction title
+- `Type 2 Diabetes - What To Ask Your Doctor` — `chapters/med_terms_t.tex:3495` — consumer/resource or care-instruction title
+- `Urethral Discharge Culture` — `chapters/med_terms_u.tex:549` — consumer/resource or care-instruction title
+- `Vaginal Discharge` — `chapters/med_terms_v.tex:107` — consumer/resource or care-instruction title
+- `Vaginal Itching And Discharge` — `chapters/med_terms_v.tex:145` — consumer/resource or care-instruction title
+- `Very Low-Calorie Diet` — `chapters/med_terms_v.tex:828` — consumer/resource or care-instruction title
+- `Water In Diet` — `chapters/med_terms_w.tex:124` — consumer/resource or care-instruction title
+- `Withdrawal Symptoms` — `chapters/med_terms_w.tex:614` — consumer/resource or care-instruction title
+- `Wrist Sprain - Aftercare` — `chapters/med_terms_w.tex:803` — consumer/resource or care-instruction title
+- `Your Diet After Gastric Bypass Surgery` — `chapters/med_terms_y.tex:150` — consumer/resource or care-instruction title
+
+## JSON-index candidates
+
+The JSON index contains 618 matching title-pattern candidates. These are listed separately because the JSON index and LaTeX source are not perfectly synchronized.
+
+- `Abdominal aortic aneurysm repair - open - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Abdominal Pain (Causes, Remedies, Treatment)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Abdominal radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Abortion - procedure - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Abortion Spontaneous (Miscarriage Causes and Symptoms)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Abscessed Tooth Guide` — `med_terms.json` — consumer/resource or care-instruction title
+- `Abuse Child (Child Abuse Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Acetaminophen Dosing For Children` — `med_terms.json` — consumer/resource or care-instruction title
+- `Achilles tendon rupture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `ACL reconstruction - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Acne - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Advanced Cardiac Life Support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Advanced Cardiovascular Life Support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Afib (Atrial Fibrillation (AFib) Warning Symptoms)` — `med_terms.json` — consumer/resource or care-instruction title
+- `AFib vs VFib Symptoms (Atrial Fibrillation vs. Ventricular Fibrillation)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Alcohol use disorder - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Allergic rhinitis - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Allergic rhinitis - what to ask your doctor - adult` — `med_terms.json` — consumer/resource or care-instruction title
+- `Allergic rhinitis - what to ask your doctor - child` — `med_terms.json` — consumer/resource or care-instruction title
+- `ALS - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Alzheimer disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Alzheimer's Disease Causes, Stages, and Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Alzheimer's Disease Symptoms and Stages` — `med_terms.json` — consumer/resource or care-instruction title
+- `Alzheimers Disease Stages and Symptoms (Alzheimer's Disease Symptoms and Stages)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Anal itching - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Angina - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Angina Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Angioplasty and stent - heart - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Angioplasty and stent placement - carotid artery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Angioplasty and stent placement - peripheral arteries - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Animal bites - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ankle fracture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ankle replacement - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ankle sprain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Anterior cruciate ligament (ACL) injury - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Anti-reflux surgery - children - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Anti-reflux surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Aortic aneurysm repair - endovascular - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Arthritis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Asthma - child - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Asthma and allergy resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Asthma in adults - what to ask the doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Asthma in children - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Asthma OTC medication (Asthma: Over The Counter Treatment)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Asthma: Over The Counter Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Atopic dermatitis - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Atrial Fibrillation (AFib) Warning Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Atrial Fibrillation AFib Treatment Drugs` — `med_terms.json` — consumer/resource or care-instruction title
+- `Autism - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bacterial Vaginosis (Causes, Symptoms, Treatment)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bacterial vaginosis - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Basic Life Support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Before weight-loss surgery - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Benign positional vertigo - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Benign prostate hyperplasia (BPH) - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Foods to Eat for Constipation Relief (Top Foods For Constipation Relief)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Foods To Eat When You Have Gallstones` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Home Remedies for Upper Respiratory Infection` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Home Remedies for Vaginal Itching` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Medicine and Treatment for Bronchitis` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Treatment for Degenerative Disc Disease` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Treatment for Hidradenitis Suppurativa` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Treatment for Yellow Jacket Stings` — `med_terms.json` — consumer/resource or care-instruction title
+- `Best Treatment Options for Acne Rosacea` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bite Dog (Dog Bite Treatment)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bland Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bleeding During Cancer Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Blindness - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Blood treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Blood when I wipe: 11 causes of rectal bleeding` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bone marrow transplant - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bone marrow transplant in children - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Brain aneurysm repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Brain injury - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Brain radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Brain surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breast Cancer (Facts, Stages)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breast Cancer and Coping With Stress` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breast Cancer Questions To Ask The Doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breast Discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breast external beam radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breastfeeding - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Breastfeeding - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bringing your child to visit a very ill sibling` — `med_terms.json` — consumer/resource or care-instruction title
+- `Broken collarbone - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Broken kneecap - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Broken toe - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bronchiolitis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bronchoscopy - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Brucellosis Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Bunion removal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Burns - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Can't sleep? Try these tips` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer Causes` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer Inflammatory Breast (Breast Cancer (Facts, Stages))` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer Risk (Cancer Causes)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer treatment - dealing with pain` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer treatment - early menopause` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer treatment - preventing infection` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer treatment: dealing with hot flashes and night sweats` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cancer treatment: fertility and sexual side effects in women` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cardiac catheterization - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cardiac Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Caregiving - resources - older adults` — `med_terms.json` — consumer/resource or care-instruction title
+- `Carotid artery stenosis - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Carotid artery surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cataracts - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Causes and risks for obesity in children` — `med_terms.json` — consumer/resource or care-instruction title
+- `Causes Symptoms of Hormonal Imbalances Women` — `med_terms.json` — consumer/resource or care-instruction title
+- `Celiac disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cerebral palsy - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `cerebrovascular accident (Stroke Symptoms and Treatment)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chemical dependence - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chemotherapy - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `chemotherapy treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chest radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Child Abuse Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Children's Cough Causes and Treatments` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chloride in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cholesterol - drug treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cholesterol - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Choosing a doctor and hospital for your cancer treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chromium in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chronic fatigue syndrome - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chronic obstructive pulmonary disease - adults - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Chronic pain - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cirrhosis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Clear liquid diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cleft lip and palate repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cleft palate - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Clinic Visit` — `med_terms.json` — consumer/resource or care-instruction title
+- `Closed reduction of a fractured bone - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Colds and the flu - what to ask your doctor - adult` — `med_terms.json` — consumer/resource or care-instruction title
+- `Colds and the flu - what to ask your doctor - child` — `med_terms.json` — consumer/resource or care-instruction title
+- `Colic and crying - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Collateral ligament (CL) injury - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Colles wrist fracture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Colonoscopy discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Colorectal cancer - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Common Cold Stages and Timeline of Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Common Early Symptoms of Myasthenia Gravis` — `med_terms.json` — consumer/resource or care-instruction title
+- `Common symptoms during pregnancy` — `med_terms.json` — consumer/resource or care-instruction title
+- `Concussion in adults - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Concussion in adults - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Concussion in children - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Concussion in children - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Constipation - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Constipation - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Constipation Foods to Avoid (Top Foods That Cause Constipation)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Constipation Home Remedies (Constipation)` — `med_terms.json` — consumer/resource or care-instruction title
+- `consumption (Tuberculosis (TB) Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `COPD - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Coping with cancer - finding the support you need` — `med_terms.json` — consumer/resource or care-instruction title
+- `Coping with cancer - hair loss` — `med_terms.json` — consumer/resource or care-instruction title
+- `Coping with cancer - looking and feeling your best` — `med_terms.json` — consumer/resource or care-instruction title
+- `Coping with cancer - managing fatigue` — `med_terms.json` — consumer/resource or care-instruction title
+- `Copper in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Corneal transplant - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cosmetic breast surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `COVID-19 Prevention Tips` — `med_terms.json` — consumer/resource or care-instruction title
+- `COVID-19 symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `COVID-19 vaccines for children ages 6 months and older` — `med_terms.json` — consumer/resource or care-instruction title
+- `COVID-19 – what to do when you are sick` — `med_terms.json` — consumer/resource or care-instruction title
+- `Craniosynostosis repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Crohn disease - children - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Crohn disease - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Croup - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Crutches and children - proper fit and safety tips` — `med_terms.json` — consumer/resource or care-instruction title
+- `CVA (Stroke Symptoms and Treatment)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Cystic fibrosis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `DASH diet to lower high blood pressure` — `med_terms.json` — consumer/resource or care-instruction title
+- `DASH Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Deep vein thrombosis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dehydration: Causes and Prevention` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dementia - keeping safe in the home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dementia - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dementia due to metabolic causes` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dental plaque identification at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Depression - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetes - keeping active` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetes - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetes myths and facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetes Symptoms in Men` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetes Symptoms in Women` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetes Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetic Diet for Type 2 Diabetes` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diabetic Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dialysis centers - what to expect` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diarrhea - what to ask your doctor - child` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diarrhea - what to ask your health care provider  - adult` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet - chronic kidney disease` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet - liver disease` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet after gastric banding` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet and cancer` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet and eating after esophagectomy` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet Diabetes (Diabetic Diet)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet for rapid weight loss` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet IBS (Irritable Bowel Syndrome (IBS) Triggers, Prevention)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet myths and facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet therapy` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet Ulcerative Colitis (Ulcerative Colitis Diet)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet-boosting foods` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet-busting foods` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diphtheria Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Disaster Preparedness` — `med_terms.json` — consumer/resource or care-instruction title
+- `Discharge Planning` — `med_terms.json` — consumer/resource or care-instruction title
+- `Discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dislocated shoulder - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diverticulitis - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Diverticulitis and diverticulosis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dizziness and vertigo - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dizziness: Causes, Symptoms, and Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dizziness: When To See a Doctor?` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dog Bite Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Drinking water safely during cancer treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Drug reaction with eosinophilia and systemic symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dry mouth during cancer treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dry skin - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Dysphagia Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ear discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ear tube surgery - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Eating disorders - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Eczema Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `EGD discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Elbow replacement - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Elbow sprain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Elder care - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `End-Stage COPD: Signs, Symptoms, and Prognosis` — `med_terms.json` — consumer/resource or care-instruction title
+- `Enlarged prostate - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Epilepsy - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Epilepsy and Seizures: How to Treat` — `med_terms.json` — consumer/resource or care-instruction title
+- `Epilepsy in adults - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Epilepsy in children - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Epilepsy in children - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Epilepsy or seizures - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Episiotomy - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Erection problems - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Esophagectomy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Extrapyramidal Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Eye burning - itching and discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Eye muscle repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Facts about monounsaturated fats` — `med_terms.json` — consumer/resource or care-instruction title
+- `Facts about polyunsaturated fats` — `med_terms.json` — consumer/resource or care-instruction title
+- `Facts about saturated fats` — `med_terms.json` — consumer/resource or care-instruction title
+- `Facts about trans fats` — `med_terms.json` — consumer/resource or care-instruction title
+- `Family troubles - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Fast food tips` — `med_terms.json` — consumer/resource or care-instruction title
+- `Febrile seizures - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Feeding patterns and diet - babies and infants` — `med_terms.json` — consumer/resource or care-instruction title
+- `Feeding patterns and diet - children 6 months to 2 years` — `med_terms.json` — consumer/resource or care-instruction title
+- `Femur fracture repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Fibromyalgia Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Fire safety at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Fluoride in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `FODMAP Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Folic acid in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Foods - fresh vs. frozen or canned` — `med_terms.json` — consumer/resource or care-instruction title
+- `Foot amputation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Foot sprain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Frozen shoulder - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Full liquid diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gallbladder removal - laparoscopic - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gallbladder removal - open - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gallstones - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gastric bypass surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gastroesophageal reflux - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gastrointestinal diseases - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Generalized anxiety disorder - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Genital herpes - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gestational diabetes - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gestational diabetes diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Getting support when your child has cancer` — `med_terms.json` — consumer/resource or care-instruction title
+- `Getting your home ready - after the hospital` — `med_terms.json` — consumer/resource or care-instruction title
+- `Getting your home ready - knee or hip surgery` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gluten-Free Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Goitrogenic foods` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gram stain of urethral discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `guide device` — `med_terms.json` — consumer/resource or care-instruction title
+- `Gunshot wounds - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Halo brace - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hammer toe repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hamstring strain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hand fracture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hangover treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Headache - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hearing or speech impairment - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart attack - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart attack - what to ask your provider` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart bypass surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart bypass surgery - minimally invasive - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart disease and diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart failure - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart failure - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart Failure Stages` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart pacemaker - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heart valve surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heartburn - what to ask your provider` — `med_terms.json` — consumer/resource or care-instruction title
+- `Heel pain and Achilles tendonitis - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hemophilia - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hemorrhoid removal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Herbal remedies and supplements for weight loss` — `med_terms.json` — consumer/resource or care-instruction title
+- `Herpes - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `High blood pressure - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `High blood pressure and diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `High blood sugar - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `High protein diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `High-fiber foods` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hip flexor strain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hip fracture - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hip or knee replacement - after - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hip or knee replacement - before - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hip replacement - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `HIV/AIDS - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Human bites - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hypercalcemia - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hypertrophic Cardiomyopathy Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hypospadias repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hysterectomy - abdominal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hysterectomy - laparoscopic - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Hysterectomy - vaginal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `IBD diet (Inflammatory Bowel Disease (IBD) Diet Plan)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ibuprofen dosing for children` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ileostomy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ileostomy - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ileostomy and your diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Iliotibial band syndrome - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Immunotherapy: questions to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Implantable cardioverter defibrillator - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Incontinence - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Infertility - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Inflammatory Bowel Disease (IBD) Diet Plan` — `med_terms.json` — consumer/resource or care-instruction title
+- `Inflammatory Bowel Disease Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ingrown toenail removal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Inguinal hernia repair - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Integrative medicine for cancer treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Interstitial cystitis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Interstitial lung disease - adults - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Intestinal or bowel obstruction - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Involuntary Psychiatric Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Iodine in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Iron in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Irradiated foods` — `med_terms.json` — consumer/resource or care-instruction title
+- `Irritable bowel syndrome - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Irritable Bowel Syndrome Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ischemic chest pain (Angina Symptoms)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ischemic ulcers - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `IV treatment at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Jaundice causes` — `med_terms.json` — consumer/resource or care-instruction title
+- `Keeping your medicines organized` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kegel exercises - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ketogenic Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kidney disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kidney removal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kidney stones - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kidney stones - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kidney stones and lithotripsy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Knee arthroscopy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Knee joint replacement - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Knee Pain Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Kneecap dislocation - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Labyrinthitis - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Laceration - sutures or staples - at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Laparoscopic gastric banding - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Laparoscopic spleen removal in adults - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Large bowel resection - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lasik eye surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Leaving the hospital - your discharge plan` — `med_terms.json` — consumer/resource or care-instruction title
+- `Leg amputation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Leukemia - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Liddle Syndrome Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Liquid diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Liver disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Liver Disease Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Local treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Loss of a child - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Loss of a spouse - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low Blood Pressure (Hypotension) Causes` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low blood sugar - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low FODMAP Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low-Calorie Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low-fiber diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low-Phosphorus Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low-Potassium Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low-Residue Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Low-salt diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lower Urinary Tract Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lung disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lung surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lupus - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lyme disease - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Lymphedema - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Magnesium in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Make the most of your doctor visit` — `med_terms.json` — consumer/resource or care-instruction title
+- `Malaria Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mallet finger - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Managing latex allergies at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Managing menopause at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Managing migraines at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Managing tension headaches at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Marburg Virus History, Symptoms, and Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mastectomy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mastectomy and breast reconstruction - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mechanical Circulatory Support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Medifast diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mediterranean Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mediterranean fever (Brucellosis Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Melanoma Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Meniere disease - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Meniscus tears - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Menstrual Cramps and PMS Medication Guide` — `med_terms.json` — consumer/resource or care-instruction title
+- `Metatarsal fracture (acute) - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Metatarsal stress fractures - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Migraine - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Migraine and Seizures Symptoms and Signs` — `med_terms.json` — consumer/resource or care-instruction title
+- `Migraine and Stroke Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mild to moderate COVID-19 - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Minor burns - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Miscarriage Causes and Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Molluscum Contagiosum Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Motor Fluctuations Causes in Parkinson’s Disease` — `med_terms.json` — consumer/resource or care-instruction title
+- `Mouth and neck radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `MS (Multiple Sclerosis) Symptoms and Treatments` — `med_terms.json` — consumer/resource or care-instruction title
+- `Multiple sclerosis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Multiple sclerosis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Muscle strain treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Muscular dystrophy - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Muscular Dystrophy: Symptoms, Causes and Types` — `med_terms.json` — consumer/resource or care-instruction title
+- `Myasthenia gravis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Myocarditis Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Nasal fracture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Neck dissection - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Negative calorie diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Negative Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Nerve damage from diabetes - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Newborn jaundice - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Newborn jaundice - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `NICU consultants and support staff` — `med_terms.json` — consumer/resource or care-instruction title
+- `Nipple Discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Open spleen removal in adults - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Opioid Agonist Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Oral mucositis - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Orthodontic treatment (dental braces)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Osteomyelitis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Ostomy - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pain Knee (Knee Pain Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pain Stomach (Abdominal Pain (Causes, Remedies, Treatment))` — `med_terms.json` — consumer/resource or care-instruction title
+- `Palliative treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pancreatitis - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Parkinson disease - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Parkinson disease - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Parkinsons Disease diet (Parkinson's Disease: Eating Right)` — `med_terms.json` — consumer/resource or care-instruction title
+- `patient discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pectus excavatum - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pediatric heart surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `PEG tube insertion - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pelvic inflammatory disease (PID) - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pelvic radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pelvic support problems, uterine prolapse` — `med_terms.json` — consumer/resource or care-instruction title
+- `Penile Discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Peptic ulcer disease - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Percutaneous urinary procedures - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Peripheral artery bypass - leg - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Peripheral artery disease of the legs - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Phosphorus in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Plague (Plague Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Plague Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `plasmodium infection (Malaria Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pneumonia in adults - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pneumonia in children - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Polio Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Positive airway pressure treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Positive Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Posterior cruciate ligament (PCL) injury - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Postherpetic neuralgia - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Postsurgical pain treatment in adults` — `med_terms.json` — consumer/resource or care-instruction title
+- `Potassium in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Preeclampsia - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pregnancy Diet (Pregnancy: Your Guide to Eating Right)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Premature Menopause (Medical Procedural Causes)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Premenstrual Syndrome (Menstrual Cramps and PMS Medication Guide)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Premenstrual syndrome - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pressure injuries - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pressure Support Ventilation` — `med_terms.json` — consumer/resource or care-instruction title
+- `Preventing falls - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Preventing infections when visiting someone in the hospital` — `med_terms.json` — consumer/resource or care-instruction title
+- `Primary Biliary Cirrhosis Treatment (PBC)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prolactinoma Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prostate brachytherapy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prostate cancer - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prostate cancer treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prostate radiation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prostate resection - minimally invasive - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Prostatitis - bacterial - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Protein in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Psoriasis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Psychological Support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Psychosocial Support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pulmonary Embolism Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Pulmonary hypertension - at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `purulent discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your child's doctor about cancer` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your doctor about getting pregnant` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your doctor about going home with your baby` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your doctor about hospital care after delivery` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your doctor about staying healthy during pregnancy` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your doctor after knee replacement` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your doctor before knee replacement` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your health care provider about labor and delivery` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your health care provider about post pregnancy care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Questions to ask your surgeon about spinal surgery` — `med_terms.json` — consumer/resource or care-instruction title
+- `Radial head fracture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Radiation therapy - questions to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Radical prostatectomy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `reducing diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Refractive corneal surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Refractive corneal surgery - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Remembering tips` — `med_terms.json` — consumer/resource or care-instruction title
+- `Renal Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Reverse total shoulder replacement - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Reye syndrome - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Rib fracture - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Rotator cuff - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Sacroiliac joint pain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Safe eating during cancer treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Sciatica: Causes, Treatment, and Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Scleroderma - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Scoliosis - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Seizures Symptoms and Types` — `med_terms.json` — consumer/resource or care-instruction title
+- `Selective mutism - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Selenium in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Septoplasty - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Serious Diseases and Health Problems (Symptoms of Serious Diseases and Health Problems)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Severe COVID-19 - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Sexual abuse in children - what to know` — `med_terms.json` — consumer/resource or care-instruction title
+- `Shin splints - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Shingles - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Shoulder replacement - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Shoulder separation - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Shoulder surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Sickle cell anemia - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `SIDS - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Sinusitis in adults - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Skier's thumb - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Skin flaps and grafts - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Skin lesion removal - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Skin sagging treatment - underarms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Small bowel resection - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Snoring How to Stop (How to Stop Snoring)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Social and Psychological Causes of Alcoholism` — `med_terms.json` — consumer/resource or care-instruction title
+- `Sodium in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Spina bifida - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Spinal injury - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `Spine surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `spiritual support` — `med_terms.json` — consumer/resource or care-instruction title
+- `Spitting up - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Spleen removal - child - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stages Of Change` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stages of Labor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Staph infections - self-care at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Staying safe at home` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stereotactic radiosurgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stop smoking support programs` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stress Breast Cancer (Breast Cancer and Coping With Stress)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stroke - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Stroke Symptoms and Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Substance use recovery and diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Subway diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Surgery for pancreatic cancer - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Surgical wound infection - treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Symptomatic treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tailbone trauma - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Targeted therapy: questions to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tay-Sachs - resources` — `med_terms.json` — consumer/resource or care-instruction title
+- `TB (Tuberculosis (TB) Facts)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tennis elbow surgery - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Thyroid Disease Symptoms and Signs` — `med_terms.json` — consumer/resource or care-instruction title
+- `Thyroid gland removal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `TIPS (Transjugular Intrahepatic Portosystemic Shunt)` — `med_terms.json` — consumer/resource or care-instruction title
+- `TIPS` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tonsil and adenoid removal - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tonsil removal - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tooth Infected (Abscessed Tooth Guide)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Total colectomy or proctocolectomy - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Transjugular intrahepatic portosystemic shunt (TIPS)` — `med_terms.json` — consumer/resource or care-instruction title
+- `Transurethral resection of the prostate - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Traveler's diarrhea diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Traveler's guide to avoiding infectious diseases` — `med_terms.json` — consumer/resource or care-instruction title
+- `treatment epoch` — `med_terms.json` — consumer/resource or care-instruction title
+- `Treatment for childhood cancer - long-term risks` — `med_terms.json` — consumer/resource or care-instruction title
+- `Treatment-Resistant Depression` — `med_terms.json` — consumer/resource or care-instruction title
+- `Treatment` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tremor - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tubal ligation - discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Tuberculosis (TB) Facts` — `med_terms.json` — consumer/resource or care-instruction title
+- `Type 1 diabetes - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Type 2 diabetes - self-care` — `med_terms.json` — consumer/resource or care-instruction title
+- `Type 2 diabetes - what to ask your doctor` — `med_terms.json` — consumer/resource or care-instruction title
+- `Urethral discharge culture` — `med_terms.json` — consumer/resource or care-instruction title
+- `Vaginal discharge` — `med_terms.json` — consumer/resource or care-instruction title
+- `Very Low-Calorie Diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Water in diet` — `med_terms.json` — consumer/resource or care-instruction title
+- `Withdrawal Symptoms` — `med_terms.json` — consumer/resource or care-instruction title
+- `Wrist sprain - aftercare` — `med_terms.json` — consumer/resource or care-instruction title
+- `Your diet after gastric bypass surgery` — `med_terms.json` — consumer/resource or care-instruction title
