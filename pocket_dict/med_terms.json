@@ -63462,31 +63462,6 @@
       "body_systems": []
     },
     {
-      "term": "Breast Self-Exam",
-      "category": [
-        "anatomy"
-      ],
-      "definitions": {
-        "MedlinePlus": {
-          "text": "",
-          "source_url": "https://medlineplus.gov/ency/encyclopedia_A.htm",
-          "retrieved_on": "2026-08-27",
-          "review_status": "unreviewed"
-        },
-        "LLM": {
-          "text": "Breast self-exam concerns breast self-exam; defining findings, causes, severity, and management depend on the affected system and patient.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "breast-self-exam",
-      "normalized_term": "breast self-exam",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Breast Skin And Nipple Changes",
       "category": [
         "anatomy"
@@ -101732,25 +101707,6 @@
       "body_systems": []
     },
     {
-      "term": "Breech Delivery",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Vaginal delivery of a breech presentation. Types: assisted breech (the baby delivers spontaneously to the umbilicus, then the operator assists delivery of the shoulders and head) and total breech extraction (the operator delivers the entire baby by grasping the feet and pulling).",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "breech-delivery",
-      "normalized_term": "breech delivery",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Breech Presentation",
       "category": [
         "condition"
@@ -112712,25 +112668,6 @@
       "body_systems": []
     },
     {
-      "term": "Breast lumps",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Localized breast swelling or a mass; causes include cysts, fibroadenoma, infection, trauma, or cancer. Persistent or new lumps need clinical evaluation.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "breast-lumps",
-      "normalized_term": "breast lumps",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Breast rash",
       "category": [
         "symptom"
@@ -115748,25 +115685,6 @@
       "synonyms": [],
       "id": "breath-bad-bad-breath",
       "normalized_term": "breath bad (bad breath)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Breathing Disorders Sleep Related (Sleep Related Breathing Disorders)",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label for Sleep Related Breathing Disorders.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "breathing-disorders-sleep-related-sleep-related-breathing-disorders",
-      "normalized_term": "breathing disorders sleep related (sleep related breathing disorders)",
       "related_terms": [],
       "body_systems": []
     },
@@ -296379,44 +296297,6 @@
       "body_systems": []
     },
     {
-      "term": "left kidney",
-      "category": [
-        "anatomy"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "The left kidney filters blood, regulates fluid and electrolytes, produces urine and hormones, and lies on the left side of the abdomen.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "left-kidney",
-      "normalized_term": "left kidney",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "left lung",
-      "category": [
-        "anatomy"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "The left lung exchanges oxygen and carbon dioxide and has two lobes because the heart occupies part of the left chest.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "left-lung",
-      "normalized_term": "left lung",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "leg",
       "category": [
         "anatomy"
@@ -414715,25 +414595,6 @@
       "body_systems": []
     },
     {
-      "term": "Rocky Mountain Spotted Fever",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "A potentially severe tick-borne infection caused by Rickettsia rickettsii, often producing fever, headache, and a rash that may involve the palms and soles.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "rocky-mountain-spotted-fever",
-      "normalized_term": "rocky mountain spotted fever",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Retrograde Amnesia",
       "category": [
         "symptom"
@@ -420354,63 +420215,6 @@
       "body_systems": []
     },
     {
-      "term": "right eye",
-      "category": [
-        "anatomy"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "The right eye is the ocular organ on the right side of the body, containing the cornea, lens, retina, optic nerve, and supporting tissues.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "right-eye",
-      "normalized_term": "right eye",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "right kidney",
-      "category": [
-        "anatomy"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "The right kidney is the kidney on the right side of the abdomen that filters blood, regulates fluid and electrolytes, and produces urine and hormones.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "right-kidney",
-      "normalized_term": "right kidney",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "right lung",
-      "category": [
-        "anatomy"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "The right lung is the three-lobed lung on the right side of the chest that exchanges oxygen and carbon dioxide.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "right-lung",
-      "normalized_term": "right lung",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "righting reflex",
       "category": [
         "condition"
@@ -420597,25 +420401,6 @@
       "synonyms": [],
       "id": "risk-adjustment",
       "normalized_term": "risk adjustment",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "risk factors",
-      "category": [
-        "biology"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Risk factors are characteristics, exposures, behaviors, or conditions associated with increased likelihood of developing a disease or adverse outcome.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "risk-factors",
-      "normalized_term": "risk factors",
       "related_terms": [],
       "body_systems": []
     },
@@ -423966,44 +423751,6 @@
       "body_systems": []
     },
     {
-      "term": "RMSF (Rocky Mountain Spotted Fever (RMSF))",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label for Rocky Mountain Spotted Fever (RMSF).",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "rmsf-rocky-mountain-spotted-fever-rmsf",
-      "normalized_term": "rmsf (rocky mountain spotted fever (rmsf))",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Rocky Mountain Spotted Fever (RMSF)",
-      "category": [
-        "symptom"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Alternate index label for RMSF.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "rocky-mountain-spotted-fever-rmsf",
-      "normalized_term": "rocky mountain spotted fever (rmsf)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Roseola Contagious (Is Roseola Contagious)",
       "category": [
         "condition"
@@ -425447,25 +425194,6 @@
       "body_systems": []
     },
     {
-      "term": "RT",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "RT is a context-dependent abbreviation, including radiation therapy, respiratory therapist, or right; the full term should be specified.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "rt",
-      "normalized_term": "rt",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "RT-PCR",
       "category": [
         "condition"
@@ -425481,25 +425209,6 @@
       "synonyms": [],
       "id": "rt-pcr",
       "normalized_term": "rt-pcr",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "RUL",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "RUL is the abbreviation for right upper lobe, usually referring to the upper lobe of the right lung.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "rul",
-      "normalized_term": "rul",
       "related_terms": [],
       "body_systems": []
     },
@@ -425576,25 +425285,6 @@
       "synonyms": [],
       "id": "rv-rotavirus",
       "normalized_term": "rv (rotavirus)",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "RVF",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "RVF is a context-dependent abbreviation, including Rift Valley fever, an infection transmitted by mosquitoes or infected animals, or right ventricular failure.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "rvf",
-      "normalized_term": "rvf",
       "related_terms": [],
       "body_systems": []
     },
@@ -453503,25 +453193,6 @@
       "synonyms": [],
       "id": "saa",
       "normalized_term": "saa",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
-      "term": "Sabin, Florence R.",
-      "category": [
-        "condition"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Florence R. Sabin was an American physician and scientist whose research advanced understanding of lymphatic anatomy, tuberculosis, and immune-cell biology.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "sabin-florence-r",
-      "normalized_term": "sabin, florence r.",
       "related_terms": [],
       "body_systems": []
     },
