@@ -226452,7 +226452,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Gastrin-secreting neuroendocrine tumor causing Zollinger-Ellison syndrome characterized by gastric acid hypersecretion leading to severe peptic ulcer disease, diarrhea, and esophagitis. Approximately sixty percent are malignant with liver metastases. Multiple endocrine neoplasia type 1 association in approximately twenty percent.",
+          "text": "A tumor that makes too much gastrin, a hormone that causes the stomach to produce acid. It usually starts in the pancreas or duodenum and may cause Zollinger-Ellison syndrome, repeated peptic ulcers, diarrhea, and acid reflux. Some cases are linked to MEN1 and may spread to the liver or nearby lymph nodes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -226661,7 +226661,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Hemorrhage from any part of the gastrointestinal tract classified as upper or lower based on location relative to the ligament of Treitz. Upper gastrointestinal bleeding originating proximal to this landmark typically presents with hematemesis or melena.",
+          "text": "Bleeding anywhere in the digestive tract. It may be acute or chronic and may come from the upper digestive tract, small intestine, or lower digestive tract. It can cause vomiting blood, black stools, or red blood in the stool.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -226823,6 +226823,27 @@
       "id": "gastroparesis",
       "normalized_term": "gastroparesis",
       "related_terms": [],
+      "body_systems": []
+    },
+    {
+      "term": "Diabetic Gastroparesis",
+      "category": [
+        "condition"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "A complication of diabetes in which damage to the stomach's nerves slows the movement of food from the stomach into the small intestine. It may cause early fullness, nausea, vomiting, bloating, abdominal pain, and difficult-to-control blood sugar levels.",
+          "generated_on": "2026-09-06",
+          "review_status": "reviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "diabetic-gastroparesis",
+      "normalized_term": "diabetic gastroparesis",
+      "related_terms": [
+        "Gastroparesis"
+      ],
       "body_systems": []
     },
     {
