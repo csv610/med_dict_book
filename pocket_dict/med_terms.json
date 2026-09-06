@@ -487570,7 +487570,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "vaccinia virus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Vaccinia virus is a poxvirus used to make smallpox vaccines and studied in some experimental cancer treatments; accidental infection is uncommon but possible.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -487893,7 +487893,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "varicellovirus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Varicellovirus is a genus of herpesviruses that includes varicella-zoster virus, the cause of chickenpox and shingles.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488121,7 +488121,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "vesiculovirus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Vesiculovirus is a genus of rhabdoviruses that mainly infect animals and can rarely cause a flu-like illness in humans.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488254,7 +488254,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "viridans streptococci is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "Viridans streptococci are a group of bacteria commonly found in the mouth that can cause dental infections and, after entering the blood, infect heart valves.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488292,7 +488292,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus activation is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Virus activation is the switch from a dormant or inactive viral state to production of new viral components and particles.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488311,7 +488311,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus assembly is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Virus assembly is the stage of the viral life cycle when viral genetic material and proteins are packaged into new virus particles.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488330,7 +488330,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus diseases is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Viral diseases are illnesses caused by viruses, ranging from mild localized infections to severe diseases affecting multiple organs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488349,7 +488349,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus integration is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Virus integration is insertion of viral genetic material into the DNA of a host cell, a process used by some viruses and important in certain cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488368,7 +488368,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus protein is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A virus protein is a protein made from viral genetic instructions that helps form the virus, enter cells, replicate, or evade immunity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488387,7 +488387,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus receptor is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A virus receptor is a molecule on a host cell that a virus binds to in order to attach to and enter the cell.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488406,7 +488406,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus replication is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Virus replication is the process by which a virus copies its genetic material and makes proteins and new virus particles inside a host cell.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -488425,7 +488425,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "virus uncoating is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "Virus uncoating is removal of the virus's protective outer layer after entry into a host cell, releasing its genetic material for replication.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
