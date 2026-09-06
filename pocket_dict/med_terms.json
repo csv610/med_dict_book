@@ -42936,7 +42936,7 @@
       "body_systems": []
     },
     {
-      "term": "Rheumatic Disease",
+     "term": "Rheumatic Disease",
       "category": [
         "disease"
       ],
@@ -42949,7 +42949,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "A disorder affecting hair growth, the hair shaft, or the scalp; causes include genetics, inflammation, infection, medicines, and nutritional problems.",
+          "text": "A broad group of disorders affecting joints, muscles, bones, connective tissue, or immune function, including arthritis and lupus.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415068,13 +415068,13 @@
       "body_systems": []
     },
     {
-      "term": "radioimmunodetection",
+     "term": "radioimmunodetection",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "radioimmunodetection is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Detection of a substance using an antibody linked to a radioactive tracer, allowing localization or measurement with imaging or laboratory methods.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415125,13 +415125,13 @@
       "body_systems": []
     },
     {
-      "term": "radioisotope",
+     "term": "radioisotope",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "radioisotope is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An unstable isotope that emits radiation as it decays; radioisotopes are used in imaging, treatment, research, and industrial applications.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415181,13 +415181,13 @@
       "body_systems": []
     },
     {
-      "term": "radiometry",
+     "term": "radiometry",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "radiometry is a diagnostic or laboratory test, method, or measurement; interpretation depends on the specimen, technique, reference range, and clinical question.",
+          "text": "Measurement of electromagnetic radiation, including its intensity, energy, or spectral distribution, for imaging, treatment, or laboratory purposes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415352,13 +415352,13 @@
       "body_systems": []
     },
     {
-      "term": "radon",
+     "term": "radon",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "radon is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A naturally occurring radioactive gas that can accumulate indoors and increase lung-cancer risk when inhaled over time.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415617,13 +415617,13 @@
       "body_systems": []
     },
     {
-      "term": "random allocation",
+     "term": "random allocation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "random allocation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Assignment of participants to study groups by chance to reduce selection bias and balance known and unknown factors.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415711,13 +415711,13 @@
       "body_systems": []
     },
     {
-      "term": "ranpirnase",
+     "term": "ranpirnase",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ranpirnase is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An investigational ribonuclease-derived anticancer medicine studied for its ability to degrade RNA inside tumor cells.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415749,13 +415749,13 @@
       "body_systems": []
     },
     {
-      "term": "raoultella planticola",
+     "term": "raoultella planticola",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "raoultella planticola identifies raoultella planticola, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A gram-negative environmental bacterium that can rarely cause urinary, bloodstream, respiratory, or other opportunistic infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415768,13 +415768,13 @@
       "body_systems": []
     },
     {
-      "term": "raoultella terrigena",
+     "term": "raoultella terrigena",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "raoultella terrigena identifies raoultella terrigena, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A gram-negative environmental bacterium that rarely causes opportunistic human infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415806,13 +415806,13 @@
       "body_systems": []
     },
     {
-      "term": "rare diseases",
+     "term": "rare diseases",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "rare diseases describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "Conditions affecting relatively few people; definitions and thresholds vary by country, and patients may face delayed diagnosis or limited treatment options.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415863,13 +415863,13 @@
       "body_systems": []
     },
     {
-      "term": "rationalization",
+     "term": "rationalization",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rationalization is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A psychological defense in which a person creates plausible explanations for behavior or feelings while avoiding the underlying motive or conflict.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415882,13 +415882,13 @@
       "body_systems": []
     },
     {
-      "term": "rauscher virus",
+     "term": "rauscher virus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "rauscher virus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A mouse leukemia retrovirus used in research to study viral oncogenesis and blood-cell cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415977,13 +415977,13 @@
       "body_systems": []
     },
     {
-      "term": "reaction",
+     "term": "reaction",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reaction is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A response to a stimulus, event, medicine, treatment, or interaction; clinical meaning depends on the type and severity of the response.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416110,13 +416110,13 @@
       "body_systems": []
     },
     {
-      "term": "recombinant",
+     "term": "recombinant",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "recombinant is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Produced by combining genetic material from different sources or by using engineered DNA in a cell or organism.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416148,13 +416148,13 @@
       "body_systems": []
     },
     {
-      "term": "recombinase",
+     "term": "recombinase",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "recombinase is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An enzyme that rearranges or exchanges DNA segments, supporting genetic recombination, repair, or programmed immune-gene assembly.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416392,13 +416392,13 @@
       "body_systems": []
     },
     {
-      "term": "rectal perforation",
+     "term": "rectal perforation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rectal perforation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A tear or hole through the rectal wall that can release bowel contents and cause peritonitis, sepsis, or severe bleeding.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416617,13 +416617,13 @@
       "body_systems": []
     },
     {
-      "term": "reductase deficiency",
+     "term": "reductase deficiency",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "reductase deficiency describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "A disorder or laboratory finding caused by inadequate activity of a reductase enzyme, impairing a specific metabolic or hormone pathway.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416636,13 +416636,13 @@
       "body_systems": []
     },
     {
-      "term": "reduviidae",
+     "term": "reduviidae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reduviidae identifies reduviidae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of insects including assassin bugs; some species transmit pathogens such as the parasite causing Chagas disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416655,13 +416655,13 @@
       "body_systems": []
     },
     {
-      "term": "referral",
+     "term": "referral",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "referral is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "A request for assessment or treatment by another healthcare professional or service.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416843,13 +416843,13 @@
       "body_systems": []
     },
     {
-      "term": "regional",
+     "term": "regional",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "regional is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Relating to a particular body area, geographic area, or localized distribution rather than the whole body.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416957,13 +416957,13 @@
       "body_systems": []
     },
     {
-      "term": "reifenstein syndrome",
+     "term": "reifenstein syndrome",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "reifenstein syndrome describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "An inherited disorder of androgen action, usually involving partial androgen insensitivity in an individual with a 46,XY chromosome pattern.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417014,13 +417014,13 @@
       "body_systems": []
     },
     {
-      "term": "relaxation",
+     "term": "relaxation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "relaxation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A reduction in muscle tension, physiologic arousal, or psychological stress; techniques may include breathing, biofeedback, or progressive muscle relaxation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417071,13 +417071,13 @@
       "body_systems": []
     },
     {
-      "term": "religion",
+     "term": "religion",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "religion is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A system of spiritual beliefs and practices that may influence health decisions, coping, diet, treatment preferences, and end-of-life care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417166,13 +417166,13 @@
       "body_systems": []
     },
     {
-      "term": "renal circulation",
+     "term": "renal circulation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "renal circulation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Blood flow through the kidneys, which supports filtration, oxygen delivery, hormone production, and regulation of fluid and electrolytes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417204,13 +417204,13 @@
       "body_systems": []
     },
     {
-      "term": "renal function",
+     "term": "renal function",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "renal function is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The kidneys’ ability to filter blood, remove waste, regulate fluids and electrolytes, maintain acid-base balance, and produce or activate hormones.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417261,13 +417261,13 @@
       "body_systems": []
     },
     {
-      "term": "renal hypertension",
+     "term": "renal hypertension",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "renal hypertension is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "High blood pressure caused by kidney disease or narrowing of the renal arteries.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417375,13 +417375,13 @@
       "body_systems": []
     },
     {
-      "term": "renal reabsorption",
+     "term": "renal reabsorption",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "renal reabsorption is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Movement of water and useful solutes from kidney tubules back into the blood, helping regulate urine composition and body chemistry.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417489,13 +417489,13 @@
       "body_systems": []
     },
     {
-      "term": "reoviridae",
+     "term": "reoviridae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reoviridae identifies reoviridae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of nonenveloped, segmented double-stranded RNA viruses that infect humans, animals, plants, or insects.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417508,13 +417508,13 @@
       "body_systems": []
     },
     {
-      "term": "reoviridae infection",
+     "term": "reoviridae infection",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "reoviridae infection identifies reoviridae infection, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "An infection caused by a reovirus; illness varies by virus and host and is often mild or asymptomatic in humans.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417546,13 +417546,13 @@
       "body_systems": []
     },
     {
-      "term": "replication initiation",
+     "term": "replication initiation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "replication initiation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The point and process at which copying of DNA or another genetic molecule begins.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417565,13 +417565,13 @@
       "body_systems": []
     },
     {
-      "term": "replicon",
+     "term": "replicon",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "replicon is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A unit of genetic material that can replicate from one origin, such as a chromosome segment, plasmid, or viral genome.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417603,13 +417603,13 @@
       "body_systems": []
     },
     {
-      "term": "repression",
+     "term": "repression",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "repression is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Reduction or suppression of gene expression, cell activity, behavior, or a physiologic process.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417622,13 +417622,13 @@
       "body_systems": []
     },
     {
-      "term": "reproduction",
+     "term": "reproduction",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reproduction is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The biological process by which organisms produce offspring through sexual or asexual mechanisms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417641,13 +417641,13 @@
       "body_systems": []
     },
     {
-      "term": "reproduction spores",
+     "term": "reproduction spores",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reproduction spores is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Formation of spores for reproduction, dispersal, survival, or transmission by fungi, plants, algae, and some microorganisms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417774,13 +417774,13 @@
       "body_systems": []
     },
     {
-      "term": "reptiles",
+     "term": "reptiles",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reptiles is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "Cold-blooded vertebrate animals such as snakes, lizards, turtles, and crocodilians; some can transmit infections or cause bites.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417982,13 +417982,13 @@
       "body_systems": []
     },
     {
-      "term": "resin",
+     "term": "resin",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "resin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A sticky plant or synthetic substance used in medicines, dental materials, adhesives, coatings, and other products.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418001,13 +418001,13 @@
       "body_systems": []
     },
     {
-      "term": "resiquimod",
+     "term": "resiquimod",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "resiquimod is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational immune-response modifier that activates toll-like receptors 7 and 8 and has been studied for infections, cancer, and skin disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418020,13 +418020,13 @@
       "body_systems": []
     },
     {
-      "term": "resistance training",
+     "term": "resistance training",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "resistance training is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Exercise in which muscles contract against external resistance to improve strength, power, or endurance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418039,13 +418039,13 @@
       "body_systems": []
     },
     {
-      "term": "resistant starch",
+     "term": "resistant starch",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "resistant starch is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Starch that resists digestion in the small intestine and is fermented by gut bacteria in the colon.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418095,13 +418095,13 @@
       "body_systems": []
     },
     {
-      "term": "respiratory infection",
+     "term": "respiratory infection",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "respiratory infection describes an infectious or toxic process involving the site or exposure named by the term. Diagnosis considers the cause, route of exposure, affected tissues, severity, and host response.",
+          "text": "An infection of the upper or lower respiratory tract caused by viruses, bacteria, fungi, or other organisms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418209,13 +418209,13 @@
       "body_systems": []
     },
     {
-      "term": "respirovirus",
+     "term": "respirovirus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "respirovirus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A genus of paramyxoviruses that includes human parainfluenza viruses, which can cause croup and other respiratory infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418285,13 +418285,13 @@
       "body_systems": []
     },
     {
-      "term": "restriction mapping",
+     "term": "restriction mapping",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "restriction mapping is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A laboratory method that uses restriction enzymes to cut DNA and infer the locations of specific recognition sites.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418304,13 +418304,13 @@
       "body_systems": []
     },
     {
-      "term": "resveratrol",
+     "term": "resveratrol",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "resveratrol is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A plant polyphenol found in grapes and some berries; it is studied in nutrition and aging research, but supplement benefits remain uncertain.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418323,13 +418323,13 @@
       "body_systems": []
     },
     {
-      "term": "retainer",
+     "term": "retainer",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retainer is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "A dental appliance worn after orthodontic treatment to help keep teeth in their corrected positions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418361,13 +418361,13 @@
       "body_systems": []
     },
     {
-      "term": "reticular dermis",
+     "term": "reticular dermis",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reticular dermis is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The deeper layer of the dermis containing dense connective tissue, collagen, elastin, blood vessels, nerves, glands, and hair follicles.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418380,13 +418380,13 @@
       "body_systems": []
     },
     {
-      "term": "reticulin",
+     "term": "reticulin",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reticulin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A network-forming type of collagen that supports bone marrow, liver, lymph nodes, and other organs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418454,13 +418454,13 @@
       "body_systems": []
     },
     {
-      "term": "reticuloendothelial system",
+     "term": "reticuloendothelial system",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reticuloendothelial system is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An older term for the mononuclear phagocyte system, including macrophages and related cells that remove particles and aged cells.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418473,13 +418473,13 @@
       "body_systems": []
     },
     {
-      "term": "reticulophagy",
+     "term": "reticulophagy",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reticulophagy is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Selective autophagic degradation of endoplasmic reticulum, helping maintain cellular quality control.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418511,13 +418511,13 @@
       "body_systems": []
     },
     {
-      "term": "reticulum",
+     "term": "reticulum",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "reticulum is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A network-like structure; in anatomy or cell biology it may refer to a tissue network, endoplasmic reticulum, or ruminant stomach compartment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418585,13 +418585,13 @@
       "body_systems": []
     },
     {
-      "term": "retinal damage",
+     "term": "retinal damage",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retinal damage is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Injury or disease affecting the retina, potentially causing blurred vision, field loss, flashes, floaters, or permanent visual impairment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418680,13 +418680,13 @@
       "body_systems": []
     },
     {
-      "term": "retinal ganglion",
+     "term": "retinal ganglion",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retinal ganglion is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A retinal ganglion cell that receives signals from retinal neurons and sends visual information through its axon in the optic nerve.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418737,13 +418737,13 @@
       "body_systems": []
     },
     {
-      "term": "retinal perforation",
+     "term": "retinal perforation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retinal perforation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A full-thickness hole or tear involving the retina, which can allow fluid under the retina and lead to retinal detachment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418794,13 +418794,13 @@
       "body_systems": []
     },
     {
-      "term": "retinaldehyde",
+     "term": "retinaldehyde",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retinaldehyde is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An aldehyde form of vitamin A involved in the visual cycle and in conversion to retinal pigments or retinoic acid.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419059,13 +419059,13 @@
       "body_systems": []
     },
     {
-      "term": "retrotransposition",
+     "term": "retrotransposition",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retrotransposition is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Movement of a genetic element to a new genomic location through an RNA intermediate and reverse transcription.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419097,13 +419097,13 @@
       "body_systems": []
     },
     {
-      "term": "retroviridae",
+     "term": "retroviridae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "retroviridae identifies retroviridae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of RNA viruses that use reverse transcriptase to make a DNA copy that integrates into the host genome; HIV is a member.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419116,13 +419116,13 @@
       "body_systems": []
     },
     {
-      "term": "retroviridae infection",
+     "term": "retroviridae infection",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "retroviridae infection identifies retroviridae infection, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "An infection caused by a retrovirus, which may persist through genomic integration and cause immune, neurologic, or malignant disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419210,13 +419210,13 @@
       "body_systems": []
     },
     {
-      "term": "rhabdoviridae",
+     "term": "rhabdoviridae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhabdoviridae identifies rhabdoviridae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of bullet-shaped, negative-sense RNA viruses that includes rabies virus and related animal or plant viruses.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419342,13 +419342,13 @@
       "body_systems": []
     },
     {
-      "term": "rhinovirus A",
+     "term": "rhinovirus A",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhinovirus A is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A species group of rhinoviruses that commonly causes the common cold and can worsen asthma or trigger wheezing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419361,13 +419361,13 @@
       "body_systems": []
     },
     {
-      "term": "rhinovirus C",
+     "term": "rhinovirus C",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhinovirus C is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A rhinovirus group associated with common-cold symptoms and, in some children, more severe wheezing or lower-respiratory illness.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419380,13 +419380,13 @@
       "body_systems": []
     },
     {
-      "term": "rhizobiaceae",
+     "term": "rhizobiaceae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhizobiaceae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A family of soil bacteria that form symbiotic nitrogen-fixing relationships with plants; human infection is rare.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419399,13 +419399,13 @@
       "body_systems": []
     },
     {
-      "term": "rhizobium",
+     "term": "rhizobium",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhizobium is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of soil bacteria that forms nitrogen-fixing root nodules on legumes and is not a usual human pathogen.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419418,13 +419418,13 @@
       "body_systems": []
     },
     {
-      "term": "rhizomucor",
+     "term": "rhizomucor",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhizomucor is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of molds that can cause mucormycosis, especially in people with diabetes, neutropenia, or severe immune suppression.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419437,13 +419437,13 @@
       "body_systems": []
     },
     {
-      "term": "rhizomucor pusillus",
+     "term": "rhizomucor pusillus",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhizomucor pusillus is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A mold that can cause invasive mucormycosis involving the lungs, sinuses, skin, or other organs in severely immunocompromised people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419456,13 +419456,13 @@
       "body_systems": []
     },
     {
-      "term": "rhizopus",
+     "term": "rhizopus",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhizopus is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of molds that includes important causes of mucormycosis, a rapidly invasive infection of sinuses, lungs, skin, or other tissues.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419475,13 +419475,13 @@
       "body_systems": []
     },
     {
-      "term": "rhizopus oryzae",
+     "term": "rhizopus oryzae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhizopus oryzae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A mold, also called Rhizopus arrhizus, that is a common cause of invasive mucormycosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419513,13 +419513,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodium",
+     "term": "rhodium",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodium is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A chemical element used in industrial and dental materials; its compounds can irritate tissues and may cause allergic reactions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419532,13 +419532,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodobacteraceae",
+     "term": "rhodobacteraceae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodobacteraceae describes an infectious or toxic process involving the site or exposure named by the term. Diagnosis considers the cause, route of exposure, affected tissues, severity, and host response.",
+          "text": "A family of photosynthetic or metabolically diverse bacteria found in aquatic and soil environments; human disease is uncommon.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419551,13 +419551,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodococcus",
+     "term": "rhodococcus",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodococcus is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of gram-positive bacteria that includes Rhodococcus equi, an opportunistic pathogen causing pneumonia mainly in immunocompromised people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419570,13 +419570,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodococcus equi",
+     "term": "rhodococcus equi",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodococcus equi is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A gram-positive bacterium that can cause cavitary pneumonia and disseminated infection, especially in people with advanced immune suppression.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419589,13 +419589,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodopseudomonas",
+     "term": "rhodopseudomonas",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodopseudomonas is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of photosynthetic or metabolically versatile environmental bacteria rarely associated with human infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419608,13 +419608,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodopsin",
+     "term": "rhodopsin",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodopsin is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A light-sensitive protein in rod cells of the retina that enables vision in dim light.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419627,13 +419627,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodospirillaceae",
+     "term": "rhodospirillaceae",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodospirillaceae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A family of metabolically diverse bacteria found in soil and water; some species carry out photosynthesis or nitrogen fixation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419646,13 +419646,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodospirillales",
+     "term": "rhodospirillales",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodospirillales is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "An order of diverse bacteria that includes Rhodospirillaceae and related environmental organisms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419665,13 +419665,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodospirillum",
+     "term": "rhodospirillum",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodospirillum is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of spiral-shaped aquatic bacteria capable of photosynthesis or nitrogen fixation; human infection is rare.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419684,13 +419684,13 @@
       "body_systems": []
     },
     {
-      "term": "rhodotorula glutinis",
+     "term": "rhodotorula glutinis",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rhodotorula glutinis is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A pigmented yeast found in the environment that can rarely cause bloodstream or catheter-related infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419797,13 +419797,13 @@
       "body_systems": []
     },
     {
-      "term": "ribonuclease",
+     "term": "ribonuclease",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribonuclease is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An enzyme that breaks down RNA into smaller fragments or nucleotides.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419816,13 +419816,13 @@
       "body_systems": []
     },
     {
-      "term": "ribonuclease h",
+     "term": "ribonuclease h",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribonuclease h is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An enzyme that degrades the RNA strand of an RNA-DNA hybrid, important in DNA replication and reverse transcription.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419835,13 +419835,13 @@
       "body_systems": []
     },
     {
-      "term": "ribonuclease iii",
+     "term": "ribonuclease iii",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribonuclease iii is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An enzyme that cuts double-stranded RNA and helps process regulatory small RNAs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419873,13 +419873,13 @@
       "body_systems": []
     },
     {
-      "term": "ribonucleoside",
+     "term": "ribonucleoside",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribonucleoside is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A molecule made of ribose sugar linked to a nitrogenous base, such as adenosine, guanosine, cytidine, or uridine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419911,13 +419911,13 @@
       "body_systems": []
     },
     {
-      "term": "ribonucleotides",
+     "term": "ribonucleotides",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribonucleotides is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Nucleotides containing ribose sugar and RNA bases, serving as RNA building blocks and cellular energy or signaling molecules.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419949,13 +419949,13 @@
       "body_systems": []
     },
     {
-      "term": "ribose",
+     "term": "ribose",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribose is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A five-carbon sugar found in RNA, ATP, and many other biologically important molecules.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419987,13 +419987,13 @@
       "body_systems": []
     },
     {
-      "term": "ribosome subunit",
+     "term": "ribosome subunit",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ribosome subunit is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "One of the RNA-protein components of a ribosome; the small and large subunits join to translate messenger RNA into protein.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420025,13 +420025,13 @@
       "body_systems": []
     },
     {
-      "term": "Richter's syndrome",
+     "term": "Richter's syndrome",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "Richter's syndrome describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "Transformation of chronic lymphocytic leukemia or small lymphocytic lymphoma into an aggressive lymphoma, most often diffuse large B-cell lymphoma.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420253,13 +420253,13 @@
       "body_systems": []
     },
     {
-      "term": "Rieger syndrome",
+     "term": "Rieger syndrome",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "Rieger syndrome describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "A genetic disorder affecting development of the eyes, teeth, and sometimes the umbilicus or other organs; it is often related to PITX2 or FOXC1 variants.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420272,13 +420272,13 @@
       "body_systems": []
     },
     {
-      "term": "rifabutin",
+     "term": "rifabutin",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rifabutin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A rifamycin antibiotic used mainly for selected mycobacterial infections and tuberculosis regimens; it has important drug interactions and can discolor body fluids.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420386,13 +420386,13 @@
       "body_systems": []
     },
     {
-      "term": "rilotumumab",
+     "term": "rilotumumab",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rilotumumab is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational monoclonal antibody targeting hepatocyte growth factor, studied as an anticancer treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420424,13 +420424,13 @@
       "body_systems": []
     },
     {
-      "term": "riluzole",
+     "term": "riluzole",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "riluzole is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "A medicine used to modestly slow disease progression in amyotrophic lateral sclerosis and to treat selected forms of spinal muscular atrophy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420443,13 +420443,13 @@
       "body_systems": []
     },
     {
-      "term": "rimantadine",
+     "term": "rimantadine",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rimantadine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An antiviral medicine formerly used against some influenza A strains; resistance and limited effectiveness have greatly reduced its role.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420481,13 +420481,13 @@
       "body_systems": []
     },
     {
-      "term": "risedronate sodium",
+     "term": "risedronate sodium",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "risedronate sodium is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "The sodium salt of risedronate, a bisphosphonate used to prevent or treat osteoporosis and other disorders of excessive bone resorption.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420709,13 +420709,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA binding",
+     "term": "RNA binding",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA binding is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The attachment of a protein or other molecule to RNA, affecting RNA stability, transport, folding, processing, or translation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420728,13 +420728,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA biosynthesis",
+     "term": "RNA biosynthesis",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA biosynthesis is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The cellular production of RNA from a DNA template or, for some viruses, from an RNA template.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420747,13 +420747,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA degradation",
+     "term": "RNA degradation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA degradation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Enzymatic breakdown of RNA, which controls RNA lifespan, removes damaged transcripts, and recycles nucleotides.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420766,13 +420766,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA folding",
+     "term": "RNA folding",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA folding is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The process by which an RNA strand forms secondary and three-dimensional structures that influence its function.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420785,13 +420785,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA helicase",
+     "term": "RNA helicase",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA helicase is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An enzyme that uses energy to unwind or remodel RNA structures or RNA-protein complexes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420804,13 +420804,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA interference",
+     "term": "RNA interference",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA interference is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A gene-silencing process in which small RNAs guide proteins to degrade or block specific messenger RNA molecules.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420823,13 +420823,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA splicing",
+     "term": "RNA splicing",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA splicing is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Removal of introns and joining of exons from a precursor RNA to produce mature messenger RNA or other functional RNA.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420842,13 +420842,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA transport",
+     "term": "RNA transport",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA transport is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Movement of RNA within a cell or between cells, often mediated by transport proteins and required for translation or signaling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420861,13 +420861,13 @@
       "body_systems": []
     },
     {
-      "term": "RNA virus",
+     "term": "RNA virus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNA virus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A virus whose genetic material is RNA; its replication often involves an RNA-dependent polymerase and may have a high mutation rate.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420880,13 +420880,13 @@
       "body_systems": []
     },
     {
-      "term": "RNase P",
+     "term": "RNase P",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "RNase P is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An RNA-protein enzyme complex that processes precursor transfer RNA by removing its extra 5-prime sequence.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420899,13 +420899,13 @@
       "body_systems": []
     },
     {
-      "term": "Robinow syndrome",
+     "term": "Robinow syndrome",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "Robinow syndrome describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "A rare inherited skeletal-development disorder with distinctive facial features, short stature, vertebral or rib abnormalities, and genital differences.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420975,13 +420975,13 @@
       "body_systems": []
     },
     {
-      "term": "romidepsin",
+     "term": "romidepsin",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "romidepsin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A histone deacetylase inhibitor used for selected T-cell lymphomas; it can cause cytopenias, infection risk, and ECG-related effects.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420994,13 +420994,13 @@
       "body_systems": []
     },
     {
-      "term": "romiplostim",
+     "term": "romiplostim",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "romiplostim is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A thrombopoietin-receptor agonist that stimulates platelet production and is used mainly for chronic immune thrombocytopenia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421032,13 +421032,13 @@
       "body_systems": []
     },
     {
-      "term": "ropivacaine",
+     "term": "ropivacaine",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ropivacaine is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "A long-acting local anesthetic used for regional nerve blocks and epidural anesthesia; excessive blood levels can cause neurologic or cardiac toxicity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421051,13 +421051,13 @@
       "body_systems": []
     },
     {
-      "term": "ropivacaine hydrochloride",
+     "term": "ropivacaine hydrochloride",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ropivacaine hydrochloride is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "The hydrochloride salt of ropivacaine, a long-acting local anesthetic used for regional and epidural anesthesia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421089,13 +421089,13 @@
       "body_systems": []
     },
     {
-      "term": "roseolovirus",
+     "term": "roseolovirus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "roseolovirus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A genus of herpesviruses that includes human herpesvirus 6 and 7, commonly associated with roseola and sometimes serious disease after reactivation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421108,13 +421108,13 @@
       "body_systems": []
     },
     {
-      "term": "roseomonas",
+     "term": "roseomonas",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "roseomonas is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of pink-pigmented gram-negative bacteria that can rarely cause opportunistic bloodstream or device-related infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421127,13 +421127,13 @@
       "body_systems": []
     },
     {
-      "term": "roseomonas gilardii",
+     "term": "roseomonas gilardii",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "roseomonas gilardii is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A pink-pigmented gram-negative bacterium that can rarely cause bloodstream, wound, or other opportunistic infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421146,13 +421146,13 @@
       "body_systems": []
     },
     {
-      "term": "roseomonas mucosa",
+     "term": "roseomonas mucosa",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "roseomonas mucosa is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A pink-pigmented environmental bacterium occasionally associated with opportunistic infection, including bloodstream infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421184,13 +421184,13 @@
       "body_systems": []
     },
     {
-      "term": "rosiglitazone maleate",
+     "term": "rosiglitazone maleate",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rosiglitazone maleate is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "The maleate salt of rosiglitazone, a thiazolidinedione that improves insulin sensitivity in type 2 diabetes but may cause weight gain, edema, fractures, and heart-failure worsening.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421203,13 +421203,13 @@
       "body_systems": []
     },
     {
-      "term": "ross river virus",
+     "term": "ross river virus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "ross river virus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A mosquito-borne alphavirus that causes Ross River fever, with fever, rash, and often prolonged joint pain or swelling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421260,13 +421260,13 @@
       "body_systems": []
     },
     {
-      "term": "rotation",
+     "term": "rotation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rotation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Movement around an axis; in anatomy it describes turning a body part inward, outward, or around its longitudinal axis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421279,13 +421279,13 @@
       "body_systems": []
     },
     {
-      "term": "rotavirus infection",
+     "term": "rotavirus infection",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "rotavirus infection is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A highly contagious viral gastroenteritis causing vomiting and watery diarrhea, especially in infants and young children; vaccination prevents most severe disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421317,13 +421317,13 @@
       "body_systems": []
     },
     {
-      "term": "rothia dentocariosa",
+     "term": "rothia dentocariosa",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rothia dentocariosa is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A gram-positive bacterium found in the mouth that can rarely cause dental, bloodstream, heart-valve, or other opportunistic infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421336,13 +421336,13 @@
       "body_systems": []
     },
     {
-      "term": "rothia mucilaginosa",
+     "term": "rothia mucilaginosa",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rothia mucilaginosa is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A gram-positive bacterium that colonizes the mouth and can rarely cause bloodstream or device-related infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421355,13 +421355,13 @@
       "body_systems": []
     },
     {
-      "term": "rotifera",
+     "term": "rotifera",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rotifera is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A phylum of microscopic aquatic animals called rotifers; they are mainly studied in biology and are not typical human pathogens.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421431,13 +421431,13 @@
       "body_systems": []
     },
     {
-      "term": "rubber dams",
+     "term": "rubber dams",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rubber dams is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Sheets used in dentistry to isolate teeth from saliva and the rest of the mouth during procedures.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421469,13 +421469,13 @@
       "body_systems": []
     },
     {
-      "term": "rubidium",
+     "term": "rubidium",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rubidium is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A chemical element whose radioactive isotopes can be used in medical imaging; nonmedical rubidium compounds can affect potassium-related physiology.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421488,13 +421488,13 @@
       "body_systems": []
     },
     {
-      "term": "rubitecan",
+     "term": "rubitecan",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rubitecan is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational oral topoisomerase-I inhibitor studied for cancer treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421507,13 +421507,13 @@
       "body_systems": []
     },
     {
-      "term": "rubivirus",
+     "term": "rubivirus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "rubivirus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A genus of viruses that includes rubella virus, which causes rubella and congenital rubella syndrome.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421526,13 +421526,13 @@
       "body_systems": []
     },
     {
-      "term": "rubredoxins",
+     "term": "rubredoxins",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rubredoxins is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Small iron-containing proteins that transfer electrons in certain microorganisms and organelles.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421564,13 +421564,13 @@
       "body_systems": []
     },
     {
-      "term": "rubulavirus",
+     "term": "rubulavirus",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "rubulavirus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A genus of paramyxoviruses that includes mumps virus and related animal viruses.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421602,13 +421602,13 @@
       "body_systems": []
     },
     {
-      "term": "rumination",
+     "term": "rumination",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rumination is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Repeated regurgitation and rechewing of food after eating, without the usual vomiting process; persistent symptoms can cause weight loss and dental damage.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421621,13 +421621,13 @@
       "body_systems": []
     },
     {
-      "term": "ruminococcus",
+     "term": "ruminococcus",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ruminococcus is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "A genus of anaerobic intestinal bacteria involved in digestion of complex carbohydrates and plant fiber.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421640,13 +421640,13 @@
       "body_systems": []
     },
     {
-      "term": "ruminococcus gnavus",
+     "term": "ruminococcus gnavus",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ruminococcus gnavus is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An intestinal bacterium involved in mucin and carbohydrate metabolism and studied in relation to gut inflammation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421678,13 +421678,13 @@
       "body_systems": []
     },
     {
-      "term": "Russell-Siver syndrome",
+     "term": "Russell-Siver syndrome",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "Russell-Siver syndrome describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "Likely a misspelling of Russell-Silver syndrome, a growth disorder characterized by poor fetal and postnatal growth, feeding difficulty, relative macrocephaly, and characteristic body asymmetry or facial features.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421697,13 +421697,13 @@
       "body_systems": []
     },
     {
-      "term": "ruthenium",
+     "term": "ruthenium",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ruthenium is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A chemical element used in industry and research; some ruthenium compounds are studied as experimental anticancer agents.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421716,13 +421716,13 @@
       "body_systems": []
     },
     {
-      "term": "rutin",
+     "term": "rutin",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "rutin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A flavonoid glycoside found in plants and foods; it is sold in supplements, but clinical benefits are not firmly established.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421735,13 +421735,13 @@
       "body_systems": []
     },
     {
-      "term": "ryanodine",
+     "term": "ryanodine",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "ryanodine is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A plant alkaloid that binds ryanodine receptors and alters calcium release from muscle-cell sarcoplasmic reticulum; it is mainly used in research.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422580,13 +422580,13 @@
       "body_systems": []
     },
     {
-      "term": "Recognizing teen depression",
+     "term": "Recognizing teen depression",
       "category": [
         "mental health"
       ],
       "definitions": {
         "LLM": {
-          "text": "Recognizing teen depression is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Recognizing depression in adolescents involves looking for persistent low mood or irritability, loss of interest, sleep or appetite changes, poor concentration, hopelessness, or self-harm thoughts.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422916,13 +422916,13 @@
       "body_systems": []
     },
     {
-      "term": "Replantation of digits",
+     "term": "Replantation of digits",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Replantation of digits is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Microsurgical replacement of a completely amputated finger or toe, reconnecting bone, tendons, nerves, arteries, and veins when feasible.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423087,13 +423087,13 @@
       "body_systems": []
     },
     {
-      "term": "Retroversion of the uterus",
+     "term": "Retroversion of the uterus",
       "category": [
         "anatomy"
       ],
       "definitions": {
         "LLM": {
-          "text": "Retroversion of the uterus is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A uterine position in which the uterus tilts backward toward the spine; it is often a normal variant but can be associated with pain or endometriosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423181,13 +423181,13 @@
       "body_systems": []
     },
     {
-      "term": "Rheumatoid lung disease",
+     "term": "Rheumatoid lung disease",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Lung involvement associated with rheumatoid arthritis, including interstitial lung disease, pleural disease, nodules, or airway abnormalities.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424360,13 +424360,13 @@
       "body_systems": []
     },
     {
-      "term": "Rebound effect",
+     "term": "Rebound effect",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Rebound effect is a disease, symptom, syndrome, or clinical finding; its causes, diagnostic features, severity, complications, and treatment depend on clinical assessment.",
+          "text": "Worsening or return of symptoms after stopping or reducing a treatment that had been suppressing them.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424379,13 +424379,13 @@
       "body_systems": []
     },
     {
-      "term": "Recalcitrant",
+     "term": "Recalcitrant",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Recalcitrant is a disease, symptom, syndrome, or clinical finding; its causes, diagnostic features, severity, complications, and treatment depend on clinical assessment.",
+          "text": "Resistant to treatment, control, healing, or change; the term often describes a persistent disease or infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424588,13 +424588,13 @@
       "body_systems": []
     },
     {
-      "term": "Regional enteritis",
+     "term": "Regional enteritis",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "Regional enteritis is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An older name for Crohn disease, a chronic inflammatory bowel disease that can affect any part of the digestive tract.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424607,13 +424607,13 @@
       "body_systems": []
     },
     {
-      "term": "Rehab",
+     "term": "Rehab",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Rehab is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "A structured rehabilitation program that helps restore function, independence, participation, or quality of life after illness or injury.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424626,13 +424626,13 @@
       "body_systems": []
     },
     {
-      "term": "Rehydration",
+     "term": "Rehydration",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Rehydration is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Replacement of water and electrolytes lost through dehydration, commonly using oral fluids or intravenous treatment when necessary.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424645,13 +424645,13 @@
       "body_systems": []
     },
     {
-      "term": "Reinnervation",
+     "term": "Reinnervation",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Reinnervation is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Restoration of nerve supply to a muscle or tissue after nerve repair, regeneration, or collateral nerve growth.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424664,13 +424664,13 @@
       "body_systems": []
     },
     {
-      "term": "Remedy",
+     "term": "Remedy",
       "category": [
         "condition"
       ],
       "definitions": {
         "LLM": {
-          "text": "Remedy is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "A treatment or measure intended to relieve a symptom or illness; safety and effectiveness depend on the specific remedy and condition.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424854,13 +424854,13 @@
       "body_systems": []
     },
     {
-      "term": "Respiratory distress syndrome (RDS)",
+     "term": "Respiratory distress syndrome (RDS)",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Severe breathing difficulty caused by inadequate lung surfactant in premature newborns; treatment may include respiratory support and surfactant replacement.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -424930,13 +424930,13 @@
       "body_systems": []
     },
     {
-      "term": "Restless Anal Syndrome",
+     "term": "Restless Anal Syndrome",
       "category": [
         "disease"
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "An uncommon term describing uncomfortable anal sensations and an urge to move or relieve the area, analogous to restless legs symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -425082,13 +425082,13 @@
       "body_systems": []
     },
     {
-      "term": "Ribonucleoprotein (RNP)",
+     "term": "Ribonucleoprotein (RNP)",
       "category": [
         "biology"
       ],
       "definitions": {
         "LLM": {
-          "text": "An anatomical structure, tissue, or physiologic process with the location or function indicated by the term; disease or injury changes its expected findings.",
+          "text": "A complex made of RNA and one or more proteins, involved in RNA processing, transport, translation, or regulation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446336,7 +446336,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "An uncommon term describing uncomfortable anal sensations and an urge to move or relieve the area, analogous to restless legs symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
