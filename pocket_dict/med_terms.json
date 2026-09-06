@@ -283326,7 +283326,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "johnsonella identifies johnsonella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Johnsonella is a genus of anaerobic bacteria found mainly in the mouth; recovery from a clinical specimen should be interpreted with the site and evidence of infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -283364,7 +283364,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "An anatomical structure, tissue, or physiologic process with the location or function indicated by the term; disease or injury changes its expected findings.",
+          "text": "A joint capsule is the fibrous envelope surrounding a freely movable joint; its inner lining produces synovial fluid that lubricates the joint.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
