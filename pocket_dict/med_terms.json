@@ -8964,7 +8964,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "Relating to the heart and blood vessels, including circulation, blood pressure, and diseases of the cardiac or vascular system.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -8990,7 +8990,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "Existing or occurring at the same time as another condition, treatment, or event.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -133901,7 +133901,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "Existing or occurring at the same time as another condition, treatment, or event.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -142655,7 +142655,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cancer cluster describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A greater-than-expected number of cancer cases in a defined group, place, or period; investigation compares the observed cases with expected rates and looks for shared exposures or chance variation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -142693,7 +142693,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cancer prevention describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Measures that lower cancer risk or detect precancerous change early, including tobacco avoidance, vaccination, healthy behaviors, reducing harmful exposures, and recommended screening.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -142712,7 +142712,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cancer risk describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "The likelihood that a person will develop cancer, influenced by age, inherited variants, family history, tobacco, alcohol, infections, radiation, environmental exposures, and chance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -143244,7 +143244,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Capillaria is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of parasitic nematodes; human disease includes intestinal capillariasis and, rarely, infection of the liver or other tissues depending on the species.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -143263,7 +143263,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Capillaria philippinensis is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A parasitic nematode acquired from raw or undercooked freshwater fish that causes intestinal capillariasis, with diarrhea, abdominal pain, malabsorption, and protein loss.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -143908,7 +143908,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Carboxylesterase is a biochemical, genetic, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or exposure.",
+          "text": "An enzyme that hydrolyzes carboxylic esters, helping metabolize medicines, toxins, and endogenous lipids.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -143946,7 +143946,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Carboxy-lyases is a biochemical, genetic, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or exposure.",
+          "text": "Enzymes that break a carbon-carbon bond and release carbon dioxide, participating in metabolic and biochemical reactions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -143965,7 +143965,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Carboxypeptidase h is a biochemical, genetic, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or exposure.",
+          "text": "An enzyme involved in processing peptide hormones and neuropeptides by removing terminal amino acids from precursor molecules.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -144193,7 +144193,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cardiac sarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rare malignant tumor arising from connective or supporting tissue of the heart; symptoms may include obstruction, arrhythmia, heart failure, or emboli.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -144495,7 +144495,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cardiovascular neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign or malignant tumor arising in the heart, blood vessels, or related tissues; evaluation depends on its location, tissue type, and effect on circulation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -144970,7 +144970,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "A stimulant laxative that increases intestinal movement and water secretion; prolonged or excessive use can cause diarrhea, electrolyte abnormalities, and dependence on laxatives.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145480,7 +145480,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "The investment of emotional or psychological energy in a person, idea, object, or activity, a term used mainly in psychology and psychoanalytic theory.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145499,7 +145499,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "The investment of emotional or psychological energy in a person, idea, object, or activity, a term used mainly in psychology and psychoanalytic theory.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145784,7 +145784,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cecal neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign or malignant growth arising in the cecum; symptoms may include bleeding, anemia, abdominal pain, or bowel changes, and diagnosis usually requires colonoscopy and biopsy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145803,7 +145803,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cedecea is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of gram-negative bacteria in the Enterobacterales that rarely causes opportunistic infection, usually in people with serious underlying illness.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145822,7 +145822,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cedecea davisae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A rare opportunistic gram-negative bacterium reported in bloodstream, respiratory, wound, and urinary infections; clinical significance depends on the specimen and symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145841,7 +145841,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cedecea lapagei is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A gram-negative environmental bacterium rarely associated with human opportunistic infection, including bloodstream or respiratory infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145860,7 +145860,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cedecea neteri is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "An uncommon gram-negative bacterium that may cause opportunistic human infection; interpretation requires correlation with the clinical site and culture findings.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145933,7 +145933,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefamandole is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A second-generation cephalosporin antibiotic used for selected susceptible bacterial infections; bleeding risk, allergy, diarrhea, and antibiotic-associated colitis are possible.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -145952,7 +145952,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefatrizine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An older oral cephalosporin antibiotic used in some countries for susceptible bacterial infections; current use depends on local availability, resistance, and clinical guidance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146043,7 +146043,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefmenoxime is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A third-generation cephalosporin antibiotic used in some countries for susceptible bacterial infections; allergy, diarrhea, and antibiotic-associated colitis are possible.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146081,7 +146081,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefonicid is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A long-acting second-generation cephalosporin antibiotic used for selected susceptible infections; dosing and use depend on kidney function and local resistance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146100,7 +146100,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefoperazone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A third-generation cephalosporin with activity against many gram-negative bacteria, often combined with sulbactam; bleeding, allergy, and biliary effects may occur.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146155,7 +146155,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefotiam is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A second-generation cephalosporin antibiotic used in some countries for susceptible respiratory, urinary, skin, and other bacterial infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146174,7 +146174,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefoxitin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A cephamycin antibiotic used for selected abdominal, pelvic, skin, and other infections, including some caused by anaerobic bacteria.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146193,7 +146193,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefsulodin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An older antipseudomonal cephalosporin used mainly in laboratory or historical contexts because resistance and newer treatments limit routine use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146230,7 +146230,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ceftibuten is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An oral third-generation cephalosporin used for selected susceptible respiratory or urinary bacterial infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146249,7 +146249,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ceftizoxime is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A third-generation cephalosporin antibiotic used for selected serious infections caused by susceptible bacteria, including some anaerobes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -146286,7 +146286,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cefuroxime is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A second-generation cephalosporin available orally or by injection for selected respiratory, urinary, skin, and other bacterial infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -147160,7 +147160,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "A congenital body-wall closure defect in which abdominal or thoracic organs may protrude outside the body; the term is often used in descriptions of severe omphalocele-like malformations.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -147179,7 +147179,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A medical term describing the named biologic or clinical concept; its defining feature is the process, structure, exposure, or finding specified by the term, interpreted in context.",
+          "text": "A benign fibro-osseous lesion of the jaw or tooth-supporting tissues; modern classification distinguishes several cementum-related lesions with different behavior and treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -147559,7 +147559,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cerebellar hemangioblastoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A usually benign, highly vascular tumor of the cerebellum that may cause headache, imbalance, vomiting, or hydrocephalus and can occur with von Hippel-Lindau disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -147597,7 +147597,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cerebellar neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign or malignant tumor involving the cerebellum; symptoms may include poor coordination, imbalance, abnormal eye movements, headache, vomiting, or hydrocephalus.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -147958,7 +147958,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ceruminous adenocarcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A malignant tumor of the ceruminous glands in the external ear canal that may cause pain, discharge, hearing loss, or a persistent ear-canal mass.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -148148,7 +148148,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cervix carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Cancer arising from the cervix, most often related to persistent high-risk human papillomavirus infection; screening and HPV vaccination reduce risk, and treatment depends on stage.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -148186,7 +148186,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Cervix neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign, precancerous, or malignant growth of the cervix; evaluation may include pelvic examination, HPV testing, cytology, colposcopy, and biopsy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -148357,7 +148357,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chaetomium is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of environmental molds that rarely causes opportunistic infection, including skin, eye, sinus, or disseminated disease in people with impaired immunity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149041,7 +149041,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood angiosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rare malignant tumor arising from blood-vessel or lymphatic-endothelial cells in a child; diagnosis and treatment require specialist pediatric oncology care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149079,7 +149079,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood fibrosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A malignant tumor of fibroblastic connective tissue in children, usually presenting as a growing mass; treatment depends on location, extent, and tumor biology.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149117,7 +149117,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood leiomyosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rare malignant tumor of smooth muscle in a child; it may arise in soft tissue or an organ and requires biopsy, staging, and specialist treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149136,7 +149136,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood leukemia describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Cancer of blood-forming cells in a child, most often acute lymphoblastic or acute myeloid leukemia; symptoms may include pallor, bruising, fever, bone pain, or recurrent infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149155,7 +149155,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood liposarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rare malignant tumor derived from fat-forming tissue in a child; diagnosis requires imaging and biopsy, and treatment is individualized by a sarcoma team.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149174,7 +149174,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood osteosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A malignant bone tumor that commonly develops near the ends of long bones during adolescence; pain, swelling, or a fracture may occur and treatment combines chemotherapy and surgery.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149193,7 +149193,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Childhood rhabdomyosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A malignant tumor showing skeletal-muscle differentiation, occurring mainly in children and adolescents; it may arise in the head and neck, urinary or reproductive tract, or limbs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149496,7 +149496,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlordane is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A persistent organochlorine insecticide formerly used for termite control; exposure can affect the nervous system and liver and has environmental persistence.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149515,7 +149515,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlordecone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A persistent organochlorine pesticide that can cause neurologic, reproductive, and liver effects after significant exposure and remains in the environment for long periods.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149553,7 +149553,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorethoxyfos is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An organophosphate insecticide that can inhibit acetylcholinesterase and cause cholinergic poisoning after substantial exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149572,7 +149572,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorfenvinphos is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An organophosphate insecticide that can cause cholinergic toxicity by inhibiting acetylcholinesterase; use is restricted or prohibited in many places.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149665,7 +149665,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlormadinone acetate is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A synthetic progestogen used in some hormonal medicines; effects and risks include changes in bleeding, mood, metabolism, and thrombotic risk depending on the formulation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149684,7 +149684,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlormerodrin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A historical radioactive mercury compound once used in diagnostic or research settings; it is not a routine modern medicine and mercury exposure is toxic.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149703,7 +149703,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorodeoxyadenosine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Another name for cladribine, a purine-analog medicine used for selected blood cancers and multiple sclerosis; prolonged lymphocyte suppression and infection risk are important considerations.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149722,7 +149722,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chloroform is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A volatile solvent and environmental contaminant that can irritate the lungs and nervous system and damage the liver or kidneys after significant exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149779,7 +149779,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorophyta is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "The group of green algae; some species produce toxins or contribute to harmful algal blooms, while others are used as food or in research.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149798,7 +149798,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chloropicrin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A pungent soil fumigant and irritant that can injure the eyes, skin, and respiratory tract after exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149817,7 +149817,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chloroplast is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A plant and algal cell organelle that performs photosynthesis and contains its own DNA; it is not found in human cells.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149836,7 +149836,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chloroplast DNA is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "The genetic material inside chloroplasts, inherited mainly through the maternal line in many plants and used in studies of plant evolution and disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149855,7 +149855,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chloroprene is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An industrial chemical used to make chloroprene rubber; repeated or high exposure can irritate tissues and has carcinogenic concern.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149911,7 +149911,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorotoxin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A peptide from scorpion venom that binds some tumor and ion-channel targets; it is mainly studied experimentally for brain-tumor imaging or treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149930,7 +149930,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorotrianisene is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A synthetic estrogen formerly used for menopausal symptoms; it is rarely used now because of estrogen-related risks and safer alternatives.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149949,7 +149949,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorpheniramine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A first-generation antihistamine used for allergy symptoms; drowsiness, dry mouth, blurred vision, urinary retention, and other anticholinergic effects may occur.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -149968,7 +149968,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorphentermine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An older stimulant appetite suppressant related to amphetamines; it is not routinely used because of cardiovascular, psychiatric, and dependence risks.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -150059,7 +150059,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Chlorzoxazone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A centrally acting muscle relaxant used for painful muscle spasm in some countries; drowsiness and rare serious liver injury are important risks.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -150818,7 +150818,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Depression can occur with heart disease and may worsen quality of life, treatment adherence, and recovery; both conditions should be assessed and treated.",
+          "text": "Cancer cells can spread to nearby or distant lymph nodes; lymph-node examination, imaging, or biopsy helps determine cancer stage and guide treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -150856,7 +150856,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Heart disease or its treatment may affect sexual activity, desire, and confidence; individualized medical advice can help address symptoms and safety.",
+          "text": "Pain during or after cancer treatment may arise from the tumor, surgery, radiation, chemotherapy, or nerve injury; management can combine treatment of the cause, analgesics, rehabilitation, and supportive care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -150875,7 +150875,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Heart disease in women may involve different risk factors, symptoms, and timing than in men; chest pressure, shortness of breath, nausea, fatigue, or jaw or back pain can be important symptoms.",
+          "text": "Menstrual periods may stop early after chemotherapy, pelvic radiation, ovarian surgery, or hormone-blocking treatment; symptoms and fertility effects require individualized oncology and gynecologic care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -150894,7 +150894,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Long-standing high blood pressure can damage retinal blood vessels and the optic nerve, causing hypertensive retinopathy or vision loss.",
+          "text": "Hot flashes and night sweats may result from cancer treatment or hormone changes; options include cooling measures, behavioral strategies, and selected nonhormonal or hormonal medicines when appropriate.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -150913,7 +150913,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pain in or around the hip caused by joint disease, tendon or muscle injury, bursitis, fracture, nerve problems, or pain referred from the back.",
+          "text": "Treatments for cancer include surgery, radiation, chemotherapy, immunotherapy, targeted therapy, hormone therapy, stem-cell transplantation, and supportive or palliative care, selected according to tumor type, stage, biology, and patient goals.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -152016,7 +152016,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Child neglect and emotional abuse examines child neglect and emotional abuse; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Failure to provide a child’s basic needs or repeated behavior that harms emotional development, safety, or wellbeing; suspected abuse requires safeguarding assessment and appropriate reporting under local law.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -152092,7 +152092,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Lung inflammation caused by inhaling or aspirating petroleum products or other hydrocarbons, which can produce cough, breathing difficulty, and chemical pneumonitis.",
+          "text": "Specialized services that coordinate diagnosis, treatment, rehabilitation, psychosocial support, survivorship care, and research for children and adolescents with cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -152561,7 +152561,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A rare primary immunodeficiency characterized by very high IgE, eczema, recurrent skin and lung infections, and sometimes skeletal or dental abnormalities.",
+          "text": "A neurodevelopmental disorder with persistent motor or vocal tics lasting more than one year; symptoms often fluctuate and may be treated with education, behavioral therapy, or medicines when impairment is significant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -152637,7 +152637,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "An autoimmune disease in which immune attack gradually damages the thyroid, often causing hypothyroidism, fatigue, cold intolerance, constipation, dry skin, or goiter.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -152656,7 +152656,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Severe elevation of triglyceride-rich chylomicrons in blood, usually from genetic or acquired impairment of triglyceride clearance; it can cause abdominal pain, eruptive xanthomas, and recurrent acute pancreatitis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -152957,7 +152957,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Pneumonia caused by cytomegalovirus, usually in people with substantial immune suppression; fever, cough, shortness of breath, and low oxygen may occur and require targeted evaluation and antiviral treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -153126,7 +153126,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "A structured psychological treatment that addresses pain-related thoughts, behaviors, sleep, activity, and coping to reduce disability and improve function in chronic back pain.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -153202,7 +153202,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "An older term for systemic connective-tissue or autoimmune diseases such as lupus, systemic sclerosis, and inflammatory myopathies; modern diagnosis uses the specific disease name.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -153221,7 +153221,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Air in the pleural space causing partial or complete lung collapse; symptoms may include sudden chest pain and shortness of breath, and tension pneumothorax is an emergency.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -153505,7 +153505,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Pneumonia acquired outside a hospital or healthcare facility; assessment considers severity, oxygenation, comorbidities, likely pathogens, and the need for outpatient or inpatient treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154066,7 +154066,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "COPD - control drugs is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Long-term medicines used to reduce COPD symptoms and exacerbations, such as long-acting bronchodilators and, for selected patients, inhaled corticosteroids.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154104,7 +154104,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "COPD - quick-relief drugs is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Fast-acting inhaled bronchodilators used for short-term relief of COPD breathlessness or bronchospasm; frequent need may indicate inadequate control or an exacerbation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154161,7 +154161,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Coping with cancer - finding the support you need is a disorder affecting the body system or process named by the term. Clinical features and causes vary, so diagnosis is based on the history, examination, and appropriate investigations.",
+          "text": "Finding practical, emotional, social, financial, and spiritual support during cancer care through loved ones, clinicians, support groups, counseling, and community resources.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154180,7 +154180,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Coping with cancer - hair loss is a disorder affecting the body system or process named by the term. Clinical features and causes vary, so diagnosis is based on the history, examination, and appropriate investigations.",
+          "text": "Support for hair loss caused by chemotherapy, radiation, or other cancer treatment, including preparation, scalp care, wigs or head coverings, and emotional support.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154199,7 +154199,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Coping with cancer - looking and feeling your best is a disorder affecting the body system or process named by the term. Clinical features and causes vary, so diagnosis is based on the history, examination, and appropriate investigations.",
+          "text": "Practical and emotional strategies for maintaining comfort, appearance, identity, and confidence during cancer treatment, tailored to symptoms, energy, and personal preferences.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154218,7 +154218,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Coping with cancer - managing fatigue is a disorder affecting the body system or process named by the term. Clinical features and causes vary, so diagnosis is based on the history, examination, and appropriate investigations.",
+          "text": "Managing cancer-related fatigue through assessment of reversible causes, pacing, safe physical activity, sleep support, nutrition, symptom control, and help with daily tasks.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154463,7 +154463,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Counting carbohydrates examines counting carbohydrates; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Estimating the grams of carbohydrate in foods and drinks to help plan meals, match insulin, and manage blood glucose, especially in diabetes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154650,7 +154650,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "CPR - adult and child after onset of puberty is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Cardiopulmonary resuscitation for an unresponsive person who is not breathing normally after puberty, using emergency activation, chest compressions, rescue breaths when trained, and an AED as soon as available.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -154669,7 +154669,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "CPR - infant is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Cardiopulmonary resuscitation for an unresponsive infant who is not breathing normally, using emergency activation, infant chest compressions, rescue breaths when trained, and an AED according to local guidance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
