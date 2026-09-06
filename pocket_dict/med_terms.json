@@ -105496,7 +105496,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bartonellaceae identifies bartonellaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of small gram-negative bacteria that includes Bartonella species, which can cause cat-scratch disease, bacillary angiomatosis, endocarditis, and relapsing fever.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110282,7 +110282,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bordetella identifies bordetella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A genus of small gram-negative bacteria that includes B. pertussis, the cause of whooping cough, and other respiratory or animal-associated species.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110301,7 +110301,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bordetella avium identifies bordetella avium, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Bordetella species that mainly causes respiratory disease in turkeys and other birds; human infection is rare.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110320,7 +110320,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bordetella bronchiseptica identifies bordetella bronchiseptica, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A respiratory bacterium of dogs and other animals that can rarely cause pneumonia or other opportunistic infection in humans, especially those with impaired immunity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110339,7 +110339,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bordetella hinzii identifies bordetella hinzii, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Bordetella species associated mainly with poultry that rarely causes opportunistic respiratory or bloodstream infection in humans.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110358,7 +110358,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bordetella parapertussis identifies bordetella parapertussis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Bordetella species that causes a pertussis-like respiratory illness, usually milder than classic whooping cough caused by B. pertussis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110377,7 +110377,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Bordetella petrii identifies bordetella petrii, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "An environmental Bordetella species rarely associated with human infection; significance depends on recovery from a compatible clinical site.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110434,7 +110434,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Borrelia infection identifies borrelia infection, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Infection with a Borrelia spirochete, including Lyme disease, relapsing fever, or hard-tick relapsing fever; symptoms and treatment depend on the species and exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -110453,7 +110453,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Borrelia miyamotoi identifies borrelia miyamotoi, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A tick-borne spirochete that causes hard-tick relapsing fever, usually with recurrent fever, headache, fatigue, and muscle aches.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -111783,7 +111783,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Brucella identifies brucella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A genus of bacteria that causes brucellosis, usually acquired from infected animals, animal tissues, or unpasteurized dairy products.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -111802,7 +111802,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Brucella abortus identifies brucella abortus, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Brucella species mainly associated with cattle that can cause brucellosis in people exposed to infected animals or unpasteurized dairy products.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -111821,7 +111821,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Brucella canis identifies brucella canis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Brucella species associated with dogs that can rarely cause human brucellosis after contact with infected animals or reproductive material.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -111840,7 +111840,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Brucella melitensis identifies brucella melitensis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A highly pathogenic Brucella species associated with goats and sheep and a common cause of severe human brucellosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -111859,7 +111859,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Brucella suis identifies brucella suis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Brucella species associated with pigs and some wildlife that can cause human brucellosis, sometimes with focal bone or organ infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -111878,7 +111878,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Brucellaceae identifies brucellaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of gram-negative bacteria that includes Brucella and related animal-associated organisms; Brucella species cause brucellosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112239,7 +112239,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderia identifies burkholderia, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A genus of environmental gram-negative bacteria that includes organisms causing melioidosis, glanders, and opportunistic infections in people with chronic lung disease or impaired immunity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112258,7 +112258,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderia cenocepacia identifies burkholderia cenocepacia, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A member of the B. cepacia complex that can cause severe, difficult-to-treat respiratory infection in people with cystic fibrosis and other chronic lung disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112277,7 +112277,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderia cepacia identifies burkholderia cepacia, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A gram-negative environmental bacterium and member of the B. cepacia complex that can cause opportunistic lung, bloodstream, or device-associated infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112296,7 +112296,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderia gladioli identifies burkholderia gladioli, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "An environmental bacterium that can cause opportunistic respiratory, bloodstream, or wound infection, especially in people with cystic fibrosis or impaired immunity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112315,7 +112315,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderia mallei identifies burkholderia mallei, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "The bacterium that causes glanders, a zoonotic infection mainly affecting horses and related animals and occasionally transmitted to humans.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112334,7 +112334,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderia pseudomallei identifies burkholderia pseudomallei, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "The bacterium that causes melioidosis, an infection acquired from contaminated soil or water and capable of causing pneumonia, abscesses, bloodstream infection, or chronic disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112353,7 +112353,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Burkholderiaceae identifies burkholderiaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of gram-negative bacteria that includes Burkholderia and related environmental organisms, some of which cause serious human or animal infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -112524,7 +112524,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Buttiauxella identifies buttiauxella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A genus of environmental gram-negative bacteria in the Enterobacterales; human infection is uncommon and usually opportunistic.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
