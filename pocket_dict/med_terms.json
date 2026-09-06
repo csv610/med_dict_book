@@ -52888,7 +52888,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "A plant-derived alkaloid that has been studied for erectile dysfunction and other uses.",
+          "text": "An alpha-2 adrenergic antagonist derived from yohimbe-related compounds and studied for erectile dysfunction; evidence is limited and adverse effects may include anxiety, high blood pressure, palpitations, and seizures.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496628,7 +496628,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Beta emitter, half-life 64 hours. Used in radioembolization (Y-90 microspheres) for liver cancer. Bremsstrahlung imaging possible.",
+          "text": "A radioactive beta-emitting isotope with a physical half-life of about 64 hours, used in selected targeted radiation treatments such as liver radioembolization and some radiosynovectomy procedures.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496799,7 +496799,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yellow fever virus is a virus or viral group classified by its genetic and biologic features. Clinical importance depends on the strain, host, route of transmission, tissue tropism, and ability to cause disease.",
+          "text": "A flavivirus transmitted mainly by infected mosquitoes that can cause yellow fever, ranging from a mild febrile illness to jaundice, bleeding, shock, and organ failure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496837,7 +496837,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia aldovae is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An environmental Yersinia species rarely isolated from humans; its significance depends on recovery from a compatible infection rather than colonization or contamination.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496856,7 +496856,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia bercovieri is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An uncommon environmental or enteric Yersinia species with limited evidence of human pathogenicity; clinical significance depends on the specimen and symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496875,7 +496875,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia frederiksenii is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An environmental Yersinia species occasionally recovered from food, water, or clinical specimens; confirmed human infection is uncommon.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496894,7 +496894,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia intermedia is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An environmental Yersinia species that is uncommon in human disease; interpretation of an isolate depends on the site, symptoms, and evidence of invasive infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496913,7 +496913,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia kristensenii is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An uncommon Yersinia species found in environmental or animal sources and rarely associated with human infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496932,7 +496932,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia mollaretii is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An uncommon Yersinia species mainly identified in environmental or animal samples; human pathogenicity is not well established.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496970,7 +496970,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia rohdei is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "An uncommon Yersinia species associated mainly with environmental or animal sources and rarely reported in human clinical specimens.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -496989,7 +496989,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "yersinia ruckeri is a microorganism or microbial group identified by its biologic and taxonomic features. Clinical significance depends on pathogenicity, exposure, the site involved, and antimicrobial susceptibility.",
+          "text": "A bacterium that causes enteric redmouth disease in fish; human infection is extremely rare and should be assessed in the context of a compatible exposure and specimen.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
