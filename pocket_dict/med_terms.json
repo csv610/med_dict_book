@@ -495469,7 +495469,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Lead apron, thyroid shield for radiation protection during imaging.",
+          "text": "Protective material, usually lead or another radiation-attenuating substance, used to reduce exposure to scattered X-rays during imaging; shielding is applied according to the procedure and current radiation-safety guidance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
