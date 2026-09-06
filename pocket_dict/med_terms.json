@@ -15774,7 +15774,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "Diverticulitis is inflammation or infection of a diverticulum, usually in the colon, causing localized abdominal pain, fever, altered bowel habits, or complications such as abscess. diverticulosis affecting 10-25 percent of individuals with diverticula. The pathophysiology involves microperforation of a diverticulum with fecal contents entering the pericolic tissues, inciting inflammation and potential abscess formation.",
+          "text": "Inflammation of one or more diverticula, usually in the colon. It may cause abdominal pain, fever, changes in bowel habits, or complications such as an abscess.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -58816,7 +58816,7 @@
           "review_status": "unreviewed"
         },
         "LLM": {
-          "text": "Pathological accumulation of fluid within the peritoneal cavity representing the most common decompensating event in cirrhosis. The pathogenesis involves splanchnic arterial vasodilation reducing effective arterial blood volume and activating neurohormonal mechanisms leading to sodium and water retention.",
+          "text": "Abnormal buildup of fluid in the abdominal cavity, which can cause abdominal swelling. It is most often caused by high blood pressure in the liver's portal veins due to cirrhosis, but it may also result from cancer, heart failure, kidney disease, or pancreatitis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -64874,7 +64874,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Inflammation and liver injury caused by heavy alcohol use.",
+          "text": "An acute inflammation and injury of the liver caused by heavy alcohol use. It commonly causes jaundice, fatigue, fever, nausea, and abdominal pain and can become severe enough to cause liver failure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -82145,7 +82145,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Inflammation and injury of the liver related to alcohol use, potentially causing jaundice, abdominal pain, fever, and liver failure.",
+          "text": "An acute inflammation and injury of the liver caused by heavy alcohol use. It commonly causes jaundice, fatigue, fever, nausea, and abdominal pain and can become severe enough to cause liver failure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -167816,7 +167816,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Condition characterized by the presence of diverticula, which are outpouchings of the colonic mucosa and submucosa through defects in the muscularis propria at sites where vasa recta penetrate the bowel wall.",
+          "text": "A condition in which colon diverticula cause symptoms, bleeding, inflammation, or complications. It includes symptomatic diverticulosis and diverticulitis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -167835,7 +167835,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "The presence of diverticula, usually small pouches in the colon wall; it may be asymptomatic or cause bleeding and can coexist with diverticulitis. sites of vascular penetration, most commonly in the sigmoid colon (90 percent of cases). Prevalence increases with age, affecting over 50 percent of individuals older than 60 years and nearly 70 percent by age 85.",
+          "text": "The presence of small pouches, called diverticula, in the wall of the colon. It often causes no symptoms but may lead to bleeding or diverticular disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -167854,7 +167854,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diverticulosis is a condition in which small, bulging pouches (diverticula) form in the lining of the digestive tract, most commonly in the colon. Diverticulitis occurs when these pouches become inflamed or infected, causing abdominal pain, fever, and changes in bowel habits.",
+          "text": "Diverticulosis is a condition in which small pouches (diverticula) form in the wall of the digestive tract, most commonly in the colon. Diverticulitis occurs when these pouches become inflamed, causing abdominal pain, fever, and changes in bowel habits.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -433718,7 +433718,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Infection of ascitic fluid without an identifiable intra-abdominal source representing a serious complication of cirrhosis with ascites. The pathogenesis involves impaired immune function, bacterial translocation from the intestinal lumen, and seeding of ascitic fluid which provides a favorable medium for bacterial growth.",
+          "text": "An infection of ascitic fluid without an identifiable abdominal source, usually occurring in people with cirrhosis and ascites. It may cause fever, abdominal pain, tenderness, or worsening illness. Diagnosis is made by testing ascitic fluid, usually showing at least 250 neutrophils per mm3.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
