@@ -181810,7 +181810,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "A pituitary tumor is a growth in the pituitary gland that may be noncancerous but can cause hormone excess, hormone deficiency, or visual problems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -182019,7 +182019,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Polyhydramnios is excessive amniotic fluid during pregnancy and may increase the risk of maternal discomfort, preterm birth, or complications during delivery.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -377792,7 +377792,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "palate neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A palate neoplasm is an abnormal growth in the roof of the mouth that may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378114,7 +378114,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pancreas neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A pancreatic neoplasm is an abnormal growth in the pancreas that may be benign, precancerous, or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378152,7 +378152,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pancreatic carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Pancreatic carcinoma is cancer arising in the pancreas, most often from duct cells, and may cause jaundice, pain, weight loss, or digestive problems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378265,7 +378265,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pancreaticoduodenectomy is used in relation to pancreaticoduodenectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Pancreaticoduodenectomy, or the Whipple procedure, removes the head of the pancreas and nearby parts of the digestive tract to treat selected tumors and other serious disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378436,7 +378436,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "paromomycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Paromomycin is an aminoglycoside antibiotic used mainly in the intestine for selected parasitic infections and sometimes for other infections under specialist care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378455,7 +378455,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "parosteal osteosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Parosteal osteosarcoma is a usually lower-grade bone cancer that grows on the outer surface of a bone, often near the back of the thigh.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378474,7 +378474,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "parotid neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A parotid neoplasm is an abnormal growth in the parotid salivary gland and may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378493,7 +378493,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "parotidectomy is used in relation to parotidectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Parotidectomy is surgical removal of part or all of a parotid salivary gland, usually to treat a tumor.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378531,7 +378531,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "paroxetine hydrochloride is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Paroxetine hydrochloride is an SSRI antidepressant used for depression and several anxiety-related disorders; it can cause sexual side effects and withdrawal symptoms if stopped abruptly.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378626,7 +378626,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "partial cystectomy is used in relation to partial cystectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Partial cystectomy removes part of the urinary bladder, usually to treat a selected bladder tumor while preserving the remaining bladder.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378664,7 +378664,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "partial nephrectomy is used in relation to partial nephrectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Partial nephrectomy removes a diseased part of a kidney while preserving the remaining healthy tissue.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378854,7 +378854,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pasteurella aerogenes identifies pasteurella aerogenes, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Pasteurella aerogenes is a rare Pasteurella species; its recovery from a clinical sample should be interpreted with the source and evidence of infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378873,7 +378873,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pasteurella bettyae identifies pasteurella bettyae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Pasteurella bettyae is a rare bacterium associated with animals and occasional human wound or soft-tissue infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378892,7 +378892,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pasteurella canis identifies pasteurella canis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Pasteurella canis is a bacterium found in dogs and cats that can cause wound or soft-tissue infection after an animal bite.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378911,7 +378911,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pasteurella pneumotropica identifies pasteurella pneumotropica, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Pasteurella pneumotropica is mainly an animal-associated bacterium that rarely causes opportunistic human infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -378930,7 +378930,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pasteurellaceae identifies pasteurellaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Pasteurellaceae is a family of bacteria that includes Pasteurella and related animal-associated organisms capable of causing bite-wound and respiratory infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -379764,7 +379764,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pelvic lymphadenectomy is used in relation to pelvic lymphadenectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Pelvic lymphadenectomy is surgical removal of lymph nodes in the pelvis to check for or treat spread of cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -379802,7 +379802,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pelvic neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A pelvic neoplasm is an abnormal growth in the pelvis, arising from organs, bones, soft tissues, or lymph nodes; it may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -379896,7 +379896,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "penbutolol is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Penbutolol is a beta-blocker formerly used for high blood pressure; it can slow the heart rate and worsen asthma in susceptible people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -379991,7 +379991,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "penicillin G is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Penicillin G is an injectable penicillin antibiotic used for infections such as syphilis and selected streptococcal or other susceptible bacterial infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -380010,7 +380010,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "penicillin V is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Penicillin V is an oral penicillin antibiotic used for selected susceptible infections, including some throat and dental infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -380123,7 +380123,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "penis carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Penis carcinoma is cancer of the penis, most often arising from skin or squamous cells and sometimes linked to HPV infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -380331,7 +380331,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pentylenetetrazole is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Pentylenetetrazole is a convulsant research compound formerly used as a respiratory stimulant; it is not a routine modern medicine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -380350,7 +380350,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "peplomycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Peplomycin is a bleomycin-related chemotherapy medicine used in some countries for selected cancers; lung toxicity is an important risk.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -380843,7 +380843,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "percutaneous discectomy is used in relation to percutaneous discectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Percutaneous discectomy removes or decompresses part of a herniated spinal disc through a small needle or incision.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -381147,7 +381147,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pericardiectomy is used in relation to pericardiectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Pericardiectomy removes part or all of the sac around the heart, usually to treat severe constrictive pericarditis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -381299,7 +381299,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "perindopril is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Perindopril is an ACE inhibitor used for high blood pressure and cardiovascular risk reduction; it can cause cough, high potassium, or rarely angioedema.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -381771,7 +381771,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "peritoneum neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A peritoneal neoplasm is an abnormal growth in the lining of the abdominal cavity and may be primary or spread from another cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -382563,7 +382563,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pharmacotherapy is used in relation to pharmacotherapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Pharmacotherapy is treatment with medicines chosen to prevent, relieve, or control a disease or symptom.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -382601,7 +382601,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pharyngeal carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Pharyngeal carcinoma is cancer arising in the throat and may cause persistent sore throat, swallowing difficulty, hoarseness, or a neck mass.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -382693,7 +382693,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pharyngectomy is used in relation to pharyngectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Pharyngectomy is surgical removal of part or all of the pharynx, usually to treat cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -382749,7 +382749,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pharynx neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A pharynx neoplasm is an abnormal growth in the throat that may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -383828,7 +383828,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pindolol is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Pindolol is a beta-blocker used for selected cardiovascular conditions; it can slow the heart rate and worsen asthma in susceptible people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -384339,7 +384339,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pituitary carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Pituitary carcinoma is a rare malignant pituitary tumor defined by spread to distant or separate sites, often producing excess hormones.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -384414,7 +384414,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pituitary neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A pituitary neoplasm is an abnormal growth in or near the pituitary gland and may affect hormones, vision, or nearby brain structures.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -384830,7 +384830,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "plant tumor describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A plant tumor is an abnormal plant growth caused by uncontrolled cell multiplication, infection, insects, or other environmental factors.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -384980,7 +384980,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "plasmablastic lymphoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Plasmablastic lymphoma is an aggressive B-cell lymphoma often associated with immune deficiency, HIV infection, or immunosuppression.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -385150,7 +385150,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pleural neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A pleural neoplasm is an abnormal growth in the lining around the lung, such as mesothelioma or metastatic cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -385510,7 +385510,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pneumovirinae is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Pneumovirinae is a subfamily of viruses that includes respiratory pathogens such as respiratory syncytial virus and human metapneumovirus.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -386156,7 +386156,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "polygraphy is a diagnostic or laboratory test, method, or measurement; interpretation depends on the specimen, technique, reference range, and clinical question.",
+          "text": "Polygraphy is the simultaneous recording of several physiologic signals, such as breathing, heart rate, oxygen level, and movement, often during sleep testing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -386764,7 +386764,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "porfiromycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Porfiromycin is an older investigational chemotherapy compound related to mitomycin and is not a routine modern treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387410,7 +387410,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "potassium iodide is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Potassium iodide supplies iodide and is used in selected thyroid conditions, radiation emergencies, and some expectorant preparations; excess can disturb thyroid function.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387524,7 +387524,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "povidone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Povidone is a water-soluble polymer used in medicines, eye products, and other preparations; it is also part of povidone-iodine antiseptic.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387543,7 +387543,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "povidone-iodine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Povidone-iodine is an iodine-containing antiseptic used on skin or tissue before selected procedures; it can irritate skin and affect the thyroid with extensive use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387714,7 +387714,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pralatrexate is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Pralatrexate is an antifolate chemotherapy medicine used for relapsed or refractory peripheral T-cell lymphoma.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387752,7 +387752,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pravastatin sodium is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Pravastatin sodium is a statin medicine that lowers LDL cholesterol and reduces cardiovascular risk.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387809,7 +387809,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "precancerous condition describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A precancerous condition contains abnormal changes that may progress to cancer but are not cancer themselves.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387828,7 +387828,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "precancerous polyp describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A precancerous polyp is a growth with cellular changes that can become cancerous over time if not removed or monitored appropriately.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387866,7 +387866,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "preclinical study is a diagnostic or laboratory test, method, or measurement; interpretation depends on the specimen, technique, reference range, and clinical question.",
+          "text": "A preclinical study evaluates a medicine, device, or treatment in laboratory models or animals before testing in humans.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387942,7 +387942,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "prednisolone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Prednisolone is a corticosteroid used to reduce inflammation and immune activity; prolonged or high-dose use can cause infection, bone loss, and other effects.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -387961,7 +387961,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "prednisone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Prednisone is a corticosteroid used for inflammatory, allergic, and autoimmune conditions; it should often be tapered after prolonged use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -388037,7 +388037,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pregabalin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Pregabalin is used for certain nerve pain and seizures and may cause dizziness, sleepiness, swelling, or dependence.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -388607,7 +388607,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "primidone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Primidone is an antiseizure medicine used for epilepsy and sometimes essential tremor; it can cause sleepiness, dizziness, and drug interactions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -389082,7 +389082,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "progesterone antagonist is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "A progesterone antagonist blocks progesterone receptors and may be used for selected reproductive, gynecologic, or other medical purposes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -389158,7 +389158,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "proinsulin is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Proinsulin is the precursor molecule that pancreatic beta cells process into insulin and C-peptide.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -389348,7 +389348,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "prolymphocytic leukemia describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Prolymphocytic leukemia is a rare aggressive leukemia with large abnormal lymphocytes in the blood, bone marrow, spleen, or lymph nodes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -389443,7 +389443,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "promethazine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Promethazine is an antihistamine used for allergy symptoms, nausea, motion sickness, and sometimes sedation; it can cause marked sleepiness and breathing problems in young children.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -389690,7 +389690,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "prophylactic mastectomy is used in relation to prophylactic mastectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Prophylactic mastectomy removes one or both breasts to greatly reduce cancer risk in selected people at very high genetic or clinical risk.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -389899,7 +389899,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A biological substance, cellular process, or molecular structure whose defining role is indicated by the term; its medical significance depends on function, location, amount, and clinical context.",
+          "text": "Propylene glycol is a solvent and humectant used in medicines, foods, and cosmetics; large exposures can cause metabolic or kidney problems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -390089,7 +390089,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "prostate carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Prostate carcinoma is cancer arising from the prostate gland and may grow slowly or behave aggressively.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -390146,7 +390146,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "prostate neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A prostate neoplasm is an abnormal growth in the prostate that may be benign, such as benign enlargement, or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -390982,7 +390982,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "proteomic profile is a diagnostic or laboratory test, method, or measurement; interpretation depends on the specimen, technique, reference range, and clinical question.",
+          "text": "A proteomic profile is a pattern of proteins measured in a biological sample to study disease, treatment response, or biological processes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -392293,7 +392293,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "puromycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Puromycin is an antibiotic research compound that stops protein production in cells; it is not used as a routine human medicine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -392540,7 +392540,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pyrazole is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Pyrazole is a five-membered chemical ring used as a building block in medicines and other compounds; it is not one specific therapeutic drug.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -392559,7 +392559,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pyrazoles is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Pyrazoles are a family of chemical compounds containing a pyrazole ring, including some medicines and pesticides.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -392635,7 +392635,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "pyridostigmine bromide is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Pyridostigmine bromide increases communication between nerves and muscles and is used mainly for myasthenia gravis; it may cause abdominal cramps, diarrhea, or excess secretions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -394630,7 +394630,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pain and your emotions addresses care related to pain and your emotions, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Pain can affect mood, sleep, attention, and stress, while anxiety or depression can increase how pain is experienced; both the pain and emotional effects may need treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -394649,7 +394649,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pain medications - narcotics addresses care related to pain medications - narcotics, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Narcotic pain medicines, also called opioids, can relieve severe pain but may cause constipation, sedation, dependence, overdose, and slowed breathing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -394668,7 +394668,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Painful menstrual periods addresses care related to painful menstrual periods, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Painful menstrual periods, or dysmenorrhea, are cramps during menstruation caused by uterine contractions or conditions such as endometriosis or fibroids.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -394687,7 +394687,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Painful swallowing addresses care related to painful swallowing, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Painful swallowing, or odynophagia, is discomfort when swallowing and may result from infection, inflammation, injury, reflux, or a blockage.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -394970,7 +394970,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Parathyroid cancer is a rare malignant tumor of the parathyroid gland that often causes excessive parathyroid hormone and high blood calcium.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -395382,7 +395382,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pelvic floor muscle training exercises addresses care related to pelvic floor muscle training exercises, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Pelvic floor muscle exercises strengthen the muscles supporting the bladder, bowel, and reproductive organs and may improve selected forms of urinary or fecal leakage.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -395530,7 +395530,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Penis care (uncircumcised) addresses care related to penis care (uncircumcised), including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Care of an uncircumcised penis includes gently retracting the foreskin only as far as comfortable, cleaning underneath, drying, and returning the foreskin to its normal position.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -395549,7 +395549,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Penis pain addresses care related to penis pain, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Penis pain may result from infection, injury, inflammation, urinary problems, or sexual conditions; severe pain, swelling, discharge, or inability to urinate requires prompt assessment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396037,7 +396037,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Personality disorders are enduring patterns of thought, emotion, and behavior that differ markedly from cultural expectations and cause distress or impaired functioning.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396149,7 +396149,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pets and the immunocompromised person examines pets and the immunocompromised person; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "People with weakened immunity can often keep pets but should reduce exposure to animal waste, scratches, bites, and unsafe food and follow individualized medical advice.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396357,7 +396357,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "A specific phobia is intense, persistent fear of a particular object or situation that is excessive, leads to avoidance, and interferes with life.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396413,7 +396413,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Phosphorus in diet addresses care related to phosphorus in diet, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Dietary phosphorus comes from protein-rich foods and many processed foods; people with kidney disease may need individualized limits.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396508,7 +396508,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pin care addresses care related to pin care, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Pin care keeps the skin around external fixation or traction pins clean and monitored for redness, swelling, drainage, loosening, or infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396883,7 +396883,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pleural fluid Gram stain examines pleural fluid gram stain; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A pleural-fluid Gram stain looks for bacteria in fluid around the lung and may support evaluation of empyema or bacterial pleural infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396921,7 +396921,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pleural needle biopsy examines pleural needle biopsy; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A pleural needle biopsy removes a small sample of the pleural lining through a needle for evaluation of cancer, infection, or inflammation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -396978,7 +396978,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Pneumothorax in an infant is air outside the lung that can compress it and cause breathing difficulty, low oxygen, or cardiovascular instability.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397263,7 +397263,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Polyp biopsy examines polyp biopsy; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A polyp biopsy removes part or all of a polyp for microscopic examination to determine whether it is benign, precancerous, or cancerous.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397301,7 +397301,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Porphyrins blood test examines porphyrins blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A blood porphyrin test measures porphyrins or related compounds and helps evaluate suspected porphyria and disorders of haem production.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397320,7 +397320,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Porphyrins urine test examines porphyrins urine test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A urine porphyrin test measures porphyrins or their precursors and helps investigate suspected porphyria or abnormal haem metabolism.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397415,7 +397415,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Post-splenectomy complications examines post-splenectomy complications; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Post-splenectomy complications include infection by encapsulated bacteria, blood clots, bleeding, and changes in blood-cell counts; vaccination and follow-up reduce risk.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397434,7 +397434,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "A posterior fossa tumor is a growth in the part of the skull containing the cerebellum and brainstem and may obstruct fluid flow or affect coordination and vital functions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397472,7 +397472,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Postsurgical pain treatment in adults addresses care related to postsurgical pain treatment in adults, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Adult postsurgical pain treatment may combine acetaminophen, anti-inflammatory medicines, regional anesthesia, limited opioids, movement, and wound care according to the operation and patient risks.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397529,7 +397529,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Potassium in diet addresses care related to potassium in diet, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Dietary potassium comes from fruits, vegetables, beans, dairy, and other foods; intake may need adjustment in kidney disease or with medicines that change potassium levels.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397548,7 +397548,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Potassium test examines potassium test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A potassium test measures potassium in blood, usually to assess heart, muscle, kidney, or medication-related electrolyte problems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397567,7 +397567,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Potassium urine test examines potassium urine test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A urine potassium test measures potassium excretion and helps determine whether abnormal blood potassium is related to kidney losses or other causes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397643,7 +397643,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "PPD skin test examines ppd skin test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A PPD skin test places a small amount of tuberculin under the skin to assess immune evidence of tuberculosis exposure; interpretation depends on risk and the size of the reaction.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397795,7 +397795,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pregnancy care addresses care related to pregnancy care, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Pregnancy care includes regular maternal and fetal checkups, screening, nutrition and medicine review, vaccination, and advice about warning symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397852,7 +397852,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prenatal care in your first trimester addresses care related to prenatal care in your first trimester, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "First-trimester prenatal care confirms pregnancy and dating, reviews health and medicines, offers screening, and addresses nutrition, folic acid, and warning symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397871,7 +397871,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prenatal care in your second trimester addresses care related to prenatal care in your second trimester, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Second-trimester prenatal care monitors parent and fetus, offers anatomy and other screening, and discusses movement, nutrition, vaccinations, and warning symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397890,7 +397890,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prenatal care in your third trimester addresses care related to prenatal care in your third trimester, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Third-trimester prenatal care monitors growth, blood pressure, fetal wellbeing, and birth planning and prepares for labor and postpartum care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -397966,7 +397966,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Preschooler test or procedure preparation examines preschooler test or procedure preparation; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Preparing a preschooler for a test or procedure uses simple explanations, play, comfort objects, and caregiver support while following any fasting or medicine instructions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398118,7 +398118,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Preventive health care addresses care related to preventive health care, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Preventive health care aims to prevent disease or detect it early through vaccination, screening, healthy behaviors, and routine medical care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398289,7 +398289,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prolactin blood test examines prolactin blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A prolactin blood test measures the hormone prolactin and helps evaluate abnormal milk production, menstrual or fertility problems, and some pituitary disorders.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398384,7 +398384,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prostate cancer screening addresses care related to prostate cancer screening, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Prostate cancer screening may use a PSA blood test with or without a digital rectal examination after discussing possible benefits, false positives, and harms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398441,7 +398441,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prostate resection - minimally invasive examines prostate resection - minimally invasive; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Minimally invasive prostate resection removes obstructing prostate tissue through the urethra or small access points to improve urine flow.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398460,7 +398460,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prostate-specific antigen (PSA) blood test examines prostate-specific antigen (psa) blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A PSA blood test measures prostate-specific antigen; an elevated result may reflect enlargement, inflammation, infection, or cancer and is not diagnostic by itself.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398479,7 +398479,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prostatitis - bacterial examines prostatitis - bacterial; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Bacterial prostatitis is infection and inflammation of the prostate, causing pelvic or urinary pain, fever, urinary symptoms, or recurrent infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398498,7 +398498,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Prostatitis - nonbacterial examines prostatitis - nonbacterial; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Nonbacterial prostatitis refers to persistent pelvic or urinary symptoms without proven bacterial infection and is often managed with several approaches.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398536,7 +398536,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Protecting yourself from cancer scams examines protecting yourself from cancer scams; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Protection from cancer scams includes checking claims with qualified clinicians, avoiding guaranteed cures, reviewing evidence, and being cautious about costly unproven treatments.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398555,7 +398555,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Protein C blood test examines protein c blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A protein C blood test measures a natural anticoagulant and may help evaluate unexplained or recurrent blood clots or suspected inherited deficiency.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398574,7 +398574,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Protein electrophoresis - serum examines protein electrophoresis - serum; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Serum protein electrophoresis separates blood proteins into patterns and helps evaluate abnormal antibodies, myeloma, inflammation, and some liver or kidney disorders.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398593,7 +398593,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Protein in diet addresses care related to protein in diet, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Dietary protein supplies amino acids needed for muscle, enzymes, hormones, immunity, and tissue repair; requirements vary with age, health, and kidney function.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398612,7 +398612,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Protein S blood test examines protein s blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A protein S blood test measures a natural anticoagulant and may help evaluate suspected inherited or acquired tendency to form blood clots.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398726,7 +398726,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A biological substance, cellular process, or molecular structure whose defining role is indicated by the term; its medical significance depends on function, location, amount, and clinical context.",
+          "text": "Proximal renal tubular acidosis occurs when the kidney cannot reclaim enough bicarbonate, causing excess acid in the blood and often low potassium.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398840,7 +398840,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pulmonary actinomycosis examines pulmonary actinomycosis; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Pulmonary actinomycosis is a chronic bacterial infection of the lungs caused by Actinomyces and may form mass-like lesions or spread across tissue planes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398859,7 +398859,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "An anatomical structure, tissue, or physiologic process with the location or function indicated by the term; disease or injury changes its expected findings.",
+          "text": "A pulmonary aspergilloma is a ball of Aspergillus fungus and debris growing in a pre-existing lung cavity, sometimes causing coughing of blood.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398897,7 +398897,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pulmonary hypertension - at home addresses care related to pulmonary hypertension - at home, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Home care for pulmonary hypertension includes taking prescribed medicines, monitoring symptoms, conserving energy, following oxygen advice, and seeking urgent help for severe breathlessness or chest pain.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -398954,7 +398954,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pulmonary ventilation/perfusion scan examines pulmonary ventilation/perfusion scan; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A ventilation-perfusion scan compares air flow and blood flow in the lungs and is commonly used to evaluate suspected pulmonary embolism.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -399049,7 +399049,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pyloric stenosis in infants examines pyloric stenosis in infants; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Infantile pyloric stenosis is narrowing of the stomach outlet that causes forceful, non-bilious vomiting in young infants and usually requires surgical treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -399106,7 +399106,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Pyruvate kinase blood test examines pyruvate kinase blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A pyruvate kinase blood test measures the enzyme in red blood cells and may help evaluate pyruvate kinase deficiency, an inherited cause of hemolytic anemia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -403600,7 +403600,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Physiologic newborn jaundice is a temporary bilirubin rise after birth caused by immature bilirubin processing, but early or severe jaundice needs urgent evaluation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
