@@ -491230,7 +491230,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Disease transmitted via contaminated water. Examples: cholera, typhoid, hepatitis A.",
+          "text": "An illness acquired through water contaminated with infectious organisms or harmful chemicals. Examples include cholera, typhoid fever, and hepatitis A; prevention includes safe drinking water, sanitation, hand hygiene, and appropriate treatment of contaminated water.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -491306,7 +491306,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Weakness is reduced force generation that may reflect muscle, nerve, neuromuscular-junction, brain, spinal cord, metabolic, systemic, or functional disease. limited to one body region. Causes include nerve or muscle disease, stroke, spinal disorders, metabolic abnormalities, infection, and deconditioning; sudden one-sided weakness is an emergency.",
+          "text": "Reduced ability to generate force, which may be generalized or limited to one body region. Causes include disorders of muscle, nerve, neuromuscular junction, brain, or spinal cord, as well as metabolic illness, infection, medication effects, and deconditioning; sudden one-sided weakness or weakness with breathing, swallowing, or speech difficulty requires emergency assessment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -491420,7 +491420,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "The intentional reduction of body weight, typically through a combination of dietary modification, increased physical activity, and behavioral changes. Achieving sustainable weight loss requires creating a consistent calorie deficit while preserving lean muscle mass through adequate protein intake and strength training.",
+          "text": "A decrease in body weight that may be intentional or unintentional. Intentional loss is usually achieved through sustainable changes in eating, physical activity, and behavior; unintentional or rapid loss can indicate illness, inadequate nutrition, or medication effects and may require medical evaluation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -491933,7 +491933,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Determining complete DNA sequence of an individual's genome. Cost decreasing, clinical applications expanding. Identifies coding and non-coding variants.",
+          "text": "Laboratory analysis of nearly all of a person's nuclear DNA, including coding and noncoding regions, and sometimes mitochondrial DNA. It can identify many types of genetic variants but may produce uncertain or incidental findings and does not detect every cause of disease; results require appropriate clinical interpretation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -491952,7 +491952,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Acquisition of images covering entire body. Used for oncology staging, infection localization. PET/CT typically neck-to-mid-thigh or full body.",
+          "text": "An imaging examination that surveys much or all of the body, using a technique such as PET/CT, CT, MRI, or a nuclear medicine scan. It may be used for selected cancer staging, infection localization, or evaluation of systemic disease; the coverage and usefulness depend on the test and clinical question.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -492427,7 +492427,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Management of traumatic wounds: irrigation, debridement, closure (sutures, staples, glue), dressing. Tetanus prophylaxis based on vaccination history and wound type. Antibiotics for contaminated wounds, animal/human bites, or signs of infection. Healing: primary, secondary, tertiary intention.",
+          "text": "Assessment and treatment of a wound through cleansing, bleeding control, removal of dead or contaminated tissue when indicated, appropriate closure or dressing, pain control, and follow-up. Care also includes tetanus prevention, pressure relief, and treatment of infection or underlying conditions; antibiotics are reserved for selected contaminated wounds, bites, or infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -492484,7 +492484,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Complex process of tissue repair. Phases: hemostasis, inflammation, proliferation, remodeling. Implant integration depends on healing.",
+          "text": "The coordinated repair of injured tissue through overlapping phases of hemostasis, inflammation, new tissue formation, epithelial coverage, and remodeling. Healing is influenced by blood supply, infection, nutrition, diabetes, medications, smoking, mechanical stress, and the depth and location of the wound.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -493360,7 +493360,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Fluid intake requirement for maintaining hydration; approximately 2-3 liters daily for adults, varying with climate, activity level, and individual physiological needs.",
+          "text": "Intake of water and other fluids to replace normal losses and maintain hydration. Requirements vary with body size, diet, activity, climate, pregnancy, illness, and kidney or heart function; thirst and urine concentration can help guide intake, while excessive intake can cause dangerous hyponatremia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
