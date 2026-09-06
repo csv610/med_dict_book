@@ -21583,7 +21583,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "Gastritis is inflammation or injury of the stomach lining caused by infection, medications, alcohol, autoimmune disease, stress-related illness, or other factors.",
+          "text": "Gastritis is inflammation of the stomach lining. Common causes include H. pylori infection, certain medicines such as NSAIDs, alcohol, autoimmune disease, and severe physical illness.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
