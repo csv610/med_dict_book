@@ -414866,7 +414866,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radiation leukemia describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Radiation leukemia is leukemia that develops after significant exposure to ionizing radiation; it is a late treatment- or exposure-related complication.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -414923,7 +414923,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radical cystoprostatectomy is used in relation to radical cystoprostatectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radical cystoprostatectomy removes the urinary bladder, prostate, and nearby structures, usually to treat invasive bladder cancer in men.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -414961,7 +414961,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radical lymphadenectomy is used in relation to radical lymphadenectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radical lymphadenectomy is extensive surgical removal of lymph nodes and surrounding tissue to assess or treat cancer spread.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -414980,7 +414980,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radical mastectomy is used in relation to radical mastectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radical mastectomy removes the breast, chest muscles, and many underarm lymph nodes; it is now rarely used because less extensive cancer surgery is often effective.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -414999,7 +414999,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radical nephrectomy is used in relation to radical nephrectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radical nephrectomy removes an entire kidney and sometimes nearby tissues, usually to treat a kidney tumor.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415093,7 +415093,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radioimmunoguided surgery is used in relation to radioimmunoguided surgery during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radioimmunoguided surgery uses a radiolabeled antibody or tracer to help surgeons locate tumor tissue during an operation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415112,7 +415112,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radioimmunotherapy is used in relation to radioimmunotherapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radioimmunotherapy attaches a radioactive substance to an antibody so radiation is delivered preferentially to cells carrying a specific target, often cancer cells.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415282,7 +415282,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radiosurgery is used in relation to radiosurgery during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radiosurgery delivers highly focused radiation to a small target, usually in the brain or body, without making a conventional surgical incision.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415301,7 +415301,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radiotherapy bolus is used in relation to radiotherapy bolus during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "A radiotherapy bolus is a material placed on the skin to bring the radiation dose closer to the surface during selected treatments.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415320,7 +415320,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "radiotherapy dosage is used in relation to radiotherapy dosage during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Radiotherapy dosage is the amount of ionizing radiation prescribed for a treatment target, usually divided into carefully planned fractions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415396,7 +415396,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rahnella identifies rahnella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rahnella is a genus of environmental gram-negative bacteria that rarely causes opportunistic human infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415415,7 +415415,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rahnella aquatilis identifies rahnella aquatilis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rahnella aquatilis is an environmental water-associated bacterium that can rarely cause bloodstream or other opportunistic infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415472,7 +415472,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "raloxifene hydrochloride is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Raloxifene hydrochloride is a selective estrogen-receptor modulator used to prevent or treat osteoporosis and reduce breast-cancer risk in selected postmenopausal women.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415491,7 +415491,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ralstonia identifies ralstonia, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Ralstonia is a group of environmental bacteria that can contaminate fluids or medicines and rarely cause opportunistic infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415510,7 +415510,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ralstonia mannitolilytica identifies ralstonia mannitolilytica, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Ralstonia mannitolilytica is an environmental bacterium associated with occasional healthcare-associated bloodstream or respiratory infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415529,7 +415529,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ralstonia pickettii identifies ralstonia pickettii, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Ralstonia pickettii is an environmental bacterium that can contaminate water or medical products and rarely cause infection in vulnerable patients.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415548,7 +415548,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "raltegravir potassium is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Raltegravir potassium is an HIV integrase inhibitor used with other antiretroviral medicines to suppress HIV replication.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415567,7 +415567,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "raltitrexed is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Raltitrexed is an antimetabolite chemotherapy medicine used for selected colorectal cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415736,7 +415736,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "raoultella identifies raoultella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Raoultella is a genus of gram-negative bacteria that can cause opportunistic urinary, respiratory, wound, or bloodstream infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -415926,7 +415926,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ravuconazole is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Ravuconazole is a triazole antifungal medicine studied and used in some settings for invasive fungal infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416059,7 +416059,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rebeccamycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Rebeccamycin is an investigational antitumor compound that inhibits DNA-related enzymes; it is not a routine clinical medicine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416211,7 +416211,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "recreation therapy is used in relation to recreation therapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Recreation therapy uses adapted games, arts, exercise, and leisure activities to support physical, emotional, cognitive, or social functioning.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416249,7 +416249,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rectal carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Rectal carcinoma is cancer arising in the rectum and may cause bleeding, altered bowel habits, pain, or anemia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416361,7 +416361,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rectal neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rectal neoplasm is an abnormal growth in the rectum that may be benign, precancerous, or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416492,7 +416492,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rectosigmoid neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rectosigmoid neoplasm is an abnormal growth where the sigmoid colon joins the rectum and may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416793,7 +416793,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "refractory cancer describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Refractory cancer is cancer that does not respond adequately to a treatment or begins progressing during treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -416868,7 +416868,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "regional chemotherapy is used in relation to regional chemotherapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Regional chemotherapy delivers anticancer medicine directly to a body region or organ to increase local exposure while limiting whole-body exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417153,7 +417153,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "renal carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Renal carcinoma is cancer arising from kidney tissue, most commonly renal cell carcinoma.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417400,7 +417400,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "renal sarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Renal sarcoma is a rare malignant tumor arising from connective or supporting tissues of the kidney.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417533,7 +417533,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "repeat surgery is used in relation to repeat surgery during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Repeat surgery is a second or subsequent operation on the same or related area to treat persistent disease, recurrence, complications, or failure of prior treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417856,7 +417856,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A diagnostic or laboratory method used to investigate the named clinical question; interpretation depends on the specimen, technique, reference range, and patient context.",
+          "text": "A research study is a planned investigation that collects and analyzes data to answer a scientific or clinical question.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417931,7 +417931,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "residual neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A residual neoplasm is tumor tissue that remains after treatment intended to remove or destroy the original tumor.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -417969,7 +417969,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "residual tumor describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A residual tumor is cancer or other tumor tissue that remains after surgery, radiation, chemotherapy, or another treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418139,7 +418139,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "respiratory neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A respiratory neoplasm is an abnormal growth in the airways or lungs and may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418177,7 +418177,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "respiratory therapy is used in relation to respiratory therapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Respiratory therapy includes treatments and breathing support that improve ventilation, oxygenation, airway clearance, or lung function.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418498,7 +418498,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "reticulosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Reticulosarcoma is an obsolete term historically used for certain lymphoid or reticular-cell cancers; modern diagnosis uses current lymphoma or sarcoma classifications.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418724,7 +418724,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "retinal neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A retinal neoplasm is an abnormal growth arising in or near the retina, such as retinoblastoma or a metastatic tumor.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418895,7 +418895,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "retreatment is used in relation to retreatment during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Retreatment is giving a therapy again after incomplete response, recurrence, treatment interruption, or later progression.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -418989,7 +418989,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "retroperitoneal neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A retroperitoneal neoplasm is an abnormal growth in the tissue space behind the abdominal lining and may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419084,7 +419084,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "retroviral vector is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "A retroviral vector is a modified virus used to deliver genetic material into cells, especially in research and some gene therapies.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -419141,7 +419141,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "revascularization surgery is used in relation to revascularization surgery during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Revascularization surgery restores blood flow around a blocked or narrowed vessel, such as in coronary artery bypass or limb bypass surgery.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420012,7 +420012,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ribostamycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Ribostamycin is an aminoglycoside antibiotic used mainly in research or selected settings; it can cause kidney and hearing toxicity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420069,7 +420069,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsia felis identifies rickettsia felis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsia felis is a flea-associated bacterium that can cause a spotted-fever-like illness in humans.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420088,7 +420088,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsia infections identifies rickettsia infections, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsial infections are illnesses caused by intracellular bacteria spread mainly by ticks, fleas, lice, or mites and often causing fever and rash.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420107,7 +420107,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsia japonica identifies rickettsia japonica, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsia japonica is a tick-borne bacterium associated with Japanese spotted fever.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420126,7 +420126,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsia prowazekii identifies rickettsia prowazekii, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsia prowazekii causes epidemic typhus and is transmitted mainly by body lice.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420145,7 +420145,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsia rickettsii identifies rickettsia rickettsii, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsia rickettsii causes Rocky Mountain spotted fever and is transmitted by infected ticks.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420164,7 +420164,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsia typhi identifies rickettsia typhi, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsia typhi causes murine typhus and is transmitted mainly by fleas.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420183,7 +420183,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rickettsiaceae identifies rickettsiaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Rickettsiaceae is a family of small intracellular bacteria that includes Rickettsia and related tick-, flea-, louse-, or mite-borne pathogens.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420316,7 +420316,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rifamycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Rifamycin is an antibiotic that inhibits bacterial RNA polymerase; related rifamycin medicines are used for tuberculosis and other infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420411,7 +420411,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rilpivirine is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Rilpivirine is a nonnucleoside reverse-transcriptase inhibitor used with other medicines to treat HIV infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -420639,7 +420639,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ritonavir is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Ritonavir is an HIV protease inhibitor mainly used at low doses to boost levels of other antiviral medicines by slowing their breakdown.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421247,7 +421247,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rosuvastatin calcium is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Rosuvastatin calcium is a statin medicine that lowers LDL cholesterol and reduces the risk of cardiovascular events.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421399,7 +421399,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "roxithromycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Roxithromycin is a macrolide antibiotic used in some countries for selected susceptible bacterial infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -421551,7 +421551,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "rubricyte count is a diagnostic or laboratory method used to evaluate a clinical question; interpretation depends on the specimen or body site, method, reference range, and patient context.",
+          "text": "A rubricyte count measures rubricytes, an older term for immature red blood cells, and may help assess red-cell production in the bone marrow.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422310,7 +422310,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Radiation therapy - questions to ask your doctor examines radiation therapy - questions to ask your doctor; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Questions about radiation therapy should address its goal, expected benefit, side effects, treatment schedule, alternatives, fertility or organ risks, and follow-up.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422716,7 +422716,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Relaxation techniques for stress addresses care related to relaxation techniques for stress, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Relaxation techniques for stress include slow breathing, progressive muscle relaxation, meditation, guided imagery, and other methods that reduce physical arousal.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422754,7 +422754,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Renal and urological diseases affect the kidneys, urinary tract, bladder, urethra, or male reproductive urinary organs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422811,7 +422811,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Cancer of the renal pelvis or ureter usually arises from urothelial cells lining the urinary tract and may cause blood in the urine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422941,7 +422941,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Reportable diseases are illnesses that must be notified to public-health authorities under applicable laws to support surveillance and outbreak control.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -422998,7 +422998,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Respiratory viruses and face masks addresses care related to respiratory viruses and face masks, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Face masks can reduce spread of respiratory viruses by blocking droplets and some aerosols, especially in crowded or healthcare settings; fit and local guidance matter.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423017,7 +423017,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Responsible drinking addresses care related to responsible drinking, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Responsible drinking means limiting alcohol according to health guidance, avoiding driving or hazardous activities after drinking, and avoiding alcohol when it is unsafe or contraindicated.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423036,7 +423036,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Retrograde cystography is a diagnostic or laboratory test, method, or measurement; interpretation depends on the specimen, technique, reference range, and clinical question.",
+          "text": "Retrograde cystography uses contrast placed through the urethra to outline the bladder and detect leaks, injury, or structural abnormalities.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423112,7 +423112,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Returning to sports after a back injury addresses care related to returning to sports after a back injury, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Return to sports after a back injury should be gradual and based on pain, strength, movement, neurologic findings, sport demands, and clinician or rehabilitation guidance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423131,7 +423131,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Returning to work after cancer: know your rights addresses care related to returning to work after cancer: know your rights, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Returning to work after cancer may involve phased duties, workplace accommodations, leave protections, and discussion with employers and healthcare professionals about ongoing limitations.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423206,7 +423206,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Rheumatoid pneumoconiosis is lung disease involving rheumatoid arthritis and dust-related lung nodules, historically called Caplan syndrome.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423244,7 +423244,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ribcage pain addresses care related to ribcage pain, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Ribcage pain may arise from muscles, ribs, joints, lungs, heart, or other organs; sudden severe pain or breathing difficulty requires urgent assessment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423263,7 +423263,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Right heart ventricular angiography examines right heart ventricular angiography; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Right-heart ventricular angiography uses injected contrast and X-ray imaging to show the right ventricle and its blood flow during selected cardiac evaluations.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423358,7 +423358,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Rotator cuff exercises addresses care related to rotator cuff exercises, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Rotator cuff exercises strengthen and stretch shoulder muscles and are selected according to the injury, pain, range of motion, and rehabilitation plan.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423415,7 +423415,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Rotavirus antigen test examines rotavirus antigen test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A rotavirus antigen test detects rotavirus proteins in stool and can help diagnose viral gastroenteritis, especially in infants and young children.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423434,7 +423434,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "RPR test examines rpr test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "The RPR test is a blood screening test for syphilis that detects antibodies associated with tissue injury; reactive results require confirmatory testing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -423453,7 +423453,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "RSV antibody test examines rsv antibody test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "An RSV antibody test detects antibodies to respiratory syncytial virus and may help assess past exposure or immune response, but is not usually the main test for acute infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -425069,7 +425069,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A biological substance, cellular process, or molecular structure whose defining role is indicated by the term; its medical significance depends on function, location, amount, and clinical context.",
+          "text": "RNA is a nucleic acid that carries genetic instructions, helps make proteins, and regulates cell activity; some viruses use RNA as their genetic material.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
