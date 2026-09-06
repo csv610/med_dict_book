@@ -199961,6 +199961,28 @@
       "body_systems": []
     },
     {
+      "term": "Epigastric Pain",
+      "category": [
+        "symptom"
+      ],
+      "definitions": {
+        "LLM": {
+          "text": "Pain or discomfort in the upper middle part of the abdomen, below the ribs and above the navel. It may result from problems involving the stomach, esophagus, pancreas, gallbladder, or small intestine.",
+          "generated_on": "2026-09-06",
+          "review_status": "reviewed"
+        }
+      },
+      "common_names": [],
+      "synonyms": [],
+      "id": "epigastric-pain",
+      "normalized_term": "epigastric pain",
+      "related_terms": [
+        "Abdominal Pain",
+        "Epigastric Region"
+      ],
+      "body_systems": []
+    },
+    {
       "term": "Epigastric artery",
       "category": [
         "anatomy"
