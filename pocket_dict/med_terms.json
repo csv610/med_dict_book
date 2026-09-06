@@ -26518,7 +26518,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "Chronic relapsing inflammatory conditions of the gastrointestinal tract encompassing Crohn disease and ulcerative colitis, resulting from a dysregulated immune response in genetically susceptible individuals triggered by environmental factors and alterations in the gut microbiome.",
+          "text": "A group of chronic conditions that cause inflammation in the digestive tract, mainly Crohn disease and ulcerative colitis. Symptoms may come and go and can include abdominal pain, diarrhea, rectal bleeding, and weight loss. The exact cause is unknown, but genes, the immune system, the environment, and gut bacteria may all play a role.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -28078,7 +28078,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "Lactose intolerance results from insufficient lactase activity, causing bloating, abdominal pain, gas, or diarrhea after consuming lactose. lactose, the primary disaccharide in milk and dairy products. The lactase enzyme is produced by enterocytes of the small intestinal brush border and hydrolyzes lactose into glucose and galactose for absorption.",
+          "text": "A condition in which the body cannot fully digest lactose, the sugar in milk and dairy products, because it does not make enough lactase. It may cause bloating, gas, abdominal pain, nausea, or diarrhea after consuming lactose.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -122385,7 +122385,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Serotonin-secreting neuroendocrine tumor causing flushing, diarrhea, bronchospasm, and right-sided heart disease. Occurs when vasoactive substances bypass hepatic metabolism through venous drainage or liver metastases. Diagnosis is with twenty-four hour urine 5-hydroxyindoleacetic acid or serum chromogranin A.",
+          "text": "A group of symptoms caused by substances such as serotonin released by a neuroendocrine tumor. It may cause facial flushing, diarrhea, wheezing, fast heartbeat, and, over time, right-sided heart disease. A twenty-four-hour urine test for 5-hydroxyindoleacetic acid may help confirm the diagnosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -129476,7 +129476,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Progressive irreversible inflammatory condition characterized by permanent structural damage causing exocrine and endocrine impairment. The most common cause is chronic alcohol consumption. Other causes include hereditary pancreatitis, autoimmune pancreatitis, and metabolic factors.",
+          "text": "Long-lasting inflammation of the pancreas that causes permanent damage and may reduce the production of digestive enzymes and hormones such as insulin. Common causes include heavy alcohol use, smoking, genetic disorders, autoimmune disease, and blocked pancreatic ducts; sometimes no cause is found.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -270224,7 +270224,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A chronic functional gastrointestinal disorder characterized by recurrent abdominal pain and altered bowel habits (diarrhea, constipation, or mixed) without identifiable structural pathology. Pathophysiology involves dysregulation of the gut--brain axis, visceral hypersensitivity, altered motility, and imbalances in the gut microbiome.",
+          "text": "A disorder of gut-brain interaction that causes repeated abdominal pain and changes in bowel habits, such as diarrhea, constipation, or both. No visible structural damage is usually found in the digestive tract.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -270338,7 +270338,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Colonic mucosal ischemia resulting from reduced blood flow through the marginal artery and end-arteries, most commonly occurring at watershed areas between vascular territories, particularly the splenic flexure.",
+          "text": "Inflammation and injury of the colon caused by reduced blood flow. It often causes sudden abdominal pain, bloody diarrhea, or rectal bleeding and commonly affects areas such as the splenic flexure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -307057,7 +307057,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Malabsorption is impaired digestion or absorption of nutrients in the gastrointestinal tract, causing diarrhea, weight loss, anemia, vitamin deficiency, or bone disease. pancreatic insufficiency, bacterial overgrowth, Crohn disease, short bowel syndrome, and infections. Presents with diarrhea, steatorrhea, weight loss, and deficiency of specific nutrients (iron, B12, vitamin D, calcium).",
+          "text": "A condition in which the body cannot properly digest or absorb nutrients from food. It may cause chronic diarrhea, greasy stools, weight loss, anemia, or vitamin and mineral deficiencies.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -429387,7 +429387,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Clinical condition resulting from surgical resection or functional loss of a significant portion of the small intestine leading to inadequate absorption of nutrients.",
+          "text": "A condition in which the small intestine is shortened or damaged and cannot absorb enough nutrients from food. It most often occurs after surgery to remove part of the small intestine and may cause diarrhea, weight loss, and nutritional deficiencies.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
