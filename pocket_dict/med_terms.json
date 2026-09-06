@@ -171959,7 +171959,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dacryocyte analysis is used in relation to dacryocyte analysis during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Examination or counting of teardrop-shaped red blood cells on a blood smear; numerous dacryocytes may occur with marrow fibrosis, infiltration, severe anemia, or splenic disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -172375,7 +172375,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Decerebrate state is used in relation to decerebrate state during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "A severe neurologic posture marked by extension and inward rotation of the arms and extension of the legs, usually indicating serious injury to the brainstem or structures above it.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -173115,7 +173115,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Demethylation is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Removal of a methyl group from a molecule, including DNA or proteins; DNA demethylation can alter gene expression and cellular development.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -173172,7 +173172,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dendrimer is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A highly branched, tree-like synthetic molecule studied for drug delivery, imaging, and gene-transfer applications; clinical use depends on safety and formulation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -173304,7 +173304,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Density is used in relation to density during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "The amount of mass in a given volume; in medicine, density measurements help describe bone strength, tissue composition, or findings on imaging.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -173988,7 +173988,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxycytidine is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A deoxyribonucleoside composed of cytosine attached to deoxyribose, used as a building block for DNA.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174007,7 +174007,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxycytidine kinase is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "An enzyme that phosphorylates deoxycytidine and related nucleosides; it activates several nucleoside-analog medicines used in cancer and antiviral treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174026,7 +174026,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxyglucose is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A glucose analog used in metabolic research and, when labeled with fluorine-18, in FDG-PET imaging to identify tissues with increased glucose use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174045,7 +174045,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxyguanosine is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A deoxyribonucleoside composed of guanine attached to deoxyribose, used as a building block for DNA.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174064,7 +174064,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxyribonuclease is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "An enzyme that breaks down DNA; recombinant dornase alfa, a deoxyribonuclease, helps loosen thick mucus in cystic fibrosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174083,7 +174083,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxyribonucleosides is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Molecules made of a DNA base linked to deoxyribose; adenine, guanine, cytosine, and thymine deoxyribonucleosides supply DNA synthesis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174102,7 +174102,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxyribonucleotides is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Nucleotides containing deoxyribose that serve as the building blocks of DNA, including dATP, dGTP, dCTP, and dTTP.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174121,7 +174121,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deoxyuridine is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A deoxyribonucleoside containing uracil; it can arise from DNA repair or abnormal nucleotide metabolism and is used in laboratory studies.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174178,7 +174178,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dephosphorylation is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Removal of a phosphate group from a molecule by an enzyme such as a phosphatase, often changing protein activity or cell signaling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174443,7 +174443,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Desmin is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "An intermediate-filament protein in muscle cells that helps maintain structural alignment; abnormal desmin or DES variants can cause myopathy and cardiomyopathy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174462,7 +174462,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Desmoid tumors describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Locally aggressive fibrous tumors that do not usually metastasize but can invade nearby structures and recur; treatment may include observation, medicines, or surgery depending on site and symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174481,7 +174481,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Desmoplastic is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Describing dense fibrous connective-tissue formation, often as a reaction around a tumor or during chronic inflammation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174538,7 +174538,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Desmosine is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A cross-linking amino acid formed from elastin; it is used as a marker of elastin breakdown in research and selected clinical studies.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174557,7 +174557,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Desmosome is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A strong cell-to-cell junction that connects intermediate filaments between neighboring epithelial or cardiac muscle cells.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -174804,7 +174804,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Deubiquitination is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Removal of ubiquitin from a protein by deubiquitinating enzymes, which can prevent degradation or change the protein’s location, activity, or signaling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -175165,7 +175165,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diacylglycerol is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A lipid second messenger produced from membrane phospholipids that activates protein kinase C and participates in cell signaling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -175241,7 +175241,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diakinesis is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "The final stage of prophase I of meiosis, when homologous chromosomes are highly condensed and attached by chiasmata before separating.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -175355,7 +175355,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dianhydrogalactitol is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "An investigational alkylating compound studied as an anticancer drug, including for selected brain tumors and hematologic cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -175374,7 +175374,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dianisidine is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "An aromatic chemical used in dyes and laboratory reagents; occupational or significant exposure can cause toxicity and has carcinogenic concern.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -175982,7 +175982,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diet therapy is used in relation to diet therapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Use of an individualized eating plan to prevent, manage, or treat disease, such as diabetes, kidney disease, food allergy, malnutrition, or gastrointestinal disorders.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -176020,7 +176020,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dietary carbohydrate is used in relation to dietary carbohydrate during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Carbohydrate consumed in foods and drinks, including sugars, starches, and fiber; digestible carbohydrate affects blood glucose and provides energy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -176094,7 +176094,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Organic nutrients needed in small amounts for normal metabolism, growth, and tissue maintenance; some are water-soluble and others fat-soluble, and both deficiency and excess can cause disease.",
+          "text": "Phosphorus obtained from food, needed for bones, cell membranes, and energy metabolism; people with kidney disease may need to limit absorbable phosphorus.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -176320,7 +176320,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Differentiation antigens is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Cell-surface molecules whose expression identifies a cell’s developmental or tissue lineage; they are used in immunophenotyping and cancer diagnosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -176962,7 +176962,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dinucleoside phosphates is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Molecules containing two nucleosides joined by phosphate groups; they occur in nucleotide metabolism and can participate in cellular signaling or energy transfer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -177114,7 +177114,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diphosphate is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "The anion or functional group containing two linked phosphate groups; diphosphate is released in reactions such as ATP use and nucleotide synthesis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -177133,7 +177133,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diphosphonate is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A chemical group or compound related to phosphonates; some diphosphonates bind bone mineral and are used or studied in bone and calcium disorders.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -177209,7 +177209,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Diploidy is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "Having two complete sets of chromosomes, one inherited from each parent; most human body cells are diploid.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -177342,7 +177342,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Disaccharide is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A carbohydrate made of two linked simple sugars, such as lactose, sucrose, or maltose, that must be digested before absorption.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -177361,7 +177361,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Discriminant analysis is used in relation to discriminant analysis during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "A statistical method that classifies observations into groups using measured characteristics; it is used in medical research and diagnostic modeling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -177607,7 +177607,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Disseminated neuroblastoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Neuroblastoma that has spread from its primary site to distant organs, bone marrow, bone, liver, or lymph nodes; it requires risk-based specialist pediatric oncology treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -178645,7 +178645,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dose rate is used in relation to dose rate during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "The amount of a medicine, radiation, or other exposure delivered per unit of time, such as milligrams per hour or grays per minute.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -179309,7 +179309,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dull pain is used in relation to dull pain during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "A low-intensity, aching, or pressure-like pain that is not sharp or stabbing; its cause depends on the affected tissue and clinical context.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -179384,7 +179384,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Duodenal adenocarcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A malignant gland-forming tumor of the duodenum that may cause abdominal pain, vomiting, bleeding, anemia, jaundice, or obstruction; diagnosis requires endoscopy and biopsy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -179478,7 +179478,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Duodenal neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign or malignant growth arising in the duodenum; symptoms and treatment depend on the tumor type, location, size, obstruction, bleeding, and spread.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -179648,7 +179648,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dynamin gtpase is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "A family of GTP-binding proteins that constrict membranes during vesicle budding, endocytosis, and other cell-membrane processes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -179667,7 +179667,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dynein atpase is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "The ATP-powered motor activity of dynein, which moves cargo toward the minus ends of microtubules and drives cilia and flagella movement.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -179686,7 +179686,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Dynorphin is a biochemical, genetic, or cellular term describing a molecule, reaction, structure, or process involved in biology; its significance depends on the tissue and context.",
+          "text": "An endogenous opioid peptide that primarily activates kappa-opioid receptors and influences pain, stress, mood, and neuroendocrine signaling.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -181544,7 +181544,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Disorders affecting the gastrointestinal tract, liver, gallbladder, or pancreas, including reflux, ulcers, inflammatory bowel disease, infections, obstruction, and cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -181582,7 +181582,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Tuberculosis that has spread through the bloodstream or lymphatic system to multiple organs, potentially causing fever, weight loss, organ dysfunction, meningitis, or widespread small lesions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -182513,7 +182513,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Disorders affecting the gastrointestinal tract, liver, gallbladder, or pancreas, including reflux, ulcers, inflammatory bowel disease, infections, obstruction, and cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -182721,7 +182721,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Tuberculosis that has spread through the bloodstream or lymphatic system to multiple organs, potentially causing fever, weight loss, organ dysfunction, meningitis, or widespread small lesions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
