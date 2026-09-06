@@ -359849,7 +359849,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A diagnostic or laboratory method used to investigate the named clinical question; interpretation depends on the specimen, technique, reference range, and patient context.",
+          "text": "A safety study evaluates whether a medicine, device, procedure, or treatment causes harmful effects and identifies risks before or during clinical use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440344,7 +440344,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salivary gland neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A salivary gland neoplasm is an abnormal growth in a salivary gland that may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441749,7 +441749,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sebaceous gland carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Sebaceous gland carcinoma is an uncommon skin cancer arising from oil glands, often appearing as a firm yellowish eyelid or skin lump.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441844,7 +441844,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "second-look surgery is used in relation to second-look surgery during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Second-look surgery is a planned or follow-up operation performed to inspect healing, remove remaining disease, assess treatment response, or manage complications.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442167,7 +442167,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "simple mastectomy is used in relation to simple mastectomy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Simple mastectomy removes the breast tissue and nipple while leaving most chest muscles and usually the underarm lymph nodes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442755,7 +442755,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "skin carcinoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Skin carcinoma is cancer arising from skin cells, most commonly basal-cell or squamous-cell carcinoma.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442888,7 +442888,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "skin neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A skin neoplasm is an abnormal growth in the skin that may be benign, precancerous, or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442982,7 +442982,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spinal cord neoplasms describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Spinal cord neoplasms are abnormal growths in or around the spinal cord that can cause pain, weakness, sensory changes, or bladder problems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443056,7 +443056,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spinal neoplasms describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "Spinal neoplasms are tumors arising in the spinal cord, its coverings, vertebrae, or nearby tissues.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443416,7 +443416,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "splenic neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A splenic neoplasm is an abnormal growth in the spleen that may be benign, malignant, or spread from another cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444346,7 +444346,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "systemic chemotherapy is used in relation to systemic chemotherapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Systemic chemotherapy uses medicines that travel through the bloodstream to kill or slow cancer cells throughout the body.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446317,7 +446317,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Savings account for health care costs examines savings account for health care costs; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A healthcare savings account is a tax-advantaged account used in some systems to pay eligible medical expenses; rules vary by jurisdiction and plan.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446411,7 +446411,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "School age test or procedure preparation examines school age test or procedure preparation; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Preparing a school-age child for a test or procedure includes age-appropriate explanations, comfort measures, caregiver support, and following any fasting or medicine instructions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446449,7 +446449,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Scleredema diabeticorum is thickening and hardening of the skin on the upper back and neck, usually associated with long-standing diabetes and obesity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446843,7 +446843,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sensitivity analysis examines sensitivity analysis; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Sensitivity analysis tests how much a study's conclusion changes when assumptions, measurements, or input values are varied.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -447984,7 +447984,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Skin self-exam examines skin self-exam; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A skin self-exam is a regular check of the skin for new or changing moles, sores, lumps, or patches that may need medical assessment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448003,7 +448003,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Skull x-ray examines skull x-ray; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A skull X-ray uses low-dose radiation to show skull bones and may help assess selected fractures, foreign bodies, or bone abnormalities.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448283,7 +448283,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Smear of duodenal fluid aspirate examines smear of duodenal fluid aspirate; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A smear of duodenal fluid aspirate examines fluid from the first part of the small intestine for selected parasites or other microscopic findings.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448661,7 +448661,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "A solitary fibrous tumor is a usually slow-growing growth of connective tissue that can arise in the pleura, meninges, or other sites and may rarely behave aggressively.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448756,7 +448756,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "A spinal tumor is an abnormal growth in or near the spine that may be benign or malignant and may compress nerves or the spinal cord.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449040,7 +449040,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sputum direct fluorescent antibody (DFA) test examines sputum direct fluorescent antibody (dfa) test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A sputum DFA test uses fluorescent antibodies to detect selected respiratory pathogens in mucus coughed from the lungs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449150,7 +449150,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Staph infections in the hospital examines staph infections in the hospital; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Hospital staph infections are infections caused by Staphylococcus bacteria acquired or treated in healthcare settings and may be difficult to treat because of antibiotic resistance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449226,7 +449226,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stay active and exercise when you have arthritis examines stay active and exercise when you have arthritis; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Regular low-impact activity and strengthening can reduce stiffness and maintain function in arthritis when adjusted to pain, joint stability, and medical advice.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449321,7 +449321,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stereotactic radiosurgery - CyberKnife examines stereotactic radiosurgery - cyberknife; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "CyberKnife is a robotic system that delivers many precisely aimed radiation beams to a tumor or other target without an open operation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449340,7 +449340,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stereotactic radiosurgery - Gamma Knife examines stereotactic radiosurgery - gamma knife; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Gamma Knife is a focused radiation system that delivers multiple precisely aimed beams, mainly to selected brain tumors and vascular or other brain lesions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449753,7 +449753,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A diagnostic or laboratory method used to investigate the named clinical question; interpretation depends on the specimen, technique, reference range, and patient context.",
+          "text": "A streptococcal screen looks for group A Streptococcus, usually from a throat swab, to help diagnose strep throat.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449848,7 +449848,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "String test for intestinal parasites examines string test for intestinal parasites; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A string test collects a sample from the upper digestive tract on a swallowed capsule and string to look for selected intestinal parasites.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449867,7 +449867,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stroke risk factors examines stroke risk factors; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Stroke risk factors include high blood pressure, smoking, diabetes, high cholesterol, atrial fibrillation, prior stroke, and certain blood or vascular disorders.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450301,7 +450301,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sun protection examines sun protection; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Sun protection reduces ultraviolet exposure through shade, protective clothing, and broad-spectrum sunscreen and helps prevent sunburn, premature skin aging, and skin cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450678,7 +450678,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sweat electrolytes test examines sweat electrolytes test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A sweat electrolytes test measures salts, especially chloride, in sweat and is commonly used to help diagnose cystic fibrosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450868,7 +450868,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Synovial biopsy examines synovial biopsy; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A synovial biopsy removes a small sample of the joint lining to investigate infection, inflammatory arthritis, crystal disease, or an unusual joint lesion.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -453870,7 +453870,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A diagnostic or laboratory method used to investigate the named clinical question; interpretation depends on the specimen, technique, reference range, and patient context.",
+          "text": "Semen DNA analysis evaluates sperm genetic material, often to investigate infertility, repeated pregnancy loss, or possible DNA damage.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -454763,7 +454763,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "A disease, symptom, syndrome, or clinical finding involving the body system or process named by the term; characteristic features, causes, severity, and complications guide diagnosis and management.",
+          "text": "Nontropical sprue is an older term for celiac disease, an immune reaction to gluten that damages the small-intestinal lining and impairs absorption.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
