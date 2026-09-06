@@ -216010,7 +216010,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "facial neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign or malignant tumor arising in facial skin, soft tissue, bone, salivary glands, nerves, or other structures; symptoms and treatment depend on site and spread.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -216577,7 +216577,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "fat measurement is a diagnostic or laboratory method used to evaluate a clinical question; interpretation depends on the specimen or body site, method, reference range, and patient context.",
+          "text": "Assessment of body fat or fat content using methods such as skinfolds, bioimpedance, DEXA, imaging, or laboratory analysis; results vary by method and are interpreted with overall health measures.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -217727,7 +217727,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "fibroid tumor describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A benign smooth-muscle tumor of the uterus, also called a leiomyoma, which may cause heavy bleeding, pelvic pressure, pain, infertility, or no symptoms.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -217784,7 +217784,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "fibromyxosarcoma describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "A rare malignant soft-tissue tumor containing fibrous and myxoid tissue; diagnosis requires pathology and treatment is guided by location, grade, and stage.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -220212,7 +220212,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "francisella identifies francisella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A genus of small gram-negative bacteria that includes F. tularensis, the cause of tularemia, a zoonotic infection acquired from animals, ticks, contaminated water, or aerosols.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -220231,7 +220231,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "francisellaceae identifies francisellaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of small gram-negative bacteria that includes Francisella species, some of which cause tularemia or related animal infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -221955,7 +221955,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Facial swelling is an anatomical, cellular, developmental, or physiological term; its clinical meaning depends on the structure, function, and surrounding findings.",
+          "text": "Enlargement of part or all of the face caused by infection, allergy, trauma, dental disease, salivary or sinus disease, fluid retention, or a mass; rapid swelling with breathing difficulty is an emergency.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -222589,7 +222589,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Femoral hernia repair is an anatomical, cellular, developmental, or physiological term; its clinical meaning depends on the structure, function, and surrounding findings.",
+          "text": "Surgery to return herniated tissue through the femoral canal and close or reinforce the defect; repair is often recommended because femoral hernias have a relatively high risk of strangulation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -222865,7 +222865,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Finger pain is an anatomical, cellular, developmental, or physiological term; its clinical meaning depends on the structure, function, and surrounding findings.",
+          "text": "Pain in one or more fingers caused by injury, arthritis, tendon disease, nerve compression, infection, circulation problems, or inflammatory conditions.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -223355,7 +223355,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Foot, leg, and ankle swelling is an anatomical, cellular, developmental, or physiological term; its clinical meaning depends on the structure, function, and surrounding findings.",
+          "text": "Accumulation of fluid or tissue enlargement in the lower limb caused by venous disease, heart or kidney failure, medicines, injury, infection, or inflammation; sudden one-sided swelling needs urgent assessment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
