@@ -45073,7 +45073,7 @@
           "last_modified_on": "2026-08-27"
         },
         "LLM": {
-          "text": "sildenafil citrate is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "The citrate salt of sildenafil, a phosphodiesterase-5 inhibitor used for erectile dysfunction and pulmonary arterial hypertension.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -431262,7 +431262,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sleepwalking addresses care related to sleepwalking, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician. sleep, usually with little or no memory afterward. It is more common in children and may be triggered by sleep deprivation, stress, fever, or other sleep disorders; injury prevention and evaluation of recurrent or dangerous episodes are important.",
+          "text": "Recurrent walking or other complex behavior during sleep, usually with little memory afterward. It is more common in children and may be triggered by sleep deprivation, stress, fever, medicines, or other sleep disorders; injury prevention is important.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440040,7 +440040,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "saccharomyces is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of yeasts, including S. cerevisiae; some species are used industrially and can rarely cause opportunistic infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440059,7 +440059,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "saccharomyces cerevisiae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "Saccharomyces cerevisiae is a budding yeast used in baking, brewing, biotechnology, and some probiotic products; it can rarely cause invasive fungemia or other infection in vulnerable patients.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440268,7 +440268,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "safingol is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational sphingolipid-analog drug that inhibits protein kinase C and has been studied in cancer treatment, usually in combination with other agents.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440306,7 +440306,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sagopilone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational epothilone-like anticancer drug that disrupts microtubules and has been studied for treatment of advanced solid tumors.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440363,7 +440363,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella arizonae identifies salmonella arizonae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Salmonella serotype associated with reptiles and other animals that can cause gastroenteritis or invasive infection, especially in people with weakened immunity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440382,7 +440382,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella choleraesuis identifies salmonella choleraesuis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Salmonella serotype adapted to pigs that can cause severe, invasive infection in humans, including bloodstream infection and pneumonia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440401,7 +440401,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella enterica identifies salmonella enterica, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "The main Salmonella species causing human disease, including gastroenteritis, enteric fever, and invasive bloodstream infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440420,7 +440420,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella gallinarum identifies salmonella gallinarum, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A host-adapted Salmonella bacterium that causes fowl typhoid in chickens and other poultry; it is not a usual cause of human disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440439,7 +440439,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella pullorum identifies salmonella pullorum, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A host-adapted Salmonella bacterium that causes pullorum disease in young poultry; it is not a usual cause of human disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440458,7 +440458,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella typhi identifies salmonella typhi, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "The bacterium that causes typhoid fever, usually acquired through contaminated food or water and capable of spreading through the bloodstream.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440477,7 +440477,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella typhimurium identifies salmonella typhimurium, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A common Salmonella serotype that usually causes foodborne gastroenteritis but can cause invasive disease in vulnerable people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440496,7 +440496,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella typhisuis identifies salmonella typhisuis, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A Salmonella serotype mainly associated with swine; human infection is uncommon but may cause enteric or invasive disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440515,7 +440515,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salmonella vaccines identifies salmonella vaccines, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Vaccines used mainly to prevent typhoid fever, including typhoid conjugate, Vi polysaccharide, and oral live-attenuated vaccines; routine vaccination does not prevent all Salmonella gastroenteritis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440534,7 +440534,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "salt is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An ionic chemical compound; dietary sodium chloride is essential in small amounts but excess intake can increase blood pressure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440667,7 +440667,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sapropterin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A synthetic form of tetrahydrobiopterin used for some people with phenylketonuria and certain tetrahydrobiopterin deficiencies; response and diet requirements vary.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440686,7 +440686,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "saquinavir is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "An HIV protease inhibitor used with other antiretroviral medicines; drug interactions, gastrointestinal effects, and cardiovascular concerns limit its use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440705,7 +440705,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "saquinavir mesylate is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "The mesylate salt of saquinavir, an HIV protease inhibitor used with other antiretroviral medicines.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440724,7 +440724,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "saracatinib is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational oral kinase inhibitor that blocks Src-family and related signaling pathways and has been studied in cancer and other diseases.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440762,7 +440762,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcocystis is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of protozoan parasites that cycle between animal hosts and can cause intestinal or muscular sarcocystosis in people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440781,7 +440781,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcocystis hominis is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A protozoan parasite acquired by eating undercooked beef; people may develop intestinal symptoms, while cattle serve as an intermediate host.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440800,7 +440800,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcocystis suihominis is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A protozoan parasite acquired by eating undercooked pork that can cause intestinal sarcocystosis; pigs serve as an intermediate host.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440838,7 +440838,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcoglycan complex is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A group of proteins in the muscle-cell membrane that supports muscle fibers; inherited defects can cause limb-girdle muscular dystrophy and cardiomyopathy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440857,7 +440857,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcomere is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The basic contractile unit of skeletal and cardiac muscle, extending from one Z line to the next and containing actin and myosin filaments.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440876,7 +440876,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcoplasm is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The cytoplasm of a muscle cell, containing structures such as mitochondria, glycogen, myoglobin, and the contractile apparatus.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440895,7 +440895,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sarcoplasmic reticulum is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A specialized calcium-storage network in muscle cells that releases calcium to trigger contraction and takes it back up for relaxation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -440971,7 +440971,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sargramostim is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A recombinant granulocyte-macrophage colony-stimulating factor used to promote white-cell recovery after selected cancer treatments or transplantation; bone pain and fever may occur.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441009,7 +441009,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "satellite DNA is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Highly repetitive DNA sequences found mainly near centromeres and other chromosome regions; they help organize chromosome structure and can vary between individuals.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441085,7 +441085,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "satraplatin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational oral platinum-based anticancer drug that forms DNA cross-links; it has been studied mainly in advanced prostate and other cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441104,7 +441104,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "saturated phytosterol is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A hydrogenated plant sterol with a saturated side chain; it is a dietary lipid studied for effects on cholesterol absorption and metabolism.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441161,7 +441161,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scaffold seeding is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Placing living cells onto or into a three-dimensional biomaterial scaffold to begin tissue growth in tissue engineering or regenerative medicine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441351,7 +441351,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scedosporium is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of environmental molds that can cause difficult-to-treat lung, sinus, skin, bone, or disseminated infections, especially in immunocompromised people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441370,7 +441370,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scedosporium apiospermum is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A mold that can cause localized or disseminated infection, including mycetoma, pneumonia, sinusitis, and brain abscesses; treatment often requires specialist antifungal care.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441389,7 +441389,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scedosporium prolifican is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "An environmental mold, now commonly classified as Lomentospora prolificans, that causes severe disseminated infection and is often resistant to antifungal drugs.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441408,7 +441408,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "schaalia radingae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A normally slow-growing anaerobic bacterium of the human mouth and skin that can rarely cause abscesses or other invasive infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441427,7 +441427,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "schaalia turicensis is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A filamentous anaerobic bacterium that may be part of normal flora but can cause actinomycosis-like abscesses and other opportunistic infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441465,7 +441465,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "schiff base is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A chemical compound formed when a primary amine reacts with an aldehyde or ketone; Schiff bases occur in biochemistry and drug chemistry.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441540,7 +441540,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "schistosoma intercalatum is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A parasitic blood fluke that causes intestinal schistosomiasis, mainly in parts of Central and West Africa, after freshwater exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441559,7 +441559,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scolecobasidium terreum is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "An environmental dematiaceous fungus rarely reported as an opportunistic human pathogen; clinical significance depends on isolation from a compatible infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441578,7 +441578,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scopolamine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Scopolamine is a muscarinic antagonist used mainly to prevent motion sickness and postoperative nausea; dry mouth, blurred vision, urinary retention, confusion, and other anticholinergic effects may occur.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441597,7 +441597,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scopolamine hydrobromide is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "The hydrobromide salt of scopolamine, an anticholinergic medicine used mainly to prevent motion sickness and postoperative nausea.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441616,7 +441616,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "scopoletin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A plant-derived coumarin compound studied for antioxidant, anti-inflammatory, and antimicrobial effects; clinical benefits in humans are not established.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441768,7 +441768,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sebum is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An oily secretion produced by sebaceous glands that lubricates and protects skin and hair.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441920,7 +441920,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silicate is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A salt or ester containing silicon and oxygen, found in minerals and industrial materials; inhalation of some silicate dusts can irritate the lungs or contribute to pneumoconiosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441958,7 +441958,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silicone is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A family of synthetic silicon-containing polymers used in medical devices, implants, sealants, and consumer products; medical risks depend on the product and exposure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -441977,7 +441977,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silicone elastomer is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A flexible, rubber-like silicone material used in implants, tubing, dressings, and other devices; complications may include infection, leakage, allergy, or device failure.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442015,7 +442015,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "siltuximab is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "A monoclonal antibody that binds interleukin-6 and is used to treat adults with multicentric Castleman disease who are negative for HIV and human herpesvirus 8.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442034,7 +442034,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silver is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A metal used in some dressings, creams, and medical devices for antimicrobial activity; excessive exposure can cause permanent blue-gray skin discoloration called argyria.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442053,7 +442053,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silver nitrate is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A caustic antiseptic used topically to cauterize tissue, control minor bleeding, or treat some wounds; it can burn healthy skin and permanently stain tissue.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442072,7 +442072,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silver sulfadiazine is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A topical antimicrobial cream formerly used widely for burns; it may delay healing in some wounds and is not appropriate for everyone, including some newborns and people with sulfonamide allergy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442091,7 +442091,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "silymarin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A mixture of flavonolignans from milk thistle marketed as a dietary supplement; evidence for treating liver disease is limited and product quality varies.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442110,7 +442110,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "simeprevir is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "An older hepatitis C virus NS3/4A protease inhibitor formerly used with other antivirals; it is no longer a usual first-line treatment because better direct-acting regimens are available.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442129,7 +442129,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "simethicone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Simethicone is a non-absorbed antifoaming agent that coalesces gas bubbles in the gastrointestinal tract and is used for symptomatic relief of bloating; it does not treat the underlying cause of pain.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442205,7 +442205,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "simuliidae is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "The family of black flies; bites can cause itchy skin reactions, and some species transmit Onchocerca volvulus, the parasite that causes river blindness.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442262,7 +442262,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sincalide is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A synthetic form of cholecystokinin used during gallbladder imaging to stimulate contraction and measure bile flow; it may cause abdominal pain, nausea, or flushing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442300,7 +442300,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sinecatechins is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A topical green-tea catechin ointment used for external genital and perianal warts caused by human papillomavirus; it can cause local irritation and should not be used internally.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442319,7 +442319,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "singlet oxygen is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A highly reactive form of oxygen involved in oxidative reactions, immune defenses, photodynamic therapy, and tissue injury from oxidative stress.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442432,7 +442432,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sinusoid is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A small, highly permeable blood vessel, especially in the liver, spleen, and bone marrow.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442451,7 +442451,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "siplizumab is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational monoclonal antibody targeting CD2 on T cells and natural-killer cells; it has been studied for immune-mediated disease and cancer.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442470,7 +442470,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sipuleucel-T is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An autologous cellular immunotherapy used for certain asymptomatic or minimally symptomatic metastatic castration-resistant prostate cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442489,7 +442489,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sirolimus is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Sirolimus is an mTOR inhibitor used for immunosuppression after transplantation and selected vascular or lymphatic disorders; mouth ulcers, hyperlipidaemia, cytopenias, infection, impaired wound healing, and pneumonitis can occur.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442508,7 +442508,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sisomicin is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An aminoglycoside antibiotic related to gentamicin that has activity against some aerobic gram-negative bacteria; use is limited by kidney and hearing toxicity.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -442527,7 +442527,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sitagliptin phosphate is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Sitagliptin phosphate is a DPP-4 inhibitor that prolongs incretin activity and improves glucose-dependent insulin secretion in type 2 diabetes; dose adjustment in kidney disease and rare pancreatitis or severe joint pain are important considerations.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443189,7 +443189,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spirillum is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A spiral-shaped bacterium; Spirillum minus can cause rat-bite fever.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443208,7 +443208,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spirillum minus is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "Spirillum minus is a spiral Gram-negative bacterium that causes rat-bite fever, characterized by fever, rash, and migratory joint pain after rodent exposure; culture is difficult and diagnosis may be clinical or molecular.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443227,7 +443227,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spiritual support is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Support that helps a person address meaning, values, faith, hope, or existential distress during illness; it may be provided by chaplains, spiritual leaders, clinicians, or trusted people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443246,7 +443246,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spirochaetaceae identifies spirochaetaceae, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "A family of spiral-shaped bacteria that includes medically important spirochetes such as Borrelia, Treponema, and Leptospira.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443265,7 +443265,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "spirochaetales infection identifies spirochaetales infection, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Infection caused by spiral-shaped bacteria in the order Spirochaetales, including syphilis, Lyme disease, relapsing fever, and leptospirosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443568,7 +443568,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sporothrix is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of environmental fungi that can cause sporotrichosis, usually after inoculation through the skin and sometimes through inhalation or dissemination.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443587,7 +443587,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "sporothrix schenckii is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A group of fungi that causes sporotrichosis, a typically nodular skin and lymphatic infection acquired from plants, soil, or animal scratches.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443701,7 +443701,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "squalamine lactate is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "An investigational aminosterol compound studied for antimicrobial, antiangiogenic, and neurologic effects; established routine clinical uses are limited.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443833,7 +443833,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "symbolism is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The use of an image, object, or action to represent an idea or feeling; in clinical settings, symbolic meaning may be relevant to communication, culture, or psychotherapy.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443871,7 +443871,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "symptomatic describes a clinical disorder or finding in the body system or process named by the term. Evaluation identifies the underlying mechanism, affected site, severity, and clinically relevant complications.",
+          "text": "Having symptoms caused by a disease or condition; symptomatic treatment relieves those symptoms without necessarily treating the underlying cause.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443890,7 +443890,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synapse assembly is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The developmental process by which neurons form organized connections with other neurons or target cells, using cell-adhesion molecules and signaling proteins.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443909,7 +443909,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synapsins is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A family of neuronal proteins that help organize synaptic vesicles and regulate the release of neurotransmitters.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443928,7 +443928,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synaptic cleft is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "The very small gap between a presynaptic neuron and its target cell across which neurotransmitters travel.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443966,7 +443966,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synaptic vesicle is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A small membrane-bound sac in a nerve ending that stores neurotransmitters and releases them into the synaptic cleft when the neuron is activated.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -443985,7 +443985,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synaptonemal complex is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A protein structure that pairs homologous chromosomes during meiosis and supports genetic recombination.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444004,7 +444004,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synaptophysin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A protein in synaptic vesicle membranes and a commonly used marker of neuronal and neuroendocrine tissue in laboratory testing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444023,7 +444023,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synaptosome is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A sealed nerve-terminal structure produced when brain tissue is mechanically disrupted; it is used to study neurotransmitter release and synaptic function.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444042,7 +444042,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synaptotagmin is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A calcium-sensing protein on synaptic vesicles that helps trigger rapid neurotransmitter release.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444080,7 +444080,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "syncephalastrum is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of environmental molds in the order Mucorales; it rarely causes opportunistic mucormycosis, usually in people with major immune or metabolic risk factors.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444118,7 +444118,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "syndecan is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "A family of cell-surface proteoglycans that bind growth factors and extracellular-matrix proteins and help regulate cell adhesion, signaling, and tissue repair.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444270,7 +444270,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synthesis is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Synthesis is the biological or chemical production of a complex molecule or structure from simpler components, such as protein synthesis from amino acids or DNA synthesis from nucleotides.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -444289,7 +444289,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "synthetic androgen is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A synthetic androgen is a manufactured compound that activates androgen receptors and may mimic testosterone; therapeutic and anabolic use can suppress gonadal function and cause acne, mood effects, infertility, liver injury, or cardiovascular harm.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446112,7 +446112,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Safe driving for teens addresses care related to safe driving for teens, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Safe driving for teens means reducing crash risk by using seat belts, avoiding alcohol, cannabis, and distracted driving, following speed limits, and using graduated licensing rules.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446131,7 +446131,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Safe eating during cancer treatment addresses care related to safe eating during cancer treatment, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Food-safety measures for people receiving cancer treatment, including careful hand hygiene, avoiding unsafe or undercooked foods, preventing cross-contamination, and following individualized advice when immunity is low.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446150,7 +446150,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Safe sex addresses care related to safe sex, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Sexual practices that reduce the risk of sexually transmitted infections and unintended pregnancy, including condoms or other barriers, testing, vaccination, and informed consent.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -446767,7 +446767,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Selenium in diet addresses care related to selenium in diet, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Selenium in diet provides a trace mineral needed for antioxidant enzymes, thyroid hormone metabolism, and reproduction. Excess supplements can cause toxicity, so intake should remain within recommended limits.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -447161,7 +447161,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sexual assault - prevention addresses care related to sexual assault - prevention, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Sexual-assault prevention includes consent education, recognizing coercion, safer environments, bystander intervention, and access to confidential support; responsibility always lies with the person who commits the assault.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -447199,7 +447199,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Shampoo - swallowing is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Accidental swallowing of a small amount of shampoo usually causes mouth or stomach irritation; larger or concentrated exposures may cause vomiting or breathing problems and warrant poison-control advice.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -447683,7 +447683,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Skilled nursing or rehabilitation facilities addresses care related to skilled nursing or rehabilitation facilities, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Facilities that provide 24-hour nursing care, rehabilitation, medication management, and assistance with daily activities after illness, injury, surgery, or functional decline.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -447778,7 +447778,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Skin care and incontinence addresses care related to skin care and incontinence, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Skin protection for people with urine or stool leakage, including gentle cleansing, thorough drying, absorbent products, barrier creams, regular changing, and treatment of the underlying cause.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448022,7 +448022,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sleep and your health addresses care related to sleep and your health, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Adequate, regular sleep supports mood, attention, metabolism, immunity, and cardiovascular health; persistent insomnia, loud snoring, or daytime sleepiness may need evaluation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448060,7 +448060,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sleep disorders in older adults addresses care related to sleep disorders in older adults, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Sleep problems in later life, including insomnia, sleep apnea, restless legs, and circadian changes; medication effects, pain, depression, and medical illness should be assessed.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448079,7 +448079,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sleeping sickness addresses care related to sleeping sickness, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "African trypanosomiasis, a tsetse-fly-borne infection caused by Trypanosoma brucei that can progress to neurologic disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448098,7 +448098,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sleepwalking and children addresses care related to sleepwalking and children, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Sleepwalking in children is usually benign and often resolves with age; regular sleep, hazard prevention, and evaluation of frequent, violent, injurious, or atypical episodes are important.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448605,7 +448605,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sodium in diet addresses care related to sodium in diet, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Dietary sodium helps regulate fluid balance and nerve and muscle function, but excess intake can raise blood pressure; processed foods are a major source and intake should follow individual health advice.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448946,7 +448946,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Spores is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "Resistant reproductive or survival structures made by some fungi, bacteria, and plants; inhaled fungal spores can cause allergy or infection, while bacterial spores can persist in the environment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -448984,7 +448984,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sports physical addresses care related to sports physical, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "A preparticipation health evaluation that reviews medical history, symptoms, medications, family risks, and examination findings to identify conditions needing evaluation before sports.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449264,7 +449264,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Staying safe at home addresses care related to staying safe at home, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Reducing household injury and health risks by addressing falls, fires, poisoning, unsafe medications, violence, infection prevention, and emergency planning.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449658,7 +449658,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stop smoking support programs addresses care related to stop smoking support programs, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Counseling, quit plans, telephone or digital coaching, and medicines such as nicotine replacement, varenicline, or bupropion used to help people stop tobacco use.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449734,7 +449734,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Strategies for getting through labor is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Practical approaches for coping with labor, including breathing, movement, position changes, support people, relaxation, analgesia, and communication with the maternity team.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449772,7 +449772,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stress and your health addresses care related to stress and your health, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Ongoing stress can affect sleep, mood, blood pressure, pain, and health behaviors; helpful measures include support, activity, relaxation, problem-solving, and care for significant anxiety or depression.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -449791,7 +449791,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Stress and your heart addresses care related to stress and your heart, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Psychological stress can increase heart rate and blood pressure and may worsen cardiovascular risk through sleep and behavior changes; chest pain or severe symptoms require urgent assessment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450093,7 +450093,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Substance use - cocaine is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Use of cocaine, a stimulant that can cause dependence, agitation, seizures, heart attack, stroke, dangerous overheating, and severe psychiatric or cardiovascular complications.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450188,7 +450188,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Substance use - prescription drugs is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Use of prescription medicines in a way not directed by a clinician, including taking someone else’s medicine, taking extra doses, or using them for intoxication; dependence, overdose, and interactions may result.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450207,7 +450207,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Substance use recovery and diet addresses care related to substance use recovery and diet, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Nutrition support during recovery from substance use, focusing on regular balanced meals, hydration, correction of deficiencies, and treatment of medical or eating problems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450453,7 +450453,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Surgical wound care - closed addresses care related to surgical wound care - closed, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Care of an incision whose edges are closed with sutures, staples, adhesive, or strips, including keeping it clean and dry as instructed and watching for infection or separation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450472,7 +450472,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Surgical wound care - open addresses care related to surgical wound care - open, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Care of a surgical wound left partly or completely open to drain or heal gradually, usually with dressings and scheduled assessment for infection, bleeding, and healthy tissue growth.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450565,7 +450565,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Swallowing chalk is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Ingestion of chalk, which is usually low in toxicity in small amounts but can cause choking, constipation, or gastrointestinal upset; repeated eating may indicate pica.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450602,7 +450602,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Swallowing problems is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Difficulty moving food, liquid, or saliva safely from the mouth to the stomach; dysphagia can cause choking, aspiration, weight loss, or dehydration and may need evaluation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -450621,7 +450621,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Swallowing soap is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Ingestion of soap, which commonly causes mouth or stomach irritation, nausea, or diarrhea; concentrated or large exposures can injure tissue or affect breathing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -454535,7 +454535,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Silver bullet is a biochemical, genetic, or cellular term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "An informal expression for a simple, seemingly definitive solution; it is not a specific medical treatment or diagnosis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -455162,7 +455162,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sporadic is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "Occurring irregularly or as an isolated case rather than in a predictable pattern or family cluster.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -455276,7 +455276,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Staphylococcus is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of gram-positive cocci that includes S. aureus and common skin colonizers and pathogens.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -455561,7 +455561,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Streptococcus is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A genus of gram-positive cocci causing infections such as pharyngitis, pneumonia, cellulitis, and endocarditis.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -455580,7 +455580,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Streptococcus pneumoniae (pneumococcus) is a biological organism or infectious agent; its clinical importance depends on the species, host, site, exposure, and evidence of infection or colonization.",
+          "text": "A gram-positive bacterium that can cause pneumonia, meningitis, sinusitis, otitis media, and bloodstream infection; vaccines reduce disease risk.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -455960,7 +455960,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sulfonamides is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Sulfonamides are drugs containing a sulfonamide group, including antibacterial agents that inhibit bacterial folate synthesis; allergic reactions, severe skin reactions, cytopenias, renal effects, and crystalluria are possible.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -455979,7 +455979,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Sulfonylurea is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "A sulfonylurea is an oral diabetes medicine that closes pancreatic beta-cell ATP-sensitive potassium channels and stimulates insulin release; hypoglycaemia and weight gain are the main class risks.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -456150,7 +456150,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Swallowing syncope is a procedure, device, treatment, or care intervention; indications, benefits, risks, and follow-up depend on the patient and clinical goal.",
+          "text": "Fainting triggered by swallowing, usually through an abnormal reflex that slows the heart or lowers blood pressure; recurrent episodes require evaluation for rhythm and structural heart disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
