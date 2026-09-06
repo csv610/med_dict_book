@@ -348905,7 +348905,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ophthalmoscopy examines ophthalmoscopy; interpretation depends on the specimen or body region, test method, reference range, and clinical question. blood vessels, using an ophthalmoscope. It helps detect retinal disease, optic-nerve abnormalities, glaucoma, and systemic vascular disease.",
+          "text": "Ophthalmoscopy examines the inside of the eye, including the retina, optic nerve, and blood vessels, using an ophthalmoscope.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -352952,7 +352952,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "odontogenic neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "An odontogenic neoplasm is a growth arising from tissues involved in tooth formation, usually in the jaw; it may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353104,7 +353104,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oidiodendron identifies oidiodendron, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Oidiodendron is a genus of environmental molds that rarely causes opportunistic infection.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353237,7 +353237,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oleandomycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oleandomycin is an older macrolide antibiotic that is now rarely used because of limited availability, resistance, and adverse effects.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353427,7 +353427,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oligella identifies oligella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Oligella is a genus of bacteria that can rarely cause opportunistic urinary, bloodstream, or other infections.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353503,7 +353503,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oligodendroglial neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "An oligodendroglial neoplasm is a brain tumor with features of oligodendrocyte-lineage cells; diagnosis depends on microscopic and molecular findings.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353560,7 +353560,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oligomycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oligomycin is a research compound that blocks ATP production in mitochondria; it is not a routine clinical medicine.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353655,7 +353655,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "olivomycin is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Olivomycin is an older antitumor antibiotic studied experimentally; it is not a standard routine treatment.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353731,7 +353731,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "olsenella identifies olsenella, a biological taxon or infectious-disease concept whose clinical importance depends on the organism, host, and site involved.",
+          "text": "Olsenella is a genus of anaerobic bacteria found mainly in the mouth and digestive tract; human infection is uncommon.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353902,7 +353902,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oncocytic neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "An oncocytic neoplasm is a growth made of cells with abundant mitochondria and granular cytoplasm; it may be benign or malignant depending on the organ and tumor type.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -353997,7 +353997,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oncolytic virotherapy is used in relation to oncolytic virotherapy during assessment, diagnosis, treatment, monitoring, or patient support.",
+          "text": "Oncolytic virotherapy uses modified viruses that preferentially infect and destroy cancer cells and may stimulate an immune response against the tumor.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -354054,7 +354054,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oncostatin m is a medicine or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oncostatin M is a cytokine involved in inflammation, immune regulation, and tissue repair; it is mainly studied as a biological research target.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -354738,7 +354738,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "orbital neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "An orbital neoplasm is an abnormal growth in the eye socket that may affect the eye, optic nerve, muscles, or surrounding tissues.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -354852,7 +354852,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "organ culture is a diagnostic or laboratory method used to evaluate a clinical question; interpretation depends on the specimen or body site, method, reference range, and patient context.",
+          "text": "Organ culture maintains a piece of tissue or an organ outside the body under controlled conditions for research or selected testing.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -355156,7 +355156,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oropharyngeal neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "An oropharyngeal neoplasm is an abnormal growth in the throat behind the mouth, including the tonsils and base of the tongue; it may be benign or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -355479,7 +355479,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oseltamivir is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oseltamivir is an antiviral medicine used to treat or prevent influenza, with the greatest benefit when started early.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -355498,7 +355498,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oseltamivir phosphate is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oseltamivir phosphate is the salt form of oseltamivir, an antiviral medicine used for treatment or prevention of influenza.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -356106,7 +356106,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ovalocyte count is a diagnostic or laboratory method used to evaluate a clinical question; interpretation depends on the specimen or body site, method, reference range, and patient context.",
+          "text": "An ovalocyte count estimates the number or proportion of oval-shaped red blood cells on a blood smear and may help evaluate anemia.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -356315,7 +356315,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "ovary neoplasm describes a neoplastic process involving the tissue or organ named by the term. Diagnosis establishes the tumor type, extent, biologic behavior, and appropriate management.",
+          "text": "An ovarian neoplasm is an abnormal growth in an ovary that may be benign, borderline, or malignant.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -356600,7 +356600,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oxazole is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oxazole is a five-membered chemical ring containing oxygen and nitrogen that is used as a building block in medicinal and other chemistry.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -356790,7 +356790,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oxprenolol is a medication or pharmacologic agent; its indication, dose, interactions, contraindications, and adverse effects depend on the specific product and patient.",
+          "text": "Oxprenolol is a beta-blocker formerly used for high blood pressure and heart disease; it can slow the heart rate and worsen asthma in susceptible people.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -356999,7 +356999,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "oxymetholone is a medicine or pharmacologic agent; its indication, dosing, contraindications, interactions, and adverse effects depend on the specific product and patient.",
+          "text": "Oxymetholone is an anabolic steroid used in selected severe anemias; it can cause liver injury, fluid retention, and hormonal side effects.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357721,7 +357721,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Open lung biopsy examines open lung biopsy; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "An open lung biopsy removes a small piece of lung through a surgical chest incision for microscopic diagnosis when less invasive tests are insufficient.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357740,7 +357740,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Open pleural biopsy examines open pleural biopsy; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "An open pleural biopsy removes a sample of the lining around the lung through surgery to investigate cancer, infection, or unexplained pleural disease.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357797,7 +357797,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Oral human papillomavirus infection examines oral human papillomavirus infection; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Oral human papillomavirus infection affects the mouth or throat; many infections clear without symptoms, while persistent high-risk types can contribute to some cancers.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357854,7 +357854,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Orbit CT scan examines orbit ct scan; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "An orbit CT scan uses X-rays and computer reconstruction to assess the eye sockets, eye muscles, bones, and surrounding tissues.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357873,7 +357873,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Orgasmic dysfunction in women examines orgasmic dysfunction in women; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Orgasmic dysfunction in women is persistent difficulty reaching orgasm or reduced orgasmic intensity that causes distress and may have psychological, relationship, medication, hormonal, or medical causes.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357892,7 +357892,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Oropharynx lesion biopsy examines oropharynx lesion biopsy; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "An oropharynx lesion biopsy removes a small tissue sample from a throat lesion for microscopic examination.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357911,7 +357911,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Orthopedic services addresses care related to orthopedic services, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
+          "text": "Orthopedic services diagnose and treat problems of bones, joints, muscles, ligaments, tendons, and related movement systems.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357930,7 +357930,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Osmolality blood test examines osmolality blood test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A blood osmolality test measures the concentration of dissolved particles in blood and helps assess hydration, electrolyte disorders, and certain poisonings.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -357949,7 +357949,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Osmolality urine test examines osmolality urine test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "A urine osmolality test measures how concentrated the urine is and helps evaluate the kidneys' ability to regulate water balance.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -358120,7 +358120,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ovarian overproduction of androgens examines ovarian overproduction of androgens; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Ovarian androgen overproduction is excessive production of male-pattern hormones by the ovaries, which may cause acne, excess facial hair, irregular periods, or infertility.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -358158,7 +358158,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Over-the-counter medicines examines over-the-counter medicines; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Over-the-counter medicines can be bought without a prescription for common problems, but they may still cause side effects or interact with prescribed medicines.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -358177,7 +358177,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Over-the-counter pain relievers examines over-the-counter pain relievers; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Over-the-counter pain relievers include medicines such as acetaminophen and nonsteroidal anti-inflammatory drugs; choice depends on age, health conditions, and other medicines.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -358215,7 +358215,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Overcoming job stress examines overcoming job stress; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "Managing job stress may include setting boundaries, taking breaks, improving workload or support, practicing relaxation, and seeking professional help when distress persists.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
@@ -358234,7 +358234,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "Ovulation home test examines ovulation home test; interpretation depends on the specimen or body region, test method, reference range, and clinical question.",
+          "text": "An ovulation home test detects the rise in urinary luteinizing hormone that usually occurs shortly before ovulation.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
