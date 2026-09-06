@@ -407020,7 +407020,7 @@
       ],
       "definitions": {
         "LLM": {
-          "text": "quinone metabolism is a biological, genetic, biochemical, or chemical term used in medicine; its significance depends on its structure, function, concentration, pathway, or clinical context.",
+          "text": "Quinone metabolism is the enzymatic reduction and oxidation of quinones, helping cells process these compounds but sometimes generating reactive oxygen that can damage tissues.",
           "generated_on": "2026-08-27",
           "review_status": "unreviewed"
         }
