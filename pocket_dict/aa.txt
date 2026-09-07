@@ -388,6 +388,7 @@
 (Abnormal) vaginal discharge
 (Normal) vaginal discharge
 Abdomen
+Abdomen
 Abdominal
 Abortion
 Abortion
@@ -527,7 +528,6 @@ barium
 barotrauma
 Bartholin cyst
 BCG (bacille Calmette-Guerin) vaccine
-bdomen
 bedsore
 Bell’s palsy
 bends

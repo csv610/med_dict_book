@@ -150831,25 +150831,6 @@
       "body_systems": []
     },
     {
-      "term": "Cancer prevention: take charge of your lifestyle",
-      "category": [
-        "disease"
-      ],
-      "definitions": {
-        "LLM": {
-          "text": "Cancer prevention: take charge of your lifestyle addresses care related to cancer prevention: take charge of your lifestyle, including practical measures, warning signs, follow-up, and decisions to discuss with a clinician.",
-          "generated_on": "2026-08-27",
-          "review_status": "unreviewed"
-        }
-      },
-      "common_names": [],
-      "synonyms": [],
-      "id": "cancer-prevention-take-charge-of-your-lifestyle",
-      "normalized_term": "cancer prevention: take charge of your lifestyle",
-      "related_terms": [],
-      "body_systems": []
-    },
-    {
       "term": "Cancer treatment - dealing with pain",
       "category": [
         "disease"
