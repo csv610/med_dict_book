@@ -149,11 +149,6 @@
     "error": "HTTP Error 429: Too Many Requests"
   },
   {
-    "medical_term": "AAO",
-    "status": "error",
-    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
     "medical_term": "AAP",
     "status": "error",
     "error": "HTTP Error 429: Too Many Requests"

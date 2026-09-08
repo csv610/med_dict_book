@@ -1,0 +1,378 @@
+# OpenMD A terms checked against the dictionary
+
+Source: [OpenMD Medical Dictionary — Browse terms A](https://openmd.com/dictionary/browse/a).
+Review date: 2026-09-08.
+
+The rendered OpenMD A index contained **602** unique term headings. **297** are represented in the dictionary by an exact normalized headword or synonym; **305** are not represented as exact normalized terms.
+
+## Matching policy
+
+- OpenMD navigation links were excluded; only headings under the page’s `# A` section were evaluated.
+- Repository headwords from `chapters/med_terms_*.tex` and the following synonym lines were included.
+- Matching ignores capitalization, apostrophes, punctuation, and repeated whitespace.
+- Related terms, broader/narrower terms, and drug-family matches are not counted as exact matches.
+
+## Terms not represented
+
+The following OpenMD headings had no exact normalized headword or synonym match:
+- abacavir
+- abarelix
+- abatacept
+- abdominal muscle
+- abexinostat
+- abiotrophia
+- abiotrophia defectiva
+- abiraterone acetate
+- absenteeism
+- absidia
+- abstract idea
+- acamprosate
+- acanthamoeba astronyxis
+- acanthamoeba castellanii
+- acanthamoeba culbertsoni
+- acanthamoeba griffini
+- acanthamoeba hatchetti
+- acanthamoeba lugdunensis
+- acanthamoeba palestinensis
+- acanthamoeba polyphaga
+- acanthamoeba quina
+- acanthamoeba rhysodes
+- acanthocephala
+- acarbose
+- accident
+- accident proneness
+- acclimatization
+- accreditation
+- ACE inhibitor
+- acenocoumarol
+- acepromazine
+- acetic acid
+- acetoacetate
+- acetobacteraceae
+- acetohexamide
+- acetylation
+- acetylcarnitine
+- acetylgalactosamine
+- acetylglucosamine
+- achromobacter
+- achromobacter piechaudii
+- achromobacter ruhlandii
+- acidaminococcus
+- acidaminococcus intestini
+- acidovorax
+- acidovorax delafieldii
+- acidovorax facilis
+- acidovorax temperans
+- acinetobacter
+- acinetobacter calcoaceticus
+- acinetobacter johnsonii
+- acinetobacter junii
+- acinetobacter lwoffii
+- acinetobacter parvus
+- acinetobacter ursingii
+- acitretin
+- acivicin
+- aclarubicin
+- acolbifene hydrochloride
+- aconitate hydratase
+- acremonium
+- acridine
+- acridine orange
+- acridines
+- Acrocallosal syndrome
+- acrocephalosyndactylia
+- acrolein
+- acronine
+- acrylamide
+- acrylonitrile
+- actinium
+- actinobacillus
+- actinobacillus equuli
+- actinobacillus suis
+- actinobacillus ureae
+- actinomadura
+- actinomadura madurae
+- actinomadura pelletieri
+- actinomyces
+- actinomyces bovis
+- actinomyces europaeus
+- actinomyces meyerii
+- actinomyces naeslundii
+- actinomyces neuii
+- actinomyces odontolyticus
+- actinomyces viscosus
+- actinomycetaceae
+- actinomycetales
+- actinomycetales infection
+- actinomycin
+- actinotignum schaalii
+- activated lymphocyte
+- activation action
+- activation analysis
+- active control
+- active ingredient
+- activin
+- acupuncture point
+- acustimulation therapy
+- acylation
+- acyltransferase
+- adalimumab
+- adapalene
+- adefovir
+- adenine
+- adenomatoid tumor
+- adenomyoepithelioma
+- adenosarcoma
+- adenosine deaminase
+- adenosine triphosphatases
+- adenosquamous carcinoma
+- adenovirus vaccine
+- adhesive
+- Adie syndrome
+- adopted child
+- adrenergic beta-antagonists
+- adult
+- aerococcaceae
+- aerococcus
+- aerococcus sanguinicola
+- aerococcus urinae
+- aeromonadaceae
+- aeromonas
+- aeromonas hydrophila
+- aeromonas jandaei
+- aeromonas salmonicida
+- aeromonas schubertii
+- aeromonas sobria
+- aeromonas veronii
+- afatinib
+- afimoxifene
+- after breakfast
+- agaricales
+- agatolimod sodium
+- age
+- agent orange
+- aggregatibacter
+- aggregatibacter aphrophilus
+- aggregatibacter segnis
+- aggresome
+- agriculture
+- agrin
+- agrobacterium
+- agrobacterium tumefaciens
+- AH amyloidosis
+- Aicardi's syndrome
+- AIDS vaccine
+- air
+- air pollution
+- ajellomyces capsulatus
+- alanosine
+- alcaligenaceae
+- alcaligenes
+- alcaligenes faecalis
+- alcian blue
+- alcohol deterrents
+- alcohols
+- aldehyde
+- aldehyde reductase
+- aldehyde-lyases
+- aldesleukin
+- aldicarb
+- alefacept
+- alemtuzumab
+- alendronate
+- alendronate sodium
+- alethine
+- Alexander disease
+- alfentanil
+- algae
+- aliquot
+- alistipes
+- alistipes putredinis
+- alistipes shahii
+- alitretinoin
+- alkalinization
+- alkane
+- alkanesulfonates
+- alkenes
+- alkylating agent
+- alkylation
+- alkynes
+- allantoic cyst
+- allelic imbalance
+- allergic
+- alloimmunisation
+- alloprevotella tannerae
+- allopurinol
+- alloxan
+- alloy
+- all-trans-retinol
+- allyl compounds
+- almitrine
+- alpha radiation
+- alpha-amylases
+- alphacoronavirus
+- alpha-glucosidase
+- alphaherpesvirinae
+- alpha-lactalbumin
+- alpha-linolenic acid
+- alpha-mannosidosis
+- alpharetrovirus
+- alpha-tocopherol
+- alphavirus
+- alprostadil
+- alteplase
+- altered consistency
+- alternaria
+- alternative splicing
+- altitude
+- altretamine
+- alu element
+- aluminum
+- aluminum hydroxide
+- aluminum oxide
+- alveolar adenoma
+- alveolar air
+- alveolar ridge
+- alveoloplasty
+- amacrine cell
+- amantadine
+- amantadine hydrochloride
+- amatuximab
+- ambenonium chloride
+- amdinocillin
+- amdinocillin pivoxil
+- ameloblast
+- ameloblastic carcinoma
+- amelogenin
+- americium
+- amide
+- amidines
+- amifampridine
+- amifostine
+- amikacin
+- amiloride
+- aminacrine
+- amine
+- amino acid biosynthesis
+- amino alcohols
+- amino sugar
+- aminocarb
+- aminoglutethimide
+- aminolevulinic acid
+- aminophylline
+- aminopropionitrile
+- aminopterin
+- aminopyridines
+- aminosalicylic acid
+- amiodarone
+- amiodarone hydrochloride
+- amitrole
+- amlodipine
+- ammonium chloride
+- ammonium compounds
+- amodiaquine
+- amoeba
+- amoebozoa
+- amonafide
+- amoxapine
+- amoxicillin
+- ampa receptor
+- ampere
+- amphibians
+- amphotericin B
+- ampicillin
+- amprenavir
+- ampule
+- ampullary gland
+- amrubicin
+- amsacrine
+- amsilarotene
+- amuvatinib
+- amygdalin
+- amygdaloid
+- amylin
+- amylopectin
+- amyloplast
+- amylose
+- anabasine
+- anaerobic coccus
+- anaerobiosis
+- anaerococcus
+- anaerococcus hydrogenalis
+- anaerococcus prevotii
+- anaerococcus tetradius
+- anaerococcus vaginalis
+- anagrelide
+- anakinra
+- anal sac
+- analgesic
+- analyte
+- analytic chemistry
+- analytical balance
+- anaphase
+- anastasis
+- ancestim
+- ancillary study
+- ancitabine
+- ancrod
+- ancylostoma
+- ancylostoma caninum
+- ancylostomatoidea
+- ancylostomiasis
+- Andersen syndrome
+
+## Sample represented terms
+
+Examples of OpenMD headings that are already represented include:
+- Aarskog syndrome → Aarskog Syndrome
+- abandoned lead → Abandoned Lead
+- abdomen → Abdomen
+- abdominal abscess → Abdominal Abscess
+- abdominal aorta → Abdominal Aorta
+- abdominal bruit → Abdominal Bruit
+- abdominal cavity → Abdominal Cavity
+- abdominal colic → Abdominal Colic
+- abdominal distention → Abdominal Distention
+- abdominal fluid → Abdominal Fluid
+- abdominal mass → Abdominal Mass
+- abdominal neoplasm → Abdominal Neoplasm
+- abdominal pain → Abdominal Pain
+- abdominal pregnancy → Abdominal Pregnancy
+- abdominal radiography → Abdominal Radiography
+- abdominal wall → Abdominal Wall
+- abdominoperineal resection → Abdominoperineal Resection
+- abducens nerve → Abducens Nerve
+- abetalipoproteinemia → Abetalipoproteinemia
+- ablation → Ablation
+- ablepharon → Ablepharon
+- abnormal → Abnormal
+- abnormal color → Abnormal Color
+- abnormal fissure → Abnormal Fissure
+- abnormal virilization → Abnormal Virilization
+- abnormality → Abnormality
+- abomasum → Abomasum
+- abrasion → Abrasion
+- abrin → Abrin
+- abruptio placentae → Abruptio Placentae
+- abscess → Abscess
+- absence epilepsy → Absence Epilepsy
+- absence seizure → Absence Seizure
+- absent reflex → Absent Reflex
+- abulia → Abulia
+- abutment → Abutment
+- acalculous cholecystitis → Acalculous Cholecystitis
+- acanthamoeba → Acanthamoeba
+- acanthamoeba keratitis → Acanthamoeba Keratitis
+- acanthocyte → Acanthocyte
+- acantholysis → Acantholysis
+- acanthoma → Acanthoma
+- acanthosis nigricans → Acanthosis Nigricans
+- acatalasia → Acatalasia
+- accelerated growth → Accelerated Growth
+- accelerometry → Accelerometry
+- accessory nerve → Accessory Nerve
+- accidental death → Accidental Death
+- accidental fall → Accidental Fall
+- acebutolol → Acebutolol
+
+This is a source-list comparison, not a recommendation to add every absent entry. The OpenMD index includes many drugs, organisms, research terms, and highly specific entries that may be outside this pocket dictionary’s intended scope.
