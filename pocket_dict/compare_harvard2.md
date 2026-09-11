@@ -1,0 +1,581 @@
+# Harvard Health A–Z terms checked against the dictionary
+
+Source: [Harvard Health — Health A to Z](https://www.health.harvard.edu/health-a-to-z).
+Review date: 2026-09-09.
+
+The Harvard Health A–Z page contained **564** linked terms: **396** are represented in the dictionary and **168** are not represented as equivalent terms.
+
+## Matching policy
+
+- Each item below comes from Harvard Health’s A–Z page, not from the dictionary.
+- Dictionary membership was checked against the `term` and `synonyms` fields in `med_terms.json`.
+- Matching ignores capitalization, accents, apostrophes, punctuation, repeated whitespace, common UK/US spelling differences, and simple singular/plural differences.
+- A related, broader, narrower, or clinically similar term is not treated as an equivalent match.
+
+## Term-by-term results
+
+- **absent** — Harvard term: Abdominal adhesions — no equivalent term found.
+- **present** — Harvard term: Abdominal aortic aneurysm — dictionary match: “Abdominal Aortic Aneurysm”.
+- **absent** — Harvard term: Absence seizures (petit mal seizures) — no equivalent term found.
+- **present** — Harvard term: Achalasia — dictionary match: “Achalasia”.
+- **present** — Harvard term: Acne — dictionary match: “Acne”.
+- **present** — Harvard term: Acoustic neuroma — dictionary match: “Acoustic Neuroma”.
+- **present** — Harvard term: Acute bronchitis — dictionary match: “Acute Bronchitis”.
+- **absent** — Harvard term: Acute lymphoblastic leukemia (ALL) in children — no equivalent term found.
+- **absent** — Harvard term: Acute lymphocytic leukemia (ALL) in adults — no equivalent term found.
+- **absent** — Harvard term: Acute myeloid leukemia (AML) — no equivalent term found.
+- **present** — Harvard term: Acute pancreatitis — dictionary match: “Acute Pancreatitis”.
+- **absent** — Harvard term: Acute prostatitis — no equivalent term found.
+- **present** — Harvard term: Acute sinusitis — dictionary match: “Acute Sinusitis”.
+- **absent** — Harvard term: Adenocarcinoma of the lung — no equivalent term found.
+- **present** — Harvard term: Adrenocortical carcinoma — dictionary match: “Adrenocortical Carcinoma”.
+- **absent** — Harvard term: Age spots (solar lentigo, liver spots) — no equivalent term found.
+- **absent** — Harvard term: Aging overview — no equivalent term found.
+- **absent** — Harvard term: Alcohol use disorder (alcoholism) — no equivalent term found.
+- **present** — Harvard term: Alcohol withdrawal — dictionary match: “Alcohol Withdrawal”.
+- **absent** — Harvard term: Allergy overview — no equivalent term found.
+- **present** — Harvard term: Alopecia areata — dictionary match: “Alopecia Areata”.
+- **present** — Harvard term: Altitude sickness — dictionary match: “Altitude sickness”.
+- **present** — Harvard term: Alzheimer's disease — dictionary match: “Alzheimer'S Disease”.
+- **present** — Harvard term: Amenorrhea — dictionary match: “Amenorrhea”.
+- **present** — Harvard term: Amyloidosis — dictionary match: “Amyloidosis”.
+- **present** — Harvard term: Amyotrophic lateral sclerosis (ALS) — dictionary match: “Amyotrophic Lateral Sclerosis (ALS)”.
+- **present** — Harvard term: Anal cancer — dictionary match: “Anal Cancer”.
+- **absent** — Harvard term: Anal disorders — no equivalent term found.
+- **absent** — Harvard term: Anal itch (pruritus ani) — no equivalent term found.
+- **present** — Harvard term: Anaphylaxis — dictionary match: “Anaphylaxis”.
+- **absent** — Harvard term: Anemia overview — no equivalent term found.
+- **present** — Harvard term: Angina — dictionary match: “Angina”.
+- **present** — Harvard term: Ankle fracture — dictionary match: “Ankle Fracture”.
+- **present** — Harvard term: Ankle sprain — dictionary match: “Ankle Sprain”.
+- **present** — Harvard term: Ankylosing spondylitis — dictionary match: “Ankylosing Spondylitis”.
+- **present** — Harvard term: Anorexia nervosa — dictionary match: “Anorexia Nervosa”.
+- **present** — Harvard term: Anterior cruciate ligament (ACL) injuries — dictionary match: “Anterior Cruciate Ligament (ACL) Injury”.
+- **present** — Harvard term: Antibiotic-associated diarrhea — dictionary match: “Antibiotic-Associated Diarrhea”.
+- **absent** — Harvard term: Antiphospholipid antibody syndrome — no equivalent term found.
+- **present** — Harvard term: Antisocial personality disorder — dictionary match: “Antisocial Personality Disorder”.
+- **present** — Harvard term: Aplastic anemia — dictionary match: “Aplastic Anemia”.
+- **present** — Harvard term: Appendicitis — dictionary match: “Appendicitis”.
+- **present** — Harvard term: Arm fracture — dictionary match: “Arm fracture”.
+- **absent** — Harvard term: Arthritis associated with inflammatory bowel disease — no equivalent term found.
+- **present** — Harvard term: Asthma — dictionary match: “Asthma”.
+- **present** — Harvard term: Astigmatism — dictionary match: “Astigmatism”.
+- **present** — Harvard term: Asymptomatic bacteriuria — dictionary match: “Asymptomatic Bacteriuria”.
+- **present** — Harvard term: Atherosclerosis — dictionary match: “Atherosclerosis”.
+- **absent** — Harvard term: Athlete's foot (tinea pedis) — no equivalent term found.
+- **present** — Harvard term: Atrial fibrillation — dictionary match: “Atrial Fibrillation”.
+- **absent** — Harvard term: Attention deficit hyperactivity disorder (ADHD) — no equivalent term found.
+- **absent** — Harvard term: Autism (autism spectrum disorder) — no equivalent term found.
+- **present** — Harvard term: Back pain — dictionary match: “Back Pain”.
+- **absent** — Harvard term: Bacterial vaginosis (Gardnerella vaginitis) — no equivalent term found.
+- **present** — Harvard term: Balanitis — dictionary match: “Balanitis”.
+- **present** — Harvard term: Barotrauma — dictionary match: “Barotrauma”.
+- **absent** — Harvard term: Bartholin's gland cyst — no equivalent term found.
+- **present** — Harvard term: Basal cell carcinoma — dictionary match: “Basal Cell Carcinoma”.
+- **absent** — Harvard term: Bedsores (decubitus ulcers) — no equivalent term found.
+- **absent** — Harvard term: Bedwetting (enuresis) — no equivalent term found.
+- **present** — Harvard term: Behçet's disease — dictionary match: “Behcet Disease”.
+- **present** — Harvard term: Bell's palsy — dictionary match: “Bell's Palsy”.
+- **absent** — Harvard term: Bile duct diseases — no equivalent term found.
+- **present** — Harvard term: Biliary colic — dictionary match: “Biliary Colic”.
+- **present** — Harvard term: Bipolar disorder — dictionary match: “Bipolar Disorder”.
+- **present** — Harvard term: Black eye — dictionary match: “Black Eye”.
+- **present** — Harvard term: Bladder cancer — dictionary match: “Bladder Cancer”.
+- **absent** — Harvard term: Bladder infection (cystitis) — no equivalent term found.
+- **present** — Harvard term: Blepharitis — dictionary match: “Blepharitis”.
+- **absent** — Harvard term: Blisters (overview) — no equivalent term found.
+- **present** — Harvard term: Body lice — dictionary match: “Body Lice”.
+- **present** — Harvard term: Boils and carbuncles — dictionary match: “Boils and Carbuncles”.
+- **present** — Harvard term: Borderline personality disorder — dictionary match: “Borderline Personality Disorder”.
+- **present** — Harvard term: Botulism — dictionary match: “Botulism”.
+- **present** — Harvard term: Bowel obstruction — dictionary match: “Bowel Obstruction”.
+- **present** — Harvard term: Bradycardia — dictionary match: “Bradycardia”.
+- **present** — Harvard term: Brain abscess — dictionary match: “Brain Abscess”.
+- **absent** — Harvard term: Brain tumor overview — no equivalent term found.
+- **present** — Harvard term: Breast cancer — dictionary match: “Breast Cancer”.
+- **absent** — Harvard term: Broken jaw — no equivalent term found.
+- **absent** — Harvard term: Broken nose (nasal fracture) — no equivalent term found.
+- **present** — Harvard term: Bulimia — dictionary match: “Bulimia”.
+- **present** — Harvard term: Bunion — dictionary match: “Bunion”.
+- **present** — Harvard term: Bursitis — dictionary match: “Bursitis”.
+- **absent** — Harvard term: Caesarean section — no equivalent term found.
+- **present** — Harvard term: Campylobacteriosis — dictionary match: “Campylobacteriosis”.
+- **absent** — Harvard term: Cancer overview — no equivalent term found.
+- **present** — Harvard term: Candidiasis — dictionary match: “Candidiasis”.
+- **present** — Harvard term: Carbon monoxide poisoning — dictionary match: “Carbon Monoxide Poisoning”.
+- **absent** — Harvard term: Carcinoid tumors of the lung — no equivalent term found.
+- **present** — Harvard term: Cardiac arrhythmias — dictionary match: “Cardiac Arrhythmias”.
+- **present** — Harvard term: Cardiomyopathy — dictionary match: “Cardiomyopathy”.
+- **absent** — Harvard term: Carotid ultrasound (carotid Doppler) — no equivalent term found.
+- **present** — Harvard term: Carpal tunnel syndrome — dictionary match: “Carpal Tunnel Syndrome”.
+- **present** — Harvard term: Cataracts — dictionary match: “Cataracts”.
+- **absent** — Harvard term: Celiac disease (non-tropical sprue) — no equivalent term found.
+- **present** — Harvard term: Cellulitis — dictionary match: “Cellulitis”.
+- **present** — Harvard term: Cervical cancer — dictionary match: “Cervical Cancer”.
+- **present** — Harvard term: Cervical polyps — dictionary match: “Cervical Polyps”.
+- **present** — Harvard term: Cervicitis — dictionary match: “Cervicitis”.
+- **absent** — Harvard term: Chemical Injury to the Eye — no equivalent term found.
+- **present** — Harvard term: Chickenpox (varicella) — dictionary match: “Chickenpox (Varicella)”.
+- **present** — Harvard term: Chlamydia — dictionary match: “Chlamydia”.
+- **present** — Harvard term: Cholecystitis — dictionary match: “Cholecystitis”.
+- **absent** — Harvard term: Chondromalacia patella — no equivalent term found.
+- **present** — Harvard term: Chondrosarcoma — dictionary match: “Chondrosarcoma”.
+- **absent** — Harvard term: Choroidal melanoma — no equivalent term found.
+- **absent** — Harvard term: Chronic hepatitis — no equivalent term found.
+- **absent** — Harvard term: Chronic laryngitis — no equivalent term found.
+- **present** — Harvard term: Chronic lymphocytic leukemia (CLL) — dictionary match: “Chronic lymphocytic leukemia (CLL)”.
+- **present** — Harvard term: Chronic obstructive pulmonary disease (COPD) — dictionary match: “Chronic obstructive pulmonary disease (COPD)”.
+- **absent** — Harvard term: Chronic otitis media, cholesteatoma, and mastoiditis — no equivalent term found.
+- **present** — Harvard term: Chronic pancreatitis — dictionary match: “Chronic Pancreatitis”.
+- **absent** — Harvard term: Chronic prostatitis — no equivalent term found.
+- **absent** — Harvard term: Chronic sinusitis (in adults) — no equivalent term found.
+- **present** — Harvard term: Cirrhosis — dictionary match: “Cirrhosis”.
+- **present** — Harvard term: Cluster headache — dictionary match: “Cluster Headache”.
+- **present** — Harvard term: Cogan's syndrome — dictionary match: “Cogan’s syndrome”.
+- **absent** — Harvard term: Collarbone (clavicle) fracture — no equivalent term found.
+- **present** — Harvard term: Colon polyps — dictionary match: “Colon Polyps”.
+- **present** — Harvard term: Colorectal cancer — dictionary match: “Colorectal Cancer”.
+- **absent** — Harvard term: Coma and persistent vegetative state — no equivalent term found.
+- **absent** — Harvard term: Common cold (viral rhinitis) — no equivalent term found.
+- **absent** — Harvard term: Complex regional pain syndrome (CRPS) — no equivalent term found.
+- **absent** — Harvard term: Computed tomography (CT scan) for back problems — no equivalent term found.
+- **present** — Harvard term: Concussion — dictionary match: “Concussion”.
+- **absent** — Harvard term: Constipation and impaction — no equivalent term found.
+- **present** — Harvard term: Contact dermatitis — dictionary match: “Contact Dermatitis”.
+- **present** — Harvard term: Conversion disorder (functional neurological symptom disorder) — dictionary match: “Conversion Disorder (Functional Neurological Symptom Disorder)”.
+- **present** — Harvard term: Corneal abrasion — dictionary match: “Corneal Abrasion”.
+- **present** — Harvard term: Corns and calluses — dictionary match: “Corns and Calluses”.
+- **present** — Harvard term: Coronary artery disease — dictionary match: “Coronary Artery Disease”.
+- **absent** — Harvard term: Creutzfeldt-Jakob disease (CJD) — no equivalent term found.
+- **present** — Harvard term: Crohn's disease — dictionary match: “Crohn'S Disease”.
+- **present** — Harvard term: Croup — dictionary match: “Croup”.
+- **absent** — Harvard term: Curvature of the penis (Peyronie's disease) — no equivalent term found.
+- **present** — Harvard term: Cystic fibrosis — dictionary match: “Cystic Fibrosis”.
+- **absent** — Harvard term: Cysts (overview) — no equivalent term found.
+- **present** — Harvard term: Cytomegalovirus (CMV) — dictionary match: “Cytomegalovirus (CMV)”.
+- **present** — Harvard term: Dandruff — dictionary match: “Dandruff”.
+- **present** — Harvard term: Decompression sickness — dictionary match: “Decompression sickness”.
+- **present** — Harvard term: Delusional disorder — dictionary match: “Delusional Disorder”.
+- **present** — Harvard term: Dementia — dictionary match: “Dementia”.
+- **absent** — Harvard term: Depression overview — no equivalent term found.
+- **present** — Harvard term: Dermatofibroma — dictionary match: “Dermatofibroma”.
+- **present** — Harvard term: Detached retina — dictionary match: “Detached Retina”.
+- **present** — Harvard term: Developmental dysplasia of the hip — dictionary match: “Developmental Dysplasia of the Hip”.
+- **present** — Harvard term: Deviated septum — dictionary match: “Deviated Septum”.
+- **absent** — Harvard term: Diabetes mellitus overview — no equivalent term found.
+- **present** — Harvard term: Diabetic ketoacidosis — dictionary match: “Diabetic Ketoacidosis”.
+- **present** — Harvard term: Diabetic nephropathy — dictionary match: “Diabetic Nephropathy”.
+- **present** — Harvard term: Diabetic neuropathies — dictionary match: “Diabetic Neuropathy”.
+- **present** — Harvard term: Diarrhea — dictionary match: “Diarrhea”.
+- **absent** — Harvard term: Dislocated lens — no equivalent term found.
+- **present** — Harvard term: Diverticulosis and diverticulitis — dictionary match: “Diverticulosis and Diverticulitis”.
+- **absent** — Harvard term: Double vision (diplopia) — no equivalent term found.
+- **present** — Harvard term: Down syndrome — dictionary match: “Down Syndrome”.
+- **absent** — Harvard term: Drooping eyelid (ptosis) — no equivalent term found.
+- **present** — Harvard term: Dry eye syndrome — dictionary match: “Dry Eye Syndrome”.
+- **present** — Harvard term: Dry skin — dictionary match: “Dry Skin”.
+- **absent** — Harvard term: Dysfunctional uterine bleeding — no equivalent term found.
+- **present** — Harvard term: Dyslexia — dictionary match: “Dyslexia”.
+- **present** — Harvard term: Dysuria — dictionary match: “Dysuria”.
+- **present** — Harvard term: Earache — dictionary match: “Earache”.
+- **present** — Harvard term: Eczema — dictionary match: “Eczema”.
+- **present** — Harvard term: Emphysema — dictionary match: “Emphysema”.
+- **present** — Harvard term: Encephalitis — dictionary match: “Encephalitis”.
+- **absent** — Harvard term: Encopresis (fecal soiling) in children — no equivalent term found.
+- **present** — Harvard term: End-stage renal disease — dictionary match: “End-Stage Renal Disease”.
+- **present** — Harvard term: Endocarditis — dictionary match: “Endocarditis”.
+- **present** — Harvard term: Endometriosis — dictionary match: “Endometriosis”.
+- **present** — Harvard term: Endophthalmitis — dictionary match: “Endophthalmitis”.
+- **absent** — Harvard term: Endoscopic retrograde cholangiopancreatography (ERCP) — no equivalent term found.
+- **absent** — Harvard term: Enlarged prostate (benign prostatic hyperplasia) — no equivalent term found.
+- **absent** — Harvard term: Epidemic pleurodynia — no equivalent term found.
+- **present** — Harvard term: Epidermoid cyst — dictionary match: “Epidermoid Cyst”.
+- **absent** — Harvard term: Epididymitis and orchitis — no equivalent term found.
+- **present** — Harvard term: Epiglottitis — dictionary match: “Epiglottitis”.
+- **present** — Harvard term: Epilepsy — dictionary match: “Epilepsy”.
+- **present** — Harvard term: Esophageal cancer — dictionary match: “Esophageal Cancer”.
+- **absent** — Harvard term: Esophageal rings and webs — no equivalent term found.
+- **present** — Harvard term: Esophageal varices — dictionary match: “Esophageal Varices”.
+- **present** — Harvard term: Esophagitis — dictionary match: “Esophagitis”.
+- **present** — Harvard term: Essential tremor — dictionary match: “Essential Tremor”.
+- **present** — Harvard term: Ewing sarcoma — dictionary match: “Ewing Sarcoma”.
+- **absent** — Harvard term: Extragonadal germ cell tumors — no equivalent term found.
+- **absent** — Harvard term: Eye socket fracture (fracture of the orbit) — no equivalent term found.
+- **absent** — Harvard term: Fallen arch — no equivalent term found.
+- **present** — Harvard term: Fallopian tube cancer — dictionary match: “Fallopian Tube Cancer”.
+- **absent** — Harvard term: Farsightedness (hyperopia) — no equivalent term found.
+- **present** — Harvard term: Febrile seizures — dictionary match: “Febrile seizures”.
+- **present** — Harvard term: Fecal incontinence — dictionary match: “Fecal Incontinence”.
+- **absent** — Harvard term: Felon — no equivalent term found.
+- **present** — Harvard term: Female Infertility — dictionary match: “Female Infertility”.
+- **present** — Harvard term: Fever — dictionary match: “Fever”.
+- **present** — Harvard term: Fibroids — dictionary match: “Fibroid”.
+- **present** — Harvard term: Fibromyalgia — dictionary match: “Fibromyalgia”.
+- **absent** — Harvard term: Fifth disease (erythema infectiosum) — no equivalent term found.
+- **present** — Harvard term: Finger dislocation — dictionary match: “Finger Dislocation”.
+- **absent** — Harvard term: Flu (influenza) — no equivalent term found.
+- **present** — Harvard term: Food allergy — dictionary match: “Food Allergies”.
+- **present** — Harvard term: Food poisoning — dictionary match: “Food Poisoning”.
+- **absent** — Harvard term: Foot sprain — no equivalent term found.
+- **absent** — Harvard term: Foot ulcers — no equivalent term found.
+- **absent** — Harvard term: Foreign body In eye — no equivalent term found.
+- **absent** — Harvard term: Foreign objects in the ear — no equivalent term found.
+- **absent** — Harvard term: Friction blisters — no equivalent term found.
+- **present** — Harvard term: Friedreich's ataxia — dictionary match: “Friedreich's Ataxia”.
+- **present** — Harvard term: Frostbite — dictionary match: “Frostbite”.
+- **absent** — Harvard term: Gallbladder and bile duct cancer — no equivalent term found.
+- **present** — Harvard term: Gallstones — dictionary match: “Gallstones”.
+- **present** — Harvard term: Gas (flatulence) — dictionary match: “Gas –  flatulence”.
+- **present** — Harvard term: Gastritis — dictionary match: “Gastritis”.
+- **absent** — Harvard term: Gastroenteritis in adults — no equivalent term found.
+- **absent** — Harvard term: Gastroenteritis In children — no equivalent term found.
+- **present** — Harvard term: Gastroesophageal reflux disease (GERD) — dictionary match: “Gastroesophageal Reflux Disease (GERD)”.
+- **absent** — Harvard term: Gastrointestinal amebiasis — no equivalent term found.
+- **present** — Harvard term: Gaucher disease — dictionary match: “Gaucher Disease”.
+- **present** — Harvard term: Generalized anxiety disorder — dictionary match: “Generalized Anxiety Disorder”.
+- **absent** — Harvard term: Generalized seizures (grand mal seizures) — no equivalent term found.
+- **present** — Harvard term: Genital herpes — dictionary match: “Genital Herpes”.
+- **present** — Harvard term: Genital warts — dictionary match: “Genital Warts”.
+- **present** — Harvard term: Gestational diabetes — dictionary match: “Gestational Diabetes”.
+- **absent** — Harvard term: Giant cell arteritis (temporal arteritis) — no equivalent term found.
+- **present** — Harvard term: Giardiasis — dictionary match: “Giardiasis”.
+- **present** — Harvard term: Glaucoma — dictionary match: “Glaucoma”.
+- **present** — Harvard term: Glioblastoma multiforme — dictionary match: “glioblastoma multiforme”.
+- **present** — Harvard term: Glomerulonephritis — dictionary match: “Glomerulonephritis”.
+- **present** — Harvard term: Gonorrhea — dictionary match: “Gonorrhea”.
+- **present** — Harvard term: Gout — dictionary match: “Gout”.
+- **present** — Harvard term: Granulomatosis with polyangiitis — dictionary match: “Granulomatosis with Polyangiitis”.
+- **present** — Harvard term: Graves' disease — dictionary match: “Graves Disease”.
+- **absent** — Harvard term: Graves' eye disease — no equivalent term found.
+- **present** — Harvard term: Guillain-Barre syndrome — dictionary match: “Guillain-Barre Syndrome”.
+- **present** — Harvard term: Hair loss — dictionary match: “Hair Loss”.
+- **present** — Harvard term: Hammertoe — dictionary match: “Hammertoe”.
+- **present** — Harvard term: Hay fever (allergic rhinitis) — dictionary match: “Hay Fever (Allergic Rhinitis)”.
+- **present** — Harvard term: Head and neck cancer — dictionary match: “Head and Neck Cancer”.
+- **absent** — Harvard term: Head injury In adults — no equivalent term found.
+- **absent** — Harvard term: Head lice — no equivalent term found.
+- **absent** — Harvard term: Headache overview — no equivalent term found.
+- **absent** — Harvard term: Hearing loss in adults — no equivalent term found.
+- **present** — Harvard term: Heart attack (myocardial infarction) — dictionary match: “Heart Attack (Myocardial Infarction)”.
+- **present** — Harvard term: Heart failure — dictionary match: “Heart Failure”.
+- **present** — Harvard term: Heart Murmur — dictionary match: “Heart Murmur”.
+- **absent** — Harvard term: Heart valve problems — no equivalent term found.
+- **absent** — Harvard term: Heat stroke (hyperthermia) — no equivalent term found.
+- **present** — Harvard term: Heel pain — dictionary match: “Heel Pain”.
+- **present** — Harvard term: Hematuria — dictionary match: “Hematuria”.
+- **present** — Harvard term: Hemochromatosis — dictionary match: “Hemochromatosis”.
+- **present** — Harvard term: Hemolytic anemia — dictionary match: “Hemolytic Anemia”.
+- **present** — Harvard term: Hemophilia — dictionary match: “Hemophilia”.
+- **present** — Harvard term: Hemorrhagic stroke — dictionary match: “hemorrhagic stroke”.
+- **present** — Harvard term: Hemorrhoids — dictionary match: “Hemorrhoids”.
+- **present** — Harvard term: Hepatitis A — dictionary match: “Hepatitis A”.
+- **present** — Harvard term: Hepatitis B — dictionary match: “Hepatitis B”.
+- **present** — Harvard term: Hepatitis C — dictionary match: “Hepatitis C”.
+- **absent** — Harvard term: Hepatitis overview — no equivalent term found.
+- **absent** — Harvard term: Hereditary-patterned baldness — no equivalent term found.
+- **present** — Harvard term: Hernia — dictionary match: “Hernia”.
+- **present** — Harvard term: Herniated disc — dictionary match: “Herniated Disc”.
+- **present** — Harvard term: Hiatal hernia — dictionary match: “Hiatal Hernia”.
+- **present** — Harvard term: High blood pressure (hypertension) — dictionary match: “High Blood Pressure Hypertension”.
+- **absent** — Harvard term: High cholesterol (hypercholesterolemia) — no equivalent term found.
+- **present** — Harvard term: Hip fracture — dictionary match: “Hip Fracture”.
+- **present** — Harvard term: Hirsutism — dictionary match: “Hirsutism”.
+- **present** — Harvard term: HIV/AIDS — dictionary match: “HIV/AIDS”.
+- **present** — Harvard term: Hives (urticaria) — dictionary match: “Hives (Urticaria)”.
+- **present** — Harvard term: Hodgkin lymphoma — dictionary match: “Hodgkin Lymphoma”.
+- **present** — Harvard term: Hot flashes — dictionary match: “Hot Flashes”.
+- **absent** — Harvard term: Human papillomavirus (HPV) — no equivalent term found.
+- **present** — Harvard term: Huntington's disease (chorea) — dictionary match: “Huntington's Disease (Chorea)”.
+- **present** — Harvard term: Hydrocephalus — dictionary match: “Hydrocephalus”.
+- **present** — Harvard term: Hyperkeratosis — dictionary match: “hyperkeratosis”.
+- **present** — Harvard term: Hyperthyroidism — dictionary match: “Hyperthyroidism”.
+- **present** — Harvard term: Hypoglycemia — dictionary match: “Hypoglycemia”.
+- **present** — Harvard term: Hypoparathyroidism — dictionary match: “Hypoparathyroidism”.
+- **present** — Harvard term: Hypothyroidism — dictionary match: “Hypothyroidism”.
+- **present** — Harvard term: Ichthyosis — dictionary match: “Ichthyosis”.
+- **present** — Harvard term: Illness anxiety disorder — dictionary match: “Illness Anxiety Disorder”.
+- **present** — Harvard term: Immune thrombocytopenic purpura (ITP) — dictionary match: “Immune thrombocytopenic purpura (ITP)”.
+- **present** — Harvard term: Impetigo — dictionary match: “Impetigo”.
+- **absent** — Harvard term: Impotence (erectile dysfunction) — no equivalent term found.
+- **present** — Harvard term: Infectious arthritis — dictionary match: “Infectious Arthritis”.
+- **present** — Harvard term: Infectious mononucleosis — dictionary match: “Infectious Mononucleosis”.
+- **present** — Harvard term: Ingrown toenail — dictionary match: “Ingrown Toenail”.
+- **present** — Harvard term: Inguinal hernia — dictionary match: “Inguinal Hernia”.
+- **present** — Harvard term: Insomnia — dictionary match: “Insomnia”.
+- **present** — Harvard term: Interstitial cystitis — dictionary match: “Interstitial Cystitis”.
+- **present** — Harvard term: Intracranial aneurysms — dictionary match: “Intracranial Aneurysm”.
+- **present** — Harvard term: Iron deficiency — dictionary match: “Iron deficiency”.
+- **present** — Harvard term: Irritable bowel syndrome (IBS) — dictionary match: “Irritable Bowel Syndrome (IBS)”.
+- **present** — Harvard term: Jet lag — dictionary match: “Jet Lag”.
+- **absent** — Harvard term: Jock itch (tinea cruris) — no equivalent term found.
+- **present** — Harvard term: Juvenile arthritis — dictionary match: “Juvenile Arthritis”.
+- **present** — Harvard term: Kaposi sarcoma — dictionary match: “Kaposi Sarcoma”.
+- **present** — Harvard term: Kawasaki disease — dictionary match: “Kawasaki Disease”.
+- **present** — Harvard term: Keloids — dictionary match: “Keloids”.
+- **present** — Harvard term: Keratitis — dictionary match: “Keratitis”.
+- **present** — Harvard term: Kidney cancer — dictionary match: “Kidney Cancer”.
+- **present** — Harvard term: Kidney failure — dictionary match: “Kidney Failure”.
+- **present** — Harvard term: Kidney stones — dictionary match: “Kidney stones”.
+- **absent** — Harvard term: Knee sprain — no equivalent term found.
+- **present** — Harvard term: Lactose intolerance — dictionary match: “Lactose Intolerance”.
+- **present** — Harvard term: Lacunar stroke — dictionary match: “Lacunar Stroke”.
+- **present** — Harvard term: Langerhans' cell histiocytosis — dictionary match: “Langerhans-cell histiocytosis”.
+- **present** — Harvard term: Laryngitis — dictionary match: “Laryngitis”.
+- **present** — Harvard term: Latex allergy — dictionary match: “Latex Allergy”.
+- **present** — Harvard term: Lazy eye (amblyopia) — dictionary match: “Lazy eye (amblyopia)”.
+- **absent** — Harvard term: Leg edema — no equivalent term found.
+- **present** — Harvard term: Leg fracture — dictionary match: “Leg fracture”.
+- **absent** — Harvard term: Leg strain — no equivalent term found.
+- **absent** — Harvard term: Leukemia (Overview) — no equivalent term found.
+- **present** — Harvard term: Liver cancer — dictionary match: “Liver Cancer”.
+- **present** — Harvard term: Long QT syndrome — dictionary match: “Long QT Syndrome”.
+- **absent** — Harvard term: Lung cancer overview — no equivalent term found.
+- **absent** — Harvard term: Lupus (systemic lupus erythematosus) — no equivalent term found.
+- **present** — Harvard term: Lyme disease — dictionary match: “Lyme Disease”.
+- **present** — Harvard term: Lymphedema — dictionary match: “Lymphedema”.
+- **absent** — Harvard term: Lymphoma overview — no equivalent term found.
+- **present** — Harvard term: Macular degeneration — dictionary match: “Macular Degeneration”.
+- **present** — Harvard term: Major depression — dictionary match: “Major Depression”.
+- **present** — Harvard term: Malaria — dictionary match: “Malaria”.
+- **present** — Harvard term: Male infertility — dictionary match: “Male Infertility”.
+- **present** — Harvard term: Malignant hyperthermia — dictionary match: “Malignant Hyperthermia”.
+- **present** — Harvard term: Marfan syndrome — dictionary match: “Marfan Syndrome”.
+- **absent** — Harvard term: Maturity onset diabetes of the young (MODY) — no equivalent term found.
+- **present** — Harvard term: Measles (rubeola) — dictionary match: “Measles (Rubeola)”.
+- **present** — Harvard term: Meckel's diverticulum — dictionary match: “Meckel's diverticulum”.
+- **absent** — Harvard term: Medication allergy — no equivalent term found.
+- **present** — Harvard term: Melanoma — dictionary match: “Melanoma”.
+- **present** — Harvard term: Melasma (chloasma) — dictionary match: “Melasma (Chloasma)”.
+- **present** — Harvard term: Menière's disease — dictionary match: “Ménière’s Disease”.
+- **present** — Harvard term: Meningitis — dictionary match: “Meningitis”.
+- **present** — Harvard term: Menopause and perimenopause — dictionary match: “Menopause and Perimenopause”.
+- **present** — Harvard term: Mesothelioma — dictionary match: “Mesothelioma”.
+- **present** — Harvard term: Metastatic brain tumors — dictionary match: “Metastatic brain tumor”.
+- **absent** — Harvard term: Mid-menstrual cycle pain (mittelschmerz) — no equivalent term found.
+- **absent** — Harvard term: Middle-ear infection (otitis media) — no equivalent term found.
+- **present** — Harvard term: Migraine — dictionary match: “Migraine”.
+- **present** — Harvard term: Miscarriage — dictionary match: “Miscarriage”.
+- **present** — Harvard term: Mitral valve prolapse — dictionary match: “Mitral Valve Prolapse”.
+- **present** — Harvard term: Molar pregnancy — dictionary match: “Molar Pregnancy”.
+- **absent** — Harvard term: Moles (nevi) — no equivalent term found.
+- **present** — Harvard term: Molluscum contagiosum — dictionary match: “Molluscum Contagiosum”.
+- **present** — Harvard term: Morton's neuroma — dictionary match: “Morton’s Neuroma”.
+- **absent** — Harvard term: MRSA skin infection — no equivalent term found.
+- **present** — Harvard term: Multiple myeloma — dictionary match: “Multiple Myeloma”.
+- **present** — Harvard term: Multiple sclerosis — dictionary match: “Multiple Sclerosis”.
+- **present** — Harvard term: Mumps — dictionary match: “Mumps”.
+- **absent** — Harvard term: Muscle strain — no equivalent term found.
+- **present** — Harvard term: Muscular dystrophy — dictionary match: “Muscular Dystrophy”.
+- **present** — Harvard term: Myalgic encephalomyelitis/chronic fatigue syndrome — dictionary match: “Myalgic Encephalomyelitis/Chronic Fatigue Syndrome”.
+- **present** — Harvard term: Myasthenia gravis — dictionary match: “Myasthenia Gravis”.
+- **present** — Harvard term: Myelodysplastic syndromes — dictionary match: “Myelodysplastic Syndrome”.
+- **present** — Harvard term: Myocarditis — dictionary match: “Myocarditis”.
+- **present** — Harvard term: Myositis — dictionary match: “Myositis”.
+- **present** — Harvard term: Nabothian cysts — dictionary match: “Nabothian Cyst”.
+- **absent** — Harvard term: Nail trauma — no equivalent term found.
+- **present** — Harvard term: Narcolepsy — dictionary match: “Narcolepsy”.
+- **present** — Harvard term: Nasal polyps — dictionary match: “Nasal Polyps”.
+- **present** — Harvard term: Nausea — dictionary match: “Nausea”.
+- **absent** — Harvard term: Nearsightedness (myopia) — no equivalent term found.
+- **present** — Harvard term: Neuroblastoma — dictionary match: “Neuroblastoma”.
+- **present** — Harvard term: Neurofibromatosis — dictionary match: “Neurofibromatosis”.
+- **present** — Harvard term: Non-Hodgkin lymphoma — dictionary match: “Non-Hodgkin Lymphoma”.
+- **present** — Harvard term: Non-small cell lung cancer — dictionary match: “Non-Small Cell Lung Cancer”.
+- **absent** — Harvard term: Nosebleed (epistaxis) — no equivalent term found.
+- **present** — Harvard term: Obesity — dictionary match: “Obesity”.
+- **present** — Harvard term: Obsessive-compulsive disorder (OCD) — dictionary match: “Obsessive Compulsive Disorder (OCD)”.
+- **present** — Harvard term: Onycholysis — dictionary match: “Onycholysis”.
+- **absent** — Harvard term: Optic nerve swelling (papilledema) — no equivalent term found.
+- **present** — Harvard term: Oral cancer — dictionary match: “Oral Cancer”.
+- **present** — Harvard term: Osgood-Schlatter disease — dictionary match: “Osgood-Schlatter Disease”.
+- **present** — Harvard term: Osteoarthritis — dictionary match: “Osteoarthritis”.
+- **present** — Harvard term: Osteoporosis — dictionary match: “Osteoporosis”.
+- **present** — Harvard term: Osteosarcoma — dictionary match: “Osteosarcoma”.
+- **present** — Harvard term: Ovarian cancer — dictionary match: “Ovarian Cancer”.
+- **present** — Harvard term: Paget's disease of bone — dictionary match: “Paget Disease of Bone”.
+- **present** — Harvard term: Pain — dictionary match: “Pain”.
+- **absent** — Harvard term: Painful sexual intercourse (dyspareunia) — no equivalent term found.
+- **present** — Harvard term: Pancreatic cancer — dictionary match: “Pancreatic Cancer”.
+- **absent** — Harvard term: Pancreatitis overview — no equivalent term found.
+- **present** — Harvard term: Panic disorders — dictionary match: “Panic Disorder”.
+- **present** — Harvard term: Parathyroid cancer — dictionary match: “Parathyroid cancer”.
+- **present** — Harvard term: Parkinson's disease — dictionary match: “Parkinson'S Disease”.
+- **present** — Harvard term: Paronychia — dictionary match: “Paronychia”.
+- **absent** — Harvard term: Partial seizures (focal seizures) — no equivalent term found.
+- **present** — Harvard term: Pelvic inflammatory disease (PID) — dictionary match: “Pelvic inflammatory disease (PID)”.
+- **present** — Harvard term: Peptic ulcer — dictionary match: “Peptic Ulcer”.
+- **present** — Harvard term: Perforated eardrum — dictionary match: “Perforated eardrum”.
+- **present** — Harvard term: Pericarditis — dictionary match: “Pericarditis”.
+- **present** — Harvard term: Peripheral artery disease — dictionary match: “Peripheral Artery Disease”.
+- **present** — Harvard term: Peritonsillar abscess — dictionary match: “Peritonsillar Abscess”.
+- **absent** — Harvard term: Persistent depressive disorder (dysthymia) — no equivalent term found.
+- **absent** — Harvard term: Pertussis (whooping cough) — no equivalent term found.
+- **absent** — Harvard term: Phimosis and paraphimosis — no equivalent term found.
+- **present** — Harvard term: Phobia — dictionary match: “Phobias”.
+- **present** — Harvard term: Pink eye (conjunctivitis) — dictionary match: “Pink eye (conjunctivitis)”.
+- **present** — Harvard term: Pituitary tumors — dictionary match: “Pituitary tumor”.
+- **present** — Harvard term: Pityriasis rosea — dictionary match: “Pityriasis Rosea”.
+- **absent** — Harvard term: Plague (Yersinia Pestis) — no equivalent term found.
+- **present** — Harvard term: Plantar fasciitis — dictionary match: “Plantar Fasciitis”.
+- **absent** — Harvard term: Pleurisy and pleural effusion — no equivalent term found.
+- **present** — Harvard term: Pneumoconiosis — dictionary match: “Pneumoconiosis”.
+- **present** — Harvard term: Pneumonia — dictionary match: “Pneumonia”.
+- **present** — Harvard term: Pneumothorax — dictionary match: “Pneumothorax”.
+- **present** — Harvard term: Polio — dictionary match: “Polio”.
+- **present** — Harvard term: Polyarteritis nodosa — dictionary match: “Polyarteritis Nodosa”.
+- **present** — Harvard term: Polychondritis — dictionary match: “Polychondritis”.
+- **present** — Harvard term: Polycystic kidney disease — dictionary match: “Polycystic Kidney Disease”.
+- **present** — Harvard term: Polycystic ovary syndrome — dictionary match: “polycystic ovary syndrome”.
+- **present** — Harvard term: Polymyalgia rheumatica — dictionary match: “Polymyalgia Rheumatica”.
+- **absent** — Harvard term: Post-polio syndrome — no equivalent term found.
+- **present** — Harvard term: Post-traumatic stress disorder — dictionary match: “Post-Traumatic Stress Disorder”.
+- **absent** — Harvard term: Posterior cruciate ligament (PCL) injuries — no equivalent term found.
+- **present** — Harvard term: Postpartum depression — dictionary match: “Postpartum Depression”.
+- **present** — Harvard term: Prediabetes — dictionary match: “Prediabetes”.
+- **absent** — Harvard term: Preeclampsia and eclampsia — no equivalent term found.
+- **present** — Harvard term: Premature ejaculation — dictionary match: “Premature Ejaculation”.
+- **absent** — Harvard term: Premenstrual syndrome (PMS) — no equivalent term found.
+- **present** — Harvard term: Presbyopia — dictionary match: “Presbyopia”.
+- **present** — Harvard term: Priapism — dictionary match: “Priapism”.
+- **present** — Harvard term: Prostate cancer — dictionary match: “Prostate Cancer”.
+- **absent** — Harvard term: Pseudogout (CPPD) — no equivalent term found.
+- **present** — Harvard term: Psoriasis — dictionary match: “Psoriasis”.
+- **present** — Harvard term: Psoriatic arthritis — dictionary match: “Psoriatic Arthritis”.
+- **absent** — Harvard term: Pubic lice or crab lice — no equivalent term found.
+- **present** — Harvard term: Pyelonephritis — dictionary match: “Pyelonephritis”.
+- **present** — Harvard term: Rash — dictionary match: “Rash”.
+- **present** — Harvard term: Raynaud's phenomenon — dictionary match: “Raynaud's phenomenon”.
+- **present** — Harvard term: Reactive arthritis — dictionary match: “Reactive Arthritis”.
+- **present** — Harvard term: Rectocele — dictionary match: “Rectocele”.
+- **present** — Harvard term: Respiratory syncytial virus — dictionary match: “Respiratory Syncytial Virus”.
+- **present** — Harvard term: Restless legs syndrome — dictionary match: “Restless Legs Syndrome”.
+- **absent** — Harvard term: Retinal vessel occlusion — no equivalent term found.
+- **present** — Harvard term: Retinitis pigmentosa — dictionary match: “Retinitis Pigmentosa”.
+- **present** — Harvard term: Retinoblastoma — dictionary match: “Retinoblastoma”.
+- **present** — Harvard term: Retinopathy — dictionary match: “Retinopathy”.
+- **absent** — Harvard term: Retrobulbar neuritis — no equivalent term found.
+- **present** — Harvard term: Retrograde Ejaculation — dictionary match: “Retrograde Ejaculation”.
+- **present** — Harvard term: Reye syndrome — dictionary match: “Reye Syndrome”.
+- **present** — Harvard term: Rhabdomyosarcoma — dictionary match: “Rhabdomyosarcoma”.
+- **present** — Harvard term: Rheumatoid arthritis — dictionary match: “Rheumatoid Arthritis”.
+- **present** — Harvard term: Ringworm (tinea) — dictionary match: “Ringworm (tinea)”.
+- **absent** — Harvard term: Rocky Mountain spotted fever — no equivalent term found.
+- **present** — Harvard term: Rosacea — dictionary match: “Rosacea”.
+- **present** — Harvard term: Rotator cuff injury — dictionary match: “Rotator Cuff Injury”.
+- **absent** — Harvard term: Salivary gland disorders — no equivalent term found.
+- **present** — Harvard term: Sarcoidosis — dictionary match: “Sarcoidosis”.
+- **present** — Harvard term: Scabies — dictionary match: “Scabies”.
+- **present** — Harvard term: Scarlet fever — dictionary match: “Scarlet Fever”.
+- **present** — Harvard term: Schizophrenia — dictionary match: “Schizophrenia”.
+- **present** — Harvard term: Schizotypal personality disorder — dictionary match: “Schizotypal Personality Disorder”.
+- **present** — Harvard term: Sciatica — dictionary match: “Sciatica”.
+- **present** — Harvard term: Scleritis — dictionary match: “Scleritis”.
+- **present** — Harvard term: Scleroderma — dictionary match: “Scleroderma”.
+- **present** — Harvard term: Scoliosis — dictionary match: “Scoliosis”.
+- **present** — Harvard term: Sebaceous cysts — dictionary match: “Sebaceous cysts”.
+- **present** — Harvard term: Seborrheic dermatitis — dictionary match: “Seborrheic Dermatitis”.
+- **present** — Harvard term: Seborrheic keratoses — dictionary match: “Seborrheic keratoses”.
+- **present** — Harvard term: Secondary hypertension — dictionary match: “Secondary Hypertension”.
+- **absent** — Harvard term: Sedative, hypnotic, or anxiolytic drug use disorder — no equivalent term found.
+- **absent** — Harvard term: Seizure overview — no equivalent term found.
+- **absent** — Harvard term: Sexually transmitted diseases (overview) — no equivalent term found.
+- **present** — Harvard term: Shigellosis — dictionary match: “Shigellosis”.
+- **present** — Harvard term: Shin splints — dictionary match: “Shin Splints”.
+- **present** — Harvard term: Shingles (herpes zoster) — dictionary match: “Shingles (Herpes Zoster)”.
+- **present** — Harvard term: Shoulder dislocation — dictionary match: “Shoulder Dislocation”.
+- **absent** — Harvard term: Shoulder sprain — no equivalent term found.
+- **present** — Harvard term: Sick sinus syndrome — dictionary match: “Sick Sinus Syndrome”.
+- **present** — Harvard term: Sickle cell anemia — dictionary match: “Sickle Cell Anemia”.
+- **present** — Harvard term: Sjögren's syndrome — dictionary match: “Sjögren's syndrome”.
+- **absent** — Harvard term: Skin tags (acrochordon) — no equivalent term found.
+- **present** — Harvard term: Sleep apnea — dictionary match: “Sleep Apnea”.
+- **absent** — Harvard term: Sleepwalking and sleep terrors — no equivalent term found.
+- **present** — Harvard term: Small cell lung cancer — dictionary match: “Small Cell Lung Cancer”.
+- **present** — Harvard term: Smallpox — dictionary match: “Smallpox”.
+- **present** — Harvard term: Soft tissue sarcoma — dictionary match: “Soft Tissue Sarcoma”.
+- **present** — Harvard term: Somatic symptom disorder — dictionary match: “Somatic Symptom Disorder”.
+- **present** — Harvard term: Sore throat (pharyngitis) — dictionary match: “Sore Throat (Pharyngitis)”.
+- **absent** — Harvard term: Spider veins — no equivalent term found.
+- **present** — Harvard term: Spina bifida — dictionary match: “Spina Bifida”.
+- **present** — Harvard term: Spinal cord trauma — dictionary match: “Spinal cord trauma”.
+- **absent** — Harvard term: Spinal cord tumors — no equivalent term found.
+- **absent** — Harvard term: Sprain (overview) — no equivalent term found.
+- **absent** — Harvard term: Squamous cell carcinoma of the lung — no equivalent term found.
+- **present** — Harvard term: Squamous cell carcinoma of the skin — dictionary match: “Squamous cell carcinoma of the skin”.
+- **present** — Harvard term: Stomach cancer — dictionary match: “Stomach Cancer”.
+- **absent** — Harvard term: Stroke overview — no equivalent term found.
+- **present** — Harvard term: Stuttering — dictionary match: “Stuttering”.
+- **absent** — Harvard term: Styes and chalazions — no equivalent term found.
+- **present** — Harvard term: Subarachnoid hemorrhage — dictionary match: “Subarachnoid Hemorrhage”.
+- **present** — Harvard term: Subdural hematoma — dictionary match: “Subdural Hematoma”.
+- **absent** — Harvard term: Sun allergy (photosensitivity) — no equivalent term found.
+- **absent** — Harvard term: Sun-damaged skin — no equivalent term found.
+- **present** — Harvard term: Superficial thrombophlebitis — dictionary match: “Superficial thrombophlebitis”.
+- **absent** — Harvard term: Swallowed object — no equivalent term found.
+- **present** — Harvard term: Swimmer's ear (otitis externa) — dictionary match: “Swimmers Ear (Otitis Externa)”.
+- **present** — Harvard term: Syphilis — dictionary match: “Syphilis”.
+- **present** — Harvard term: Tachycardia — dictionary match: “Tachycardia”.
+- **present** — Harvard term: Takayasu's arteritis — dictionary match: “Takayasu’s arteritis”.
+- **absent** — Harvard term: Tear duct infection (dacryocystitis) — no equivalent term found.
+- **present** — Harvard term: Telogen effluvium — dictionary match: “Telogen Effluvium”.
+- **present** — Harvard term: Tendinitis — dictionary match: “Tendinitis”.
+- **present** — Harvard term: Tennis elbow (lateral epicondylitis) — dictionary match: “Tennis Elbow (Lateral Epicondylitis)”.
+- **present** — Harvard term: Tension headache — dictionary match: “Tension Headache”.
+- **present** — Harvard term: Testicular cancer — dictionary match: “Testicular Cancer”.
+- **present** — Harvard term: Testicular torsion — dictionary match: “Testicular Torsion”.
+- **present** — Harvard term: Tetanus — dictionary match: “Tetanus”.
+- **absent** — Harvard term: Throat cancer (larynx and pharynx) — no equivalent term found.
+- **present** — Harvard term: Thrombocytopenia — dictionary match: “Thrombocytopenia”.
+- **absent** — Harvard term: Thromboembolism (deep vein thrombosis and pulmonary embolism) — no equivalent term found.
+- **absent** — Harvard term: Thrombotic stroke — no equivalent term found.
+- **present** — Harvard term: Thyroid cancer — dictionary match: “Thyroid Cancer”.
+- **present** — Harvard term: Tick bites — dictionary match: “Tick bite”.
+- **present** — Harvard term: Tics — dictionary match: “Tics”.
+- **present** — Harvard term: Tinea versicolor — dictionary match: “Tinea Versicolor”.
+- **present** — Harvard term: Tinnitus — dictionary match: “Tinnitus”.
+- **absent** — Harvard term: Toenail fungus (onychomycosis) — no equivalent term found.
+- **present** — Harvard term: Torn meniscus — dictionary match: “Torn Meniscus”.
+- **absent** — Harvard term: Torsional deformity — no equivalent term found.
+- **present** — Harvard term: Tourette syndrome — dictionary match: “Tourette Syndrome”.
+- **present** — Harvard term: Toxic shock syndrome — dictionary match: “Toxic Shock Syndrome”.
+- **present** — Harvard term: Toxoplasmosis — dictionary match: “Toxoplasmosis”.
+- **absent** — Harvard term: Transient ischemic attack (TIA) — no equivalent term found.
+- **absent** — Harvard term: Traumatic dislocation of the hip — no equivalent term found.
+- **present** — Harvard term: Traveler's diarrhea — dictionary match: “Travelers' Diarrhea”.
+- **present** — Harvard term: Trichomoniasis — dictionary match: “Trichomoniasis”.
+- **absent** — Harvard term: Trigeminal neuralgia (tic douloureux) — no equivalent term found.
+- **present** — Harvard term: Tropical sprue — dictionary match: “Tropical Sprue”.
+- **present** — Harvard term: Tuberculosis — dictionary match: “Tuberculosis”.
+- **present** — Harvard term: Type 1 diabetes mellitus — dictionary match: “Type 1 Diabetes Mellitus”.
+- **present** — Harvard term: Type 2 diabetes mellitus — dictionary match: “Type 2 Diabetes Mellitus”.
+- **present** — Harvard term: Ulcerative colitis — dictionary match: “Ulcerative Colitis”.
+- **absent** — Harvard term: Undescended testicle (cryptorchidism) — no equivalent term found.
+- **present** — Harvard term: Urethritis — dictionary match: “Urethritis”.
+- **absent** — Harvard term: Urinary health — no equivalent term found.
+- **present** — Harvard term: Urinary incontinence — dictionary match: “Urinary Incontinence”.
+- **absent** — Harvard term: Urinary tract infection in men — no equivalent term found.
+- **absent** — Harvard term: Urinary tract infection in women — no equivalent term found.
+- **absent** — Harvard term: Uterine and bladder prolapse — no equivalent term found.
+- **present** — Harvard term: Uterine cancer — dictionary match: “Uterine Cancer”.
+- **present** — Harvard term: Uveitis — dictionary match: “Uveitis”.
+- **absent** — Harvard term: Vaginal atrophy (atrophic vaginitis) — no equivalent term found.
+- **present** — Harvard term: Vaginal cancer — dictionary match: “Vaginal Cancer”.
+- **absent** — Harvard term: Vaginal discharge — no equivalent term found.
+- **present** — Harvard term: Vaginal yeast infection — dictionary match: “Vaginal yeast infection”.
+- **present** — Harvard term: Vaginitis — dictionary match: “Vaginitis”.
+- **present** — Harvard term: Varicose veins — dictionary match: “Varicose Veins”.
+- **absent** — Harvard term: Vascular birthmarks — no equivalent term found.
+- **absent** — Harvard term: Vasculitis overview — no equivalent term found.
+- **present** — Harvard term: Vertigo — dictionary match: “Vertigo”.
+- **present** — Harvard term: Vitamin B12 deficiency — dictionary match: “Vitamin B12 Deficiency”.
+- **absent** — Harvard term: Vitiligo — no equivalent term found.
+- **absent** — Harvard term: Vocal cord disorders — no equivalent term found.
+- **absent** — Harvard term: Vulvar cancer — no equivalent term found.
+- **present** — Harvard term: Waldenström macroglobulinemia — dictionary match: “Waldenstrom Macroglobulinemia”.
+- **present** — Harvard term: Warts — dictionary match: “Warts”.
+- **absent** — Harvard term: Wax blockage of the ear canal — no equivalent term found.
+- **present** — Harvard term: Wilms tumor — dictionary match: “Wilms Tumor”.
+- **absent** — Harvard term: Wire localization biopsy of the breast — no equivalent term found.
+- **present** — Harvard term: Wrist sprain — dictionary match: “Wrist Sprain”.
+- **present** — Harvard term: Yaws — dictionary match: “Yaws”.
+

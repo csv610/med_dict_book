@@ -1,0 +1,987 @@
+drugs.tex — Abuse Steroid (Anabolic Steroid Abuse)
+drugs.tex — Accident And Emergency Medicine (A\&E Medicine)
+drugs.tex — Alternative Medicine - Pain Relief
+drugs.tex — Asthma OTC Medication (Asthma: Over The Counter Treatment)
+drugs.tex — Cold And Cough Medicine For Infants And Children
+drugs.tex — Drug Addiction (Substance Use Disorder)
+drugs.tex — Drug Reaction With Eosinophilia And Systemic Symptoms
+drugs.tex — Hepatitis B Vaccine (Birth Dose)
+drugs.tex — High Blood Pressure - Medicine-Related
+drugs.tex — Integrative Medicine For Cancer Treatment
+drugs.tex — SMART Goals For Antibiotic Stewardship
+drugs.tex — Steroid Injections - Tendon, Bursa, Joint
+drugs.tex — Thrombolytic Drugs For Heart Attack
+med_terms_a.tex — ADLs (Activities Of Daily Living)
+med_terms_a.tex — ALARA (As Low As Is Reasonably Achievable) Principle
+med_terms_a.tex — ASA Physical Status Classification System
+med_terms_a.tex — Abdominal Aortic Aneurysm Repair - Open
+med_terms_a.tex — Abdominal Wall Fat Pad Biopsy
+med_terms_a.tex — Abnormally Dark Or Light Skin
+med_terms_a.tex — Above The Knee Amputation (AKA)
+med_terms_a.tex — Abscess - Abdomen Or Pelvis
+med_terms_a.tex — Absent Menstrual Periods - Primary
+med_terms_a.tex — Absent Menstrual Periods - Secondary
+med_terms_a.tex — Aches And Pains During Pregnancy
+med_terms_a.tex — Acquired Generalized And Inherited Lipodystrophy
+med_terms_a.tex — Active Management Of Third Stage
+med_terms_a.tex — Acute Arterial Occlusion - Kidney
+med_terms_a.tex — Acute Fatty Liver Of Pregnancy
+med_terms_a.tex — Acute Limb Ischemia Six Ps
+med_terms_a.tex — Acute Myeloid Leukemia (AML) - Children
+med_terms_a.tex — Acute Myeloid Leukemia - Adult
+med_terms_a.tex — Acute Necrotizing Ulcerative Gingivitis (ANUG)
+med_terms_a.tex — Acute Respiratory Distress Syndrome (ARDS)
+med_terms_a.tex — Acute Symptomatic Seizures Secondary To Autoimmune Encephalitis
+med_terms_a.tex — Adenocarcinoma In Situ Of Cervix
+med_terms_a.tex — Adenoid Cystic Carcinoma Of The Vulva
+med_terms_a.tex — Adhesive Capsulitis Of Shoulder (Frozen Shoulder)
+med_terms_a.tex — Adolescent Test Or Procedure Preparation
+med_terms_a.tex — Adults Autism (Autism And Communication)
+med_terms_a.tex — Advance Directives (Advance Medical Directives)
+med_terms_a.tex — Advance Statements About Medical Treatment
+med_terms_a.tex — Afib (Atrial Fibrillation (AFib) Warning Symptoms)
+med_terms_a.tex — Agenesis Of The Corpus Callosum
+med_terms_a.tex — Aging Spots - Should You Be Concerned?
+med_terms_a.tex — Alanine Transaminase (ALT) Blood Test
+med_terms_a.tex — Alcohol Dependence (Alcohol Abuse And Alcoholism)
+med_terms_a.tex — Alcohol Pregnancy (Fetal Alcohol Syndrome (FAS))
+med_terms_a.tex — Alcohol Use And Safe Drinking
+med_terms_a.tex — Allergy Insect (Insect Sting Allergies)
+med_terms_a.tex — Allergy Plant Contact (Poison Ivy, Oak, And Sumac)
+med_terms_a.tex — Alternative Therapy For Multiple Sclerosis
+med_terms_a.tex — Alternative Treatments For Hot Flashes
+med_terms_a.tex — Alveolar Osteitis (Dry Socket Overview)
+med_terms_a.tex — Alzheimer's Disease Causes, Stages, And Symptoms
+med_terms_a.tex — Amoebic Dysentery (Amebiasis Entamoeba Histolytica Infection)
+med_terms_a.tex — Amoxicillin Rash In Infectious Mononucleosis
+med_terms_a.tex — Anatomy Survey (Level II Ultrasound)
+med_terms_a.tex — Anemia Caused By Low Iron - Children
+med_terms_a.tex — Anemia Caused By Low Iron - Infants And Toddlers
+med_terms_a.tex — Angina - When You Have Chest Pain
+med_terms_a.tex — Angioedema Hereditary (Hereditary Angioedema HAE)
+med_terms_a.tex — Angioplasty And Stent Placement - Heart
+med_terms_a.tex — Angioplasty And Stent Placement - Peripheral Arteries
+med_terms_a.tex — Ankle Dislocated (Dislocated Ankle (Ankle Dislocation))
+med_terms_a.tex — Ankle Swollen (Swollen Ankles And Swollen Feet)
+med_terms_a.tex — Anomalous Left Coronary Artery From The Pulmonary Artery
+med_terms_a.tex — Anterior Cruciate Ligament (ACL) Injury
+med_terms_a.tex — Anti-Cyclic Citrullinated Peptide (Anti-CCP) Antibody
+med_terms_a.tex — Anti-Glomerular Basement Membrane Blood Test
+med_terms_a.tex — Antiplatelet Medicines - P2Y12 Inhibitors
+med_terms_a.tex — Aortic Aneurysm Repair - Endovascular
+med_terms_a.tex — Aortic Valve Surgery - Minimally Invasive
+med_terms_a.tex — Aortic Valve Surgery - Open
+med_terms_a.tex — Appropriate For Gestational Age (AGA)
+med_terms_a.tex — Area Under The Concentration-Time Curve
+med_terms_a.tex — Arrest Cardiac (Sudden Cardiac Death)
+med_terms_a.tex — Arthritis Ankylosing Spondylitis (Ankylosing Spondylitis)
+med_terms_a.tex — Arthritis Gout (Gout (Gouty Arthritis))
+med_terms_a.tex — Arthritis MCTD (Mixed Connective Tissue Disease)
+med_terms_a.tex — Arthritis Plant Thorn (Plant Thorn Synovitis)
+med_terms_a.tex — Arthritis Sjogrens Syndrome (Sjogren's Syndrome)
+med_terms_a.tex — Artificial Insemination By Donor (AID)
+med_terms_a.tex — Artificial Insemination By Husband (AIH)
+med_terms_a.tex — Artificial Ventricle (Total Artificial Heart)
+med_terms_a.tex — Aspartate Aminotransferase (AST) Blood Test
+med_terms_a.tex — Asthma: Over The Counter Treatment
+med_terms_a.tex — Atopic Dermatitis - Children - Homecare
+med_terms_a.tex — Atrial Fibrillation (AFib) Warning Symptoms
+med_terms_a.tex — Atrial Fibrillation AFib Treatment Drugs
+med_terms_a.tex — Atrial Fibrillation And Atrial Flutter
+med_terms_a.tex — Atrioventricular Nodal Reentry Tachycardia (AVNRT)
+med_terms_a.tex — Atrophy Vaginal (Vaginal Dryness And Vaginal Atrophy)
+med_terms_a.tex — Atypical Hyperplasia Of The Breast
+med_terms_a.tex — Atypical Teratoid Rhabdoid Tumor (ATRT)
+med_terms_a.tex — Autism Spectrum Disorder - Asperger Syndrome
+med_terms_a.tex — Autism Spectrum Disorder - Childhood Disintegrative Disorder
+med_terms_a.tex — Autonomic Neuropathy Diabetic (Diabetic Neuropathy)
+med_terms_a.tex — Autosomal Dominant Polycystic Kidney Disease
+med_terms_a.tex — Autosomal Dominant Tubulointerstitial Kidney Disease
+med_terms_a.tex — Autosomal Recessive Polycystic Kidney Disease
+med_terms_a.tex — Avian Flu (Avian Influenza (Bird Flu))
+med_terms_a.tex — Primary Clear Cell Adenocarcinoma Of The Vulva
+med_terms_b.tex — B And T Cell Screen
+med_terms_b.tex — BAER - Brainstem Auditory Evoked Response
+med_terms_b.tex — BRCA1 And BRCA2 Gene Testing
+med_terms_b.tex — Bacterial Vaginosis (Causes, Symptoms, Treatment)
+med_terms_b.tex — Bath Salts Abuse And Addiction
+med_terms_b.tex — Bathing A Patient In Bed
+med_terms_b.tex — Bedtime Habits For Infants And Children
+med_terms_b.tex — Bee, Wasp, Hornet, Or Yellow Jacket Sting
+med_terms_b.tex — Being Active When You Have Heart Disease
+med_terms_b.tex — Being Good Partner To Someone With Chronic Illness
+med_terms_b.tex — Bells Palsy (Facial Nerve Problems)
+med_terms_b.tex — Benefits And Risks Of Taking Amino Acid Supplement
+med_terms_b.tex — Benign Ear Cyst Or Tumor
+med_terms_b.tex — Benign Paroxysmal Positional Vertigo (BPPV)
+med_terms_b.tex — Bethesda System For Reporting Thyroid Cytopathology
+med_terms_b.tex — Bile Acid Sequestrants For Cholesterol
+med_terms_b.tex — Biliary Cirrhosis Primary (Primary Biliary Cirrhosis (PBC))
+med_terms_b.tex — Bilirubin (Bilirubin And Bilirubin Blood Test)
+med_terms_b.tex — Bilirubin And Bilirubin Blood Test
+med_terms_b.tex — Birth Control - Slow Release Methods
+med_terms_b.tex — Birth Control And Family Planning
+med_terms_b.tex — Birth Control Pills - Combination
+med_terms_b.tex — Birth Control Pills - Progestin Only
+med_terms_b.tex — Birthmarks And Other Skin Pigmentation Problems
+med_terms_b.tex — Bite Dog (Dog Bite Treatment)
+med_terms_b.tex — Bites Flea (Flea Bites In Humans)
+med_terms_b.tex — Bladder Infection (Urinary Tract Infection)
+med_terms_b.tex — Bleeding Into A Thyroid Nodule
+med_terms_b.tex — Blood Clot In The Lung (Pulmonary Embolism)
+med_terms_b.tex — Blood Film (Peripheral Blood Smear)
+med_terms_b.tex — Blood In The Stool (Rectal Bleeding)
+med_terms_b.tex — Blood Low Red Cell Count (Anemia)
+med_terms_b.tex — Blood Pressure Chart: Reading By Age
+med_terms_b.tex — Blood Pressure Low (Low Blood Pressure)
+med_terms_b.tex — Blood Pressure Monitors For Home
+med_terms_b.tex — Blue Discoloration Of The Skin
+med_terms_b.tex — Body Type Ectomorph, Endomorph Or Mesomorph
+med_terms_b.tex — Bone Fractures (Broken Bone (Types Of Bone Fractures))
+med_terms_b.tex — Bone Marrow (Stem Cell) Donation
+med_terms_b.tex — Bone Marrow Aspiration And Biopsy
+med_terms_b.tex — Bone Tumor (Bone Cancer Overview)
+med_terms_b.tex — Bones Of The Arm, Wrist And Hand
+med_terms_b.tex — Bones Of The Leg, Ankle And Foot
+med_terms_b.tex — Bottom Number Of Your Blood Pressure Is Over 100
+med_terms_b.tex — Botulinum Toxin Injection - Larynx
+med_terms_b.tex — Braces And Retainers (Dental Braces)
+med_terms_b.tex — Brachial Plexus Injury In Newborns
+med_terms_b.tex — Brain Lesions (Lesions On The Brain)
+med_terms_b.tex — Brain Tumor - Primary - Adults
+med_terms_b.tex — Branchial Cleft Cyst (Branchial Cyst)
+med_terms_b.tex — Break The Bonds Of Emotional Eating
+med_terms_b.tex — Breast And Thoracic Cancer Surgery
+med_terms_b.tex — Breast Imaging-Reporting and Data System
+med_terms_b.tex — Breast Milk - Pumping And Storing
+med_terms_b.tex — Breast Reconstruction - Natural Tissue
+med_terms_b.tex — Breast Skin And Nipple Changes
+med_terms_b.tex — Breastfeeding - Skin And Nipple Changes
+med_terms_b.tex — Breathing - Slowed Or Stopped
+med_terms_b.tex — Breathing Difficulties - First Aid
+med_terms_b.tex — Breathing Difficulty - Lying Down
+med_terms_b.tex — Brief Resolved Unexplained Event - BRUE
+med_terms_b.tex — Brittle Bone Disease (Osteogenesis Imperfecta Brittle Bone Disease)
+med_terms_b.tex — Broken Blood Vessel In Eye
+med_terms_b.tex — Broken Bone (Types Of Bone Fractures)
+med_terms_b.tex — Broken Or Knocked Out Tooth
+med_terms_b.tex — Brown Recluse (Spider Bites (Black Widow And Brown Recluse))
+med_terms_b.tex — Bursa Inflammation (Acute And Chronic Bursitis)
+med_terms_b.tex — Butter, Margarine, And Cooking Oils
+med_terms_b.tex — Button Magnets In The Nasal Cavity
+med_terms_b.tex — Buying And Caring For Baby Bottles And Nipples
+med_terms_c.tex — COPD - Managing Stress And Your Mood
+med_terms_c.tex — COPD And Other Health Problems
+med_terms_c.tex — COVID-19 Vaccines For Children Ages 6 Months And Older
+med_terms_c.tex — CPR - Young Child (Age 1 Year To Onset Of Puberty)
+med_terms_c.tex — CPT Code For Foreign Body Removal From The Ear
+med_terms_c.tex — CSF Coccidioides Complement Fixation Test
+med_terms_c.tex — CSF Leak (Cerebrospinal Fluid Leak)
+med_terms_c.tex — CT Angiography - Abdomen And Pelvis
+med_terms_c.tex — CT Angiography - Arms And Legs
+med_terms_c.tex — CT Angiography - Head And Neck
+med_terms_c.tex — Calcium Carbonate With Magnesium Overdose
+med_terms_c.tex — Calor, Dolor, Rubor, And Tumor
+med_terms_c.tex — Can You Boost Your Metabolism?
+med_terms_c.tex — Cancer In Lung (Lung Cancer)
+med_terms_c.tex — Cancer Treatment - Dealing With Pain
+med_terms_c.tex — Cancer Treatment - Early Menopause
+med_terms_c.tex — Cancer Treatment: Dealing With Hot Flashes And Night Sweats
+med_terms_c.tex — Cancer, Floor Of The Mouth
+med_terms_c.tex — Candida Infection Of The Skin
+med_terms_c.tex — Carbapenem Resistant Enterobacteriaceae (CRE Infection)
+med_terms_c.tex — Category I Fetal Heart Tracing
+med_terms_c.tex — Category II Fetal Heart Tracing
+med_terms_c.tex — Category III Fetal Heart Tracing
+med_terms_c.tex — Causes Symptoms Of Hormonal Imbalances Women
+med_terms_c.tex — Celiac Disease - Nutritional Considerations
+med_terms_c.tex — Central Line Infections - Hospitals
+med_terms_c.tex — Central Nervous System (CNS) Lymphoma
+med_terms_c.tex — Central Nervous System Vascular Malformations
+med_terms_c.tex — Central Venous Catheter - Dressing Change
+med_terms_c.tex — Central Venous Catheter - Flushing
+med_terms_c.tex — Central Venous Catheters - Ports
+med_terms_c.tex — Central Venous Line - Infants
+med_terms_c.tex — Cervical Cancer - Screening And Prevention
+med_terms_c.tex — Cervical Intraepithelial Neoplasia Cervical (Cervical Dysplasia)
+med_terms_c.tex — Changes In The Newborn At Birth
+med_terms_c.tex — Chest Pain On The Left Side Above A Female Breast
+med_terms_c.tex — Child Neglect And Emotional Abuse
+med_terms_c.tex — Chimeric Antigen Receptor (CAR) T-Cell Therapy
+med_terms_c.tex — Chiropractic Care For Back Pain
+med_terms_c.tex — Choking - Adult Or Child Over 1 Year
+med_terms_c.tex — Choking - Infant Under 1 Year
+med_terms_c.tex — Choking - Unconscious Adult Or Child Over 1 Year
+med_terms_c.tex — Cholangiocarcinoma (Bile Duct Cancer (Cholangiocarcinoma))
+med_terms_c.tex — Chronic Inflammatory Response Syndrome (CIRS)
+med_terms_c.tex — Chronic Motor Or Vocal Tic Disorder
+med_terms_c.tex — Chronic Obstructive Lung Disease (COLD)
+med_terms_c.tex — Chronic Obstructive Pulmonary Disease (COPD)
+med_terms_c.tex — Churg Strauss Syndrome (Churg-Strauss Syndrome)
+med_terms_c.tex — Cirrhosis Primary Biliary (Primary Biliary Cirrhosis (PBC))
+med_terms_c.tex — Citric Acid Cycle (Krebs Cycle)
+med_terms_c.tex — Cleaning To Prevent The Spread Of Germs
+med_terms_c.tex — Cleft Lip And Cleft Palate
+med_terms_c.tex — Cleft Lip And Palate Repair
+med_terms_c.tex — Closed Reduction Of A Fractured Bone
+med_terms_c.tex — Closed Suction Drain With Bulb
+med_terms_c.tex — Club Drugs List And Side Effects
+med_terms_c.tex — Clubbing Of The Fingers Or Toes
+med_terms_c.tex — Cognitive Behavioral Therapy For Back Pain
+med_terms_c.tex — Cognitive Behavioral Therapy For Insomnia
+med_terms_c.tex — Cold Flu Allergy Treatments (Cold, Flu, Allergy)
+med_terms_c.tex — Colds And Flu - Antibiotics
+med_terms_c.tex — College Students And The Flu
+med_terms_c.tex — Columnar Epithelium Lined Lower Esophagus
+med_terms_c.tex — Common Cold Stages And Timeline Of Symptoms
+med_terms_c.tex — Common Early Symptoms Of Myasthenia Gravis
+med_terms_c.tex — Common Medical Abbreviations And Terms
+med_terms_c.tex — Communicating With Someone With Aphasia
+med_terms_c.tex — Communicating With Someone With Dysarthria
+med_terms_c.tex — Complement Fixation Test For C Burnetii
+med_terms_c.tex — Compression Fractures Of The Back
+med_terms_c.tex — Compulsive Obsessive Disorder (Obsessive Compulsive Disorder (OCD))
+med_terms_c.tex — Conditions Caused By Deletion Mutations
+med_terms_c.tex — Congenital Heart Defect - Corrective Surgery
+med_terms_c.tex — Congenital Heart Defects In Children
+med_terms_c.tex — Congenital Heart Disease In Adults
+med_terms_c.tex — Congenital Protein C Or S Deficiency
+med_terms_c.tex — Congestive Heart Failure (CHF) Overview
+med_terms_c.tex — Connective Tissue Disease-Related Interstitial Lung Disease
+med_terms_c.tex — Conscious Sedation For Surgical Procedures
+med_terms_c.tex — Constipation In Infants And Children
+med_terms_c.tex — Contractions Braxton-Hicks (Braxton Hicks Contractions)
+med_terms_c.tex — Controlling Your High Blood Pressure
+med_terms_c.tex — Conversion Disorder (Functional Neurological Symptom Disorder)
+med_terms_c.tex — Coronary Artery Bypass Grafting (CABG)
+med_terms_c.tex — Correct Code For Diagnostic Dilation And Curettage
+med_terms_c.tex — Costochondritis (Costochondritis And Tietze Syndrome)
+med_terms_c.tex — Could A Stiff Neck Be A Sign Of Something Serious
+med_terms_c.tex — Cranial Mononeuropathy III - Diabetic Type
+med_terms_c.tex — Creating A Family Health History
+med_terms_c.tex — Crohn’s Disease Cause Dark Circles Around Eyes
+med_terms_c.tex — Crutches And Children - Sitting And Getting Up From A Chair
+med_terms_c.tex — Crutches And Children - Stairs
+med_terms_c.tex — Crutches And Children - Standing And Walking
+med_terms_c.tex — Ctenocephalides FelFlea Bite (Flea Bites In Humans)
+med_terms_c.tex — Cushing Syndrome Due To Adrenal Tumor
+med_terms_c.tex — Cuts Wounds (Cuts, Scrapes And Puncture Wounds)
+med_terms_c.tex — Cuts, Scrapes And Puncture Wounds
+med_terms_c.tex — Cystine And Triple Phosphate (Struvite) Crystals
+med_terms_c.tex — Cysts Pancreatic Inflammatory (Pancreatic Cysts)
+med_terms_c.tex — Cysts True Pancreas (Pancreatic Cysts)
+med_terms_c.tex — Cytology Exam Of Pleural Fluid
+med_terms_d.tex — DXA Scan (Dual-Energy X-Ray Absorptiometry)
+med_terms_d.tex — DeQuervains Tenosynovitis (De Quervain's Tenosynovitis)
+med_terms_d.tex — Death Sudden Cardiac (Sudden Cardiac Death)
+med_terms_d.tex — Deciding To Have Knee Or Hip Replacement
+med_terms_d.tex — Deciding To Quit Drinking Alcohol
+med_terms_d.tex — Deficiency Primary Immunodeficiency (Primary Immunodeficiency Disease PIDD)
+med_terms_d.tex — Defining Overweight And Obesity In Children
+med_terms_d.tex — Delayed Sleep-Wake Phase Sleep Disorder
+med_terms_d.tex — Dementia - Behavior And Sleep Problems
+med_terms_d.tex — Dementia Due To Metabolic Causes
+med_terms_d.tex — Demyelinating Disease Of The Central Nervous System
+med_terms_d.tex — Department Of Health And Human Services
+med_terms_d.tex — Depression - Stopping Your Medicines
+med_terms_d.tex — Dermatofibrosarcoma Protuberans Of The Breast
+med_terms_d.tex — Dermoid Cyst Of The Ovary
+med_terms_d.tex — Desmoplastic Small Round Cell Tumors
+med_terms_d.tex — Developmental Differences Of The Female Genital Tract
+med_terms_d.tex — Developmental Dysplasia Of The Hip
+med_terms_d.tex — Developmental Milestones Record - 12 Months
+med_terms_d.tex — Developmental Milestones Record - 18 Months
+med_terms_d.tex — Developmental Milestones Record - 2 Months
+med_terms_d.tex — Developmental Milestones Record - 2 Years
+med_terms_d.tex — Developmental Milestones Record - 3 Years
+med_terms_d.tex — Developmental Milestones Record - 4 Months
+med_terms_d.tex — Developmental Milestones Record - 4 Years
+med_terms_d.tex — Developmental Milestones Record - 5 Years
+med_terms_d.tex — Developmental Milestones Record - 6 Months
+med_terms_d.tex — Developmental Milestones Record - 9 Months
+med_terms_d.tex — DiGeorge Syndrome (22Q11.2 Deletion Syndrome)
+med_terms_d.tex — Diabetes - Preventing Heart Attack And Stroke
+med_terms_d.tex — Diabetes - Taking Care Of Your Feet
+med_terms_d.tex — Diabetes - When You Are Sick
+med_terms_d.tex — Diabetes During Pregnancy (Gestational Diabetes)
+med_terms_d.tex — Diabetes Type 1 (Type 1 Diabetes)
+med_terms_d.tex — Diabetes Type 2 (Type 2 Diabetes)
+med_terms_d.tex — Diabetes Type 2 - Meal Planning
+med_terms_d.tex — Diabetic Diet For Type 2 Diabetes
+med_terms_d.tex — Diabetic Home Care And Monitoring
+med_terms_d.tex — Diarrhea IBS (IBS-D Irrititable Bowel Syndrome With Diarrhea)
+med_terms_d.tex — Diarrhea, Constipation, Gas, And Bloating
+med_terms_d.tex — Diet Ulcerative Colitis (Ulcerative Colitis Diet)
+med_terms_d.tex — Difficile Clostridium (Clostridium Difficile Colitis)
+med_terms_d.tex — Diffuse Idiopathic Skeletal Hyperostosis (DISH)
+med_terms_d.tex — Diffusing Capacity Of The Lung
+med_terms_d.tex — Digital Anorectal Exam - DARE
+med_terms_d.tex — Dilatation And Curettage (D \& C)
+med_terms_d.tex — Dilute Russell Viper Venom Time
+med_terms_d.tex — Disk Replacement - Lumbar Spine
+med_terms_d.tex — Disorder Antisocial Personality (Antisocial Personality Disorder)
+med_terms_d.tex — Dizziness: Causes, Symptoms, And Treatment
+med_terms_d.tex — Dizziness: When To See A Doctor?
+med_terms_d.tex — Do You Have A Drinking Problem?
+med_terms_d.tex — Doppler Ultrasound Exam Of An Arm Or Leg
+med_terms_d.tex — Dos And Donts During First Trimester Of Pregnancy
+med_terms_d.tex — Drinking Water Safely During Cancer Treatment
+med_terms_d.tex — Drugs That May Cause Erection Problems
+med_terms_d.tex — Dry Mouth During Cancer Treatment
+med_terms_d.tex — Dryness Vaginal (Vaginal Dryness And Vaginal Atrophy)
+med_terms_d.tex — Ductal Carcinoma In Situ (DCIS)
+med_terms_d.tex — Duffy-Null Associated Neutrophil Count (DANC)
+med_terms_e.tex — E. Coli (E. Coli 0157:H7)
+med_terms_e.tex — Ear - Blocked At High Altitudes
+med_terms_e.tex — Ear Cleaning (By A Doctor)
+med_terms_e.tex — Ear Object In (Objects Or Insects In Ear)
+med_terms_e.tex — Earliest Signs Of Increased Intracranial Pressure
+med_terms_e.tex — Eating Extra Calories When Sick - Adults
+med_terms_e.tex — Ebola Hemorrhagic Fever (Ebola HF)
+med_terms_e.tex — Ebola Hemorrhagic Fever (Ebola Hemorrhagic Fever (Ebola HF))
+med_terms_e.tex — Eclampsia Pregnancy (Pregnancy: Preeclampsia And Eclampsia)
+med_terms_e.tex — Effusion Pleural (Pleural Effusion (Fluid In The Chest Or On Lung))
+med_terms_e.tex — Electron Beam Computerized Tomography (EBCT)
+med_terms_e.tex — Embryonal Tumor Of The Central Nervous System
+med_terms_e.tex — Emotional Dysregulation Disorder (Borderline Personality Disorder)
+med_terms_e.tex — Emphysematous Aortitis Due To Clostridium Septicum
+med_terms_e.tex — End-Stage COPD: Signs, Symptoms, And Prognosis
+med_terms_e.tex — Endometrioid Carcinoma Of The Vulva
+med_terms_e.tex — Enlarged Breasts In Men (Gynecomastia)
+med_terms_e.tex — Enterovirulent E. Coli (EEC) (EEC)
+med_terms_e.tex — Enthesitand Enthesopathy (Enthesitis And Enthesopathy)
+med_terms_e.tex — Epidural Injections For Back Pain
+med_terms_e.tex — Erectile Dysfunction (ED, Impotence) (ED)
+med_terms_e.tex — Estimated Date Of Confinement (EDC)
+med_terms_e.tex — Evoked Potentials (VEP, BAER, SSEP)
+med_terms_e.tex — Excess Facial Hair In Women
+med_terms_e.tex — Excessive Carrying Angle Of The Elbow
+med_terms_e.tex — Excessive Or Unwanted Hair In Women
+med_terms_e.tex — Exercise And Activity For Weight Loss
+med_terms_e.tex — Exercise, Lifestyle, And Your Bones
+med_terms_e.tex — Exercises To Help Prevent Falls
+med_terms_e.tex — Exercising And Asthma At School
+med_terms_e.tex — Exocrine Pancreatic Insufficiency (Exocrine Pancreatic Insufficiency EPI)
+med_terms_e.tex — Extranodal Marginal Zone Lymphoma Of Mucosa-Associated Lymphoid Tissue (MALT)
+med_terms_e.tex — Extranodal Natural Killer T-Cell Lymphoma
+med_terms_e.tex — Extrinsic Allergic Alveolitis (Hypersensitivity Pneumonitis)
+med_terms_e.tex — Eye - Foreign Object In
+med_terms_e.tex — Eye Care Eye Disorder (Eye Care)
+med_terms_e.tex — Eyeglasses, Sunglasses, And Magnifying Glasses (Eyeglasses, Sunglasses, And Magnifiers)
+med_terms_e.tex — Eyes, Flashing Lights In The
+med_terms_f.tex — Facial Hair, Excess In Women
+med_terms_f.tex — Facial Nerve Palsy Due To Birth Trauma
+med_terms_f.tex — Factor XII (Hageman Factor) Deficiency
+med_terms_f.tex — Fast Heart Rate - Tachycardia
+med_terms_f.tex — FeNO (Fractional Exhaled Nitric Oxide)
+med_terms_f.tex — Febrile (Warm) And Cold Agglutinins
+med_terms_f.tex — Feeding Patterns And Diet - Babies And Infants
+med_terms_f.tex — Feeding Patterns And Diet - Children 6 Months To 2 Years
+med_terms_f.tex — Feeding Tube Insertion - Gastrostomy
+med_terms_f.tex — Fetal Kick Counts (Fetal Movement Counting)
+med_terms_f.tex — Fetal-Maternal Erythrocyte Distribution Blood Test
+med_terms_f.tex — Fibrin Degradation Products Blood Test
+med_terms_f.tex — Fibrinolysis - Primary Or Secondary
+med_terms_f.tex — Fibroepithelial Polyp Of The Vulva
+med_terms_f.tex — Fine Needle Aspiration Of The Thyroid
+med_terms_f.tex — Floor Of The Mouth Cancer
+med_terms_f.tex — Fluorescence In Situ Hybridization (FISH)
+med_terms_f.tex — Flushable Reagent Stool Blood Test
+med_terms_f.tex — Folic Acid And Birth Defect Prevention
+med_terms_f.tex — Follicle-Stimulating Hormone (FSH) Blood Test
+med_terms_f.tex — Foot, Leg, And Ankle Swelling
+med_terms_f.tex — Foreign Body In The Nose
+med_terms_f.tex — Fractional Excretion Of Urea (FEUrea)
+med_terms_f.tex — Fracture Of The Temporal Bone
+med_terms_f.tex — Fractured Clavicle In The Newborn
+med_terms_f.tex — Functional Neurological Symptom Disorder (Conversion Disorder)
+med_terms_f.tex — Fusion Of The Ear Bones
+med_terms_g.tex — Gallbladder Pain (Gall Bladder Pain)
+med_terms_g.tex — Gamma-Glutamyl Transferase (GGT) Blood Test
+med_terms_g.tex — Gastric Tissue Biopsy And Culture
+med_terms_g.tex — Gastroesophageal Reflux Disease - Children
+med_terms_g.tex — Gastrostomy Feeding Tube - Bolus
+med_terms_g.tex — Gastrostomy Feeding Tube - Pump - Child
+med_terms_g.tex — Generalized Anxiety Disorder In Children
+med_terms_g.tex — Genetic Testing And Your Cancer Risk
+med_terms_g.tex — Genetic Variant Of Uncertain Significance
+med_terms_g.tex — Genetically Modified Organisms - GMOs
+med_terms_g.tex — Genital Herpes (Genital Herpes In Women Overview)
+med_terms_g.tex — Getting Support When Your Child Has Cancer
+med_terms_g.tex — Getting Your Home Ready - Knee Or Hip Surgery
+med_terms_g.tex — Getting Yourself Healthy Before Surgery
+med_terms_g.tex — Giant Cell Arterit (Giant Cell Arteritis (GCA Or Temporal Arteritis))
+med_terms_g.tex — Giant Cell Arteritis (GCA Or Temporal Arteritis)
+med_terms_g.tex — Giant Cell Tumor Of Bone
+med_terms_g.tex — Giant Cell Tumor Of Soft Tissue
+med_terms_g.tex — Giant Cell Tumor Of Tendon Sheath
+med_terms_g.tex — Giant Platelet Syndrome (Bernard-Soulier Disease)
+med_terms_g.tex — Gilles De La Tourette Syndrome
+med_terms_g.tex — Gingivitis Contagious (Is Gingivitis Contagious)
+med_terms_g.tex — Give Your Heart A Workout
+med_terms_g.tex — Giving An IM (Intramuscular) Injection
+med_terms_g.tex — Glands Swollen Lymph (Swollen Lymph Nodes)
+med_terms_g.tex — Glands Swollen Nodes (Swollen Lymph Nodes)
+med_terms_g.tex — Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 Receptor Agonists)
+med_terms_g.tex — Glucose Screening Tests During Pregnancy
+med_terms_g.tex — Glucose Tolerance Test - Non-Pregnant
+med_terms_g.tex — Glue Ear (Secretory Otitis Media)
+med_terms_g.tex — Gluten Sensitivity (Nonceliac Gluten Sensitivity (Intolerance))
+med_terms_g.tex — Graft Versus Host Disease (GVHD)
+med_terms_g.tex — Graft Versus Host Disease (GVHD) (GVHD)
+med_terms_g.tex — Gram Stain Of Skin Lesion
+med_terms_g.tex — Gram Stain Of Tissue Biopsy
+med_terms_g.tex — Granular Cell Tumor Of The Breast
+med_terms_g.tex — Grass And Weed Killer Poisoning
+med_terms_g.tex — Grief (Loss, Grief, And Bereavement)
+med_terms_g.tex — Group B Streptococcal Infection In Pregnancy
+med_terms_g.tex — Group B Streptococcal Septicemia Of The Newborn
+med_terms_g.tex — Group B Streptococcus - Pregnancy
+med_terms_g.tex — Growth Hormone Deficiency - Children
+med_terms_h.tex — HCG Blood Test - Qualitative
+med_terms_h.tex — HCG Blood Test - Quantitative
+med_terms_h.tex — HIV/AIDS In Pregnant Women And Infants
+med_terms_h.tex — Haemolytic Disease Of The Newborn
+med_terms_h.tex — Haemorrhagic Disease Of The Newborn (Vitamin K Deficiency Bleeding)
+med_terms_h.tex — Haemorrhagic Fever With Renal Syndrome
+med_terms_h.tex — Hand Foot And Mouth Disease
+med_terms_h.tex — Hand, Foot, And Mouth Disease
+med_terms_h.tex — Head And Neck Oncologic Surgery
+med_terms_h.tex — Head Injury - First Aid
+med_terms_h.tex — Health Risks Of Alcohol Use
+med_terms_h.tex — Heart Bypass Surgery - Minimally Invasive
+med_terms_h.tex — Heart Failure In Children - Home Care
+med_terms_h.tex — Heart Failure With Mildly Reduced Ejection Fraction
+med_terms_h.tex — Heart Failure With Preserved Ejection Fraction
+med_terms_h.tex — Heart Failure With Reduced Ejection Fraction
+med_terms_h.tex — Heart-Lung Machine (Cardiopulmonary Bypass Machine)
+med_terms_h.tex — Helping A Loved One With A Drinking Problem
+med_terms_h.tex — Helping Your Teen With Depression
+med_terms_h.tex — Hemodialysis Access - Self Care
+med_terms_h.tex — Hemolytic Anemia Caused By Chemicals And Toxins
+med_terms_h.tex — Hemolytic Disease Of The Newborn
+med_terms_h.tex — Hepatitis A, B, C, D, E
+med_terms_h.tex — Herbal Remedies And Supplements For Weight Loss
+med_terms_h.tex — Hereditary Hemorrhagic Telangiectasia (Osler-Weber-Rendu Disease)
+med_terms_h.tex — Herpes Simplex (Cold Sores / Genital Herpes)
+med_terms_h.tex — Herpes Viral Culture Of Lesion
+med_terms_h.tex — Heterotopic Breast Tissue Of The Vulva
+med_terms_h.tex — High Blood Pressure And Eye Disease
+med_terms_h.tex — High Blood Pressure In Adults - Hypertension
+med_terms_h.tex — High Blood Pressure In Children - Hypertension
+med_terms_h.tex — High Blood Pressure In Infants - Hypertension
+med_terms_h.tex — High Red Blood Cell Count
+med_terms_h.tex — High White Blood Cell Count
+med_terms_h.tex — High White Blood Cell Count In Pregnancy
+med_terms_h.tex — Highly Pathogenic Avian Influenza (HPAI)
+med_terms_h.tex — Histoplasmosis - Acute (Primary) Pulmonary
+med_terms_h.tex — Hodgkin's And Non-Hodgkin's Lymphoma Comparison
+med_terms_h.tex — Hormone Therapy For Breast Cancer
+med_terms_h.tex — Hormone Therapy For Prostate Cancer
+med_terms_h.tex — Hump On Upper Back (Dorsocervical Fat Pad)
+med_terms_i.tex — IBS-D Irrititable Bowel Syndrome With Diarrhea
+med_terms_i.tex — Idiopathic Facial Paralysis (Facial Nerve Problems)
+med_terms_i.tex — Idiopathic Thrombocytopenic Purpura (ITP) (ITP)
+med_terms_i.tex — IgG And Complement Deposition At The Dermis-Epidermis Junction
+med_terms_i.tex — Immune Thrombocytopenic Purpura (Idiopathic Thrombocytopenic Purpura (ITP))
+med_terms_i.tex — Immunizations For People With Diabetes
+med_terms_i.tex — Impotence (Erectile Dysfunction (ED, Impotence))
+med_terms_i.tex — Infant Of A Substance-Using Mother
+med_terms_i.tex — Infection Cyclospora (Cyclospora Infection (Cyclosporiasis))
+med_terms_i.tex — Infection Enterovirus (Enterovirus (Non-Polio Enterovirus Infection))
+med_terms_i.tex — Infection HPV (HPV Infection Human Papillomavirus)
+med_terms_i.tex — Infection Human Papillomavirus (HPV Infection Human Papillomavirus)
+med_terms_i.tex — Infection Non-Polio Enterovirus (Enterovirus (Non-Polio Enterovirus Infection))
+med_terms_i.tex — Inflammation Of The Heart Valve (Endocarditis)
+med_terms_i.tex — Inflammatory Bowel Disease: Intestinal Problems
+med_terms_i.tex — Inflammatory Bowel Disease: Intestinal Problems (IBD)
+med_terms_i.tex — Injury - Kidney And Ureter
+med_terms_i.tex — Injury Classification (Abrasion, Laceration, Contusion, Incised Wounds)
+med_terms_i.tex — Instrumental Activities Of Daily Living
+med_terms_i.tex — Insulin And Syringes - Storage And Safety
+med_terms_i.tex — Interstitial Lung Disease (Interstitial Pneumonia)
+med_terms_i.tex — Intestinal Gas (Belching, Bloating, Flatulence)
+med_terms_i.tex — Intestinal Gas (Intestinal Gas (Belching, Bloating, Flatulence))
+med_terms_i.tex — Intimate Partner Violence In Pregnancy
+med_terms_i.tex — Intolerance, Gluten (Nonceliac Gluten Sensitivity (Intolerance))
+med_terms_i.tex — Intraductal Papillary Mucinous Nneoplasm Pancreas (Pancreatic Cysts)
+med_terms_i.tex — Intrauterine Fetal Demise / Stillbirth
+med_terms_i.tex — Intraventricular Hemorrhage Of The Newborn
+med_terms_i.tex — Irritable Bowel Syndrome (IBS) (IBS)
+med_terms_i.tex — Ischemic Chest Pain (Angina Symptoms)
+med_terms_k.tex — Kidney Stones (Nephrolithiasis / Urolithiasis)
+med_terms_k.tex — Killer Cold Virus (Adenovirus Infection, Ad14)
+med_terms_k.tex — Klippel Trenaunay Weber Syndrome (Klippel-Trenaunay-Weber Syndrome)
+med_terms_k.tex — Knee Injury And Meniscus Tears
+med_terms_k.tex — Knife-Cut Ulcers From Crohn’s Disease
+med_terms_k.tex — Krebs Cycle (Citric Acid Cycle)
+med_terms_l.tex — LH Response To GnRH Blood Test
+med_terms_l.tex — Labor False (Braxton Hicks Contractions)
+med_terms_l.tex — Laceration - Sutures Or Staples - At Home
+med_terms_l.tex — Large For Gestational Age (LGA)
+med_terms_l.tex — Large Solitary Luteinized Follicle Cyst Of Pregnancy
+med_terms_l.tex — Laryngeal Warts (Recurrent Respiratory Papillomatosis)
+med_terms_l.tex — Laser Surgery For The Skin
+med_terms_l.tex — Laser-Assisted In Situ Keratomileusis (LASIK)
+med_terms_l.tex — Lateral Epicondylitis (Tennis Elbow (Lateral Epicondylitis))
+med_terms_l.tex — Latex Allergies - For Hospital Patients
+med_terms_l.tex — Learn To Manage Your Anger
+med_terms_l.tex — Left Anterior Descending Coronary Artery
+med_terms_l.tex — Left Hemiparesis, Gaze Deviated To The Right
+med_terms_l.tex — Leg Or Foot Amputation - Dressing Change
+med_terms_l.tex — Legionella Pneumonia (Legionnaire Disease And Pontiac Fever)
+med_terms_l.tex — Legionnaire Disease And Pontiac Fever
+med_terms_l.tex — Legionnaires Disease (Legionnaire Disease And Pontiac Fever)
+med_terms_l.tex — Legs Restless (Restless Leg Syndrome)
+med_terms_l.tex — Lesions On The Brain (Brain Lesions (Lesions On The Brain))
+med_terms_l.tex — Leukemic Infiltration Of The Gingiva
+med_terms_l.tex — Lichen Ruber Planus (Lichen Planus)
+med_terms_l.tex — Lifting And Bending The Right Way
+med_terms_l.tex — Lily Of The Valley Poisoning
+med_terms_l.tex — Lipodystrophy (Acquired Generalized And Inherited Lipodystrophy)
+med_terms_l.tex — Liver Cancer - Hepatocellular Carcinoma
+med_terms_l.tex — Liver Function (Liver (Anatomy And Function))
+med_terms_l.tex — Living With A Chronic Illness -  Dealing With Feelings
+med_terms_l.tex — Living With A Chronic Illness - Reaching Out To Others
+med_terms_l.tex — Living With Heart Disease And Angina
+med_terms_l.tex — Locked In Syndrome (Locked-In Syndrome)
+med_terms_l.tex — Long Arm Of A Chromosome
+med_terms_l.tex — Loss Of Brain Function - Liver Disease
+med_terms_l.tex — Loss Of Sense Of Smell And Taste With COVID-19
+med_terms_l.tex — Low Back Pain - Acute
+med_terms_l.tex — Low Back Pain - Chronic
+med_terms_l.tex — Low Blood Pressure (Hypotension) Causes
+med_terms_l.tex — Low Blood Sugar - Newborns
+med_terms_l.tex — Low Calcium Level  - Infants
+med_terms_l.tex — Low Sex Drive In Women
+med_terms_l.tex — Low White Blood Cell Count
+med_terms_l.tex — Low White Blood Cell Count And Cancer
+med_terms_l.tex — Low-Set Ears And Pinna Abnormalities
+med_terms_l.tex — Lower Segment Cesarian Section (LSCS)
+med_terms_l.tex — Lower-Calorie Choices For Alcoholic Drinks
+med_terms_l.tex — Lung Anatomy (Lungs Design And Purpose)
+med_terms_l.tex — Lung Cancer - Small Cell
+med_terms_l.tex — Lung Problems And Volcanic Smog
+med_terms_l.tex — Lungs Fluid (Pleural Effusion (Fluid In The Chest Or On Lung))
+med_terms_l.tex — Lupus Erythematosus (Systemic Lupus Erythematosus - SLE)
+med_terms_l.tex — Luteinizing Hormone (LH) Blood Test
+med_terms_l.tex — Lymph Swollen Glands (Swollen Lymph Nodes)
+med_terms_l.tex — Lymph Swollen Nodes (Swollen Lymph Nodes)
+med_terms_m.tex — MC Lymphoma (Mantle Cell Lymphoma (MCL))
+med_terms_m.tex — MCL Injury (Medial Collateral Ligament (MCL) Injury)
+med_terms_m.tex — MPS I Mucopolysaccharidosis Type I Hurler Syndrome
+med_terms_m.tex — MPS I Mucopolysaccharidosis Type I Hurler Syndrome (MPS I)
+med_terms_m.tex — MPS II MucopolysaccharidosII Hunter Syndrome (Hunter Syndrome Mucopolysaccharidosis II MPS)
+med_terms_m.tex — MRI And Low Back Pain
+med_terms_m.tex — MS Alternative And Complementary Therapies (Alternative Therapy For Multiple Sclerosis)
+med_terms_m.tex — MUGA Scan (Multigated Acquisition Scan)
+med_terms_m.tex — Major Depression With Psychotic Features
+med_terms_m.tex — Make Peak Flow A Habit
+med_terms_m.tex — Male Hypoactive Sexual Desire Disorder
+med_terms_m.tex — Malignant Giant Cell Tumor Of Tendon Sheath
+med_terms_m.tex — Malignant Peripheral Nerve Sheath Tumor
+med_terms_m.tex — Malignant Teratoma Of The Mediastinum
+med_terms_m.tex — Marburg Virus History, Symptoms, And Treatment
+med_terms_m.tex — Marine Animal Stings Or Bites
+med_terms_m.tex — Maternal Physiologic Changes In Pregnancy
+med_terms_m.tex — Maturity Onset Diabetes Of The Young
+med_terms_m.tex — Medial Collateral Ligament (MCL) Injury
+med_terms_m.tex — Medial Epicondylitis - Golfer's Elbow
+med_terms_m.tex — Median Arcuate Ligament Syndrome (MALS)
+med_terms_m.tex — Median Nerve Compression (Carpal Tunnel Syndrome)
+med_terms_m.tex — Medical Marijuana (Medical Marijuana (Medical Cannabis))
+med_terms_m.tex — Medications Type 2 Diabetes (Antidiabetics-Oral)
+med_terms_m.tex — Melanocytic Tumor Of The Central Nervous System
+med_terms_m.tex — Memory T Cells And B Cells
+med_terms_m.tex — Men Night Sweats (Night Sweats)
+med_terms_m.tex — Menopause Hot Flashes (Hot Flashes)
+med_terms_m.tex — Mesenchymal Tumor Of The Central Nervous System
+med_terms_m.tex — Metabolic Dysfunction-Associated Steatotic Liver Disease
+med_terms_m.tex — Middle East Respiratory Syndrome (MERS (Middle East Respiratory Syndrome))
+med_terms_m.tex — Middle East Respiratory Syndrome (MERS)
+med_terms_m.tex — Midline Venous Catheters - Infants
+med_terms_m.tex — Milan System For Reporting Salivary Gland Cytopathology
+med_terms_m.tex — Mini Stroke (Transient Ischemic Attack (TIA, Mini-Stroke))
+med_terms_m.tex — Mitochondrial DNA Depletion Syndrome MDS MDDS
+med_terms_m.tex — Mitral Valve Surgery - Minimally Invasive
+med_terms_m.tex — Mitral Valve Surgery - Open
+med_terms_m.tex — Modified Biophysical Profile (Modified BPP)
+med_terms_m.tex — Molecular Pathology Of Colorectal Cancer
+med_terms_m.tex — Monoclonal Gammopathy of Undetermined Significance
+med_terms_m.tex — Motion Sickness (Sea Sickness, Car Sickness)
+med_terms_m.tex — Motor Fluctuations Causes In Parkinson’s Disease
+med_terms_m.tex — Movement - Uncontrolled Or Slow
+med_terms_m.tex — Movement - Unpredictable Or Jerky
+med_terms_m.tex — Mucinous Cyst Adenomas Pancreas (Pancreatic Cysts)
+med_terms_m.tex — Mucinous Cyst Of The Vulva
+med_terms_m.tex — Mucocutaneous Lymph Node Syndrome (Kawasaki Disease)
+med_terms_m.tex — MucopolysaccharidosII Hunter Syndrome (Hunter Syndrome Mucopolysaccharidosis II MPS)
+med_terms_m.tex — Multiparametric MRI Of The Prostate
+med_terms_m.tex — Multiple Endocrine Neoplasia (MEN) I
+med_terms_m.tex — Multiple Endocrine Neoplasia (MEN) II
+med_terms_m.tex — Multiple Endocrine Neoplasia Type 1
+med_terms_m.tex — Multiple Endocrine Neoplasia Type 2
+med_terms_m.tex — Multiple Endocrine Neoplasia Type 2B
+med_terms_m.tex — Multiple Inherited Schwannomas, Meningiomas, And Ependymomas
+med_terms_m.tex — Multiple Myeloma: Deadly To Chronic
+med_terms_m.tex — Multiple Sclerosis MS And Pregnancy
+med_terms_m.tex — Multiple Sclerosis MS Early Signs And Types
+med_terms_m.tex — Multiple System Atrophy - Cerebellar Subtype
+med_terms_m.tex — Multiple System Atrophy - Parkinsonian Type
+med_terms_m.tex — Multisystem Inflammatory Syndrome In Children (MIS-C)
+med_terms_m.tex — Munchausen Syndrome By Proxy (MSBP)
+med_terms_m.tex — Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)
+med_terms_n.tex — NF2-Related Schwannomatosis (Neurofibromatosis Type 2)
+med_terms_n.tex — NICU Consultants And Support Staff
+med_terms_n.tex — Nausea And Vomiting During Early Pregnancy
+med_terms_n.tex — Nausea And Vomiting – Adults
+med_terms_n.tex — Neck Pain Or Spasms - Self Care
+med_terms_n.tex — Neonatal Cystic Fibrosis Screening Test
+med_terms_n.tex — Neonatal Jaundice (Jaundice Of The Newborn)
+med_terms_n.tex — Neonatal Weight Gain And Nutrition
+med_terms_n.tex — Nerve Pinched (Pinched Nerve Overview)
+med_terms_n.tex — Neurodegeneration With Brain Iron Accumulation (NBIA)
+med_terms_n.tex — Neuroendocrine Carcinoma Of The Skin
+med_terms_n.tex — Neuromyelitis Optica Spectrum Disorder (NMOSD)
+med_terms_n.tex — Neuropathic Pain (Pain Management: Neuropathic Pain)
+med_terms_n.tex — Neuropathy Autonomic Diabetic (Diabetic Neuropathy)
+med_terms_n.tex — Neuropathy Diabetic Peripheral (Diabetic Neuropathy)
+med_terms_n.tex — Neuropathy Focal Diabetic (Diabetic Neuropathy)
+med_terms_n.tex — Neuropathy Proximal Diabetic (Diabetic Neuropathy)
+med_terms_n.tex — Neuropathy, Hereditary Motor And Sensory
+med_terms_n.tex — Nevoid Basal Cell Carcinoma Syndrome
+med_terms_n.tex — Niacin (Nicotinic Acid, Vitamin B3)
+med_terms_n.tex — Noise Induced Hearing Loss And Its Prevention
+med_terms_n.tex — Nonceliac Gluten Intolerance (Nonceliac Gluten Sensitivity (Intolerance))
+med_terms_n.tex — Nonsteroidal Anti-Inflammatory Drugs And Ulcers
+med_terms_n.tex — Nonsteroidal Antiinflammatory Drugs (Nonsteroidal Anti-Inflammatory Drugs And Ulcers)
+med_terms_n.tex — Noonan Syndrome With Multiple Lentigines
+med_terms_o.tex — Objects Or Insects In Ear
+med_terms_o.tex — Obstructive Sleep Apnea - Adults
+med_terms_o.tex — Open Reduction And Internal Fixation
+med_terms_o.tex — Orgasm Male (Sexual (Sex) Problems In Men)
+med_terms_o.tex — Osteogenesis Imperfecta Brittle Bone Disease
+med_terms_o.tex — Overuse Syndrome (Repetitive Motion Disorders (RMDs))
+med_terms_p.tex — P Arm Of A Chromosome
+med_terms_p.tex — PET Scan (Positron Emission Tomography)
+med_terms_p.tex — PET Scan For Breast Cancer
+med_terms_p.tex — Paget Disease Of The Anus
+med_terms_p.tex — Paget Disease Of The Nipple
+med_terms_p.tex — Paget Disease Of The Vulva
+med_terms_p.tex — Pain Gallbladder (Gallbladder Pain (Gall Bladder Pain))
+med_terms_p.tex — Pain Lower Right Abdomen (Appendicitis)
+med_terms_p.tex — Pain Nerve (Neuropathic Pain (Nerve Pain))
+med_terms_p.tex — Pain Vaginal (Vaginal Pain (Vulvodynia))
+med_terms_p.tex — Paint, Lacquer, And Varnish Remover Poisoning
+med_terms_p.tex — Palsy Of The Long Thoracic Nerve
+med_terms_p.tex — Pancreas Inflammatory Cysts (Pancreatic Cysts)
+med_terms_p.tex — Pancreas Intraductal Papillary Mucinous Nneoplasm (Pancreatic Cysts)
+med_terms_p.tex — Pancreas Mucinous Cyst Adenomas (Pancreatic Cysts)
+med_terms_p.tex — Pancreas Non-Inflammatory Cysts (Pancreatic Cysts)
+med_terms_p.tex — Pancreas Serous Cyst Adenomas (Pancreatic Cysts)
+med_terms_p.tex — Pancreas Solid Pseudopapillary Tumor (Pancreatic Cysts)
+med_terms_p.tex — Panic Attacks And Panic Disorder
+med_terms_p.tex — Panniculitis Idiopathic Nodular (Weber-Christian Disease)
+med_terms_p.tex — Paraneoplastic Syndromes Of The Nervous System
+med_terms_p.tex — Parathyroid Hormone (PTH) Blood Test
+med_terms_p.tex — Parathyroid Hormone-Related Protein Blood Test
+med_terms_p.tex — Parenchymal Diffuse Lung Disease (Interstitial Lung Disease (Interstitial Pneumonia))
+med_terms_p.tex — Paris System For Reporting Urinary Cytology
+med_terms_p.tex — Paroxysmal Nocturnal Hemoglobinuria (Paroxysmal Nocturnal Hemoglobinuria PNH)
+med_terms_p.tex — Paroxysmal Supraventricular Tachycardia (PSVT) (PSVT)
+med_terms_p.tex — Partial Anomalous Pulmonary Venous Connection
+med_terms_p.tex — Partial Breast Radiation Therapy - External Beam
+med_terms_p.tex — Patchy Hair Loss (Alopecia Areata)
+med_terms_p.tex — Paternal Uniparental Disomy 14 (UDP 14 Pat) Thoracic Dysplasia
+med_terms_p.tex — Pelvic Floor Health And Disorders
+med_terms_p.tex — Pelvic Floor Muscle Training Exercises
+med_terms_p.tex — Pelvic Girdle Pain In Pregnancy
+med_terms_p.tex — Pelvic Pain During Early Pregnancy
+med_terms_p.tex — Pelvic Support Problems, Uterine Prolapse
+med_terms_p.tex — Penile Fibrosis (Peyronie's Disease (Curvature Of The Penis))
+med_terms_p.tex — Penis Disorder (Priapism (Penis Disorder))
+med_terms_p.tex — Penis Disorder Balantis (Balanitis (Penis Disorder))
+med_terms_p.tex — Percutaneously Inserted Central Catheter - Infants
+med_terms_p.tex — Periodic Fever, Aphthous Stomatitis, Pharyngitis, Adenitis Syndrome
+med_terms_p.tex — Peripheral Arterial Line - Infants
+med_terms_p.tex — Peripheral Artery Bypass - Leg
+med_terms_p.tex — Peripheral Artery Disease - Legs
+med_terms_p.tex — Peripheral Intravenous Line - Infants
+med_terms_p.tex — Peripheral Neuropathy Diabetic (Diabetic Neuropathy)
+med_terms_p.tex — Peripherally Inserted Central Catheter - Dressing Change
+med_terms_p.tex — Peripherally Inserted Central Catheter - Flushing
+med_terms_p.tex — Peripherally Inserted Central Catheter - Insertion
+med_terms_p.tex — Persistent Pulmonary Hypertension Of The Newborn
+med_terms_p.tex — Personality Disorder Antisocial (Antisocial Personality Disorder)
+med_terms_p.tex — Pes Planus (Flatfoot (Pes Planus))
+med_terms_p.tex — Pesticides On Fruits And Vegetables
+med_terms_p.tex — Pets And The Immunocompromised Person
+med_terms_p.tex — Peyronie's Disease (Curvature Of The Penis)
+med_terms_p.tex — Phimosis And Paraphimosis (Penis Disorders)
+med_terms_p.tex — Physiologic Jaundice Of The Newborn
+med_terms_p.tex — Pinky Broken Finger (Broken Finger)
+med_terms_p.tex — Piperonyl Butoxide With Pyrethrins Poisoning
+med_terms_p.tex — Pityriasis Rosea Gibert (Pityriasis Rosea)
+med_terms_p.tex — Plaque And Tartar On Teeth
+med_terms_p.tex — Platelet Count Low (Thrombocytopenia (Low Platelet Count))
+med_terms_p.tex — Platelet Disorder - Immune Thrombocytopenia (ITP)
+med_terms_p.tex — Pleomorphic Adenoma Of The Vulva
+med_terms_p.tex — Pleural Effusion (Fluid In The Chest Or On Lung)
+med_terms_p.tex — Pneumonia - Weakened Immune System
+med_terms_p.tex — Poison Control Center - Emergency Number
+med_terms_p.tex — Poison Ivy - Oak - Sumac
+med_terms_p.tex — Poison Ivy - Oak - Sumac Rash
+med_terms_p.tex — Poison Ivy, Oak, And Sumac
+med_terms_p.tex — Poisoning - Fish And Shellfish
+med_terms_p.tex — Polycythemia (High Red Blood Cell Count)
+med_terms_p.tex — Positioning Your Baby For Breastfeeding
+med_terms_p.tex — Positive Predictive Value In Surveillance
+med_terms_p.tex — Postsurgical Pain Treatment In Adults
+med_terms_p.tex — Potato Plant Poisoning - Green Tubers And Sprouts
+med_terms_p.tex — Pregnancy - Identifying Fertile Days
+med_terms_p.tex — Pregnancy High Blood Pressure (Pregnancy: Preeclampsia And Eclampsia)
+med_terms_p.tex — Pregnancy Planning (Preparing For Pregnancy)
+med_terms_p.tex — Pregnancy: Bleeding During The First Trimester
+med_terms_p.tex — Pregnancy: Pain Relief Options For Birth
+med_terms_p.tex — Pregnant (Pregnancy Planning (Preparing For Pregnancy))
+med_terms_p.tex — Premature Menopause (Medical Procedural Causes)
+med_terms_p.tex — Premenstrual Dysphoric Disorder (PMDD) (PMDD)
+med_terms_p.tex — Prenatal Care In Your First Trimester
+med_terms_p.tex — Prenatal Care In Your Second Trimester
+med_terms_p.tex — Prenatal Care In Your Third Trimester
+med_terms_p.tex — Preparing Children For Pregnancy And A New Baby
+med_terms_p.tex — Preparing For Surgery When You Have Diabetes
+med_terms_p.tex — Preschooler Test Or Procedure Preparation
+med_terms_p.tex — Preterm Premature Rupture Of Membranes
+med_terms_p.tex — Preventing Head Injuries In Children
+med_terms_p.tex — Preventing Hepatitis B Or C
+med_terms_p.tex — Primary Adrenal Insufficiency (Addison's Disease)
+med_terms_p.tex — Primary Biliary Cirrhosis (PBC) (PBC)
+med_terms_p.tex — Primary Biliary Cirrhosis Treatment (PBC)
+med_terms_p.tex — Primary Lymphoma Of The Brain
+med_terms_p.tex — Primary Sclerosing Cholangitis (PSC) (PSC)
+med_terms_p.tex — Prolapse Of The Uterus (Uterine Prolapse)
+med_terms_p.tex — Prostate Inflammation (Prostatitis (Inflammation Of The Prostate Gland))
+med_terms_p.tex — Prostate Resection - Minimally Invasive
+med_terms_p.tex — Prostate-Specific Antigen (PSA) Blood Test
+med_terms_p.tex — Prostatitis (Inflammation Of The Prostate Gland)
+med_terms_p.tex — Protecting Yourself From Cancer Scams
+med_terms_p.tex — Proximal Neuropathy Diabetic (Diabetic Neuropathy)
+med_terms_p.tex — Pseudothrombocytosis Due To Red Cell Fragments
+med_terms_p.tex — Psoriasis Of The Scalp (Scalp Psoriasis)
+med_terms_p.tex — Psychotic Disorder Brief (Brief Psychotic Disorder)
+med_terms_p.tex — Ptosis - Infants And Children
+med_terms_p.tex — Pulling A Patient Up In Bed
+med_terms_p.tex — Pulmonary FibrosIdiopathic (Idiopathic Pulmonary Fibrosis (IPF))
+med_terms_p.tex — Pulmonary Hypertension - At Home
+med_terms_q.tex — Q Arm Of A Chromosome
+med_terms_q.tex — Quad Screen (Maternal Serum Screening)
+med_terms_q.tex — Quit Smoking (Smoking And Quitting Smoking)
+med_terms_r.tex — RMDs (Repetitive Motion Disorders (RMDs))
+med_terms_r.tex — Radiation Therapy - Skin Care
+med_terms_r.tex — Radiofrequency Ablation For Chronic Pain
+med_terms_r.tex — Rapid Eye Movement Sleep Behavior Disorder
+med_terms_r.tex — Rash - Child Under 2 Years
+med_terms_r.tex — Reactive Attachment Disorder Of Infancy Or Early Childhood
+med_terms_r.tex — Recession Of Medial Rectus Muscle
+med_terms_r.tex — Rectal Bleeding (Blood In The Stool (Rectal Bleeding))
+med_terms_r.tex — Remitting Seronegative Symmetrical Synovitis With Pitting Edema
+med_terms_r.tex — Renal Pelvis Or Ureter Cancer
+med_terms_r.tex — Repair Of Webbed Fingers Or Toes
+med_terms_r.tex — Repetitive Motion Disorders (RMDs) (RSI)
+med_terms_r.tex — Replantation Of An Avulsed Tooth
+med_terms_r.tex — Respiratory Viruses And Face Masks
+med_terms_r.tex — Reye Johnson Syndrome (Reye Syndrome)
+med_terms_r.tex — Rheumatoid Arthritis Cause Gastrointestinal Issues
+med_terms_r.tex — Rheumatoid Arthritis Inflammation Of The Brain
+med_terms_r.tex — Right Sixth Cranial Nerve Palsy
+med_terms_r.tex — Ringing In The Ears (Tinnitus (Ringing In The Ears))
+med_terms_r.tex — Risks Of Hip And Knee Replacement
+med_terms_s.tex — SPECT Scan (Single Photon Emission CT)
+med_terms_s.tex — Sacroiliac Joint Dysfunction (SI Joint Pain)
+med_terms_s.tex — Sacroiliac Joint Dysfunction (Sacroiliac Joint Pain)
+med_terms_s.tex — Safe Eating During Cancer Treatment
+med_terms_s.tex — School Age Test Or Procedure Preparation
+med_terms_s.tex — Sciatica: Causes, Treatment, And Symptoms
+med_terms_s.tex — Screening And Diagnosis For HIV
+med_terms_s.tex — Seasonal Affective Disorder (SAD) (SAD)
+med_terms_s.tex — Seizure Fever Induced (Febrile Seizures)
+med_terms_s.tex — Self-Diagnosing Body Dysmorphic Disorder (BDD)
+med_terms_s.tex — Semen Blood (Blood In Semen)
+med_terms_s.tex — Sensitivity, Gluten (Nonceliac Gluten Sensitivity (Intolerance))
+med_terms_s.tex — Sentinel Lymph Node Biopsy For Melanoma
+med_terms_s.tex — Serious Diseases And Health Problems (Symptoms Of Serious Diseases And Health Problems)
+med_terms_s.tex — Serous Cyst Adenomas Pancreas (Pancreatic Cysts)
+med_terms_s.tex — Serous Tubal Intraepithelial Carcinoma (STIC)
+med_terms_s.tex — Serum Glutamic Oxaloacetic Transaminase (SGOT)
+med_terms_s.tex — Serum Glutamic Pyruvic Transaminase (SGPT)
+med_terms_s.tex — Severe Acute Respiratory Syndrome (SARS)
+med_terms_s.tex — Severe Acute Respiratory Syndrome (Severe Acute Respiratory Syndrome (SARS))
+med_terms_s.tex — Sexual (Sex) Problems In Men
+med_terms_s.tex — Sexually Transmitted Disease (STD) Treatments
+med_terms_s.tex — Sexually Transmitted Diseases (STDs In Women)
+med_terms_s.tex — Sexually Transmitted Diseases (STDs In Women) (STD)
+med_terms_s.tex — Sexually Transmitted Diseases And Pregnancy (STDs)
+med_terms_s.tex — Shaken Baby Syndrome (Abusive Head Trauma)
+med_terms_s.tex — Sharp Pains In Your Stomach During Pregnancy
+med_terms_s.tex — Sheehan Syndrome (Postpartum Pituitary Necrosis)
+med_terms_s.tex — Short Arm Of A Chromosome
+med_terms_s.tex — Sickle Cell Anemia (Sickle Cell)
+med_terms_s.tex — Sickness Motion (Motion Sickness (Sea Sickness, Car Sickness))
+med_terms_s.tex — Signs Of An Asthma Attack
+med_terms_s.tex — Silk Road Disease (Behcet's Syndrome)
+med_terms_s.tex — Single Photon Emission Computed Tomography
+med_terms_s.tex — Sinusoidal Fetal Heart Rate Pattern
+med_terms_s.tex — Skilled Nursing Or Rehabilitation Facilities
+med_terms_s.tex — Skin Allergies And Contact Dermatitis
+med_terms_s.tex — Skin Anatomy Picture Definition Function
+med_terms_s.tex — Skin And Hair Changes During Pregnancy
+med_terms_s.tex — Skin Sagging Treatment - Underarms
+med_terms_s.tex — Sleep And Sleep Disorders In Children And Teens
+med_terms_s.tex — Sleep Apnea (Obstructive Sleep Apnea - OSA)
+med_terms_s.tex — Sleep Disorder Periodic Limb Movement (Periodic Limb Movement Disorder)
+med_terms_s.tex — Sleep Disorders In Older Adults
+med_terms_s.tex — Slow Heart Rate - Bradycardia
+med_terms_s.tex — Small Cell Carcinoma Of The Ovary, Hypercalcemic Type
+med_terms_s.tex — Small For Gestational Age (SGA)
+med_terms_s.tex — Small Intestinal Bacterial Overgrowth (SIBO)
+med_terms_s.tex — Small Intestinal Bacterial Overgrowth (Small Intestinal Bacterial Overgrowth (SIBO))
+med_terms_s.tex — Small Intestinal Ischemia And Infarction
+med_terms_s.tex — Small Intestine Aspirate And Culture
+med_terms_s.tex — Small Round Blue Cell Tumor
+med_terms_s.tex — Smear Of Duodenal Fluid Aspirate
+med_terms_s.tex — Smokers Lung (Smoker's Lung: Pathology Photo Essay)
+med_terms_s.tex — Snacking When You Have Diabetes
+med_terms_s.tex — Snacks And Sweetened Drinks - Children
+med_terms_s.tex — Social And Psychological Causes Of Alcoholism
+med_terms_s.tex — Social Anxiety Disorder (Social Phobia)
+med_terms_s.tex — Sodium Low Levels In The Blood (Hyponatremia)
+med_terms_s.tex — Spastic Colon (Irritable Bowel Syndrome (IBS))
+med_terms_s.tex — Spider Bites (Black Widow And Brown Recluse)
+med_terms_s.tex — Spinal Anesthesia For Cesarean Delivery
+med_terms_s.tex — Spinal Cord Injury: Treatments And Rehabilitation
+med_terms_s.tex — Spine And Spinal Cord, Diseases And Injuries Of
+med_terms_s.tex — Spontaneous Coronary Artery Dissection (SCAD)
+med_terms_s.tex — Spots In Front Of The Eyes
+med_terms_s.tex — Sputum Direct Fluorescent Antibody (DFA) Test
+med_terms_s.tex — Squamous Cell Carcinoma Of The Skin
+med_terms_s.tex — Squamous Intraepithelial Lesion Cervical (Cervical Dysplasia)
+med_terms_s.tex — Staph Infections In The Hospital
+med_terms_s.tex — Stay Active And Exercise When You Have Arthritis
+med_terms_s.tex — Stay Away From Asthma Triggers
+med_terms_s.tex — Stenosis Of The Left Anterior Descending Artery
+med_terms_s.tex — Steps To Take Before You Get Pregnant
+med_terms_s.tex — Stereotactic Radiosurgery - Gamma Knife
+med_terms_s.tex — Stomach Fat (Belly Fat, Abdominal Fat)
+med_terms_s.tex — Stool Ova And Parasites Exam
+med_terms_s.tex — Stools - Pale Or Clay-Colored
+med_terms_s.tex — Strategies For Getting Through Labor
+med_terms_s.tex — Streptococcal Pharyngitis (Strep Throat (GAS))
+med_terms_s.tex — String Test For Intestinal Parasites
+med_terms_s.tex — Stripping Of Membranes (Membrane Sweep)
+med_terms_s.tex — Stuffy Or Runny Nose - Children
+med_terms_s.tex — Stuffy Or Runny Nose – Adult
+med_terms_s.tex — Subacute Combined Degeneration Of The Cord
+med_terms_s.tex — Subconjunctival Hemorrhage (Broken Blood Vessel In Eye)
+med_terms_s.tex — Substance Use - Phencyclidine (PCP)
+med_terms_s.tex — Substance Use - Prescription Drugs
+med_terms_s.tex — Sudden Infant Death Syndrome (SIDS)
+med_terms_s.tex — Sudden Unexpected Death In Infancy
+med_terms_s.tex — Sun-Sensitive Drugs (Photosensitivity To Drugs)
+med_terms_s.tex — Sun-Sensitive Drugs (Sun-Sensitive Drugs (Photosensitivity To Drugs))
+med_terms_s.tex — Superior Vena Cava Syndrome (SVCS)
+med_terms_s.tex — Supraventricular Tachycardia Paroxysmal (Paroxysmal Supraventricular Tachycardia (PSVT))
+med_terms_s.tex — Surgical Wound Care - Closed
+med_terms_s.tex — Surgical Wound Care - Open
+med_terms_s.tex — Surgical Wound Infection - Treatment
+med_terms_s.tex — Swan-Ganz - Right Heart Catheterization
+med_terms_s.tex — Swollen Ankles And Swollen Feet
+med_terms_s.tex — Syndrome Cauda Equina (Cauda Equina Syndrome)
+med_terms_s.tex — Syndrome Cyclic Vomiting (Cyclic Vomiting Syndrome (CVS))
+med_terms_s.tex — Syndrome Of Inappropriate ADH Secretion
+med_terms_s.tex — Syndrome Of Inappropriate Antidiuretic Hormone
+med_terms_s.tex — Syndrome Of Inappropriate Antidiuretic Hormone Secretion
+med_terms_s.tex — Syndrome Of Inappropriate Antidiuretic Hormone Secretion (SIADH)
+med_terms_s.tex — Syndrome Restless Legs (Restless Leg Syndrome)
+med_terms_s.tex — Synovial Reaction To Implanted Prostheses
+med_terms_s.tex — Syphilis In Women Overview (STD)
+med_terms_t.tex — Tachycardia Paroxysmal Atrial (Paroxysmal Supraventricular Tachycardia (PSVT))
+med_terms_t.tex — Tachycardia Paroxysmal Supraventricular (Paroxysmal Supraventricular Tachycardia (PSVT))
+med_terms_t.tex — Tapeworm Infection - Beef Or Pork
+med_terms_t.tex — Temporomandibular Joint Syndrome (TMJ) (TMJ)
+med_terms_t.tex — Tendinitis Rotator Cuff (Rotator Cuff)
+med_terms_t.tex — Terms Medical Abbreviations (Common Medical Abbreviations And Terms)
+med_terms_t.tex — Testosterone Low (Low Testosterone (Low T))
+med_terms_t.tex — Tests And Visits Before Surgery
+med_terms_t.tex — Thrombosis Of The Inferior Vena Cava
+med_terms_t.tex — Thrush - Children And Adults
+med_terms_t.tex — Thrush And Other Yeast Infections In Children
+med_terms_t.tex — Thyroid Cancer - Medullary Carcinoma
+med_terms_t.tex — Thyroid Cancer - Papillary Carcinoma
+med_terms_t.tex — Tietze Syndrome (Costochondritis And Tietze Syndrome)
+med_terms_t.tex — Tinnitus (Ringing In The Ears)
+med_terms_t.tex — Tissue Plasminogen Activator (TPA, TPA)
+med_terms_t.tex — Toddler Test Or Procedure Preparation
+med_terms_t.tex — Toilet Bowl Cleaners And Deodorizers Poisoning
+med_terms_t.tex — Tonsil Inflammation (Adenoids And Tonsils)
+med_terms_t.tex — Tooth Decay - Early Childhood
+med_terms_t.tex — Tooth Formation - Delayed Or Absent
+med_terms_t.tex — Total Anomalous Pulmonary Venous Connection
+med_terms_t.tex — Total Anomalous Pulmonary Venous Return
+med_terms_t.tex — Total Hip Joint Replacement - Revision
+med_terms_t.tex — Total Knee Joint Replacement - Revision
+med_terms_t.tex — Total Parenteral Nutrition - Infants
+med_terms_t.tex — Total Proctocolectomy And Ileal-Anal Pouch
+med_terms_t.tex — Toxic Shock Syndrome (TSS) (TSS)
+med_terms_t.tex — Tracheal Agenesis With Bronchoesophageal Fistula
+med_terms_t.tex — Tracheoesophageal Fistula And Esophageal Atresia Repair
+med_terms_t.tex — Transaminase, Serum Glutamic Pyruvic (SGPT)
+med_terms_t.tex — Transcervical Foley Catheter For Cervical Ripening
+med_terms_t.tex — Transcervical Resection Of Endometrium (TCRE)
+med_terms_t.tex — Transcutaneous Electrical Nerve Stimulation (TENS)
+med_terms_t.tex — Transient Ischaemic Attacks Or Episodes (TIA, TIE)
+med_terms_t.tex — Transient Ischemic Attack (TIA, Mini-Stroke)
+med_terms_t.tex — Transient Ischemic Attack (TIA, Mini-Stroke) (TIA)
+med_terms_t.tex — Transient Tachypnea Of The Newborn
+med_terms_t.tex — Transjugular Intrahepatic Portosystemic Shunt (TIPS)
+med_terms_t.tex — Transposition Of The Great Arteries
+med_terms_t.tex — Transurethral Incision Of The Prostate
+med_terms_t.tex — Transurethral Resection Of The Prostate
+med_terms_t.tex — Traumatic Injury Of The Bladder And Urethra
+med_terms_t.tex — Traumatic Spondylolisthesis Of The Axis (Hangman’s Fracture)
+med_terms_t.tex — Trial Of Labor After Cesarean
+med_terms_t.tex — Trisomy 21 (Down Syndrome Overview)
+med_terms_t.tex — Trousseau Sign Of Latent Tetany
+med_terms_t.tex — Trypsin And Chymotrypsin In Stool
+med_terms_t.tex — Tubal Occlusion Procedure, Selective (STOP)
+med_terms_t.tex — Tubes Ear Problems (Eustachian Tube Problems)
+med_terms_t.tex — Tumor Brain Cancer (Brain Cancer)
+med_terms_t.tex — Tumor Necrosis Factor Receptor-Associated Periodic Syndrome
+med_terms_t.tex — Turning Patients Over In Bed
+med_terms_t.tex — Type 1 Diabetes In Children
+med_terms_t.tex — Type 2 Diabetes - Oral Medicines
+med_terms_t.tex — Type 2 Diabetes In Children
+med_terms_t.tex — Type V Glycogen Storage Disease
+med_terms_t.tex — Types Of Health Care Providers
+med_terms_u.tex — Undifferentiated Pleomorphic Sarcoma Of The Breast
+med_terms_u.tex — Upper GI And Small Bowel Series
+med_terms_u.tex — Urethra, Diseases Of And Injury To
+med_terms_u.tex — Urinary Tract Infection In Pregnancy
+med_terms_u.tex — Urine Culture - Catheterized Specimen
+med_terms_v.tex — Vaginal Bleeding During Early Pregnancy
+med_terms_v.tex — Vaginal Bleeding During Late Pregnancy
+med_terms_v.tex — Vaginal Bleeding In Early Pregnancy
+med_terms_v.tex — Vaginal Bleeding In Late Pregnancy
+med_terms_v.tex — Vaginal Dryness And Atrophy (Genitourinary Syndrome Of Menopause)
+med_terms_v.tex — Vagus Nerve (Cranial Nerve X)
+med_terms_v.tex — Venereal Disease Research Laboratory Test
+med_terms_v.tex — Vitamin B12 Deficiency In Older Adults
+med_terms_v.tex — Vitamin K Deficiency Bleeding Of The Newborn
+med_terms_w.tex — Webbing Of The Fingers Or Toes
+med_terms_w.tex — Wegeners Granulomatosis (Granulomatosis With Polyangiitis)
+med_terms_w.tex — Wenckebach Phenomenon (Mobitz Type I AV Block)
+med_terms_w.tex — White Leg (Phlegmasia Alba Dolens)
+med_terms_w.tex — White Matter Of The Brain
+med_terms_w.tex — Wolff Parkinson White Syndrome (Wolff-Parkinson-White Syndrome)
+med_terms_w.tex — Word Deafness (Auditory Verbal Agnosia)
+med_terms_y.tex — Yeast Infection In Women And Men
