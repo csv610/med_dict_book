@@ -1,0 +1,1757 @@
+[
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 1546,
+    "term": "Adipocyte",
+    "raw_term": "Adipocyte",
+    "raw_line": "\\medterm{Adipocyte} A cell specialized to store and release fat.",
+    "full_desc": "A cell specialized to store and release fat.",
+    "clean_desc": "A cell specialized to store and release fat."
+  },
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 1551,
+    "term": "Adipogenesis",
+    "raw_term": "Adipogenesis",
+    "raw_line": "\\medterm{Adipogenesis} The formation and maturation of fat cells.",
+    "full_desc": "The formation and maturation of fat cells.",
+    "clean_desc": "The formation and maturation of fat cells."
+  },
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 3071,
+    "term": "Anagen",
+    "raw_term": "Anagen",
+    "raw_line": "\\medterm{Anagen} The active growth phase of the hair cycle.",
+    "full_desc": "The active growth phase of the hair cycle.",
+    "clean_desc": "The active growth phase of the hair cycle."
+  },
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 3088,
+    "term": "Anal Carcinoma",
+    "raw_term": "Anal Carcinoma",
+    "raw_line": "\\medterm{Anal Carcinoma} Cancer arising in the anus or anal canal.",
+    "full_desc": "Cancer arising in the anus or anal canal.",
+    "clean_desc": "Cancer arising in the anus or anal canal."
+  },
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 4979,
+    "term": "Arthropathy",
+    "raw_term": "Arthropathy",
+    "raw_line": "\\medterm{Arthropathy} Any disease or disorder affecting a joint.",
+    "full_desc": "Any disease or disorder affecting a joint.",
+    "clean_desc": "Any disease or disorder affecting a joint."
+  },
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 6023,
+    "term": "Autosome",
+    "raw_term": "Autosome",
+    "raw_line": "\\medterm{Autosome} Any chromosome other than a sex chromosome.",
+    "full_desc": "Any chromosome other than a sex chromosome.",
+    "clean_desc": "Any chromosome other than a sex chromosome."
+  },
+  {
+    "file": "chapters/med_terms_a.tex",
+    "line": 6135,
+    "term": "Axolemma",
+    "raw_term": "Axolemma",
+    "raw_line": "\\medterm{Axolemma} The cell membrane surrounding an axon.",
+    "full_desc": "The cell membrane surrounding an axon.",
+    "clean_desc": "The cell membrane surrounding an axon."
+  },
+  {
+    "file": "chapters/med_terms_c.tex",
+    "line": 5519,
+    "term": "Common Migraine",
+    "raw_term": "Common Migraine",
+    "raw_line": "\\medterm{Common Migraine} A migraine without a preceding aura.",
+    "full_desc": "A migraine without a preceding aura.",
+    "clean_desc": "A migraine without a preceding aura."
+  },
+  {
+    "file": "chapters/med_terms_c.tex",
+    "line": 6275,
+    "term": "Contraception",
+    "raw_term": "Contraception",
+    "raw_line": "\\medterm{Contraception} Methods to prevent pregnancy.",
+    "full_desc": "Methods to prevent pregnancy.",
+    "clean_desc": "Methods to prevent pregnancy."
+  },
+  {
+    "file": "chapters/med_terms_c.tex",
+    "line": 6326,
+    "term": "Contralateral",
+    "raw_term": "Contralateral",
+    "raw_line": "\\medterm{Contralateral} Located on the opposite side of the body.",
+    "full_desc": "Located on the opposite side of the body.",
+    "clean_desc": "Located on the opposite side of the body."
+  },
+  {
+    "file": "chapters/med_terms_c.tex",
+    "line": 7629,
+    "term": "Curette",
+    "raw_term": "Curette",
+    "raw_line": "\\medterm{Curette} Spoon-shaped instrument for scraping tissue.",
+    "full_desc": "Spoon-shaped instrument for scraping tissue.",
+    "clean_desc": "Spoon-shaped instrument for scraping tissue."
+  },
+  {
+    "file": "chapters/med_terms_d.tex",
+    "line": 1820,
+    "term": "Diaphoretic",
+    "raw_term": "Diaphoretic",
+    "raw_line": "\\medterm{Diaphoretic} Causing or relating to sweating.",
+    "full_desc": "Causing or relating to sweating.",
+    "clean_desc": "Causing or relating to sweating."
+  },
+  {
+    "file": "chapters/med_terms_d.tex",
+    "line": 3857,
+    "term": "Dyspareunia",
+    "raw_term": "Dyspareunia",
+    "raw_line": "\\medterm{Dyspareunia} Painful sexual intercourse.",
+    "full_desc": "Painful sexual intercourse.",
+    "clean_desc": "Painful sexual intercourse."
+  },
+  {
+    "file": "chapters/med_terms_e.tex",
+    "line": 1001,
+    "term": "Emetic",
+    "raw_term": "Emetic",
+    "raw_line": "\\medterm{Emetic} A substance that induces vomiting.",
+    "full_desc": "A substance that induces vomiting.",
+    "clean_desc": "A substance that induces vomiting."
+  },
+  {
+    "file": "chapters/med_terms_e.tex",
+    "line": 1149,
+    "term": "Encephalomyelitis",
+    "raw_term": "Encephalomyelitis",
+    "raw_line": "\\medterm{Encephalomyelitis} Inflammation of the brain and spinal cord.",
+    "full_desc": "Inflammation of the brain and spinal cord.",
+    "clean_desc": "Inflammation of the brain and spinal cord."
+  },
+  {
+    "file": "chapters/med_terms_e.tex",
+    "line": 1409,
+    "term": "Endometrium",
+    "raw_term": "Endometrium",
+    "raw_line": "\\medterm{Endometrium} The lining of the uterus.",
+    "full_desc": "The lining of the uterus.",
+    "clean_desc": "The lining of the uterus."
+  },
+  {
+    "file": "chapters/med_terms_e.tex",
+    "line": 1743,
+    "term": "Enteropathic",
+    "raw_term": "Enteropathic",
+    "raw_line": "\\medterm{Enteropathic} Relating to disease of the intestine.",
+    "full_desc": "Relating to disease of the intestine.",
+    "clean_desc": "Relating to disease of the intestine."
+  },
+  {
+    "file": "chapters/med_terms_e.tex",
+    "line": 3055,
+    "term": "Euthyroid",
+    "raw_term": "Euthyroid",
+    "raw_line": "\\medterm{Euthyroid} Having normal thyroid function.",
+    "full_desc": "Having normal thyroid function.",
+    "clean_desc": "Having normal thyroid function."
+  },
+  {
+    "file": "chapters/med_terms_f.tex",
+    "line": 472,
+    "term": "Fatty Liver",
+    "raw_term": "Fatty Liver",
+    "raw_line": "\\medterm{Fatty Liver} Excess accumulation of fat in liver cells.",
+    "full_desc": "Excess accumulation of fat in liver cells.",
+    "clean_desc": "Excess accumulation of fat in liver cells."
+  },
+  {
+    "file": "chapters/med_terms_f.tex",
+    "line": 528,
+    "term": "Febrile",
+    "raw_term": "Febrile",
+    "raw_line": "\\medterm{Febrile} Feverish; having a high body temperature.",
+    "full_desc": "Feverish; having a high body temperature.",
+    "clean_desc": "Feverish; having a high body temperature."
+  },
+  {
+    "file": "chapters/med_terms_g.tex",
+    "line": 411,
+    "term": "Gastralgia",
+    "raw_term": "Gastralgia",
+    "raw_line": "\\medterm{Gastralgia} Pain in the stomach or epigastric region.",
+    "full_desc": "Pain in the stomach or epigastric region.",
+    "clean_desc": "Pain in the stomach or epigastric region."
+  },
+  {
+    "file": "chapters/med_terms_g.tex",
+    "line": 501,
+    "term": "Gastric Malignancy",
+    "raw_term": "Gastric Malignancy",
+    "raw_line": "\\medterm{Gastric Malignancy} A cancerous tumor arising in the stomach.",
+    "full_desc": "A cancerous tumor arising in the stomach.",
+    "clean_desc": "A cancerous tumor arising in the stomach."
+  },
+  {
+    "file": "chapters/med_terms_g.tex",
+    "line": 648,
+    "term": "Gastrointestinal",
+    "raw_term": "Gastrointestinal",
+    "raw_line": "\\medterm{Gastrointestinal} Relating to the digestive system.",
+    "full_desc": "Relating to the digestive system.",
+    "clean_desc": "Relating to the digestive system."
+  },
+  {
+    "file": "chapters/med_terms_g.tex",
+    "line": 1760,
+    "term": "Glossal",
+    "raw_term": "Glossal",
+    "raw_line": "\\medterm{Glossal} Relating to the tongue.",
+    "full_desc": "Relating to the tongue.",
+    "clean_desc": "Relating to the tongue."
+  },
+  {
+    "file": "chapters/med_terms_g.tex",
+    "line": 2992,
+    "term": "Gustation",
+    "raw_term": "Gustation",
+    "raw_line": "\\medterm{Gustation} The sense of taste.",
+    "full_desc": "The sense of taste.",
+    "clean_desc": "The sense of taste."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 269,
+    "term": "Hallux",
+    "raw_term": "Hallux",
+    "raw_line": "\\medterm{Hallux} The great toe.",
+    "full_desc": "The great toe.",
+    "clean_desc": "The great toe."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 1199,
+    "term": "Hemarthrosis",
+    "raw_term": "Hemarthrosis",
+    "raw_line": "\\medterm{Hemarthrosis} Bleeding into a joint space.",
+    "full_desc": "Bleeding into a joint space.",
+    "clean_desc": "Bleeding into a joint space."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 1248,
+    "term": "Hematomyelia",
+    "raw_term": "Hematomyelia",
+    "raw_line": "\\medterm{Hematomyelia} Bleeding into the spinal cord.",
+    "full_desc": "Bleeding into the spinal cord.",
+    "clean_desc": "Bleeding into the spinal cord."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 1529,
+    "term": "Hemorrhagic Anemia",
+    "raw_term": "Hemorrhagic Anemia",
+    "raw_line": "\\medterm{Hemorrhagic Anemia} Anemia caused by loss of blood.",
+    "full_desc": "Anemia caused by loss of blood.",
+    "clean_desc": "Anemia caused by loss of blood."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 1543,
+    "term": "Hemorrhoid",
+    "raw_term": "Hemorrhoid",
+    "raw_line": "\\medterm{Hemorrhoid} A swollen vein in the lower rectum or anus.",
+    "full_desc": "A swollen vein in the lower rectum or anus.",
+    "clean_desc": "A swollen vein in the lower rectum or anus."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 1981,
+    "term": "Herniorrhaphy",
+    "raw_term": "Herniorrhaphy",
+    "raw_line": "\\medterm{Herniorrhaphy} Surgical repair of a hernia.",
+    "full_desc": "Surgical repair of a hernia.",
+    "clean_desc": "Surgical repair of a hernia."
+  },
+  {
+    "file": "chapters/med_terms_h.tex",
+    "line": 3594,
+    "term": "Hyperphagia",
+    "raw_term": "Hyperphagia",
+    "raw_line": "\\medterm{Hyperphagia} Excessive hunger or food intake.",
+    "full_desc": "Excessive hunger or food intake.",
+    "clean_desc": "Excessive hunger or food intake."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 712,
+    "term": "Impotence",
+    "raw_term": "Impotence",
+    "raw_line": "\\medterm{Impotence} An older term for erectile dysfunction.",
+    "full_desc": "An older term for erectile dysfunction.",
+    "clean_desc": "An older term for erectile dysfunction."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 735,
+    "term": "In Situ",
+    "raw_term": "In Situ",
+    "raw_line": "\\medterm{In Situ} In its original place or position.",
+    "full_desc": "In its original place or position.",
+    "clean_desc": "In its original place or position."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 1196,
+    "term": "Inferior",
+    "raw_term": "Inferior",
+    "raw_line": "\\medterm{Inferior} Positioned lower or closer to the feet.",
+    "full_desc": "Positioned lower or closer to the feet.",
+    "clean_desc": "Positioned lower or closer to the feet."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 1617,
+    "term": "Inspiration",
+    "raw_term": "Inspiration",
+    "raw_line": "\\medterm{Inspiration} The act of breathing air into the lungs.",
+    "full_desc": "The act of breathing air into the lungs.",
+    "clean_desc": "The act of breathing air into the lungs."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 2277,
+    "term": "Intracellular",
+    "raw_term": "Intracellular",
+    "raw_line": "\\medterm{Intracellular} Located or occurring within a cell.",
+    "full_desc": "Located or occurring within a cell.",
+    "clean_desc": "Located or occurring within a cell."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 2305,
+    "term": "Intracranial",
+    "raw_term": "Intracranial",
+    "raw_line": "\\medterm{Intracranial} Located within the skull or cranial cavity.",
+    "full_desc": "Located within the skull or cranial cavity.",
+    "clean_desc": "Located within the skull or cranial cavity."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 2343,
+    "term": "Intrahepatic",
+    "raw_term": "Intrahepatic",
+    "raw_line": "\\medterm{Intrahepatic} Located or occurring within the liver.",
+    "full_desc": "Located or occurring within the liver.",
+    "clean_desc": "Located or occurring within the liver."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 2377,
+    "term": "Intraocular",
+    "raw_term": "Intraocular",
+    "raw_line": "\\medterm{Intraocular} Located within the eye.",
+    "full_desc": "Located within the eye.",
+    "clean_desc": "Located within the eye."
+  },
+  {
+    "file": "chapters/med_terms_i.tex",
+    "line": 2748,
+    "term": "Ipsilateral",
+    "raw_term": "Ipsilateral",
+    "raw_line": "\\medterm{Ipsilateral} Located on the same side of the body.",
+    "full_desc": "Located on the same side of the body.",
+    "clean_desc": "Located on the same side of the body."
+  },
+  {
+    "file": "chapters/med_terms_j.tex",
+    "line": 55,
+    "term": "Jaw Fracture",
+    "raw_term": "Jaw Fracture",
+    "raw_line": "\\medterm{Jaw Fracture} A break in the upper or lower jawbone.",
+    "full_desc": "A break in the upper or lower jawbone.",
+    "clean_desc": "A break in the upper or lower jawbone."
+  },
+  {
+    "file": "chapters/med_terms_j.tex",
+    "line": 264,
+    "term": "Juxta-Articular",
+    "raw_term": "Juxta-Articular",
+    "raw_line": "\\medterm{Juxta-Articular} Located next to or close to a joint.",
+    "full_desc": "Located next to or close to a joint.",
+    "clean_desc": "Located next to or close to a joint."
+  },
+  {
+    "file": "chapters/med_terms_j.tex",
+    "line": 271,
+    "term": "Juxtavesical",
+    "raw_term": "Juxtavesical",
+    "raw_line": "\\medterm{Juxtavesical} Located next to or near the urinary bladder.",
+    "full_desc": "Located next to or near the urinary bladder.",
+    "clean_desc": "Located next to or near the urinary bladder."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 234,
+    "term": "Lamellar",
+    "raw_term": "Lamellar",
+    "raw_line": "\\medterm{Lamellar} Arranged in thin layers or lamellae.",
+    "full_desc": "Arranged in thin layers or lamellae.",
+    "clean_desc": "Arranged in thin layers or lamellae."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 1107,
+    "term": "Lethal",
+    "raw_term": "Lethal",
+    "raw_line": "\\medterm{Lethal} Capable of causing death.",
+    "full_desc": "Capable of causing death.",
+    "clean_desc": "Capable of causing death."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 1611,
+    "term": "Lingua",
+    "raw_term": "Lingua",
+    "raw_line": "\\medterm{Lingua} The tongue.",
+    "full_desc": "The tongue.",
+    "clean_desc": "The tongue."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 1737,
+    "term": "Lipocyte",
+    "raw_term": "Lipocyte",
+    "raw_line": "\\medterm{Lipocyte} A fat cell, also called an adipocyte.",
+    "full_desc": "A fat cell, also called an adipocyte.",
+    "clean_desc": "A fat cell, also called an adipocyte."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 2527,
+    "term": "Luetic",
+    "raw_term": "Luetic",
+    "raw_line": "\\medterm{Luetic} Relating to syphilis or to infection with \\textit{Treponema pallidum}.",
+    "full_desc": "Relating to syphilis or to infection with \\textit{Treponema pallidum}.",
+    "clean_desc": "Relating to syphilis or to infection with ."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 2529,
+    "term": "Lugano Classification",
+    "raw_term": "Lugano Classification",
+    "raw_line": "\\medterm{Lugano Classification} Staging and response assessment for lymphoma.",
+    "full_desc": "Staging and response assessment for lymphoma.",
+    "clean_desc": "Staging and response assessment for lymphoma."
+  },
+  {
+    "file": "chapters/med_terms_l.tex",
+    "line": 2565,
+    "term": "Lumbar Spine",
+    "raw_term": "Lumbar Spine",
+    "raw_line": "\\medterm{Lumbar Spine} The five vertebrae forming the lower back.",
+    "full_desc": "The five vertebrae forming the lower back.",
+    "clean_desc": "The five vertebrae forming the lower back."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 205,
+    "term": "Magnetic Therapy",
+    "raw_term": "Magnetic Therapy",
+    "raw_line": "\\medterm{Magnetic Therapy} PEMF for bone healing, pain. Evidence mixed.",
+    "full_desc": "PEMF for bone healing, pain. Evidence mixed.",
+    "clean_desc": "PEMF for bone healing, pain. Evidence mixed."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 274,
+    "term": "Malar",
+    "raw_term": "Malar",
+    "raw_line": "\\medterm{Malar} Relating to the cheekbone or cheek region.",
+    "full_desc": "Relating to the cheekbone or cheek region.",
+    "clean_desc": "Relating to the cheekbone or cheek region."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 479,
+    "term": "Mammary",
+    "raw_term": "Mammary",
+    "raw_line": "\\medterm{Mammary} Relating to the breast or mammary gland.",
+    "full_desc": "Relating to the breast or mammary gland.",
+    "clean_desc": "Relating to the breast or mammary gland."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 538,
+    "term": "Mandibular",
+    "raw_term": "Mandibular",
+    "raw_line": "\\medterm{Mandibular} Relating to the mandible or lower jaw.",
+    "full_desc": "Relating to the mandible or lower jaw.",
+    "clean_desc": "Relating to the mandible or lower jaw."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 905,
+    "term": "Maxillary",
+    "raw_term": "Maxillary",
+    "raw_line": "\\medterm{Maxillary} Relating to the maxilla or upper jaw.",
+    "full_desc": "Relating to the maxilla or upper jaw.",
+    "clean_desc": "Relating to the maxilla or upper jaw."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 1048,
+    "term": "Meatal",
+    "raw_term": "Meatal",
+    "raw_line": "\\medterm{Meatal} Relating to a meatus or bodily opening.",
+    "full_desc": "Relating to a meatus or bodily opening.",
+    "clean_desc": "Relating to a meatus or bodily opening."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 1274,
+    "term": "Medical Physicist",
+    "raw_term": "Medical Physicist",
+    "raw_line": "\\medterm{Medical Physicist} Expert in radiation physics and safety.",
+    "full_desc": "Expert in radiation physics and safety.",
+    "clean_desc": "Expert in radiation physics and safety."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 2413,
+    "term": "Microaneurysm",
+    "raw_term": "Microaneurysm",
+    "raw_line": "\\medterm{Microaneurysm} A small bulge in the wall of a blood vessel.",
+    "full_desc": "A small bulge in the wall of a blood vessel.",
+    "clean_desc": "A small bulge in the wall of a blood vessel."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 3394,
+    "term": "Monogenic",
+    "raw_term": "Monogenic",
+    "raw_line": "\\medterm{Monogenic} Caused by a variant in a single gene.",
+    "full_desc": "Caused by a variant in a single gene.",
+    "clean_desc": "Caused by a variant in a single gene."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 3422,
+    "term": "Monoplegia",
+    "raw_term": "Monoplegia",
+    "raw_line": "\\medterm{Monoplegia} Paralysis affecting one limb.",
+    "full_desc": "Paralysis affecting one limb.",
+    "clean_desc": "Paralysis affecting one limb."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 3536,
+    "term": "Moribund",
+    "raw_term": "Moribund",
+    "raw_line": "\\medterm{Moribund} In a dying state or near death.",
+    "full_desc": "In a dying state or near death.",
+    "clean_desc": "In a dying state or near death."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 3901,
+    "term": "Mucosal",
+    "raw_term": "Mucosal",
+    "raw_line": "\\medterm{Mucosal} Relating to a mucous membrane.",
+    "full_desc": "Relating to a mucous membrane.",
+    "clean_desc": "Relating to a mucous membrane."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 4303,
+    "term": "Musculus",
+    "raw_term": "Musculus",
+    "raw_line": "\\medterm{Musculus} Latin for muscle, used in anatomical names.",
+    "full_desc": "Latin for muscle, used in anatomical names.",
+    "clean_desc": "Latin for muscle, used in anatomical names."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 4345,
+    "term": "Myalgia",
+    "raw_term": "Myalgia",
+    "raw_line": "\\medterm{Myalgia} Muscle pain or tenderness.",
+    "full_desc": "Muscle pain or tenderness.",
+    "clean_desc": "Muscle pain or tenderness."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 4475,
+    "term": "Mycosis",
+    "raw_term": "Mycosis",
+    "raw_line": "\\medterm{Mycosis} An infection caused by a fungus.",
+    "full_desc": "An infection caused by a fungus.",
+    "clean_desc": "An infection caused by a fungus."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 4712,
+    "term": "Myosis",
+    "raw_term": "Myosis",
+    "raw_line": "\\medterm{Myosis} Constriction of the pupil.",
+    "full_desc": "Constriction of the pupil.",
+    "clean_desc": "Constriction of the pupil."
+  },
+  {
+    "file": "chapters/med_terms_m.tex",
+    "line": 4717,
+    "term": "Myotatic",
+    "raw_term": "Myotatic",
+    "raw_line": "\\medterm{Myotatic} Relating to a muscle stretch reflex.",
+    "full_desc": "Relating to a muscle stretch reflex.",
+    "clean_desc": "Relating to a muscle stretch reflex."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 129,
+    "term": "Nasal",
+    "raw_term": "Nasal",
+    "raw_line": "\\medterm{Nasal} Relating to the nose or nasal cavity.",
+    "full_desc": "Relating to the nose or nasal cavity.",
+    "clean_desc": "Relating to the nose or nasal cavity."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 205,
+    "term": "Natriuresis",
+    "raw_term": "Natriuresis",
+    "raw_line": "\\medterm{Natriuresis} Excretion of sodium in the urine.",
+    "full_desc": "Excretion of sodium in the urine.",
+    "clean_desc": "Excretion of sodium in the urine."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 206,
+    "term": "Natriuretic",
+    "raw_term": "Natriuretic",
+    "raw_line": "\\medterm{Natriuretic} Promoting urinary sodium excretion.",
+    "full_desc": "Promoting urinary sodium excretion.",
+    "clean_desc": "Promoting urinary sodium excretion."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 659,
+    "term": "Nervus",
+    "raw_term": "Nervus",
+    "raw_line": "\\medterm{Nervus} Latin for nerve, used in anatomical names.",
+    "full_desc": "Latin for nerve, used in anatomical names.",
+    "clean_desc": "Latin for nerve, used in anatomical names."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 666,
+    "term": "Neural",
+    "raw_term": "Neural",
+    "raw_line": "\\medterm{Neural} Relating to nerves or the nervous system.",
+    "full_desc": "Relating to nerves or the nervous system.",
+    "clean_desc": "Relating to nerves or the nervous system."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 1255,
+    "term": "Nocturnal",
+    "raw_term": "Nocturnal",
+    "raw_line": "\\medterm{Nocturnal} Occurring during the night.",
+    "full_desc": "Occurring during the night.",
+    "clean_desc": "Occurring during the night."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 1268,
+    "term": "Nodular",
+    "raw_term": "Nodular",
+    "raw_line": "\\medterm{Nodular} Having or forming one or more nodules.",
+    "full_desc": "Having or forming one or more nodules.",
+    "clean_desc": "Having or forming one or more nodules."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 1623,
+    "term": "Nostril",
+    "raw_term": "Nostril",
+    "raw_line": "\\medterm{Nostril} One of the two external openings of the nose.",
+    "full_desc": "One of the two external openings of the nose.",
+    "clean_desc": "One of the two external openings of the nose."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 1653,
+    "term": "Nuchal",
+    "raw_term": "Nuchal",
+    "raw_line": "\\medterm{Nuchal} Relating to the back of the neck.",
+    "full_desc": "Relating to the back of the neck.",
+    "clean_desc": "Relating to the back of the neck."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 1697,
+    "term": "Nulligravida",
+    "raw_term": "Nulligravida",
+    "raw_line": "\\medterm{Nulligravida} A person who has never been pregnant.",
+    "full_desc": "A person who has never been pregnant.",
+    "clean_desc": "A person who has never been pregnant."
+  },
+  {
+    "file": "chapters/med_terms_n.tex",
+    "line": 1806,
+    "term": "Nutritive",
+    "raw_term": "Nutritive",
+    "raw_line": "\\medterm{Nutritive} Providing nourishment or nutrients.",
+    "full_desc": "Providing nourishment or nutrients.",
+    "clean_desc": "Providing nourishment or nutrients."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 257,
+    "term": "Ocular",
+    "raw_term": "Ocular",
+    "raw_line": "\\medterm{Ocular} Relating to the eye or vision.",
+    "full_desc": "Relating to the eye or vision.",
+    "clean_desc": "Relating to the eye or vision."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 323,
+    "term": "Odontogenesis",
+    "raw_term": "Odontogenesis",
+    "raw_line": "\\medterm{Odontogenesis} Development and formation of teeth.",
+    "full_desc": "Development and formation of teeth.",
+    "clean_desc": "Development and formation of teeth."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 346,
+    "term": "Odontopathy",
+    "raw_term": "Odontopathy",
+    "raw_line": "\\medterm{Odontopathy} Any disease or disorder of a tooth.",
+    "full_desc": "Any disease or disorder of a tooth.",
+    "clean_desc": "Any disease or disorder of a tooth."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 376,
+    "term": "Oesophagoscopy",
+    "raw_term": "Oesophagoscopy",
+    "raw_line": "\\medterm{Oesophagoscopy} Endoscopic examination of the oesophagus.",
+    "full_desc": "Endoscopic examination of the oesophagus.",
+    "clean_desc": "Endoscopic examination of the oesophagus."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 691,
+    "term": "Onychia",
+    "raw_term": "Onychia",
+    "raw_line": "\\medterm{Onychia} Inflammation of the nail bed or nail matrix.",
+    "full_desc": "Inflammation of the nail bed or nail matrix.",
+    "clean_desc": "Inflammation of the nail bed or nail matrix."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1103,
+    "term": "Orchialgia",
+    "raw_term": "Orchialgia",
+    "raw_line": "\\medterm{Orchialgia} Pain in one or both testes.",
+    "full_desc": "Pain in one or both testes.",
+    "clean_desc": "Pain in one or both testes."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1429,
+    "term": "Ossification",
+    "raw_term": "Ossification",
+    "raw_line": "\\medterm{Ossification} Formation of bone tissue.",
+    "full_desc": "Formation of bone tissue.",
+    "clean_desc": "Formation of bone tissue."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1467,
+    "term": "Osteoblasts",
+    "raw_term": "Osteoblasts",
+    "raw_line": "\\medterm{Osteoblasts} Cells that form new bone.",
+    "full_desc": "Cells that form new bone.",
+    "clean_desc": "Cells that form new bone."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1494,
+    "term": "Osteoclasts",
+    "raw_term": "Osteoclasts",
+    "raw_line": "\\medterm{Osteoclasts} Cells that break down and resorb bone tissue.",
+    "full_desc": "Cells that break down and resorb bone tissue.",
+    "clean_desc": "Cells that break down and resorb bone tissue."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1505,
+    "term": "Osteogenesis",
+    "raw_term": "Osteogenesis",
+    "raw_line": "\\medterm{Osteogenesis} Formation and development of bone.",
+    "full_desc": "Formation and development of bone.",
+    "clean_desc": "Formation and development of bone."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1523,
+    "term": "Osteology",
+    "raw_term": "Osteology",
+    "raw_line": "\\medterm{Osteology} The study of bones.",
+    "full_desc": "The study of bones.",
+    "clean_desc": "The study of bones."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1528,
+    "term": "Osteoma",
+    "raw_term": "Osteoma",
+    "raw_line": "\\medterm{Osteoma} A benign tumor composed of mature bone.",
+    "full_desc": "A benign tumor composed of mature bone.",
+    "clean_desc": "A benign tumor composed of mature bone."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1632,
+    "term": "Otalgia",
+    "raw_term": "Otalgia",
+    "raw_line": "\\medterm{Otalgia} Ear pain.",
+    "full_desc": "Ear pain.",
+    "clean_desc": "Ear pain."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1658,
+    "term": "Otitis",
+    "raw_term": "Otitis",
+    "raw_line": "\\medterm{Otitis} Inflammation of the ear.",
+    "full_desc": "Inflammation of the ear.",
+    "clean_desc": "Inflammation of the ear."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1701,
+    "term": "Otorrhoea",
+    "raw_term": "Otorrhoea",
+    "raw_line": "\\medterm{Otorrhoea} Discharge of fluid or pus from the ear.",
+    "full_desc": "Discharge of fluid or pus from the ear.",
+    "clean_desc": "Discharge of fluid or pus from the ear."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1738,
+    "term": "Ovarian",
+    "raw_term": "Ovarian",
+    "raw_line": "\\medterm{Ovarian} Relating to an ovary.",
+    "full_desc": "Relating to an ovary.",
+    "clean_desc": "Relating to an ovary."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1794,
+    "term": "Ovariectomy",
+    "raw_term": "Ovariectomy",
+    "raw_line": "\\medterm{Ovariectomy} Surgical removal of one or both ovaries.",
+    "full_desc": "Surgical removal of one or both ovaries.",
+    "clean_desc": "Surgical removal of one or both ovaries."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1838,
+    "term": "Overall Survival",
+    "raw_term": "Overall Survival",
+    "raw_line": "\\medterm{Overall Survival} Time from treatment to death from any cause.",
+    "full_desc": "Time from treatment to death from any cause.",
+    "clean_desc": "Time from treatment to death from any cause."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 1885,
+    "term": "Ovum",
+    "raw_term": "Ovum",
+    "raw_line": "\\medterm{Ovum} A mature female reproductive cell, or egg.",
+    "full_desc": "A mature female reproductive cell, or egg.",
+    "clean_desc": "A mature female reproductive cell, or egg."
+  },
+  {
+    "file": "chapters/med_terms_o.tex",
+    "line": 2005,
+    "term": "Oxyhaemoglobin",
+    "raw_term": "Oxyhaemoglobin",
+    "raw_line": "\\medterm{Oxyhaemoglobin} Hemoglobin reversibly bound to oxygen.",
+    "full_desc": "Hemoglobin reversibly bound to oxygen.",
+    "clean_desc": "Hemoglobin reversibly bound to oxygen."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 193,
+    "term": "Palatine",
+    "raw_term": "Palatine",
+    "raw_line": "\\medterm{Palatine} Relating to the palate or palatine bone.",
+    "full_desc": "Relating to the palate or palatine bone.",
+    "clean_desc": "Relating to the palate or palatine bone."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 245,
+    "term": "Palmar",
+    "raw_term": "Palmar",
+    "raw_line": "\\medterm{Palmar} Relating to the palm of the hand.",
+    "full_desc": "Relating to the palm of the hand.",
+    "clean_desc": "Relating to the palm of the hand."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 271,
+    "term": "Palpebra",
+    "raw_term": "Palpebra",
+    "raw_line": "\\medterm{Palpebra} An eyelid.",
+    "full_desc": "An eyelid.",
+    "clean_desc": "An eyelid."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 628,
+    "term": "Parageusia",
+    "raw_term": "Parageusia",
+    "raw_line": "\\medterm{Parageusia} An altered or unpleasant sense of taste.",
+    "full_desc": "An altered or unpleasant sense of taste.",
+    "clean_desc": "An altered or unpleasant sense of taste."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 800,
+    "term": "Paresis",
+    "raw_term": "Paresis",
+    "raw_line": "\\medterm{Paresis} Partial weakness or incomplete paralysis.",
+    "full_desc": "Partial weakness or incomplete paralysis.",
+    "clean_desc": "Partial weakness or incomplete paralysis."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 873,
+    "term": "Parotitis",
+    "raw_term": "Parotitis",
+    "raw_line": "\\medterm{Parotitis} Inflammation of the parotid salivary gland.",
+    "full_desc": "Inflammation of the parotid salivary gland.",
+    "clean_desc": "Inflammation of the parotid salivary gland."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 944,
+    "term": "Partial Response",
+    "raw_term": "Partial Response",
+    "raw_line": "\\medterm{Partial Response} Significant tumor reduction but not complete.",
+    "full_desc": "Significant tumor reduction but not complete.",
+    "clean_desc": "Significant tumor reduction but not complete."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 1211,
+    "term": "Patlak Plot",
+    "raw_term": "Patlak Plot",
+    "raw_line": "\\medterm{Patlak Plot} Linear graphical method for quantitative PET.",
+    "full_desc": "Linear graphical method for quantitative PET.",
+    "clean_desc": "Linear graphical method for quantitative PET."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 1279,
+    "term": "Pectoral",
+    "raw_term": "Pectoral",
+    "raw_line": "\\medterm{Pectoral} Relating to the chest or breast.",
+    "full_desc": "Relating to the chest or breast.",
+    "clean_desc": "Relating to the chest or breast."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 1421,
+    "term": "Pediculosis",
+    "raw_term": "Pediculosis",
+    "raw_line": "\\medterm{Pediculosis} Infestation by lice.",
+    "full_desc": "Infestation by lice.",
+    "clean_desc": "Infestation by lice."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2148,
+    "term": "Periostitis",
+    "raw_term": "Periostitis",
+    "raw_line": "\\medterm{Periostitis} Inflammation of the periosteum.",
+    "full_desc": "Inflammation of the periosteum.",
+    "clean_desc": "Inflammation of the periosteum."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2326,
+    "term": "Periurethral",
+    "raw_term": "Periurethral",
+    "raw_line": "\\medterm{Periurethral} Situated around the urethra.",
+    "full_desc": "Situated around the urethra.",
+    "clean_desc": "Situated around the urethra."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2566,
+    "term": "Phalanges",
+    "raw_term": "Phalanges",
+    "raw_line": "\\medterm{Phalanges} The bones of the fingers and toes.",
+    "full_desc": "The bones of the fingers and toes.",
+    "clean_desc": "The bones of the fingers and toes."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2567,
+    "term": "Phalanx",
+    "raw_term": "Phalanx",
+    "raw_line": "\\medterm{Phalanx} One of the bones of a finger or toe.",
+    "full_desc": "One of the bones of a finger or toe.",
+    "clean_desc": "One of the bones of a finger or toe."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2631,
+    "term": "Pharyngeal",
+    "raw_term": "Pharyngeal",
+    "raw_line": "\\medterm{Pharyngeal} Relating to the pharynx.",
+    "full_desc": "Relating to the pharynx.",
+    "clean_desc": "Relating to the pharynx."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2718,
+    "term": "Phenomenon",
+    "raw_term": "Phenomenon",
+    "raw_line": "\\medterm{Phenomenon} An observable event, sign, or process.",
+    "full_desc": "An observable event, sign, or process.",
+    "clean_desc": "An observable event, sign, or process."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 2905,
+    "term": "Photophobia",
+    "raw_term": "Photophobia",
+    "raw_line": "\\medterm{Photophobia} Abnormal sensitivity or intolerance to light.",
+    "full_desc": "Abnormal sensitivity or intolerance to light.",
+    "clean_desc": "Abnormal sensitivity or intolerance to light."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3385,
+    "term": "Plantar",
+    "raw_term": "Plantar",
+    "raw_line": "\\medterm{Plantar} Relating to the sole of the foot.",
+    "full_desc": "Relating to the sole of the foot.",
+    "clean_desc": "Relating to the sole of the foot."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3436,
+    "term": "Plasma Cells",
+    "raw_term": "Plasma Cells",
+    "raw_line": "\\medterm{Plasma Cells} Mature B lymphocytes that produce antibodies.",
+    "full_desc": "Mature B lymphocytes that produce antibodies.",
+    "clean_desc": "Mature B lymphocytes that produce antibodies."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3687,
+    "term": "Pneumatic",
+    "raw_term": "Pneumatic",
+    "raw_line": "\\medterm{Pneumatic} Operating by air or gas pressure.",
+    "full_desc": "Operating by air or gas pressure.",
+    "clean_desc": "Operating by air or gas pressure."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3750,
+    "term": "Pneumonectomy",
+    "raw_term": "Pneumonectomy",
+    "raw_line": "\\medterm{Pneumonectomy} Surgical removal of an entire lung.",
+    "full_desc": "Surgical removal of an entire lung.",
+    "clean_desc": "Surgical removal of an entire lung."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3798,
+    "term": "Poikilocytosis",
+    "raw_term": "Poikilocytosis",
+    "raw_line": "\\medterm{Poikilocytosis} Variation in the shape of red blood cells.",
+    "full_desc": "Variation in the shape of red blood cells.",
+    "clean_desc": "Variation in the shape of red blood cells."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3888,
+    "term": "Pollex",
+    "raw_term": "Pollex",
+    "raw_line": "\\medterm{Pollex} The thumb.",
+    "full_desc": "The thumb.",
+    "clean_desc": "The thumb."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3968,
+    "term": "Polydactylism",
+    "raw_term": "Polydactylism",
+    "raw_line": "\\medterm{Polydactylism} Congenital presence of extra fingers or toes.",
+    "full_desc": "Congenital presence of extra fingers or toes.",
+    "clean_desc": "Congenital presence of extra fingers or toes."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3970,
+    "term": "Polydactyly",
+    "raw_term": "Polydactyly",
+    "raw_line": "\\medterm{Polydactyly} Presence of extra fingers or toes.",
+    "full_desc": "Presence of extra fingers or toes.",
+    "clean_desc": "Presence of extra fingers or toes."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 3971,
+    "term": "Polydipsia",
+    "raw_term": "Polydipsia",
+    "raw_line": "\\medterm{Polydipsia} Excessive thirst or drinking.",
+    "full_desc": "Excessive thirst or drinking.",
+    "clean_desc": "Excessive thirst or drinking."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4003,
+    "term": "Polymagia",
+    "raw_term": "Polymagia",
+    "raw_line": "\\medterm{Polymagia} Excessive hunger or eating.",
+    "full_desc": "Excessive hunger or eating.",
+    "clean_desc": "Excessive hunger or eating."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4160,
+    "term": "Pontine",
+    "raw_term": "Pontine",
+    "raw_line": "\\medterm{Pontine} Relating to the pons.",
+    "full_desc": "Relating to the pons.",
+    "clean_desc": "Relating to the pons."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4167,
+    "term": "Popliteal",
+    "raw_term": "Popliteal",
+    "raw_line": "\\medterm{Popliteal} Relating to the back of the knee.",
+    "full_desc": "Relating to the back of the knee.",
+    "clean_desc": "Relating to the back of the knee."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4414,
+    "term": "Post-Prandial",
+    "raw_term": "Post-Prandial",
+    "raw_line": "\\medterm{Post-Prandial} Occurring after a meal.",
+    "full_desc": "Occurring after a meal.",
+    "clean_desc": "Occurring after a meal."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4583,
+    "term": "Postnatal",
+    "raw_term": "Postnatal",
+    "raw_line": "\\medterm{Postnatal} Relating to the period after birth.",
+    "full_desc": "Relating to the period after birth.",
+    "clean_desc": "Relating to the period after birth."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4634,
+    "term": "Postpartum",
+    "raw_term": "Postpartum",
+    "raw_line": "\\medterm{Postpartum} Relating to the period after childbirth.",
+    "full_desc": "Relating to the period after childbirth.",
+    "clean_desc": "Relating to the period after childbirth."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 4928,
+    "term": "Precordium",
+    "raw_term": "Precordium",
+    "raw_line": "\\medterm{Precordium} The region of the chest overlying the heart.",
+    "full_desc": "The region of the chest overlying the heart.",
+    "clean_desc": "The region of the chest overlying the heart."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5159,
+    "term": "Premolar",
+    "raw_term": "Premolar",
+    "raw_line": "\\medterm{Premolar} A tooth between the canine and molar teeth.",
+    "full_desc": "A tooth between the canine and molar teeth.",
+    "clean_desc": "A tooth between the canine and molar teeth."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5507,
+    "term": "Primigravida",
+    "raw_term": "Primigravida",
+    "raw_line": "\\medterm{Primigravida} A person who is pregnant for the first time.",
+    "full_desc": "A person who is pregnant for the first time.",
+    "clean_desc": "A person who is pregnant for the first time."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5550,
+    "term": "Probe",
+    "raw_term": "Probe",
+    "raw_line": "\\medterm{Probe} Instrument for exploring wound or cavity.",
+    "full_desc": "Instrument for exploring wound or cavity.",
+    "clean_desc": "Instrument for exploring wound or cavity."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5607,
+    "term": "Proctalgia",
+    "raw_term": "Proctalgia",
+    "raw_line": "\\medterm{Proctalgia} Pain in or around the anus or rectum.",
+    "full_desc": "Pain in or around the anus or rectum.",
+    "clean_desc": "Pain in or around the anus or rectum."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5608,
+    "term": "Proctitis",
+    "raw_term": "Proctitis",
+    "raw_line": "\\medterm{Proctitis} Inflammation of the rectal lining.",
+    "full_desc": "Inflammation of the rectal lining.",
+    "clean_desc": "Inflammation of the rectal lining."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5634,
+    "term": "Productive Cough",
+    "raw_term": "Productive Cough",
+    "raw_line": "\\medterm{Productive Cough} A cough that brings up sputum or phlegm.",
+    "full_desc": "A cough that brings up sputum or phlegm.",
+    "clean_desc": "A cough that brings up sputum or phlegm."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5642,
+    "term": "Progeny",
+    "raw_term": "Progeny",
+    "raw_line": "\\medterm{Progeny} Offspring or descendants.",
+    "full_desc": "Offspring or descendants.",
+    "clean_desc": "Offspring or descendants."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 5885,
+    "term": "Proptosis",
+    "raw_term": "Proptosis",
+    "raw_line": "\\medterm{Proptosis} Forward displacement or bulging of an eye.",
+    "full_desc": "Forward displacement or bulging of an eye.",
+    "clean_desc": "Forward displacement or bulging of an eye."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6004,
+    "term": "Prosthetic",
+    "raw_term": "Prosthetic",
+    "raw_line": "\\medterm{Prosthetic} Relating to or made by a prosthesis.",
+    "full_desc": "Relating to or made by a prosthesis.",
+    "clean_desc": "Relating to or made by a prosthesis."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6166,
+    "term": "Proteolytic",
+    "raw_term": "Proteolytic",
+    "raw_line": "\\medterm{Proteolytic} Relating to or causing protein breakdown.",
+    "full_desc": "Relating to or causing protein breakdown.",
+    "clean_desc": "Relating to or causing protein breakdown."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6211,
+    "term": "Protractile",
+    "raw_term": "Protractile",
+    "raw_line": "\\medterm{Protractile} Capable of being extended or protruded.",
+    "full_desc": "Capable of being extended or protruded.",
+    "clean_desc": "Capable of being extended or protruded."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6474,
+    "term": "Psychotic",
+    "raw_term": "Psychotic",
+    "raw_line": "\\medterm{Psychotic} Relating to or characterized by psychosis.",
+    "full_desc": "Relating to or characterized by psychosis.",
+    "clean_desc": "Relating to or characterized by psychosis."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6516,
+    "term": "Ptyalism",
+    "raw_term": "Ptyalism",
+    "raw_line": "\\medterm{Ptyalism} Excessive salivation.",
+    "full_desc": "Excessive salivation.",
+    "clean_desc": "Excessive salivation."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6524,
+    "term": "Pubes",
+    "raw_term": "Pubes",
+    "raw_line": "\\medterm{Pubes} The pubic region or pubic hair.",
+    "full_desc": "The pubic region or pubic hair.",
+    "clean_desc": "The pubic region or pubic hair."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6586,
+    "term": "Pulex",
+    "raw_term": "Pulex",
+    "raw_line": "\\medterm{Pulex} A genus of fleas, including Pulex irritans.",
+    "full_desc": "A genus of fleas, including Pulex irritans.",
+    "clean_desc": "A genus of fleas, including Pulex irritans."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6592,
+    "term": "Pulmonary",
+    "raw_term": "Pulmonary",
+    "raw_line": "\\medterm{Pulmonary} Relating to the lungs.",
+    "full_desc": "Relating to the lungs.",
+    "clean_desc": "Relating to the lungs."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6913,
+    "term": "Pupillary",
+    "raw_term": "Pupillary",
+    "raw_line": "\\medterm{Pupillary} Relating to the pupil.",
+    "full_desc": "Relating to the pupil.",
+    "clean_desc": "Relating to the pupil."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6930,
+    "term": "Purgative",
+    "raw_term": "Purgative",
+    "raw_line": "\\medterm{Purgative} A substance that induces bowel evacuation.",
+    "full_desc": "A substance that induces bowel evacuation.",
+    "clean_desc": "A substance that induces bowel evacuation."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6966,
+    "term": "Purulent",
+    "raw_term": "Purulent",
+    "raw_line": "\\medterm{Purulent} Containing or producing pus.",
+    "full_desc": "Containing or producing pus.",
+    "clean_desc": "Containing or producing pus."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 6980,
+    "term": "Pustule",
+    "raw_term": "Pustule",
+    "raw_line": "\\medterm{Pustule} A small, raised skin lesion filled with pus.",
+    "full_desc": "A small, raised skin lesion filled with pus.",
+    "clean_desc": "A small, raised skin lesion filled with pus."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 7042,
+    "term": "Pyogenesis",
+    "raw_term": "Pyogenesis",
+    "raw_line": "\\medterm{Pyogenesis} Formation of pus.",
+    "full_desc": "Formation of pus.",
+    "clean_desc": "Formation of pus."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 7050,
+    "term": "Pyometra",
+    "raw_term": "Pyometra",
+    "raw_line": "\\medterm{Pyometra} Accumulation of pus within the uterus.",
+    "full_desc": "Accumulation of pus within the uterus.",
+    "clean_desc": "Accumulation of pus within the uterus."
+  },
+  {
+    "file": "chapters/med_terms_p.tex",
+    "line": 7080,
+    "term": "Pyrexia",
+    "raw_term": "Pyrexia",
+    "raw_line": "\\medterm{Pyrexia} Fever or an elevated body temperature.",
+    "full_desc": "Fever or an elevated body temperature.",
+    "clean_desc": "Fever or an elevated body temperature."
+  },
+  {
+    "file": "chapters/med_terms_r.tex",
+    "line": 220,
+    "term": "Radiograph",
+    "raw_term": "Radiograph",
+    "raw_line": "\\medterm{Radiograph} An image produced using X-rays.",
+    "full_desc": "An image produced using X-rays.",
+    "clean_desc": "An image produced using X-rays."
+  },
+  {
+    "file": "chapters/med_terms_r.tex",
+    "line": 800,
+    "term": "Recurrence-Free Survival",
+    "raw_term": "Recurrence-Free Survival",
+    "raw_line": "\\medterm{Recurrence-Free Survival} Time without cancer return after treatment.",
+    "full_desc": "Time without cancer return after treatment.",
+    "clean_desc": "Time without cancer return after treatment."
+  },
+  {
+    "file": "chapters/med_terms_r.tex",
+    "line": 989,
+    "term": "Rehabilitation Clinic",
+    "raw_term": "Rehabilitation Clinic",
+    "raw_line": "\\medterm{Rehabilitation Clinic} Outpatient rehabilitation facility.",
+    "full_desc": "Outpatient rehabilitation facility.",
+    "clean_desc": "Outpatient rehabilitation facility."
+  },
+  {
+    "file": "chapters/med_terms_r.tex",
+    "line": 1003,
+    "term": "Rehabilitation Unit",
+    "raw_term": "Rehabilitation Unit",
+    "raw_line": "\\medterm{Rehabilitation Unit} Hospital ward dedicated to rehabilitation.",
+    "full_desc": "Hospital ward dedicated to rehabilitation.",
+    "clean_desc": "Hospital ward dedicated to rehabilitation."
+  },
+  {
+    "file": "chapters/med_terms_r.tex",
+    "line": 2217,
+    "term": "Ribozyme",
+    "raw_term": "Ribozyme",
+    "raw_line": "\\medterm{Ribozyme} An RNA molecule with catalytic activity.",
+    "full_desc": "An RNA molecule with catalytic activity.",
+    "clean_desc": "An RNA molecule with catalytic activity."
+  },
+  {
+    "file": "chapters/med_terms_r.tex",
+    "line": 2510,
+    "term": "Root",
+    "raw_term": "Root",
+    "raw_line": "\\medterm{Root} The part of a tooth below the gum line.",
+    "full_desc": "The part of a tooth below the gum line.",
+    "clean_desc": "The part of a tooth below the gum line."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 305,
+    "term": "Sanguineous",
+    "raw_term": "Sanguineous",
+    "raw_line": "\\medterm{Sanguineous} Containing or consisting of blood.",
+    "full_desc": "Containing or consisting of blood.",
+    "clean_desc": "Containing or consisting of blood."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 478,
+    "term": "Scalds",
+    "raw_term": "Scalds",
+    "raw_line": "\\medterm{Scalds} Burns caused by hot liquids or steam.",
+    "full_desc": "Burns caused by hot liquids or steam.",
+    "clean_desc": "Burns caused by hot liquids or steam."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 637,
+    "term": "Schistomicide",
+    "raw_term": "Schistomicide",
+    "raw_line": "\\medterm{Schistomicide} A substance that kills Schistosoma parasites.",
+    "full_desc": "A substance that kills Schistosoma parasites.",
+    "clean_desc": "A substance that kills Schistosoma parasites."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 829,
+    "term": "Scorbutic",
+    "raw_term": "Scorbutic",
+    "raw_line": "\\medterm{Scorbutic} Relating to scurvy or vitamin C deficiency.",
+    "full_desc": "Relating to scurvy or vitamin C deficiency.",
+    "clean_desc": "Relating to scurvy or vitamin C deficiency."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 1880,
+    "term": "Sialorrhoea",
+    "raw_term": "Sialorrhoea",
+    "raw_line": "\\medterm{Sialorrhoea} Excessive drooling or salivation.",
+    "full_desc": "Excessive drooling or salivation.",
+    "clean_desc": "Excessive drooling or salivation."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 3035,
+    "term": "Somniloquy",
+    "raw_term": "Somniloquy",
+    "raw_line": "\\medterm{Somniloquy} Talking during sleep.",
+    "full_desc": "Talking during sleep.",
+    "clean_desc": "Talking during sleep."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 3135,
+    "term": "Specimen Cup",
+    "raw_term": "Specimen Cup",
+    "raw_line": "\\medterm{Specimen Cup} Container for urine or stool samples.",
+    "full_desc": "Container for urine or stool samples.",
+    "clean_desc": "Container for urine or stool samples."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 3642,
+    "term": "Squamous Cell",
+    "raw_term": "Squamous Cell",
+    "raw_line": "\\medterm{Squamous Cell} A thin, flat epithelial cell.",
+    "full_desc": "A thin, flat epithelial cell.",
+    "clean_desc": "A thin, flat epithelial cell."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4288,
+    "term": "Stricture",
+    "raw_term": "Stricture",
+    "raw_line": "\\medterm{Stricture} Abnormal narrowing of a hollow body passage.",
+    "full_desc": "Abnormal narrowing of a hollow body passage.",
+    "clean_desc": "Abnormal narrowing of a hollow body passage."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4453,
+    "term": "Subdural",
+    "raw_term": "Subdural",
+    "raw_line": "\\medterm{Subdural} Situated beneath the dura mater.",
+    "full_desc": "Situated beneath the dura mater.",
+    "clean_desc": "Situated beneath the dura mater."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4635,
+    "term": "Sudorifics",
+    "raw_term": "Sudorifics",
+    "raw_line": "\\medterm{Sudorifics} Substances that promote sweating.",
+    "full_desc": "Substances that promote sweating.",
+    "clean_desc": "Substances that promote sweating."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4729,
+    "term": "Superficial",
+    "raw_term": "Superficial",
+    "raw_line": "\\medterm{Superficial} Near the surface of the body or an organ.",
+    "full_desc": "Near the surface of the body or an organ.",
+    "clean_desc": "Near the surface of the body or an organ."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4748,
+    "term": "Superior",
+    "raw_term": "Superior",
+    "raw_line": "\\medterm{Superior} Positioned higher or closer to the head.",
+    "full_desc": "Positioned higher or closer to the head.",
+    "clean_desc": "Positioned higher or closer to the head."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4795,
+    "term": "Supine",
+    "raw_term": "Supine",
+    "raw_line": "\\medterm{Supine} Lying on the back with the face upward.",
+    "full_desc": "Lying on the back with the face upward.",
+    "clean_desc": "Lying on the back with the face upward."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4816,
+    "term": "Suppuration",
+    "raw_term": "Suppuration",
+    "raw_line": "\\medterm{Suppuration} Formation or discharge of pus.",
+    "full_desc": "Formation or discharge of pus.",
+    "clean_desc": "Formation or discharge of pus."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4831,
+    "term": "Suprapubic",
+    "raw_term": "Suprapubic",
+    "raw_line": "\\medterm{Suprapubic} Situated above the pubic bone.",
+    "full_desc": "Situated above the pubic bone.",
+    "clean_desc": "Situated above the pubic bone."
+  },
+  {
+    "file": "chapters/med_terms_s.tex",
+    "line": 4834,
+    "term": "Suprarenal Glands",
+    "raw_term": "Suprarenal Glands",
+    "raw_line": "\\medterm{Suprarenal Glands} The adrenal glands located above the kidneys.",
+    "full_desc": "The adrenal glands located above the kidneys.",
+    "clean_desc": "The adrenal glands located above the kidneys."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 108,
+    "term": "Tactile",
+    "raw_term": "Tactile",
+    "raw_line": "\\medterm{Tactile} Relating to touch or the sense of touch.",
+    "full_desc": "Relating to touch or the sense of touch.",
+    "clean_desc": "Relating to touch or the sense of touch."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 428,
+    "term": "Tele Radiology",
+    "raw_term": "Tele Radiology",
+    "raw_line": "\\medterm{Tele Radiology} Remote interpretation of imaging studies.",
+    "full_desc": "Remote interpretation of imaging studies.",
+    "clean_desc": "Remote interpretation of imaging studies."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 584,
+    "term": "Tenotomy",
+    "raw_term": "Tenotomy",
+    "raw_line": "\\medterm{Tenotomy} Surgical cutting or division of a tendon.",
+    "full_desc": "Surgical cutting or division of a tendon.",
+    "clean_desc": "Surgical cutting or division of a tendon."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 971,
+    "term": "Thermoreceptor",
+    "raw_term": "Thermoreceptor",
+    "raw_line": "\\medterm{Thermoreceptor} A sensory receptor detecting warmth or cold.",
+    "full_desc": "A sensory receptor detecting warmth or cold.",
+    "clean_desc": "A sensory receptor detecting warmth or cold."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 1176,
+    "term": "Thrombocyte",
+    "raw_term": "Thrombocyte",
+    "raw_line": "\\medterm{Thrombocyte} Another name for a platelet.",
+    "full_desc": "Another name for a platelet.",
+    "clean_desc": "Another name for a platelet."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 1866,
+    "term": "Toes",
+    "raw_term": "Toes",
+    "raw_line": "\\medterm{Toes} The digits of the foot.",
+    "full_desc": "The digits of the foot.",
+    "clean_desc": "The digits of the foot."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 2432,
+    "term": "Tracheitis",
+    "raw_term": "Tracheitis",
+    "raw_line": "\\medterm{Tracheitis} Inflammation or infection of the trachea.",
+    "full_desc": "Inflammation or infection of the trachea.",
+    "clean_desc": "Inflammation or infection of the trachea."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 2799,
+    "term": "Trapezium",
+    "raw_term": "Trapezium",
+    "raw_line": "\\medterm{Trapezium} A carpal bone at the base of the thumb.",
+    "full_desc": "A carpal bone at the base of the thumb.",
+    "clean_desc": "A carpal bone at the base of the thumb."
+  },
+  {
+    "file": "chapters/med_terms_t.tex",
+    "line": 2866,
+    "term": "Travel Sickness",
+    "raw_term": "Travel Sickness",
+    "raw_line": "\\medterm{Travel Sickness} Motion sickness caused by travel.",
+    "full_desc": "Motion sickness caused by travel.",
+    "clean_desc": "Motion sickness caused by travel."
+  },
+  {
+    "file": "chapters/med_terms_u.tex",
+    "line": 258,
+    "term": "Ungual",
+    "raw_term": "Ungual",
+    "raw_line": "\\medterm{Ungual} Relating to a nail or the nail apparatus.",
+    "full_desc": "Relating to a nail or the nail apparatus.",
+    "clean_desc": "Relating to a nail or the nail apparatus."
+  },
+  {
+    "file": "chapters/med_terms_u.tex",
+    "line": 632,
+    "term": "Urinal",
+    "raw_term": "Urinal",
+    "raw_line": "\\medterm{Urinal} Male bedside container.",
+    "full_desc": "Male bedside container.",
+    "clean_desc": "Male bedside container."
+  },
+  {
+    "file": "chapters/med_terms_v.tex",
+    "line": 346,
+    "term": "Vascular",
+    "raw_term": "Vascular",
+    "raw_line": "\\medterm{Vascular} Relating to blood vessels.",
+    "full_desc": "Relating to blood vessels.",
+    "clean_desc": "Relating to blood vessels."
+  },
+  {
+    "file": "chapters/med_terms_v.tex",
+    "line": 433,
+    "term": "Vasoconstrictor",
+    "raw_term": "Vasoconstrictor",
+    "raw_line": "\\medterm{Vasoconstrictor} A substance that narrows blood vessels.",
+    "full_desc": "A substance that narrows blood vessels.",
+    "clean_desc": "A substance that narrows blood vessels."
+  },
+  {
+    "file": "chapters/med_terms_v.tex",
+    "line": 446,
+    "term": "Vasodilator",
+    "raw_term": "Vasodilator",
+    "raw_line": "\\medterm{Vasodilator} A substance that widens blood vessels.",
+    "full_desc": "A substance that widens blood vessels.",
+    "clean_desc": "A substance that widens blood vessels."
+  },
+  {
+    "file": "chapters/med_terms_v.tex",
+    "line": 612,
+    "term": "Venous",
+    "raw_term": "Venous",
+    "raw_line": "\\medterm{Venous} Relating to veins.",
+    "full_desc": "Relating to veins.",
+    "clean_desc": "Relating to veins."
+  },
+  {
+    "file": "chapters/med_terms_v.tex",
+    "line": 747,
+    "term": "Venturi Mask",
+    "raw_term": "Venturi Mask",
+    "raw_line": "\\medterm{Venturi Mask} Precise FiO2 delivery. Color-coded adapters.",
+    "full_desc": "Precise FiO2 delivery. Color-coded adapters.",
+    "clean_desc": "Precise FiO2 delivery. Color-coded adapters."
+  },
+  {
+    "file": "chapters/med_terms_v.tex",
+    "line": 997,
+    "term": "Viral",
+    "raw_term": "Viral",
+    "raw_line": "\\medterm{Viral} Caused by or relating to a virus.",
+    "full_desc": "Caused by or relating to a virus.",
+    "clean_desc": "Caused by or relating to a virus."
+  }
+]
