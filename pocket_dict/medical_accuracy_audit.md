@@ -1,6 +1,6 @@
 # Medical Accuracy and Completeness Audit
 
-Audit scope: all `27,693` primary `\medterm` entries in `chapters/med_terms_*.tex` as currently present in the working tree.
+Audit scope: all `27,468` primary `\medterm` entries in `chapters/med_terms_*.tex` as currently present in the working tree.
 
 This is a report-only audit. Dictionary source entries were not changed as part of this report. Findings are separated into confirmed defects, high-priority medical review items, and context-dependent terminology that should not be silently rewritten without a source decision.
 
@@ -8,51 +8,19 @@ This is a report-only audit. Dictionary source entries were not changed as part 
 
 | Finding class | Count | Assessment |
 | --- | ---: | --- |
-| Leading `+` before a `\medterm` command | 8 | Confirmed source-integrity defect; the entries are not syntactically clean dictionary records. |
-| Placeholder or context-free definitions | 8 | Confirmed completeness defect. |
+| Leading `+` before a `\medterm` command | 0 | No current instances found; eight instances were present in an earlier snapshot. |
+| Placeholder or context-free definitions | 0 current | The initial 161 findings and the fresh 175-entry generic-template set were remediated; see `weak_definitions_audit.md` for the inventory and remediation status. |
 | Case-insensitive duplicate headwords | 202 | Confirmed terminology/index-integrity issue; some may be intentional aliases or alternate spellings. |
 | Entries containing obsolete, historical, stigmatizing, or deprecated wording | 272 | Review queue; the wording is not automatically incorrect because historical terms can be useful for record interpretation. |
 | Consumer/resource/care-instruction titles | 624 | Covered separately by `non_medical_terms_audit.md`; these are scope and vocabulary-policy issues rather than automatic factual errors. |
 
-The largest confirmed quality problem is not a single medical fact but definition provenance: several entries use generic text that does not identify the entity, anatomy, indication, risk, or diagnostic meaning of the headword.
+The largest confirmed quality problem is not a single medical fact but definition provenance: many entries use generic or self-referential text that does not identify the entity, anatomy, indication, risk, or diagnostic meaning of the headword. The expanded full-tree inventory is in `weak_definitions_audit.md`.
 
-## Confirmed source and completeness defects
+## Prior-snapshot findings
 
-### 1. Eight entries have a leading `+` before `\medterm`
+The earlier audit identified eight placeholder entries and eight leading-plus source defects. Those records are no longer present in the current tree, indicating that the corresponding source changes have already been made. The current weak-definition inventory is maintained in `weak_definitions_audit.md`.
 
-Severity: **High source-integrity**
-
-These lines are not normal dictionary commands and can render a literal plus sign or evade term-extraction scripts:
-
-- `chapters/med_terms_j.tex:272` — `Jervell and Lange-Nielsen Syndrome`
-- `chapters/med_terms_k.tex:741` — `Kaposi's Sarcoma`
-- `chapters/med_terms_l.tex:3067` — `Language`
-- `chapters/med_terms_m.tex:4791` — `Mallet Toe`
-- `chapters/med_terms_n.tex:1823` — `Nail Patella Syndrome`
-- `chapters/med_terms_o.tex:2045` — `Ocular Larva Migrans`
-- `chapters/med_terms_p.tex:7160` — `Paget's Disease`
-- `chapters/med_terms_r.tex:41` — `Rabies (Hydrophobia)`
-
-The definitions themselves may be medically useful, but the source syntax must be corrected before their inclusion and indexing can be trusted.
-
-### 2. Eight definitions are placeholder-like or materially context-free
-
-Severity: **Moderate to High completeness**
-
-| Term | Location | Problem |
-| --- | --- | --- |
-| `Bombe` | `chapters/med_terms_b.tex:2797` | Says the meaning depends on the source without identifying a medical entity or historical use. |
-| `Event` | `chapters/med_terms_e.tex:3069` | Defines an unrestricted general word rather than a medical concept. |
-| `Homophile` | `chapters/med_terms_h.tex:2759` | Calls a historical identity term a medical/biological term and supplies no accurate social or historical definition. |
-| `Low-Incision` | `chapters/med_terms_l.tex:2452` | Not a sufficiently defined procedure or established term; anatomical site and procedure are missing. |
-| `Lyonnaise` | `chapters/med_terms_l.tex:3026` | Gives no identifiable clinical meaning. |
-| `Parentectomy` | `chapters/med_terms_p.tex:791` | Uses an improvised “parent or source structure” explanation without identifying a recognized procedure or specialty usage. |
-| `Puna` | `chapters/med_terms_p.tex:6882` | Describes a geographic region and vaguely suggests altitude sickness without defining a clinical syndrome. |
-| `Urocele` | `chapters/med_terms_u.tex:793` | “Cystic dilation or protrusion” is too vague to establish which urinary structure or recognized diagnosis is meant. |
-
-Recommended disposition: verify each against the source vocabulary; rewrite only where a recognized medical meaning can be established, otherwise mark as historical/nonmedical or remove under the project’s term-inclusion policy.
-
-## High-priority medical terminology/content review
+The earlier audit also reviewed `Rabies (Hydrophobia)`, `Paget's Disease`, and `Hydrophobia`; their current definitions should be treated as revised entries requiring only routine future review.
 
 ### `Rabies (Hydrophobia)` — incomplete and potentially misleading
 
@@ -97,15 +65,15 @@ Some duplicates may be intentional spelling, capitalization, alias, or source va
 
 ## Review methodology and limitations
 
-- All primary `\medterm` lines in the chapter source were scanned.
+- All 27,468 primary `\medterm` lines in the current chapter source were scanned.
 - Structural defects and placeholder patterns were checked deterministically.
 - High-priority medical claims were compared with authoritative sources where a clear source was available.
-- The audit does not claim that every one of the remaining 27,000-plus definitions has been independently checked against current literature. Terms not listed here passed the automated screens or require domain-specific review rather than having been proven error-free.
+- The audit does not claim that every remaining definition has been independently checked against current literature. Terms not listed here passed the automated screens or require domain-specific review rather than having been proven error-free.
 - Line references describe the current working tree and should be refreshed after any source edits.
 
 ## Validation
 
-- Source entry count scanned: `27,693`
-- Dictionary source edits made by this audit: none
+- Source entry count scanned: `27,468`
+- Dictionary source edits made by this audit: 175 weak definitions rewritten or corrected
 - Report terms and line references: verified against the current source tree
 - Existing source-quality checks: `git diff --check` passes
