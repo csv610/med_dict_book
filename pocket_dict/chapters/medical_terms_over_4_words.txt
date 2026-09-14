@@ -331,7 +331,7 @@ med_terms_d.tex — Dry Mouth During Cancer Treatment
 med_terms_d.tex — Dryness Vaginal (Vaginal Dryness And Vaginal Atrophy)
 med_terms_d.tex — Ductal Carcinoma In Situ (DCIS)
 med_terms_d.tex — Duffy-Null Associated Neutrophil Count (DANC)
-med_terms_e.tex — E. Coli (E. Coli 0157:H7)
+med_terms_e.tex — E. Coli (E. Coli O157:H7)
 med_terms_e.tex — Ear - Blocked At High Altitudes
 med_terms_e.tex — Ear Cleaning (By A Doctor)
 med_terms_e.tex — Ear Object In (Objects Or Insects In Ear)
