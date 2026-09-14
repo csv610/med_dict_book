@@ -309,7 +309,7 @@ med_terms_d.tex — Diabetes Type 2 (Type 2 Diabetes)
 med_terms_d.tex — Diabetes Type 2 - Meal Planning
 med_terms_d.tex — Diabetic Diet For Type 2 Diabetes
 med_terms_d.tex — Diabetic Home Care And Monitoring
-med_terms_d.tex — Diarrhea IBS (IBS-D Irrititable Bowel Syndrome With Diarrhea)
+med_terms_d.tex — Diarrhea IBS (IBS-D Irritable Bowel Syndrome With Diarrhea)
 med_terms_d.tex — Diarrhea, Constipation, Gas, And Bloating
 med_terms_d.tex — Diet Ulcerative Colitis (Ulcerative Colitis Diet)
 med_terms_d.tex — Difficile Clostridium (Clostridium Difficile Colitis)
@@ -479,7 +479,7 @@ med_terms_h.tex — Hodgkin's And Non-Hodgkin's Lymphoma Comparison
 med_terms_h.tex — Hormone Therapy For Breast Cancer
 med_terms_h.tex — Hormone Therapy For Prostate Cancer
 med_terms_h.tex — Hump On Upper Back (Dorsocervical Fat Pad)
-med_terms_i.tex — IBS-D Irrititable Bowel Syndrome With Diarrhea
+med_terms_i.tex — IBS-D Irritable Bowel Syndrome With Diarrhea
 med_terms_i.tex — Idiopathic Facial Paralysis (Facial Nerve Problems)
 med_terms_i.tex — Idiopathic Thrombocytopenic Purpura (ITP) (ITP)
 med_terms_i.tex — IgG And Complement Deposition At The Dermis-Epidermis Junction
