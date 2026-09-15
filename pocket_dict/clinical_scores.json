@@ -670,11 +670,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Abstract": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Abulia": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -2580,11 +2575,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "test"
     },
-    "Adoption": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Adoptive Cell Therapy": {
       "score": 3,
       "rationale": "Clinically useful supporting knowledge for assessment, communication, or care planning.",
@@ -3920,6 +3910,11 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
+    "Allocheiria": {
+      "score": 3,
+      "rationale": "Clinically useful supporting knowledge for assessment, communication, or care planning.",
+      "category": "neurology"
+    },
     "Allogeneic": {
       "score": 2,
       "rationale": "Relevant medical background or specialized knowledge with indirect clinical application.",
@@ -4201,11 +4196,6 @@
       "category": "condition"
     },
     "Alzheimer's Disease": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "disease"
-    },
-    "Alzheimer'S Disease Causes, Stages, And Symptoms": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "disease"
@@ -7820,11 +7810,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "disease"
     },
-    "Asthma: Over The Counter Treatment": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "disease"
-    },
     "Astigmatism": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -8119,11 +8104,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "procedure"
-    },
-    "Atrial Fibrillation AFib Treatment Drugs": {
-      "score": 5,
-      "rationale": "High clinical relevance: directly affects major diagnosis, treatment, prognosis, or patient safety.",
-      "category": "condition"
     },
     "Atrial Fibrillation And Atrial Flutter": {
       "score": 5,
@@ -9154,11 +9134,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Baby": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Baby Acne": {
       "score": 4,
@@ -10489,11 +10464,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "disease"
-    },
-    "Battery": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Battey Bacillus": {
       "score": 4,
@@ -11920,11 +11890,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Bilirubin And Bilirubin Blood Test": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "test"
-    },
     "Bilirubin Blood Test": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -12384,11 +12349,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Biorhythm": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Biosafety": {
       "score": 4,
@@ -24420,11 +24380,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "test"
     },
-    "Clairvoyance": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Clamp": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -24735,11 +24690,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "treatment"
     },
-    "Clinically Proven": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Clinicopathologic Correlation": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -24954,11 +24904,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Closure": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Clot": {
       "score": 4,
@@ -25369,11 +25314,6 @@
       "score": 2,
       "rationale": "Relevant medical background or specialized knowledge with indirect clinical application.",
       "category": "nutrition"
-    },
-    "Coffee": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Coffin-Lowry Syndrome": {
       "score": 4,
@@ -25976,11 +25916,6 @@
       "category": "condition"
     },
     "Common Cold In Babies": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "condition"
-    },
-    "Common Cold Stages And Timeline Of Symptoms": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
@@ -30175,11 +30110,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Death Certificate": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Death Rate": {
       "score": 1,
       "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
@@ -33155,11 +33085,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Dictation Machine": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Dictyostelium": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -33340,11 +33265,6 @@
       "rationale": "High clinical relevance: directly affects major diagnosis, treatment, prognosis, or patient safety.",
       "category": "condition"
     },
-    "Dieting": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Dietitian": {
       "score": 2,
       "rationale": "Relevant medical background or specialized knowledge with indirect clinical application.",
@@ -33359,11 +33279,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Difference Threshold": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Differences Of Sex Development": {
       "score": 4,
@@ -34290,11 +34205,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "disease"
     },
-    "Disinfestation": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Disk": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -34570,11 +34480,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Distribution": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Distributive Shock": {
       "score": 5,
       "rationale": "High clinical relevance: directly affects major diagnosis, treatment, prognosis, or patient safety.",
@@ -34676,11 +34581,6 @@
       "category": "test"
     },
     "Dizziness": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "symptom"
-    },
-    "Dizziness: Causes, Symptoms, And Treatment": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "symptom"
@@ -34919,11 +34819,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Doctor-Patient Relationship": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Doctors' Symbol": {
       "score": 4,
@@ -35490,11 +35385,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Dreamy State": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Drepanocytosis": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -35609,11 +35499,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Drops": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Dropsy": {
       "score": 4,
@@ -37540,11 +37425,6 @@
       "rationale": "High clinical relevance: directly affects major diagnosis, treatment, prognosis, or patient safety.",
       "category": "condition"
     },
-    "Ego": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
-    },
     "Egophony": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -37779,11 +37659,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Elderberry": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Elderly": {
       "score": 4,
@@ -39044,11 +38919,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Endomorph": {
-      "score": 1,
-      "rationale": "Primarily educational, general, or peripheral terminology rather than a direct clinical decision term.",
-      "category": "general"
     },
     "Endomyocardial Fibrosis": {
       "score": 4,
@@ -46769,11 +46639,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
-    },
-    "Food": {
-      "score": 2,
-      "rationale": "Relevant medical background or specialized knowledge with indirect clinical application.",
-      "category": "nutrition"
     },
     "Food Addiction": {
       "score": 4,
@@ -57479,11 +57344,6 @@
       "score": 3,
       "rationale": "Clinically useful supporting knowledge for assessment, communication, or care planning.",
       "category": "anatomy"
-    },
-    "Hind": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "condition"
     },
     "Hindbrain": {
       "score": 1,
@@ -74915,11 +74775,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Maturity Onset Diabetes Of The Young": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "disease"
-    },
     "Matuzumab": {
       "score": 5,
       "rationale": "High clinical relevance: directly affects major diagnosis, treatment, prognosis, or patient safety.",
@@ -78620,7 +78475,7 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "condition"
     },
-    "Milan System For Reporting Salivary Gland Cytopathology": {
+    "Milan System (Salivary Gland Cytopathology)": {
       "score": 3,
       "rationale": "Clinically useful supporting knowledge for assessment, communication, or care planning.",
       "category": "anatomy"
@@ -83480,11 +83335,6 @@
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "symptom"
     },
-    "Neonatal Jaundice (Jaundice Of The Newborn)": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "symptom"
-    },
     "Neonatal Opioid Withdrawal Syndrome": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -85125,11 +84975,6 @@
       "rationale": "Relevant medical background or specialized knowledge with indirect clinical application.",
       "category": "biology"
     },
-    "Nonagenarian": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "condition"
-    },
     "Nonalcoholic Fatty Liver Disease": {
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
@@ -85689,11 +85534,6 @@
       "score": 4,
       "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
       "category": "test"
-    },
-    "Nurse Assistant": {
-      "score": 4,
-      "rationale": "Directly relevant to clinical diagnosis, management, monitoring, prevention, or patient counseling.",
-      "category": "condition"
     },
     "Nurse Practitioner": {
       "score": 1,
