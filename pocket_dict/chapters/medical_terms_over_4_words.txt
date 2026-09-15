@@ -38,7 +38,6 @@ med_terms_a.tex — Adhesive Capsulitis Of Shoulder (Frozen Shoulder)
 med_terms_a.tex — Adolescent Test Or Procedure Preparation
 med_terms_a.tex — Adults Autism (Autism And Communication)
 med_terms_a.tex — Advance Directives (Advance Medical Directives)
-med_terms_a.tex — Advance Statements About Medical Treatment
 med_terms_a.tex — Afib (Atrial Fibrillation (AFib) Warning Symptoms)
 med_terms_a.tex — Agenesis Of The Corpus Callosum
 med_terms_a.tex — Aging Spots - Should You Be Concerned?
@@ -55,8 +54,8 @@ med_terms_a.tex — Alzheimer's Disease Causes, Stages, And Symptoms
 med_terms_a.tex — Amoebic Dysentery (Amebiasis Entamoeba Histolytica Infection)
 med_terms_a.tex — Amoxicillin Rash In Infectious Mononucleosis
 med_terms_a.tex — Anatomy Survey (Level II Ultrasound)
-med_terms_a.tex — Anemia Caused By Low Iron - Children
-med_terms_a.tex — Anemia Caused By Low Iron - Infants And Toddlers
+med_terms_i.tex — Iron-Deficiency Anemia in Children
+med_terms_i.tex — Iron-Deficiency Anemia in Infants and Toddlers
 med_terms_a.tex — Angina - When You Have Chest Pain
 med_terms_a.tex — Angioedema Hereditary (Hereditary Angioedema HAE)
 med_terms_a.tex — Angioplasty And Stent Placement - Heart
