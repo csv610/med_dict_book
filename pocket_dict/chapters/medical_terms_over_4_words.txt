@@ -343,14 +343,12 @@ med_terms_e.tex — Effusion Pleural (Pleural Effusion (Fluid In The Chest Or On
 med_terms_e.tex — Electron Beam Computerized Tomography (EBCT)
 med_terms_e.tex — Embryonal Tumor Of The Central Nervous System
 med_terms_e.tex — Emotional Dysregulation Disorder (Borderline Personality Disorder)
-med_terms_e.tex — Emphysematous Aortitis Due To Clostridium Septicum
 med_terms_e.tex — End-Stage COPD: Signs, Symptoms, And Prognosis
 med_terms_e.tex — Endometrioid Carcinoma Of The Vulva
 med_terms_e.tex — Enlarged Breasts In Men (Gynecomastia)
 med_terms_e.tex — Enterovirulent E. Coli (EEC) (EEC)
 med_terms_e.tex — Enthesitand Enthesopathy (Enthesitis And Enthesopathy)
 med_terms_e.tex — Epidural Injections For Back Pain
-med_terms_e.tex — Erectile Dysfunction (ED, Impotence) (ED)
 med_terms_e.tex — Estimated Date Of Confinement (EDC)
 med_terms_e.tex — Evoked Potentials (VEP, BAER, SSEP)
 med_terms_e.tex — Excess Facial Hair In Women
@@ -484,7 +482,6 @@ med_terms_i.tex — Idiopathic Thrombocytopenic Purpura (ITP) (ITP)
 med_terms_i.tex — IgG And Complement Deposition At The Dermis-Epidermis Junction
 med_terms_i.tex — Immune Thrombocytopenic Purpura (Idiopathic Thrombocytopenic Purpura (ITP))
 med_terms_i.tex — Immunizations For People With Diabetes
-med_terms_i.tex — Impotence (Erectile Dysfunction (ED, Impotence))
 med_terms_i.tex — Infant Of A Substance-Using Mother
 med_terms_i.tex — Infection Cyclospora (Cyclospora Infection (Cyclosporiasis))
 med_terms_i.tex — Infection Enterovirus (Enterovirus (Non-Polio Enterovirus Infection))
