@@ -323,7 +323,6 @@ med_terms_d.tex — Dizziness: Causes, Symptoms, And Treatment
 med_terms_d.tex — Dizziness: When To See A Doctor?
 med_terms_d.tex — Do You Have A Drinking Problem?
 med_terms_d.tex — Doppler Ultrasound Exam Of An Arm Or Leg
-med_terms_d.tex — Dos And Donts During First Trimester Of Pregnancy
 med_terms_d.tex — Drinking Water Safely During Cancer Treatment
 med_terms_d.tex — Drugs That May Cause Erection Problems
 med_terms_d.tex — Dry Mouth During Cancer Treatment
@@ -797,7 +796,6 @@ med_terms_s.tex — SPECT Scan (Single Photon Emission CT)
 med_terms_s.tex — Sacroiliac Joint Dysfunction (SI Joint Pain)
 med_terms_s.tex — Sacroiliac Joint Dysfunction (Sacroiliac Joint Pain)
 med_terms_s.tex — Safe Eating During Cancer Treatment
-med_terms_s.tex — School Age Test Or Procedure Preparation
 med_terms_s.tex — Sciatica: Causes, Treatment, And Symptoms
 med_terms_s.tex — Screening And Diagnosis For HIV
 med_terms_s.tex — Seasonal Affective Disorder (SAD) (SAD)
