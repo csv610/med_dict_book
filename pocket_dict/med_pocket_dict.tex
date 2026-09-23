@@ -72,8 +72,11 @@
 
 \onecolumn
 \frontmatter
-\maketitle
-\thispagestyle{fancy}
+\begin{titlepage}
+\thispagestyle{empty}
+\centering
+\includegraphics[width=\textwidth,height=0.94\textheight,keepaspectratio]{frontpage.png}
+\end{titlepage}
 
 \section*{Preface}
 \addcontentsline{toc}{section}{Preface}
@@ -238,6 +241,10 @@
 \clearpage
 \chapter{Genetic Diseases}
 \input{appendices/genetic_diseases}
+
+\clearpage
+\chapter{Inherited Diseases}
+\input{appendices/inherited_diseases}
 
 \clearpage
 \chapter{Common Symptoms}
