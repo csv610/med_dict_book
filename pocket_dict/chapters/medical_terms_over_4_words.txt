@@ -201,7 +201,7 @@ chapters/med_terms_h.tex — Heart Failure With Preserved Ejection Fraction
 chapters/med_terms_h.tex — Heart Failure With Reduced Ejection Fraction
 chapters/med_terms_h.tex — Helicobacter Pylori-Associated Active Gastritis Pathology
 chapters/med_terms_h.tex — Hemiparesis with Conjugate Gaze Deviation
-chapters/med_terms_h.tex — Hemolytic Disease Of The Newborn
+chapters/med_terms_h.tex — Hemolytic Disease Of The Fetus And Newborn
 chapters/med_terms_h.tex — Hereditary and Acquired Ichthyosis Vulgaris
 chapters/med_terms_h.tex — Hereditary Leiomyomatosis And Renal Cell Cancer
 chapters/med_terms_h.tex — Hereditary Motor and Sensory Neuropathy

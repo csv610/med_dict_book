@@ -12,3 +12,4 @@ texput.log
 # Latexmk build artifacts
 *.fdb_latexmk
 *.fls
+*.bak

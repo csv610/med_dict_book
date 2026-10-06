@@ -1,0 +1,1527 @@
+[
+  {
+    "name": "Abdomen",
+    "definition": "The region of the body between the lower ribs and the upper thighs, containing abdominal organs and major blood vessels.",
+    "clinical_significance": "The abdomen is an important anatomical region for describing the location of abdominal aortic disease, vascular injury, internal bleeding, and symptoms that may arise from abdominal organs."
+  },
+  {
+    "name": "Abdominal aorta",
+    "definition": "The segment of the aorta that runs through the abdomen after the vessel passes below the diaphragm and before it divides into the iliac arteries.",
+    "clinical_significance": "Disease of the abdominal aorta can alter blood flow to abdominal organs and the lower limbs; aneurysm, dissection, or occlusion in this segment can therefore be clinically serious."
+  },
+  {
+    "name": "Ablation",
+    "definition": "A procedure that destroys or removes a selected area of tissue. In cardiac ablation, the targeted tissue may be treated with heat, freezing, or another energy source.",
+    "clinical_significance": "Cardiac ablation can eliminate or isolate tissue that initiates or maintains an abnormal heart rhythm, making it an important treatment approach for selected arrhythmias."
+  },
+  {
+    "name": "ACE (angiotensin-converting enzyme) inhibitor",
+    "definition": "A medicine that inhibits angiotensin-converting enzyme, reducing the formation of angiotensin II, a substance that constricts blood vessels and promotes sodium and water retention.",
+    "clinical_significance": "By reducing angiotensin II activity, an ACE inhibitor lowers vascular resistance and blood pressure and reduces the workload imposed on the heart."
+  },
+  {
+    "name": "Acetylcholine",
+    "definition": "A neurotransmitter released by nerve cells that carries signals to other nerve cells and to muscle cells by binding to specific receptors.",
+    "clinical_significance": "Acetylcholine mediates parasympathetic effects on the heart, including slowing activity at the sinoatrial and atrioventricular nodes, and is therefore relevant to cardiac rate and conduction."
+  },
+  {
+    "name": "Acquired heart disease",
+    "definition": "A disorder of the heart or cardiovascular system that develops after birth rather than being present as a congenital defect. Causes include infection and atherosclerotic plaque in the coronary arteries.",
+    "clinical_significance": "The term distinguishes disease acquired during life from congenital heart disease; depending on its cause, it may impair myocardial blood supply, valve function, rhythm, or the heart's pumping ability."
+  },
+  {
+    "name": "Alveoli",
+    "definition": "Microscopic air sacs at the ends of the smallest airways in the lungs, surrounded by capillaries and specialized for the exchange of oxygen and carbon dioxide.",
+    "clinical_significance": "Alveolar gas exchange oxygenates blood and removes carbon dioxide; damage or fluid within the alveoli can impair oxygenation and place additional stress on the cardiovascular system."
+  },
+  {
+    "name": "Amiodarone",
+    "definition": "A class III antiarrhythmic medicine that alters cardiac electrical activity and is used to treat rhythm disturbances such as atrial fibrillation and ventricular tachycardia.",
+    "clinical_significance": "Amiodarone can suppress clinically important atrial and ventricular arrhythmias and is often reserved for patients whose rhythm disturbance has not responded adequately to other antiarrhythmic medicines."
+  },
+  {
+    "name": "Aneurysm",
+    "definition": "A localized abnormal widening or bulging of a blood vessel or a heart wall caused by weakening of the vessel wall or cardiac muscle.",
+    "clinical_significance": "An aneurysm represents structural weakness that can enlarge over time and, depending on its location and severity, may dissect, rupture, impair blood flow, or generate emboli."
+  },
+  {
+    "name": "Angina or angina pectoris",
+    "definition": "A symptom of myocardial ischemia, usually experienced as pressure, tightness, or discomfort in the chest when the coronary circulation cannot supply enough oxygen to the heart muscle.",
+    "clinical_significance": "Angina commonly reflects underlying coronary artery disease and indicates an imbalance between myocardial oxygen supply and demand; a new, worsening, or rest pattern may signify more severe ischemia."
+  },
+  {
+    "name": "Angiography",
+    "definition": "An imaging procedure in which a radiopaque contrast agent is introduced into the heart or blood vessels and x-ray images are obtained to show the vessel lumen and the passage of blood.",
+    "clinical_significance": "Cardiac and coronary angiography can identify arterial narrowing or occlusion and characterize cardiac or vascular anatomy, helping clinicians evaluate ischemic disease and plan catheter-based treatment."
+  },
+  {
+    "name": "Angioplasty",
+    "definition": "A catheter-based procedure in which a balloon is inflated within a narrowed artery to compress plaque and enlarge the arterial lumen; a stent may also be placed to help keep the vessel open.",
+    "clinical_significance": "Angioplasty restores or improves blood flow through a stenotic artery and is used as a revascularization procedure, including in selected coronary and peripheral arterial disease."
+  },
+  {
+    "name": "Angiotensin II receptor blocker",
+    "definition": "A medicine that blocks the effects of angiotensin II at its receptors, reducing vasoconstriction and the associated retention of sodium and water.",
+    "clinical_significance": "By opposing angiotensin II signaling, an angiotensin II receptor blocker lowers vascular resistance and blood pressure and reduces the afterload against which the heart pumps."
+  },
+  {
+    "name": "Annulus",
+    "definition": "The fibrous ring surrounding a heart-valve opening, to which the valve leaflets or cusps are attached and which helps maintain the shape of the orifice.",
+    "clinical_significance": "The size and shape of a valve annulus affect leaflet coaptation and valve competence; annular enlargement can contribute to regurgitation and is important in echocardiographic and procedural valve assessment."
+  },
+  {
+    "name": "Antiarrhythmics",
+    "definition": "A group of medicines that modify cardiac electrical activity, including impulse formation, conduction, or refractoriness, to treat abnormal heart rhythms.",
+    "clinical_significance": "Antiarrhythmics are used to suppress or prevent clinically significant atrial or ventricular arrhythmias and may help restore or maintain an effective cardiac rhythm."
+  },
+  {
+    "name": "Anticoagulant",
+    "definition": "A medicine that inhibits one or more steps in the blood-coagulation cascade, reducing the formation or growth of fibrin-containing blood clots.",
+    "clinical_significance": "Anticoagulants reduce the risk of thrombosis and embolism in appropriate cardiovascular conditions, but their effect also increases the potential for clinically important bleeding."
+  },
+  {
+    "name": "Antihypertensive",
+    "definition": "A medicine or therapeutic intervention used to reduce persistently elevated arterial blood pressure by lowering vascular resistance, reducing cardiac output, decreasing circulating volume, or using another blood-pressure-lowering mechanism.",
+    "clinical_significance": "Antihypertensive treatment reduces the hemodynamic burden on the heart and arteries and is used to lower the risk of complications associated with sustained hypertension, including cardiovascular and cerebrovascular disease."
+  },
+  {
+    "name": "Antiplatelet therapy",
+    "definition": "Treatment with medicines that inhibit platelet activation and aggregation, thereby reducing formation of the platelet-rich component of a blood clot.",
+    "clinical_significance": "Antiplatelet therapy is particularly relevant to arterial thrombosis, where platelet aggregation contributes to vessel occlusion; its principal treatment-related hazard is increased bleeding."
+  },
+  {
+    "name": "Aorta",
+    "definition": "The body's largest artery, arising from the left ventricle and carrying oxygenated blood through the ascending aorta, arch, and descending thoracic and abdominal segments to the systemic circulation.",
+    "clinical_significance": "The aorta is the principal conduit for systemic blood flow; diseases such as aneurysm, dissection, or obstruction can compromise perfusion of major organs and may be life-threatening."
+  },
+  {
+    "name": "Aortic valve",
+    "definition": "The usually three-cusped valve between the left ventricle and the aorta that opens during ventricular contraction to permit forward flow and closes during relaxation to prevent backflow.",
+    "clinical_significance": "Aortic stenosis obstructs left-ventricular ejection, whereas aortic regurgitation allows blood to return to the ventricle; either lesion can increase cardiac workload and impair effective systemic output."
+  },
+  {
+    "name": "Aphasia",
+    "definition": "An acquired disorder of language caused by injury or disease affecting the brain's language networks, impairing the production or comprehension of speech and sometimes reading or writing.",
+    "clinical_significance": "Aphasia is an important neurological sign of dominant-hemisphere dysfunction, commonly after stroke, and helps indicate the location and functional impact of cerebral injury."
+  },
+  {
+    "name": "Arrhythmia (or dysrhythmia)",
+    "definition": "An abnormality of the heart's rate, rhythm, or electrical impulse formation or conduction, producing a heartbeat that may be too fast, too slow, irregular, or arising from an abnormal site.",
+    "clinical_significance": "Arrhythmias can reduce cardiac output, cause palpitations, dizziness, or syncope, and in some forms increase the risk of thromboembolism, heart failure, or sudden cardiac death."
+  },
+  {
+    "name": "Arrhythmogenic right ventricular dysplasia (ARVD)",
+    "definition": "An inherited cardiomyopathy, also called arrhythmogenic right ventricular cardiomyopathy, in which myocardial tissue—predominantly in the right ventricle—is progressively replaced by fibrous or fatty tissue.",
+    "clinical_significance": "The structural myocardial changes create a substrate for ventricular tachyarrhythmias and may impair right-ventricular function, making ARVD an important cause of syncope, ventricular arrhythmia, and sudden cardiac death in affected families."
+  },
+  {
+    "name": "Arteriography",
+    "definition": "A contrast-enhanced imaging study of an artery or arterial system, usually performed by injecting radiopaque contrast during catheterization and obtaining images of the arterial lumen.",
+    "clinical_significance": "Arteriography can demonstrate stenosis, occlusion, aneurysm, or other arterial abnormalities and can provide anatomical guidance for endovascular or surgical planning."
+  },
+  {
+    "name": "Arterioles",
+    "definition": "Small branches of arteries that lead into capillary beds and contain a prominent layer of smooth muscle capable of changing their diameter.",
+    "clinical_significance": "Arterioles are the major resistance vessels of the circulation; their constriction or dilation regulates systemic vascular resistance, arterial pressure, and distribution of blood flow to tissues."
+  },
+  {
+    "name": "Artery",
+    "definition": "A blood vessel that carries blood away from the heart. Most arteries carry oxygenated blood to the tissues, although the pulmonary arteries carry deoxygenated blood to the lungs.",
+    "clinical_significance": "Arterial narrowing, blockage, inflammation, or rupture can reduce or interrupt tissue perfusion, producing ischemia or hemorrhage in the organs supplied by the affected artery."
+  },
+  {
+    "name": "Arteritis",
+    "definition": "Inflammation of the wall of one or more arteries, caused by an immune-mediated disease, infection, or another inflammatory process.",
+    "clinical_significance": "Arterial inflammation can thicken or weaken the vessel wall, producing stenosis, thrombosis, aneurysm, or dissection and reducing blood flow to the tissues supplied by the affected arteries."
+  },
+  {
+    "name": "Arteriosclerosis",
+    "definition": "A general term for thickening, hardening, and loss of elasticity of arterial walls. It includes several processes, including atherosclerosis, arteriolosclerosis, and medial arterial calcification.",
+    "clinical_significance": "Reduced arterial compliance can increase vascular resistance and pulse pressure, while associated narrowing or plaque formation can limit tissue perfusion and contribute to cardiovascular and cerebrovascular disease."
+  },
+  {
+    "name": "Artificial heart",
+    "definition": "A mechanical prosthesis designed to replace the pumping function of the native heart; a total artificial heart replaces the ventricles and associated valves.",
+    "clinical_significance": "An artificial heart can provide mechanical circulation for selected patients with severe, otherwise refractory heart failure, often as support while a donor heart is sought; device-related infection, bleeding, or thrombosis are important clinical concerns."
+  },
+  {
+    "name": "Ascending aorta",
+    "definition": "The proximal segment of the aorta that begins at the aortic valve and extends superiorly to the origin of the aortic arch; its root contains the openings of the coronary arteries.",
+    "clinical_significance": "Aneurysm, dissection, or other disease of the ascending aorta can compromise the coronary arteries or aortic valve and may threaten the integrity of the aorta itself."
+  },
+  {
+    "name": "Aspirin",
+    "definition": "Acetylsalicylic acid, a salicylate medicine that provides analgesic, antipyretic, and anti-inflammatory effects and irreversibly inhibits platelet cyclooxygenase at low doses.",
+    "clinical_significance": "By reducing thromboxane-dependent platelet aggregation, aspirin can lower arterial thrombotic risk in selected cardiovascular settings; its antiplatelet effect also increases the risk of gastrointestinal and other bleeding."
+  },
+  {
+    "name": "Atherectomy",
+    "definition": "A catheter-based endovascular procedure that removes or modifies atherosclerotic plaque within an artery using a specialized device, such as a cutting, rotating, orbital, or laser system.",
+    "clinical_significance": "Atherectomy can debulk selected obstructive or heavily calcified lesions to enlarge the arterial lumen and facilitate blood flow or subsequent intervention; procedural complications can include distal embolization or vessel injury."
+  },
+  {
+    "name": "Atherosclerosis",
+    "definition": "A chronic inflammatory disease of medium and large arteries in which lipid, fibrous tissue, inflammatory cells, and calcium accumulate within the arterial wall to form atherosclerotic plaque.",
+    "clinical_significance": "Plaque can progressively narrow an artery or rupture and trigger thrombosis, making atherosclerosis a major cause of coronary artery disease, ischemic stroke, and peripheral arterial ischemia."
+  },
+  {
+    "name": "Atrium (right and left)",
+    "definition": "The two upper chambers of the heart. The right atrium receives deoxygenated blood from the systemic veins, while the left atrium receives oxygenated blood from the pulmonary veins; each passes blood to its corresponding ventricle through an atrioventricular valve.",
+    "clinical_significance": "The atria serve as reservoirs and contribute to ventricular filling; atrial enlargement, abnormal pressure, or loss of coordinated atrial contraction can impair filling and promote atrial arrhythmias or thrombus formation."
+  },
+  {
+    "name": "Atrial flutter",
+    "definition": "A supraventricular tachyarrhythmia caused by a rapid, usually organized re-entrant electrical circuit in the atria, producing rapid atrial depolarizations and variable conduction of impulses to the ventricles.",
+    "clinical_significance": "Atrial flutter can cause palpitations, reduced ventricular filling, or a rapid ventricular response, and the abnormal atrial rhythm can promote atrial thrombus formation and systemic thromboembolism."
+  },
+  {
+    "name": "Atrial septal defect",
+    "definition": "A congenital opening in the septum between the right and left atria that permits blood to pass between the heart's upper chambers; the direction and size of the shunt depend on relative atrial pressures.",
+    "clinical_significance": "A significant left-to-right atrial shunt can enlarge and overload the right atrium and ventricle and increase pulmonary blood flow; atrial arrhythmias, pulmonary hypertension, or paradoxical embolism may occur in established disease."
+  },
+  {
+    "name": "Atrial tachycardia",
+    "definition": "A supraventricular tachyarrhythmia in which rapid electrical impulses arise from an atrial focus rather than the sinoatrial node, producing a rapid atrial and usually ventricular rhythm.",
+    "clinical_significance": "Atrial tachycardia can cause palpitations, dizziness, or reduced cardiac output; when sustained or recurrent, the rapid rate may impair ventricular function and produce tachycardia-mediated cardiomyopathy."
+  },
+  {
+    "name": "Atrioventricular block",
+    "definition": "Delayed or failed conduction of electrical impulses from the atria to the ventricles through the atrioventricular node or His–Purkinje conduction system. It may be first-degree, second-degree, or complete (third-degree) block.",
+    "clinical_significance": "Atrioventricular block can produce bradycardia, loss of coordinated atrial and ventricular contraction, reduced cardiac output, dizziness, or syncope; complete block may cause severe hemodynamic compromise."
+  },
+  {
+    "name": "Atrioventricular (AV) node",
+    "definition": "A specialized group of conducting cells in the lower interatrial septum that receives impulses from the atria, briefly delays them, and conducts them to the ventricles through the bundle of His.",
+    "clinical_significance": "The AV node coordinates atrial and ventricular activation and limits transmission of excessively rapid atrial impulses; disease or excessive delay at this site can cause atrioventricular block and bradycardia."
+  },
+  {
+    "name": "Atrium",
+    "definition": "Either of the heart's two upper chambers. An atrium receives blood returning to the heart and transfers it through an atrioventricular valve into the corresponding ventricle.",
+    "clinical_significance": "Atrial size, pressure, and rhythm influence ventricular filling; atrial dilation or dysfunction can accompany valve disease, heart failure, pulmonary hypertension, or atrial arrhythmias."
+  },
+  {
+    "name": "Autologous",
+    "definition": "Derived from the same individual who receives it; an autologous graft, transplant, blood product, or cell preparation is collected from and returned to that person.",
+    "clinical_significance": "Autologous material generally avoids donor-recipient immunologic incompatibility and is therefore relevant when describing a patient's own vascular graft, stem cells, or other transplanted tissue."
+  },
+  {
+    "name": "Autoregulation",
+    "definition": "The intrinsic ability of an organ or vascular bed to maintain relatively stable blood flow despite changes in perfusion pressure, mainly through local changes in arteriolar resistance.",
+    "clinical_significance": "Autoregulation helps preserve tissue perfusion across a range of arterial pressures; failure of this mechanism can make organs, particularly the brain, heart, and kidneys, vulnerable to ischemia or pressure-related injury."
+  },
+  {
+    "name": "Bacteria",
+    "definition": "Single-celled prokaryotic microorganisms. Many are harmless or beneficial members of the normal microbiota, while pathogenic species can invade tissues and cause infection.",
+    "clinical_significance": "Bacteria can enter the bloodstream and cause bacteremia, sepsis, or infection of abnormal heart valves and the endocardium; identifying the organism is important for classifying and managing cardiovascular infection."
+  },
+  {
+    "name": "Bacterial endocarditis",
+    "definition": "An infection of the endocardial surface of the heart, most often involving one or more heart valves, caused by bacteria circulating in the bloodstream and forming infected vegetations.",
+    "clinical_significance": "Bacterial endocarditis can destroy valve tissue, cause severe regurgitation and heart failure, and release infected emboli; it is therefore a potentially life-threatening cardiovascular infection."
+  },
+  {
+    "name": "Balloon catheter",
+    "definition": "A thin, flexible catheter with an inflatable balloon near its tip that can be advanced through a blood vessel to a selected site and inflated for a therapeutic or procedural purpose.",
+    "clinical_significance": "Balloon catheters are used to dilate narrowed arteries or stenotic valves and to expand intravascular stents; their use carries procedure-related risks such as vessel injury, dissection, or distal embolization."
+  },
+  {
+    "name": "Balloon valvuloplasty",
+    "definition": "A catheter-based procedure in which an inflatable balloon is positioned across a stenotic heart valve and expanded to separate fused or stiffened valve leaflets and enlarge the valve opening.",
+    "clinical_significance": "Balloon valvuloplasty reduces obstruction to forward blood flow and can improve haemodynamics in selected valve stenoses; restenosis or new valve regurgitation may occur after the procedure."
+  },
+  {
+    "name": "Beta-blocker",
+    "definition": "A medicine that blocks beta-adrenergic receptors, reducing the effects of epinephrine and norepinephrine on the heart and, for some agents, on vascular smooth muscle and the kidneys.",
+    "clinical_significance": "Beta-blockade can slow the heart rate, reduce contractility and myocardial oxygen demand, suppress some arrhythmias, and lower blood pressure; excessive effect may cause bradycardia, hypotension, or impaired conduction."
+  },
+  {
+    "name": "Biopsy",
+    "definition": "The removal of a small sample of cells or tissue by needle, endoscopic, catheter-based, or surgical technique for microscopic, biochemical, or molecular examination.",
+    "clinical_significance": "Biopsy provides direct tissue evidence for diagnosing inflammation, infection, malignancy, or other structural disease; in heart transplantation it can also be used to assess myocardial rejection."
+  },
+  {
+    "name": "Blalock-Taussig procedure",
+    "definition": "A palliative systemic-to-pulmonary artery shunt, classically connecting the subclavian artery to a pulmonary artery and often performed with a synthetic graft, to increase pulmonary blood flow in cyanotic congenital heart disease.",
+    "clinical_significance": "The procedure can improve arterial oxygenation and support pulmonary blood flow before definitive congenital-heart repair; shunt obstruction, thrombosis, or excessive pulmonary flow are important potential complications."
+  },
+  {
+    "name": "Blood clot",
+    "definition": "A semisolid mass formed when platelets, fibrin, and blood cells aggregate during coagulation. A clot may form normally to stop bleeding or abnormally within a blood vessel or heart chamber, where it is called a thrombus.",
+    "clinical_significance": "Pathological thrombosis can obstruct venous or arterial blood flow or detach as an embolus, causing conditions such as deep-vein thrombosis, pulmonary embolism, myocardial infarction, or ischemic stroke."
+  },
+  {
+    "name": "Blood pressure",
+    "definition": "The pressure exerted by circulating blood against the walls of the arteries, produced by the interaction of cardiac output and vascular resistance and expressed as systolic and diastolic values.",
+    "clinical_significance": "Blood pressure is a major indicator of circulatory function; persistent elevation increases vascular and cardiac workload and risk of organ damage, whereas abnormally low pressure may impair tissue perfusion."
+  },
+  {
+    "name": "Blue babies",
+    "definition": "A colloquial term for infants with central cyanosis, a bluish discoloration of the skin or mucous membranes caused by reduced arterial oxygenation or, less commonly, an abnormal haemoglobin.",
+    "clinical_significance": "Cyanosis in an infant may indicate a cyanotic congenital heart defect, pulmonary disease, abnormal circulation, or a blood disorder and signifies potentially inadequate oxygen delivery to tissues."
+  },
+  {
+    "name": "Body mass index (BMI)",
+    "definition": "A weight-to-height index calculated as body weight in kilograms divided by height in metres squared (kg/m²). It is a population-level screening measure of weight status, not a direct measurement of body-fat percentage.",
+    "clinical_significance": "Higher BMI is associated with increased risk of hypertension, diabetes, cardiovascular disease, and other obesity-related conditions, but interpretation should account for body composition, age, and clinical context."
+  },
+  {
+    "name": "Bradycardia",
+    "definition": "A heart rate that is slower than expected for the clinical context, commonly defined as fewer than 60 beats per minute in an adult at rest; it may result from slow sinus-node activity or impaired conduction.",
+    "clinical_significance": "Bradycardia may be a normal physiological finding in sleep or trained athletes, but symptomatic or pathological bradycardia can reduce cardiac output and cause fatigue, dizziness, syncope, or exercise intolerance."
+  },
+  {
+    "name": "Bridge to transplant",
+    "definition": "A treatment strategy in which mechanical circulatory support, such as a ventricular-assist device, maintains or supplements cardiac output in a patient with advanced heart failure until heart transplantation can be performed.",
+    "clinical_significance": "Bridge support can stabilize circulation and preserve end-organ function while a patient awaits a donor heart; device-related infection, thrombosis, bleeding, and stroke remain important complications."
+  },
+  {
+    "name": "Bruit",
+    "definition": "An abnormal sound heard over an artery with a stethoscope, produced by turbulent blood flow, often near a narrowed, irregular, or otherwise abnormal segment of the vessel.",
+    "clinical_significance": "A bruit, such as a carotid bruit, can suggest underlying arterial stenosis or altered vascular flow, although it is not a definitive measure of the severity of obstruction and must be interpreted with other findings."
+  },
+  {
+    "name": "Bundle branch block",
+    "definition": "A delay or interruption of electrical conduction through the right or left bundle branch, causing the corresponding ventricle to depolarize later than the other ventricle.",
+    "clinical_significance": "Bundle branch block produces characteristic electrocardiographic changes and may be an incidental finding or a marker of underlying structural heart disease; a left bundle branch block can also cause ventricular dyssynchrony and worsen pump dysfunction."
+  },
+  {
+    "name": "Bypass",
+    "definition": "A surgical procedure that creates an alternative route for blood flow around a narrowed or occluded artery, using a vein, an artery, or a synthetic graft as the conduit.",
+    "clinical_significance": "Arterial bypass can restore perfusion beyond an obstructed segment, such as in coronary artery bypass grafting or peripheral revascularization, although graft failure, thrombosis, and operative complications can occur."
+  },
+  {
+    "name": "Calcium channel blocker (or calcium blocker)",
+    "definition": "A medicine that blocks L-type calcium channels in vascular smooth muscle and, depending on the drug, in cardiac muscle and the conduction system.",
+    "clinical_significance": "Calcium channel blockers can lower arterial pressure through vasodilation; non-dihydropyridine agents also slow atrioventricular conduction and reduce heart rate, making the class relevant to hypertension, angina, and selected tachyarrhythmias."
+  },
+  {
+    "name": "Capillaries",
+    "definition": "The smallest blood vessels, linking arterioles with venules and consisting primarily of a single endothelial layer through which gases, nutrients, fluid, and metabolic waste can be exchanged with tissues.",
+    "clinical_significance": "Capillary exchange supplies tissues with oxygen and nutrients and removes waste; altered capillary pressure or permeability contributes to oedema, impaired tissue oxygenation, and microvascular injury."
+  },
+  {
+    "name": "Cardiac",
+    "definition": "An adjective meaning related to the heart, including its chambers, valves, myocardium, pericardium, electrical conduction system, or function.",
+    "clinical_significance": "The term identifies a finding, disease, test, or procedure as involving the heart and helps distinguish cardiac pathology from disorders of other parts of the cardiovascular system."
+  },
+  {
+    "name": "Cardiac amyloidosis",
+    "definition": "An infiltrative cardiomyopathy in which misfolded amyloid proteins, commonly light-chain or transthyretin amyloid, deposit in the myocardial interstitium and sometimes the conduction system.",
+    "clinical_significance": "Amyloid infiltration makes the ventricles stiff and can cause restrictive physiology, heart failure, atrial or ventricular arrhythmias, and conduction disease; the amyloid type has important diagnostic and prognostic implications."
+  },
+  {
+    "name": "Cardiac arrest",
+    "definition": "The abrupt cessation of effective cardiac mechanical activity, usually caused by ventricular fibrillation, ventricular tachycardia, or asystole.",
+    "clinical_significance": "Cardiac arrest stops systemic perfusion and causes loss of consciousness and death without prompt restoration of circulation; it is distinct from myocardial infarction, although infarction can precipitate it."
+  },
+  {
+    "name": "Cardiac cachexia",
+    "definition": "A wasting syndrome of involuntary weight loss, muscle depletion, and weakness associated with advanced chronic heart failure or other severe cardiac disease.",
+    "clinical_significance": "It reflects systemic consequences of severe cardiac dysfunction and is associated with reduced functional reserve, poorer tolerance of illness, and adverse prognosis."
+  },
+  {
+    "name": "Cardiac catheterization",
+    "definition": "A procedure in which a thin catheter is advanced through a blood vessel into the heart or great vessels for measurement, imaging, electrophysiological testing, or treatment.",
+    "clinical_significance": "It permits direct assessment of intracardiac pressures and anatomy and provides access for angiography, biopsy, ablation, and catheter-based interventions."
+  },
+  {
+    "name": "Cardiac enzymes",
+    "definition": "Proteins released from injured cells that catalyse biochemical reactions; in cardiovascular practice the term commonly refers to blood biomarkers such as cardiac troponin and, historically, CK-MB.",
+    "clinical_significance": "Serial cardiac biomarker measurements help detect myocardial injury, although an elevated result must be interpreted with symptoms, ECG findings, and other causes of injury."
+  },
+  {
+    "name": "Cardiac output",
+    "definition": "The volume of blood ejected by a ventricle into the circulation each minute, calculated as heart rate multiplied by stroke volume.",
+    "clinical_significance": "It describes the heart’s global pumping performance; inadequate output can cause tissue hypoperfusion, while assessment of output helps characterise shock and heart failure."
+  },
+  {
+    "name": "Cardiologist",
+    "definition": "A physician specialising in the prevention, diagnosis, and medical or catheter-based management of diseases of the heart and cardiovascular system.",
+    "clinical_significance": "Cardiologists evaluate disorders such as coronary disease, arrhythmia, valve disease, and heart failure and may perform invasive diagnostic or therapeutic procedures."
+  },
+  {
+    "name": "Cardiology",
+    "definition": "The medical specialty concerned with the structure, function, diseases, and treatment of the heart and circulatory system.",
+    "clinical_significance": "It encompasses cardiovascular prevention, diagnostic testing, medicines, electrophysiology, catheter intervention, and management of acute and chronic heart disease."
+  },
+  {
+    "name": "Cardiomegaly",
+    "definition": "Enlargement of the heart detected clinically or on imaging, without specifying its cause.",
+    "clinical_significance": "It can reflect chronic pressure or volume overload, cardiomyopathy, athletic remodelling, or other disease; the underlying cause determines its clinical importance."
+  },
+  {
+    "name": "Cardiomyopathy",
+    "definition": "A disease of the myocardium that alters the heart’s structure or function and is not solely explained by abnormal loading conditions or coronary disease.",
+    "clinical_significance": "Cardiomyopathy may cause systolic or diastolic dysfunction, heart failure, arrhythmia, thromboembolism, or sudden death, with implications for family evaluation in inherited forms."
+  },
+  {
+    "name": "Cardiopulmonary bypass",
+    "definition": "A technique in which a pump-oxygenator temporarily diverts and oxygenates venous blood and returns it to the arterial circulation while the heart is stopped or operating minimally.",
+    "clinical_significance": "It provides a motionless, bloodless field for many open-heart operations but exposes the patient to inflammatory, bleeding, neurological, and organ-perfusion complications."
+  },
+  {
+    "name": "Cardiopulmonary resuscitation (CPR)",
+    "definition": "Emergency chest compressions, with or without rescue breaths, used to provide artificial circulation and ventilation during cardiac arrest.",
+    "clinical_significance": "CPR temporarily supports cerebral and coronary perfusion until spontaneous circulation is restored or definitive resuscitation is completed."
+  },
+  {
+    "name": "Cardiovascular (CV)",
+    "definition": "Relating to the heart and blood vessels, including the arterial, venous, and microvascular components of circulation.",
+    "clinical_significance": "The term groups conditions, tests, and treatments involving the circulatory system rather than the heart alone."
+  },
+  {
+    "name": "Cardiovascular Disease (CVD)",
+    "definition": "An umbrella term for disorders of the heart and blood vessels, including coronary disease, stroke, hypertension, heart failure, valve disease, and peripheral arterial disease.",
+    "clinical_significance": "CVD affects blood flow, cardiac function, or both and is a major cause of disability and death across populations."
+  },
+  {
+    "name": "Cardioversion",
+    "definition": "Restoration of sinus rhythm from an arrhythmia by a synchronised electrical shock or, in some settings, an antiarrhythmic medicine.",
+    "clinical_significance": "Synchronised cardioversion can terminate selected atrial or other supraventricular tachyarrhythmias and is timed to avoid delivering a shock during ventricular repolarisation."
+  },
+  {
+    "name": "Carotid artery",
+    "definition": "One of the paired arteries in the neck that supplies blood to the brain and related head structures.",
+    "clinical_significance": "Carotid atherosclerosis or embolism can reduce cerebral perfusion and cause transient ischaemic attack or ischaemic stroke."
+  },
+  {
+    "name": "Cerebral embolism",
+    "definition": "An embolus that travels to and obstructs an artery supplying the brain, often originating from the heart or a proximal artery.",
+    "clinical_significance": "It can abruptly interrupt focal cerebral blood flow and cause an ischaemic stroke, with the neurological deficit depending on the vessel involved."
+  },
+  {
+    "name": "Cerebral hemorrhage",
+    "definition": "Bleeding into brain tissue or an intracranial compartment after rupture of a cerebral vessel.",
+    "clinical_significance": "Intracranial bleeding can raise pressure, injure neural tissue, and cause sudden neurological deficit; hypertension and vascular malformations are important causes."
+  },
+  {
+    "name": "Cerebral thrombosis",
+    "definition": "Formation of a thrombus within an artery supplying the brain, causing local obstruction of cerebral blood flow.",
+    "clinical_significance": "The resulting ischaemia can produce an arterial ischaemic stroke, with severity determined by the vessel, collateral supply, and duration of occlusion."
+  },
+  {
+    "name": "Cerebrovascular",
+    "definition": "Relating to the blood vessels supplying the brain and the circulation through those vessels.",
+    "clinical_significance": "The term is used for diseases and investigations involving cerebral perfusion, including stroke, aneurysm, and vascular malformation."
+  },
+  {
+    "name": "Cerebrovascular accident",
+    "definition": "A stroke: acute neurological dysfunction caused by interruption of cerebral blood flow through infarction or by intracranial haemorrhage.",
+    "clinical_significance": "It identifies a time-critical form of brain injury that may cause permanent disability or death; the vascular mechanism guides diagnostic classification."
+  },
+  {
+    "name": "Cerebrovascular occlusion",
+    "definition": "Blockage of an artery or other blood vessel supplying the brain, usually by thrombosis, embolism, or atherosclerotic disease.",
+    "clinical_significance": "Occlusion reduces downstream cerebral perfusion and can produce focal ischaemia, infarction, and neurological deficits."
+  },
+  {
+    "name": "Cholesterol",
+    "definition": "A sterol required for cell membranes, steroid hormones, and bile acids that circulates in blood within lipoprotein particles.",
+    "clinical_significance": "Excess atherogenic cholesterol can accumulate in arterial walls and contribute to plaque formation and coronary, cerebral, or peripheral arterial disease."
+  },
+  {
+    "name": "Cineangiography",
+    "definition": "X-ray fluoroscopy that records moving images of contrast passing through cardiac chambers or blood vessels.",
+    "clinical_significance": "It displays the timing and pattern of blood flow and helps define coronary stenosis, vascular occlusion, and anatomy during catheter procedures."
+  },
+  {
+    "name": "Circulatory system",
+    "definition": "The integrated system of the heart, blood vessels, and circulating blood that transports oxygen, nutrients, hormones, and waste products.",
+    "clinical_significance": "Its function determines tissue perfusion; failure of cardiac pumping or vascular integrity can produce shock, congestion, or organ ischaemia."
+  },
+  {
+    "name": "Claudication",
+    "definition": "Reproducible aching, cramping, or fatigue in a limb during exertion that improves with rest, usually because arterial supply cannot meet muscle demand.",
+    "clinical_significance": "Intermittent claudication is a typical symptom of peripheral arterial disease and indicates systemic atherosclerotic risk as well as impaired limb perfusion."
+  },
+  {
+    "name": "Collateral circulation",
+    "definition": "An alternative network of vessels that supplies tissue when the usual arterial route is narrowed or blocked.",
+    "clinical_significance": "Collateral flow can preserve perfusion and reduce ischaemic injury, but its adequacy affects symptoms and the consequences of arterial occlusion."
+  },
+  {
+    "name": "Computed tomography (CT or CAT scan)",
+    "definition": "An imaging method that uses rotating X-rays and computer reconstruction to create cross-sectional or three-dimensional images.",
+    "clinical_significance": "CT can rapidly assess coronary calcium, vascular anatomy, pulmonary embolism, aortic disease, and intracranial bleeding, depending on the protocol."
+  },
+  {
+    "name": "Conduction system",
+    "definition": "Specialised cardiac tissue comprising the sinoatrial node, atrioventricular node, His bundle, bundle branches, and Purkinje fibres that generates and distributes electrical impulses.",
+    "clinical_significance": "It coordinates atrial and ventricular contraction; disease in any component can produce bradycardia, block, dyssynchrony, or tachyarrhythmia."
+  },
+  {
+    "name": "Congenital",
+    "definition": "Present at birth, whether caused by genetic factors, developmental disturbance, or an exposure during fetal development.",
+    "clinical_significance": "Congenital cardiovascular abnormalities may involve cardiac chambers, valves, septa, or great vessels and can alter circulation from infancy or remain silent until adulthood."
+  },
+  {
+    "name": "Congenital heart defects",
+    "definition": "Structural abnormalities of the heart or great vessels that arise during fetal development and are present at birth.",
+    "clinical_significance": "Defects may create abnormal shunts, obstruction, or mixing of oxygenated and deoxygenated blood and can lead to pulmonary hypertension, cyanosis, arrhythmia, or heart failure."
+  },
+  {
+    "name": "Congestive heart failure",
+    "definition": "A clinical syndrome in which structural or functional cardiac abnormality causes inadequate output, elevated filling pressures, or both, producing symptoms such as breathlessness and fluid retention.",
+    "clinical_significance": "Heart failure can cause pulmonary or systemic congestion, renal dysfunction, exercise limitation, and recurrent hospitalisation; ejection fraction and filling physiology help classify it."
+  },
+  {
+    "name": "Coronary arteries",
+    "definition": "The right and left arteries arising from the aortic root that supply oxygenated blood to the myocardium and the cardiac conduction tissues.",
+    "clinical_significance": "Narrowing or occlusion of a coronary artery causes myocardial ischaemia and can produce angina, infarction, ventricular dysfunction, or arrhythmia."
+  },
+  {
+    "name": "Coronary artery anomaly (CAA)",
+    "definition": "A congenital abnormal origin, course, structure, or termination of a coronary artery.",
+    "clinical_significance": "Some anomalies are incidental, whereas an abnormal course or narrowed origin can impair myocardial perfusion, cause ischaemia, or increase sudden-death risk during exertion."
+  },
+  {
+    "name": "Coronary artery bypass (CAB)",
+    "definition": "A surgical revascularisation operation that uses arterial or venous grafts to route blood around obstructed coronary arteries.",
+    "clinical_significance": "Bypass can restore flow to ischaemic myocardium when anatomy or disease burden makes catheter intervention unsuitable or less effective."
+  },
+  {
+    "name": "Coronary artery disease (CAD)",
+    "definition": "Disease of the coronary arteries, most commonly caused by atherosclerotic plaque that narrows or obstructs their lumen.",
+    "clinical_significance": "CAD can cause stable or acute myocardial ischaemia, angina, infarction, left-ventricular dysfunction, and sudden cardiac death."
+  },
+  {
+    "name": "Coronary heart disease",
+    "definition": "Heart disease caused by atherosclerotic or other narrowing of the coronary arteries, reducing blood supply to the myocardium.",
+    "clinical_significance": "It is a major cause of angina and myocardial infarction and may progress to heart failure or malignant arrhythmia."
+  },
+  {
+    "name": "Coronary occlusion",
+    "definition": "Complete or near-complete blockage of a coronary artery or one of its branches.",
+    "clinical_significance": "Acute occlusion can abruptly deprive myocardium of oxygen and cause myocardial infarction, whereas chronic occlusion may be partly compensated by collateral vessels."
+  },
+  {
+    "name": "Coronary thrombosis",
+    "definition": "Formation of a thrombus within a coronary artery, often after rupture or erosion of an atherosclerotic plaque.",
+    "clinical_significance": "The thrombus can obstruct myocardial blood flow and is a common mechanism of acute coronary syndrome and myocardial infarction."
+  },
+  {
+    "name": "Cryoablation",
+    "definition": "Ablation technique that destroys selected tissue by applying extreme cold through a probe or catheter.",
+    "clinical_significance": "Cardiac cryoablation can electrically isolate or eliminate arrhythmogenic tissue; lesion control and proximity to normal conduction tissue determine its risks and effectiveness."
+  },
+  {
+    "name": "Cyanosis",
+    "definition": "Bluish discoloration of skin or mucous membranes caused by increased deoxygenated haemoglobin or an abnormal haemoglobin state.",
+    "clinical_significance": "Central cyanosis may indicate inadequate arterial oxygenation from cardiac, pulmonary, or haemoglobin disease and signals altered oxygen delivery."
+  },
+  {
+    "name": "Cyanotic heart disease",
+    "definition": "A congenital heart defect in which inadequate oxygenation or abnormal mixing allows relatively deoxygenated blood to reach the systemic circulation.",
+    "clinical_significance": "It causes central cyanosis and may lead to chronic hypoxaemia, compensatory blood changes, pulmonary vascular disease, or impaired development."
+  },
+  {
+    "name": "Death rate (age-adjusted)",
+    "definition": "A mortality rate statistically standardised to a reference age distribution so populations with different age structures can be compared.",
+    "clinical_significance": "Age adjustment improves interpretation of cardiovascular mortality trends without confusing changes in population age with changes in disease risk."
+  },
+  {
+    "name": "Deep vein thrombosis",
+    "definition": "A thrombus in a deep vein, usually of the lower limb, pelvis, or upper limb.",
+    "clinical_significance": "DVT can obstruct venous return and embolise to the pulmonary arteries, causing pulmonary embolism; it also may lead to chronic venous symptoms."
+  },
+  {
+    "name": "Defibrillator",
+    "definition": "A device that delivers an electrical shock to terminate certain life-threatening tachyarrhythmias, especially ventricular fibrillation or pulseless ventricular tachycardia.",
+    "clinical_significance": "External defibrillation can restore an organised rhythm during arrest, while an implantable defibrillator can detect and treat recurrent malignant ventricular arrhythmias."
+  },
+  {
+    "name": "Diabetes (diabetes mellitus)",
+    "definition": "A group of metabolic disorders characterised by chronic hyperglycaemia caused by inadequate insulin secretion, impaired insulin action, or both.",
+    "clinical_significance": "Diabetes accelerates atherosclerosis and damages small vessels, increasing the risk of coronary disease, stroke, peripheral arterial disease, kidney disease, and heart failure."
+  },
+  {
+    "name": "Diastolic blood pressure",
+    "definition": "The arterial pressure during ventricular relaxation, represented by the lower number in a blood-pressure measurement.",
+    "clinical_significance": "It reflects arterial resistance and compliance during diastole; persistently elevated values contribute to vascular and cardiac injury, while very low values may impair coronary perfusion."
+  },
+  {
+    "name": "Digitalis",
+    "definition": "A group of cardiac glycosides derived from Digitalis plants, including digoxin, that influence myocardial contraction and cardiac electrical conduction.",
+    "clinical_significance": "Digitalis compounds have a narrow therapeutic range and may be used in selected heart-failure or atrial-fibrillation settings; toxicity can cause gastrointestinal, visual, or rhythm disturbances."
+  },
+  {
+    "name": "Dissecting aneurysm",
+    "definition": "Aortic dissection, in which a tear in the inner aortic wall allows blood to track between wall layers and create a false lumen.",
+    "clinical_significance": "Dissection can obstruct branch arteries, cause acute aortic regurgitation or tamponade, and rupture; its complications depend on location and extent."
+  },
+  {
+    "name": "Diuretic",
+    "definition": "A medicine that increases renal sodium and water excretion, thereby reducing circulating volume and, in many cases, blood pressure.",
+    "clinical_significance": "Diuretics relieve fluid congestion in heart failure and lower pressure, but excessive loss can cause hypotension, kidney dysfunction, or electrolyte disturbance."
+  },
+  {
+    "name": "Doppler ultrasound",
+    "definition": "An ultrasound technique that estimates the direction and velocity of moving blood from changes in the reflected sound frequency.",
+    "clinical_significance": "It evaluates arterial and venous flow, detects obstruction or reflux, and contributes to assessment of valve regurgitation and cardiac haemodynamics."
+  },
+  {
+    "name": "Dysarthria",
+    "definition": "Impaired articulation caused by weakness, incoordination, or abnormal tone of the muscles used for speech, usually from neurological disease.",
+    "clinical_significance": "Dysarthria can be a focal sign of stroke or other nervous-system injury and helps localise the functional consequences of cerebrovascular disease."
+  },
+  {
+    "name": "Dyspnea",
+    "definition": "The subjective experience of difficult, uncomfortable, or inadequate breathing.",
+    "clinical_significance": "Dyspnoea is common in pulmonary congestion and heart failure but is nonspecific; its exertional, positional, and resting patterns help distinguish cardiovascular causes."
+  },
+  {
+    "name": "Echocardiography",
+    "definition": "Ultrasound imaging of the heart that produces moving views of chambers, valves, myocardium, blood flow, and haemodynamic function.",
+    "clinical_significance": "It is central to evaluating ejection fraction, valve disease, chamber size, congenital defects, pericardial fluid, and intracardiac thrombus."
+  },
+  {
+    "name": "Edema",
+    "definition": "Accumulation of excess fluid in the interstitial tissues, producing swelling.",
+    "clinical_significance": "Peripheral oedema can reflect venous disease, renal or hepatic dysfunction, or right-sided heart failure; pulmonary oedema indicates fluid in the lungs and impaired gas exchange."
+  },
+  {
+    "name": "Ejection fraction",
+    "definition": "The percentage of blood in a ventricle at end-diastole that is ejected during systole, calculated as stroke volume divided by end-diastolic volume.",
+    "clinical_significance": "It helps classify ventricular systolic function and heart-failure phenotype, although a preserved value does not exclude impaired filling or elevated filling pressures."
+  },
+  {
+    "name": "Electrocardiogram (ECG or EKG)",
+    "definition": "A recording of the heart’s electrical potentials from electrodes placed on the skin.",
+    "clinical_significance": "An ECG can identify rhythm, conduction abnormalities, myocardial ischaemia or infarction, chamber effects, and electrolyte-related electrical changes."
+  },
+  {
+    "name": "Electroencephalogram (EEG)",
+    "definition": "A recording of electrical activity in the brain using electrodes placed on the scalp.",
+    "clinical_significance": "EEG helps distinguish seizures and other neurological causes from syncope, which may result from transient cardiovascular reduction in cerebral perfusion."
+  },
+  {
+    "name": "Electrophysiological study (EPS)",
+    "definition": "An invasive test in which intracardiac electrodes record and stimulate cardiac electrical activity through catheters.",
+    "clinical_significance": "EPS can localise conduction abnormalities, identify arrhythmia mechanisms, assess sudden-death risk, and guide ablation or device decisions."
+  },
+  {
+    "name": "Embolus",
+    "definition": "Material travelling through the bloodstream that can lodge in and obstruct a smaller vessel; it may be a thrombus, fat, air, or other material.",
+    "clinical_significance": "Embolisation can cause sudden infarction of tissue supplied by the blocked artery, including stroke, pulmonary embolism, or limb ischaemia."
+  },
+  {
+    "name": "Endarterectomy",
+    "definition": "Surgical removal of atherosclerotic plaque and associated obstructive material from the inner surface of an artery.",
+    "clinical_significance": "Carotid endarterectomy can improve cerebral arterial patency in selected stenosis, while peripheral procedures can restore limb blood flow."
+  },
+  {
+    "name": "Endocardium",
+    "definition": "The thin endothelial lining of the heart chambers and the surfaces of the heart valves.",
+    "clinical_significance": "Endocardial injury or infection can promote thrombus and vegetation formation and may impair valve function or cardiac conduction."
+  },
+  {
+    "name": "Endothelium",
+    "definition": "A layer of specialised cells lining blood vessels and the inner surface of the heart.",
+    "clinical_significance": "Endothelial dysfunction promotes vasoconstriction, inflammation, platelet activation, and atherosclerosis and is therefore important in vascular disease."
+  },
+  {
+    "name": "Endocarditis",
+    "definition": "Inflammation and infection of the endocardium, most often involving a heart valve and caused by bacteria or fungi.",
+    "clinical_significance": "Endocarditis can destroy valves, cause regurgitation and heart failure, and generate emboli or immune-mediated organ injury."
+  },
+  {
+    "name": "Enlarged heart",
+    "definition": "A descriptive term for a heart whose chambers or muscular walls are larger than expected for body size and clinical context.",
+    "clinical_significance": "Cardiac enlargement may be adaptive or pathological and can reflect hypertension, valve disease, cardiomyopathy, or chronic volume overload."
+  },
+  {
+    "name": "Enzyme",
+    "definition": "A protein or RNA molecule that accelerates a specific biochemical reaction without being consumed by that reaction.",
+    "clinical_significance": "Measurement of particular enzymes or enzyme-associated biomarkers can provide evidence of tissue injury, although cardiac troponin is now preferred for myocardial injury assessment."
+  },
+  {
+    "name": "Epicardium",
+    "definition": "The thin outer layer of the heart wall, formed by the visceral layer of the serous pericardium and covering the myocardium.",
+    "clinical_significance": "The epicardium contributes to the protective pericardial surface and may be involved in inflammation, adhesions, or epicardial fat-related disease."
+  },
+  {
+    "name": "Estrogen",
+    "definition": "A group of steroid hormones, including oestradiol, involved in reproductive biology and effects on multiple tissues.",
+    "clinical_significance": "Oestrogen status influences vascular biology and lipid patterns, but endogenous or replacement hormone effects do not eliminate conventional cardiovascular risk factors."
+  },
+  {
+    "name": "Estrogen (or hormone) replacement therapy (ERT or HRT)",
+    "definition": "Treatment using oestrogen alone or oestrogen with a progestogen to replace hormones or relieve menopausal symptoms.",
+    "clinical_significance": "Hormone therapy has complex cardiovascular effects that vary with age, timing, formulation, and vascular history and is not a treatment for preventing cardiovascular disease."
+  },
+  {
+    "name": "Exercise stress test",
+    "definition": "A test that increases cardiac workload through exercise while monitoring ECG, symptoms, blood pressure, and sometimes imaging or perfusion.",
+    "clinical_significance": "It can reveal inducible myocardial ischaemia, exercise-related arrhythmia, functional capacity, or an abnormal blood-pressure response."
+  },
+  {
+    "name": "Familial hypercholesterolemia",
+    "definition": "An inherited disorder, usually involving impaired LDL-receptor pathway function, causing markedly increased low-density lipoprotein cholesterol from an early age.",
+    "clinical_significance": "Prolonged exposure to high LDL cholesterol accelerates premature atherosclerosis and coronary disease; the diagnosis also has implications for relatives."
+  },
+  {
+    "name": "Fatty acids (fats)",
+    "definition": "Organic molecules that form important components of dietary and stored fat and differ according to chain length and degree of saturation.",
+    "clinical_significance": "Fatty-acid composition influences lipoprotein concentrations and atherosclerotic risk, although cardiovascular effects depend on the food source and overall dietary pattern."
+  },
+  {
+    "name": "Fibrillation",
+    "definition": "Rapid, chaotic, uncoordinated electrical activity and contraction of individual cardiac muscle fibres, preventing the chamber from contracting effectively as a unit.",
+    "clinical_significance": "Atrial fibrillation promotes irregular ventricular activation and thromboembolism, whereas ventricular fibrillation causes cardiac arrest through loss of effective output."
+  },
+  {
+    "name": "First-degree heart block",
+    "definition": "Prolongation of conduction time from the atria to the ventricles, seen as a prolonged PR interval on ECG, without dropped ventricular beats.",
+    "clinical_significance": "It is often asymptomatic but may indicate conduction-system disease or drug effect and can progress when associated with more extensive conduction abnormality."
+  },
+  {
+    "name": "Flutter",
+    "definition": "A rapid, relatively organised repetitive electrical circuit producing fast contractions of a cardiac chamber, especially the atria.",
+    "clinical_significance": "Atrial flutter can cause rapid ventricular response, reduced filling, and thromboembolic risk, while its organised circuit may make it amenable to catheter ablation."
+  },
+  {
+    "name": "Fusiform aneurysm",
+    "definition": "An aneurysm that expands around the full circumference of a longitudinal segment of an artery, producing a spindle-shaped enlargement.",
+    "clinical_significance": "Its size and location determine the risks of thrombosis, distal embolisation, compression, dissection, or rupture."
+  },
+  {
+    "name": "Gated blood pool scan",
+    "definition": "A radionuclide study that tracks labelled red blood cells through the cardiac chambers in synchrony with the ECG.",
+    "clinical_significance": "It can quantify ventricular ejection fraction and regional wall motion, providing a reproducible assessment of pump function."
+  },
+  {
+    "name": "Genetic testing",
+    "definition": "Laboratory analysis of DNA or other genetic material to identify inherited variants associated with disease or disease susceptibility.",
+    "clinical_significance": "Testing can clarify inherited cardiomyopathy or arrhythmia syndromes, guide family screening, and help interpret unexplained sudden death."
+  },
+  {
+    "name": "Guidewire",
+    "definition": "A flexible wire introduced through a vessel to provide a pathway and support for advancing a catheter or other endovascular device.",
+    "clinical_significance": "It enables precise access during angioplasty, stenting, and other interventions; vessel perforation, dissection, or arrhythmia are procedural risks."
+  },
+  {
+    "name": "Heart assist device",
+    "definition": "A mechanical circulatory-support device that helps a weakened ventricle move blood through the pulmonary or systemic circulation.",
+    "clinical_significance": "It can support patients with severe heart failure as a bridge to transplantation, recovery, or longer-term therapy, but infection, bleeding, and thrombosis are important complications."
+  },
+  {
+    "name": "Heart attack",
+    "definition": "Acute myocardial infarction: injury or death of heart muscle caused by an imbalance between myocardial oxygen supply and demand, most often from acute coronary obstruction.",
+    "clinical_significance": "It can impair ventricular function and cause heart failure, arrhythmia, shock, or death; ECG and cardiac biomarkers establish its clinical classification."
+  },
+  {
+    "name": "Heart block",
+    "definition": "Delayed or absent conduction of electrical impulses through the atrioventricular node or His–Purkinje system.",
+    "clinical_significance": "The resulting bradycardia or loss of atrioventricular synchrony can reduce cardiac output, cause syncope, and in advanced forms lead to life-threatening pauses."
+  },
+  {
+    "name": "Heart failure",
+    "definition": "A clinical syndrome in which the heart cannot provide adequate output or can do so only with abnormally high filling pressures.",
+    "clinical_significance": "It causes breathlessness, fatigue, congestion, and organ dysfunction and may result from ischaemic, valvular, hypertensive, genetic, or other myocardial disease."
+  },
+  {
+    "name": "Heart-lung machine",
+    "definition": "A pump-oxygenator that temporarily takes over circulation and gas exchange during operations in which the heart is opened or stopped.",
+    "clinical_significance": "It enables cardiopulmonary bypass and complex cardiac surgery but can contribute to bleeding, inflammation, embolism, and transient organ dysfunction."
+  },
+  {
+    "name": "Hematocrit",
+    "definition": "The proportion of whole-blood volume occupied by red blood cells, usually reported as a percentage or fraction.",
+    "clinical_significance": "It helps assess anaemia, polycythaemia, and haemoconcentration; abnormal viscosity or oxygen-carrying capacity can affect cardiovascular workload and perfusion."
+  },
+  {
+    "name": "Hemochromatosis",
+    "definition": "A disorder of excessive iron absorption and deposition in tissues, caused by inherited or acquired abnormalities of iron regulation.",
+    "clinical_significance": "Iron deposition in the myocardium can cause dilated or restrictive cardiomyopathy, arrhythmia, and heart failure, while phlebotomy-related anaemia can also affect circulation."
+  },
+  {
+    "name": "Heredity",
+    "definition": "The transmission of genetic information and traits from parents to offspring.",
+    "clinical_significance": "Inherited variants can predispose to cardiomyopathy, arrhythmia, lipid disorders, congenital defects, and premature vascular disease, making family history clinically relevant."
+  },
+  {
+    "name": "High blood pressure",
+    "definition": "Persistently elevated arterial blood pressure above accepted diagnostic thresholds, also called hypertension.",
+    "clinical_significance": "Chronic pressure overload promotes left-ventricular hypertrophy, arterial disease, kidney injury, stroke, heart failure, and coronary disease."
+  },
+  {
+    "name": "High density lipoprotein (HDL)",
+    "definition": "A lipoprotein particle that transports cholesterol and other lipids between tissues and the liver.",
+    "clinical_significance": "HDL concentration is associated with cardiovascular risk, but it is not by itself a direct measure of protective HDL function and should not be interpreted in isolation."
+  },
+  {
+    "name": "Holter monitor",
+    "definition": "A portable ambulatory ECG recorder that continuously or intermittently records cardiac electrical activity, commonly for 24 hours or longer.",
+    "clinical_significance": "It helps correlate intermittent palpitations, dizziness, or syncope with arrhythmia and assesses rhythm burden that a brief ECG may miss."
+  },
+  {
+    "name": "Homocysteine",
+    "definition": "A sulphur-containing amino acid formed during methionine metabolism and normally present in blood at low concentrations.",
+    "clinical_significance": "Marked elevation can accompany nutritional or inherited metabolic disorders and is associated with vascular risk, although it is not a specific diagnostic test for coronary disease."
+  },
+  {
+    "name": "Hypertension",
+    "definition": "A chronic disorder in which arterial blood pressure is persistently elevated according to validated office, home, or ambulatory measurements.",
+    "clinical_significance": "It causes progressive vascular and cardiac damage and substantially increases the risk of stroke, coronary disease, kidney disease, atrial fibrillation, and heart failure."
+  },
+  {
+    "name": "Hypertrophic obstructive cardiomyopathy (HOCM)",
+    "definition": "A form of hypertrophic cardiomyopathy in which excessive myocardial thickening, often of the septum, obstructs left-ventricular outflow.",
+    "clinical_significance": "The obstruction and abnormal myocardium can cause exertional symptoms, mitral regurgitation, atrial or ventricular arrhythmia, and sudden cardiac death."
+  },
+  {
+    "name": "Hypertrophy",
+    "definition": "An enlargement of cells or tissue caused by increased cell size rather than increased cell number.",
+    "clinical_significance": "Cardiac hypertrophy commonly develops in response to pressure or volume overload and can initially compensate but later impair relaxation, perfusion, and electrical stability."
+  },
+  {
+    "name": "Hyperventilation",
+    "definition": "Ventilation that exceeds the body’s metabolic need for carbon dioxide elimination, lowering arterial carbon dioxide concentration.",
+    "clinical_significance": "It can cause light-headedness, tingling, and chest discomfort and may complicate assessment of dyspnoea, but it is not synonymous with adequate oxygenation."
+  },
+  {
+    "name": "Hypoglycemia",
+    "definition": "An abnormally low blood-glucose concentration capable of producing autonomic and neurological symptoms.",
+    "clinical_significance": "It can provoke adrenergic tachycardia, blood-pressure changes, arrhythmia, and impaired consciousness, particularly in people receiving glucose-lowering treatment."
+  },
+  {
+    "name": "Hypokinesia",
+    "definition": "Reduced movement or contraction of tissue; in cardiology it commonly describes diminished myocardial wall motion.",
+    "clinical_significance": "Regional cardiac hypokinesia can indicate ischaemia or infarction, while global hypokinesia suggests diffuse ventricular dysfunction."
+  },
+  {
+    "name": "Hypotension",
+    "definition": "Arterial blood pressure that is abnormally low for the person’s clinical context or insufficient to maintain organ perfusion.",
+    "clinical_significance": "It may result from low output, vasodilation, volume loss, or arrhythmia and can cause syncope, myocardial ischaemia, kidney injury, or shock."
+  },
+  {
+    "name": "Hypoxia",
+    "definition": "Insufficient oxygen availability or utilisation at tissue level, often due to low arterial oxygenation, reduced blood flow, or impaired cellular use.",
+    "clinical_significance": "Hypoxia stresses the heart and brain and may result from pulmonary disease, cyanotic heart disease, anaemia, or circulatory failure."
+  },
+  {
+    "name": "Idiopathic",
+    "definition": "Describing a disease or finding for which no cause has been identified after appropriate evaluation.",
+    "clinical_significance": "The label indicates unresolved aetiology rather than a distinct mechanism and may change if later genetic, inflammatory, toxic, or structural evidence emerges."
+  },
+  {
+    "name": "Immunosuppressants",
+    "definition": "Medicines that reduce immune-system activity through effects on lymphocytes, cytokines, or other immune pathways.",
+    "clinical_significance": "They prevent rejection after heart transplantation and treat selected inflammatory disease, but increase susceptibility to infection and can have renal, metabolic, or cardiovascular effects."
+  },
+  {
+    "name": "Impedance plethysmography",
+    "definition": "A non-invasive method that detects changes in electrical impedance produced by variations in blood volume within a limb.",
+    "clinical_significance": "It can assess venous outflow and help detect haemodynamic consequences of deep-vein obstruction, although ultrasound is commonly used for direct DVT imaging."
+  },
+  {
+    "name": "Incompetent valve",
+    "definition": "A heart valve that fails to close completely, allowing blood to flow backwards during the phase when it should be sealed; also called valve regurgitation or insufficiency.",
+    "clinical_significance": "Regurgitant flow creates volume overload and may enlarge chambers, cause symptoms, and eventually produce heart failure or pulmonary hypertension."
+  },
+  {
+    "name": "Infarct",
+    "definition": "An area of tissue necrosis caused by prolonged interruption of its blood supply or, less commonly, impaired venous drainage.",
+    "clinical_significance": "A myocardial infarct permanently reduces viable contractile tissue and may lead to scar, ventricular remodelling, heart failure, or arrhythmia."
+  },
+  {
+    "name": "Infective endocarditis",
+    "definition": "Infection of the endocardial surface, usually a valve, by bacteria or fungi that form inflammatory vegetations.",
+    "clinical_significance": "It can destroy valves, cause regurgitation and heart failure, seed emboli, and produce immune-complex injury in distant organs."
+  },
+  {
+    "name": "Inferior vena cava",
+    "definition": "The large vein that returns deoxygenated blood from the lower limbs, pelvis, and abdomen to the right atrium.",
+    "clinical_significance": "Obstruction or increased pressure in this vessel contributes to lower-body venous congestion, oedema, and collateral venous flow."
+  },
+  {
+    "name": "Inotropes",
+    "definition": "Medicines that alter myocardial contractility; positive inotropes increase contraction strength, whereas negative inotropes reduce it.",
+    "clinical_significance": "Positive inotropic support can raise cardiac output in selected low-output states, but increased myocardial oxygen demand and arrhythmia are important risks."
+  },
+  {
+    "name": "Internal mammary artery",
+    "definition": "An artery running along the inner chest wall, also called the internal thoracic artery, that can be used as a coronary bypass graft.",
+    "clinical_significance": "Its durable patency makes it an important conduit for revascularising the left anterior descending coronary artery."
+  },
+  {
+    "name": "Intravascular echocardiography",
+    "definition": "Ultrasound imaging performed from within a vessel or cardiac structure using a miniature transducer on a catheter.",
+    "clinical_significance": "It shows plaque, lumen dimensions, stent expansion, and vessel-wall anatomy, helping guide and assess coronary intervention."
+  },
+  {
+    "name": "Introducer sheath",
+    "definition": "A short hollow tube placed through the wall of a blood vessel to maintain access for catheters and devices during an intervention.",
+    "clinical_significance": "The sheath permits repeated catheter exchanges and stable access but can cause bleeding, haematoma, thrombosis, infection, or vessel injury."
+  },
+  {
+    "name": "Ischemia",
+    "definition": "Inadequate blood flow and oxygen delivery to tissue, usually because arterial supply is narrowed or obstructed.",
+    "clinical_significance": "Ischaemia can impair organ function and cause reversible symptoms or irreversible infarction; myocardial ischaemia produces angina and may trigger arrhythmia."
+  },
+  {
+    "name": "Ischemic heart disease",
+    "definition": "Heart disease caused by inadequate myocardial blood supply, most often because of atherosclerotic narrowing or obstruction of the coronary arteries.",
+    "clinical_significance": "It encompasses chronic coronary syndrome and acute coronary syndromes and may cause angina, infarction, ventricular dysfunction, or sudden death."
+  },
+  {
+    "name": "Ischemic stroke",
+    "definition": "A stroke caused by cerebral infarction from arterial occlusion or critically reduced blood flow, without primary intracranial bleeding.",
+    "clinical_significance": "It produces focal neurological dysfunction and may result from thrombosis, embolism, or small-vessel disease; the mechanism influences diagnostic evaluation."
+  },
+  {
+    "name": "Jugular veins",
+    "definition": "The major veins in the neck that drain blood from the head, brain, face, and neck into the brachiocephalic veins and superior vena cava.",
+    "clinical_significance": "Jugular venous pressure and waveform provide bedside information about right-atrial pressure and systemic venous congestion."
+  },
+  {
+    "name": "Left ventricular assist device (LVAD)",
+    "definition": "A mechanical pump that draws blood from the left ventricle and delivers it to the aorta, supporting systemic circulation.",
+    "clinical_significance": "An LVAD can provide temporary or long-term support in advanced heart failure, but bleeding, thrombosis, infection, stroke, and right-heart failure are recognised complications."
+  },
+  {
+    "name": "Lesion",
+    "definition": "A localised area of abnormal tissue caused by injury, inflammation, degeneration, infection, neoplasia, or another disease process.",
+    "clinical_significance": "In cardiovascular medicine the term may describe a plaque, stenosis, infarct, mass, or other focal abnormality whose location and nature determine its significance."
+  },
+  {
+    "name": "Lipid",
+    "definition": "A group of water-insoluble or poorly soluble organic substances that includes cholesterol, triglycerides, phospholipids, and fatty acids.",
+    "clinical_significance": "Lipid transport and metabolism influence atherosclerotic plaque formation, energy storage, and cardiovascular risk."
+  },
+  {
+    "name": "Lipoprotein",
+    "definition": "A particle composed of lipids and proteins that transports otherwise water-insoluble fats through blood and lymph.",
+    "clinical_significance": "Different lipoproteins have different relationships to atherosclerosis; LDL particles are a major source of cholesterol delivered to arterial walls."
+  },
+  {
+    "name": "Low density lipoprotein (LDL)",
+    "definition": "A lipoprotein particle that carries cholesterol from the liver to peripheral tissues and can enter the arterial wall.",
+    "clinical_significance": "Cumulative exposure to elevated LDL cholesterol promotes atherosclerotic plaque and is causally related to coronary, cerebral, and peripheral arterial disease."
+  },
+  {
+    "name": "Lumen",
+    "definition": "The internal channel of a tubular structure, such as a blood vessel, heart chamber, or valve opening, through which fluid passes.",
+    "clinical_significance": "Lumen diameter determines resistance to flow; narrowing or occlusion reduces downstream perfusion and may cause ischaemia."
+  },
+  {
+    "name": "Magnetic resonance imaging (MRI)",
+    "definition": "An imaging technique using magnetic fields and radiofrequency signals to create detailed images without ionising radiation.",
+    "clinical_significance": "Cardiac MRI characterises myocardium, scar, inflammation, perfusion, masses, vessels, and ventricular function and can clarify diagnoses not resolved by ultrasound."
+  },
+  {
+    "name": "Maze surgery",
+    "definition": "A surgical arrhythmia procedure that creates a pattern of atrial incisions or lesions to interrupt re-entry and direct electrical impulses towards the atrioventricular node.",
+    "clinical_significance": "The Maze procedure can reduce persistent atrial fibrillation and restore coordinated atrial rhythm, often when performed with other cardiac surgery."
+  },
+  {
+    "name": "Mitral stenosis",
+    "definition": "Narrowing of the mitral-valve orifice that obstructs blood flow from the left atrium to the left ventricle during diastole.",
+    "clinical_significance": "It raises left-atrial and pulmonary pressures, causing breathlessness, atrial enlargement, atrial fibrillation, thromboembolism, and eventually right-sided failure."
+  },
+  {
+    "name": "Mitral valve",
+    "definition": "The atrioventricular valve between the left atrium and left ventricle, consisting of two leaflets supported by chordae and papillary muscles.",
+    "clinical_significance": "It ensures one-way flow into the left ventricle; stenosis or regurgitation can cause atrial and ventricular remodelling and heart failure."
+  },
+  {
+    "name": "Mitral valve prolapse",
+    "definition": "Displacement of one or both mitral leaflets into the left atrium during ventricular systole, sometimes with associated regurgitation.",
+    "clinical_significance": "It is often benign but can produce mitral regurgitation, endocarditis risk in selected contexts, ventricular arrhythmia, or rarely sudden death."
+  },
+  {
+    "name": "Mitral valve regurgitation",
+    "definition": "Backward leakage of blood from the left ventricle into the left atrium during systole because the mitral valve does not close effectively.",
+    "clinical_significance": "Chronic regurgitation causes left-atrial and ventricular volume overload, whereas acute severe regurgitation can rapidly cause pulmonary oedema and low output."
+  },
+  {
+    "name": "mm Hg",
+    "definition": "A unit of pressure equal to one millimetre of mercury, commonly used for blood pressure and intracardiac pressure measurements.",
+    "clinical_significance": "The unit standardises reporting of arterial, venous, and chamber pressures used to diagnose hypertension, valve disease, and haemodynamic failure."
+  },
+  {
+    "name": "Monounsaturated fats",
+    "definition": "Dietary fatty acids containing one carbon-carbon double bond, found in foods such as olive oil, nuts, seeds, and avocados.",
+    "clinical_significance": "Replacing saturated or trans fats with unsaturated fats generally improves the lipid profile and may reduce cardiovascular risk within an overall healthy dietary pattern."
+  },
+  {
+    "name": "Mortality",
+    "definition": "The occurrence or rate of death in a defined population during a specified period, often attributed to a disease or cause.",
+    "clinical_significance": "Cardiovascular mortality measures the fatal burden of heart and vascular disease and helps compare prognosis and population health over time."
+  },
+  {
+    "name": "Murmur",
+    "definition": "An additional audible sound produced by turbulent blood flow through the heart or great vessels, heard during cardiac auscultation.",
+    "clinical_significance": "A murmur may indicate valve stenosis, regurgitation, a congenital shunt, or increased flow, but its timing and quality are needed for interpretation."
+  },
+  {
+    "name": "Myocardial infarction",
+    "definition": "Irreversible injury and necrosis of heart muscle caused by acute or prolonged myocardial ischaemia.",
+    "clinical_significance": "It can reduce ventricular function and cause arrhythmia, mechanical complications, heart failure, or death; ECG, symptoms, and troponin establish the diagnosis."
+  },
+  {
+    "name": "Myocardial ischemia",
+    "definition": "A state in which the myocardium receives insufficient oxygenated blood for its metabolic demand.",
+    "clinical_significance": "It may cause angina, ECG changes, ventricular dysfunction, or arrhythmia and can progress to infarction if prolonged."
+  },
+  {
+    "name": "Myocarditis",
+    "definition": "Inflammatory disease of the heart muscle caused by infection, immune-mediated injury, toxins, or other systemic processes.",
+    "clinical_significance": "Myocarditis can cause chest pain, ventricular dysfunction, heart failure, conduction disease, arrhythmia, and sudden death; inflammation may be focal or diffuse."
+  },
+  {
+    "name": "Myocardium",
+    "definition": "The muscular middle layer of the heart wall, composed of cardiac muscle cells that contract and relax rhythmically.",
+    "clinical_significance": "Myocardial injury or remodelling affects systolic function, filling, electrical stability, and the ability to maintain cardiac output."
+  },
+  {
+    "name": "Myxomatous degeneration",
+    "definition": "A degenerative change in valve connective tissue in which extracellular matrix accumulates and the leaflets become thickened, redundant, and less structurally resilient.",
+    "clinical_significance": "It commonly underlies mitral valve prolapse and can cause progressive mitral regurgitation, chamber enlargement, and arrhythmia."
+  },
+  {
+    "name": "Nitroglycerin",
+    "definition": "A nitrate medicine that releases nitric oxide and relaxes vascular smooth muscle, particularly reducing venous return and dilating coronary vessels.",
+    "clinical_significance": "It relieves myocardial ischaemic chest pain by reducing cardiac preload and oxygen demand; its effects include hypotension and headache."
+  },
+  {
+    "name": "Necrosis",
+    "definition": "Unregulated death of cells or tissue caused by severe injury, ischaemia, infection, toxins, or other pathological processes.",
+    "clinical_significance": "Myocardial necrosis defines infarction and leaves scar tissue that can impair contraction and provide a substrate for ventricular arrhythmia."
+  },
+  {
+    "name": "Noninvasive procedures",
+    "definition": "Diagnostic or therapeutic procedures performed without inserting an instrument through the skin or into a body cavity or blood vessel.",
+    "clinical_significance": "Non-invasive cardiovascular tests such as ECG, echocardiography, and external monitoring provide information without the vascular and procedural risks of catheterisation."
+  },
+  {
+    "name": "NSTEMI",
+    "definition": "A non-ST-segment-elevation myocardial infarction, defined by acute myocardial injury with clinical evidence of ischaemia but without persistent ST elevation meeting STEMI criteria.",
+    "clinical_significance": "NSTEMI represents acute coronary syndrome and may result from partial occlusion or severe supply-demand imbalance; risk assessment guides its classification and management."
+  },
+  {
+    "name": "Obesity",
+    "definition": "A chronic disease characterised by excessive adiposity that may impair health and is commonly assessed with body-mass index alongside clinical measures.",
+    "clinical_significance": "Obesity promotes hypertension, diabetes, dyslipidaemia, sleep apnoea, inflammation, and structural cardiac changes, increasing cardiovascular risk."
+  },
+  {
+    "name": "Occluded artery",
+    "definition": "An artery whose lumen is completely or substantially blocked by thrombus, plaque, embolus, dissection, or another process.",
+    "clinical_significance": "Occlusion can critically reduce downstream perfusion and produce acute or chronic ischaemia, infarction, or tissue loss depending on collateral supply."
+  },
+  {
+    "name": "Open heart surgery",
+    "definition": "Surgery in which the heart is directly exposed through a chest incision, often with cardiopulmonary bypass and sometimes with the heart stopped.",
+    "clinical_significance": "It allows repair or replacement of valves, correction of congenital defects, and coronary bypass but carries operative risks involving bleeding, infection, stroke, and organ dysfunction."
+  },
+  {
+    "name": "Pacemaker",
+    "definition": "An implanted device that senses cardiac activity and delivers timed electrical impulses when the intrinsic rhythm is too slow or conduction is impaired.",
+    "clinical_significance": "Pacemakers restore rate or atrioventricular coordination in symptomatic bradycardia and heart block and can improve cardiac output and prevent pauses."
+  },
+  {
+    "name": "Palpitation",
+    "definition": "An individual’s awareness of the heartbeat as pounding, racing, fluttering, skipping, or irregular.",
+    "clinical_significance": "Palpitations may accompany benign ectopic beats, sustained arrhythmia, anxiety, anaemia, or thyroid disease; ECG correlation is needed to identify the cause."
+  },
+  {
+    "name": "Pancreas",
+    "definition": "A gland behind the stomach that produces digestive enzymes and hormones, including insulin and glucagon, which regulate blood glucose.",
+    "clinical_significance": "Pancreatic endocrine dysfunction can cause diabetes, a major risk factor for atherosclerosis and cardiovascular disease."
+  },
+  {
+    "name": "Pancreatitis",
+    "definition": "Inflammation of the pancreas, which may be acute or chronic and commonly results from gallstones, alcohol, metabolic disease, or medications.",
+    "clinical_significance": "Severe pancreatitis can cause systemic inflammation, fluid shifts, hypotension, and cardiac stress, while chronic disease may contribute to diabetes and nutritional decline."
+  },
+  {
+    "name": "Paroxysmal supraventricular tachycardia (PSVT)",
+    "definition": "A sudden-onset, sudden-termination episode of rapid regular tachycardia arising above the ventricles, usually through re-entry involving the atrioventricular node or an accessory pathway.",
+    "clinical_significance": "Episodes can cause palpitations, dizziness, chest discomfort, or hypotension; recurrent rapid rates may impair ventricular function."
+  },
+  {
+    "name": "Patent ductus arteriosus",
+    "definition": "Persistent communication between the descending aorta and pulmonary artery after birth, when the ductus arteriosus should have closed.",
+    "clinical_significance": "A significant left-to-right shunt can cause pulmonary overcirculation, left-heart volume overload, pulmonary hypertension, and eventually reversed cyanotic flow."
+  },
+  {
+    "name": "Patent foramen ovale",
+    "definition": "A persistent flap-like communication between the right and left atria caused by incomplete postnatal fusion of the fetal foramen ovale.",
+    "clinical_significance": "It is usually haemodynamically minor but can permit paradoxical embolism when right-atrial pressure rises and is relevant in selected otherwise unexplained strokes."
+  },
+  {
+    "name": "Percutaneous coronary intervention (PCI)",
+    "definition": "A catheter-based coronary revascularisation procedure, usually involving balloon dilation, stent implantation, or both.",
+    "clinical_significance": "PCI can reopen or widen an obstructed coronary artery in acute or chronic ischaemia and restore myocardial perfusion without open surgery."
+  },
+  {
+    "name": "Percutaneous transluminal coronary angioplasty (PTCA)",
+    "definition": "A catheter procedure that advances a balloon across a coronary stenosis and inflates it to enlarge the arterial lumen; it is an older term for balloon coronary angioplasty.",
+    "clinical_significance": "PTCA restores coronary flow but may cause dissection or recoil and is now commonly combined with stent placement to reduce restenosis."
+  },
+  {
+    "name": "Pericarditis",
+    "definition": "Inflammation of the pericardial sac surrounding the heart, caused by infection, immune disease, infarction, malignancy, or other injury.",
+    "clinical_significance": "It commonly causes positional chest pain and may produce pericardial effusion, constriction, or tamponade that impairs cardiac filling."
+  },
+  {
+    "name": "Pericardiocentesis",
+    "definition": "A needle or catheter procedure that removes fluid or blood from the pericardial space surrounding the heart.",
+    "clinical_significance": "It can relieve pressure in cardiac tamponade and provide fluid for diagnostic analysis, but myocardial or coronary injury and bleeding are procedural risks."
+  },
+  {
+    "name": "Pericardium",
+    "definition": "A double-layered sac surrounding the heart, with a fibrous outer layer and a serous inner layer containing a small lubricating fluid volume.",
+    "clinical_significance": "The pericardium limits acute distension and reduces friction; inflammation, fluid, or scarring can restrict cardiac filling."
+  },
+  {
+    "name": "Plaque",
+    "definition": "A focal accumulation of lipids, inflammatory cells, fibrous tissue, and sometimes calcium within an arterial wall, characteristic of atherosclerosis.",
+    "clinical_significance": "Plaque can narrow the lumen or rupture and trigger thrombosis, causing coronary events, ischaemic stroke, or peripheral arterial disease."
+  },
+  {
+    "name": "Platelets",
+    "definition": "Small anucleate blood-cell fragments derived from megakaryocytes that adhere, activate, and aggregate during haemostasis.",
+    "clinical_significance": "Platelets are central to arterial thrombus formation and are targets of antiplatelet medicines used in coronary and cerebrovascular disease."
+  },
+  {
+    "name": "Polyunsaturated fat",
+    "definition": "A fatty acid containing two or more carbon-carbon double bonds, found in many plant oils, nuts, seeds, and fish.",
+    "clinical_significance": "Replacing saturated fat with polyunsaturated fat generally lowers LDL cholesterol and can reduce cardiovascular risk, depending on the dietary source."
+  },
+  {
+    "name": "Positron emission tomography (PET)",
+    "definition": "A nuclear-imaging technique that detects positrons from an injected tracer to map tissue metabolism, perfusion, or viability.",
+    "clinical_significance": "Cardiac PET can assess myocardial perfusion and viability and may help distinguish living but dysfunctional myocardium from scar."
+  },
+  {
+    "name": "Postural orthostatic tachycardia syndrome (POTS)",
+    "definition": "A form of orthostatic intolerance characterised by an excessive increase in heart rate after standing without sustained orthostatic hypotension as the defining feature.",
+    "clinical_significance": "It can cause dizziness, palpitations, fatigue, and exercise intolerance through abnormal autonomic and circulatory responses to upright posture."
+  },
+  {
+    "name": "Premature ventricular contraction (PVC)",
+    "definition": "An extra heartbeat arising prematurely from ventricular myocardium rather than the normal conduction pathway.",
+    "clinical_significance": "Occasional PVCs may be benign, whereas frequent or complex PVCs can indicate structural disease, trigger ventricular tachycardia, or contribute to reversible cardiomyopathy."
+  },
+  {
+    "name": "Prevalence",
+    "definition": "The proportion or number of people in a population who have a disease or condition at a specified time or during a specified period.",
+    "clinical_significance": "Cardiovascular prevalence describes existing disease burden and helps estimate healthcare needs, but it differs from incidence, which measures new cases."
+  },
+  {
+    "name": "Pulmonary",
+    "definition": "Relating to the lungs or pulmonary circulation between the right side of the heart and the lungs.",
+    "clinical_significance": "Pulmonary disease or vascular pressure directly affects oxygenation, right-ventricular workload, and the symptoms of cardiovascular illness."
+  },
+  {
+    "name": "Pulmonary embolism",
+    "definition": "Obstruction of a pulmonary artery or branch by material, most often a thrombus that has travelled from a deep vein.",
+    "clinical_significance": "It can abruptly increase pulmonary vascular resistance, strain the right ventricle, impair oxygenation, and cause shock or death when extensive."
+  },
+  {
+    "name": "Pulmonary valve",
+    "definition": "The semilunar valve between the right ventricle and pulmonary artery that opens during systole and closes during diastole.",
+    "clinical_significance": "Pulmonary stenosis obstructs right-ventricular ejection, while regurgitation causes right-ventricular volume overload."
+  },
+  {
+    "name": "Pulmonary vein",
+    "definition": "A vein that carries oxygenated blood from the lungs to the left atrium; there are usually four major pulmonary veins.",
+    "clinical_significance": "Pulmonary venous anatomy is important in left-atrial filling and in catheter ablation for atrial fibrillation; obstruction can cause pulmonary congestion."
+  },
+  {
+    "name": "Radial artery access",
+    "definition": "A catheter-entry approach using the radial artery at the wrist rather than a femoral or other access vessel.",
+    "clinical_significance": "It provides access for coronary angiography and PCI with generally lower access-site bleeding risk, although radial spasm or hand perfusion issues may occur."
+  },
+  {
+    "name": "Radionuclide imaging",
+    "definition": "Imaging that detects radiation from a small administered radioactive tracer to show perfusion, metabolism, or organ function.",
+    "clinical_significance": "Cardiovascular radionuclide studies can identify inducible ischaemia, infarction, ventricular function, or pulmonary embolism according to the tracer and protocol."
+  },
+  {
+    "name": "Radionuclide studies",
+    "definition": "Diagnostic examinations that use radiopharmaceuticals and external detectors to display physiological processes or tissue distribution.",
+    "clinical_significance": "They provide functional information about myocardial perfusion, viability, ventricular ejection, and pulmonary circulation that complements anatomical imaging."
+  },
+  {
+    "name": "Radionuclide ventriculography",
+    "definition": "A gated nuclear study that tracks labelled blood within the ventricles to measure ventricular volumes, ejection fraction, and wall motion.",
+    "clinical_significance": "It quantifies global and regional ventricular function and can help monitor changes when precise ejection-fraction measurement is needed."
+  },
+  {
+    "name": "Regurgitation",
+    "definition": "Backward flow of blood through a valve that fails to close completely during the relevant phase of the cardiac cycle.",
+    "clinical_significance": "Valve regurgitation causes volume overload and chamber remodelling; acute severe regurgitation can cause pulmonary oedema or low cardiac output."
+  },
+  {
+    "name": "Renal",
+    "definition": "Relating to the kidneys, the organs that regulate fluid, electrolyte, acid-base balance, and blood-pressure physiology.",
+    "clinical_significance": "Kidney disease strongly influences cardiovascular risk and volume status, while renal perfusion can fall during heart failure or shock."
+  },
+  {
+    "name": "Restenosis",
+    "definition": "Recurrent narrowing of an artery after it has been opened by angioplasty, stenting, or another revascularisation procedure.",
+    "clinical_significance": "Restenosis can reproduce angina or limb ischaemia and may require repeat imaging or revascularisation; mechanisms include neointimal growth and vessel recoil."
+  },
+  {
+    "name": "Revascularization",
+    "definition": "Restoration of blood flow to an underperfused tissue by bypass surgery, angioplasty, stenting, thrombus removal, or another intervention.",
+    "clinical_significance": "Revascularisation can relieve ischaemia and preserve viable myocardium or limb tissue, with choice determined by anatomy, symptoms, and clinical risk."
+  },
+  {
+    "name": "Rheumatic fever",
+    "definition": "An immune-mediated inflammatory illness that can follow infection with group A Streptococcus, affecting joints, skin, brain, and the heart.",
+    "clinical_significance": "Cardiac inflammation may scar valves and cause chronic rheumatic heart disease, especially mitral stenosis or regurgitation."
+  },
+  {
+    "name": "Rheumatic heart disease",
+    "definition": "Chronic valvular heart disease caused by the scarring and remodelling that follow rheumatic fever.",
+    "clinical_significance": "Valve stenosis or regurgitation can produce atrial enlargement, atrial fibrillation, pulmonary hypertension, heart failure, and thromboembolism."
+  },
+  {
+    "name": "Right ventricular assist device (RVAD)",
+    "definition": "A mechanical pump that supports blood flow from the right ventricle or right atrium into the pulmonary artery.",
+    "clinical_significance": "RVAD support can treat severe right-ventricular failure temporarily or alongside left-sided support, but bleeding, thrombosis, infection, and pulmonary complications may occur."
+  },
+  {
+    "name": "Risk factor",
+    "definition": "A characteristic, exposure, or condition associated with an increased probability of developing a disease or adverse event.",
+    "clinical_significance": "Recognising modifiable and non-modifiable cardiovascular risk factors supports risk estimation and explains why atherosclerosis or complications are more likely."
+  },
+  {
+    "name": "Rubella",
+    "definition": "A contagious viral infection, also called German measles, caused by rubella virus.",
+    "clinical_significance": "Maternal infection can cause congenital rubella syndrome, which may include congenital heart defects such as patent ductus arteriosus or pulmonary-artery stenosis."
+  },
+  {
+    "name": "Saccular aneurysm",
+    "definition": "A rounded, pouch-like aneurysm projecting from only part of an arterial circumference.",
+    "clinical_significance": "Its focal wall weakness may enlarge, thrombose, embolise, dissect, or rupture, with risk determined by vessel, size, and morphology."
+  },
+  {
+    "name": "Sarcoidosis",
+    "definition": "A multisystem inflammatory disease characterised by non-caseating granulomas in affected organs.",
+    "clinical_significance": "Cardiac sarcoidosis can cause conduction block, ventricular arrhythmia, myocardial dysfunction, heart failure, or sudden death even when lung disease is limited."
+  },
+  {
+    "name": "Saturated fat",
+    "definition": "A dietary fat whose fatty-acid chains contain no carbon-carbon double bonds and are found in varying amounts in animal and plant foods.",
+    "clinical_significance": "High intake can raise LDL cholesterol compared with unsaturated fat and thereby contribute to atherosclerotic cardiovascular risk."
+  },
+  {
+    "name": "Second-degree heart block",
+    "definition": "Intermittent failure of atrial impulses to conduct to the ventricles, producing dropped QRS complexes; patterns include Mobitz I and Mobitz II.",
+    "clinical_significance": "It can cause bradycardia, pauses, dizziness, or syncope and may progress to complete heart block, particularly in more distal conduction disease."
+  },
+  {
+    "name": "Septal defect",
+    "definition": "An abnormal opening in the septum separating the atria or ventricles, allowing blood to pass between chambers.",
+    "clinical_significance": "The direction and size of the shunt determine whether it causes volume overload, cyanosis, pulmonary hypertension, paradoxical embolism, or few effects."
+  },
+  {
+    "name": "Septum",
+    "definition": "The muscular or membranous partition separating the right and left chambers of the heart.",
+    "clinical_significance": "Septal structure is essential for separating oxygenated from deoxygenated blood; defects or hypertrophy can alter flow, conduction, and ventricular function."
+  },
+  {
+    "name": "Sheath",
+    "definition": "A hollow vascular access tube that permits insertion, exchange, and withdrawal of catheters during an endovascular procedure.",
+    "clinical_significance": "It maintains stable access for intervention but can cause access-site bleeding, vessel injury, thrombosis, or infection."
+  },
+  {
+    "name": "Shock",
+    "definition": "A state of circulatory failure in which tissue oxygen delivery is inadequate for metabolic needs, despite compensatory responses.",
+    "clinical_significance": "Cardiogenic shock results from severe pump failure and causes organ hypoperfusion, lactic acidosis, and high mortality; other forms include hypovolaemic and distributive shock."
+  },
+  {
+    "name": "Shunt",
+    "definition": "An abnormal or deliberately created pathway that allows blood to flow between two vascular beds or cardiac chambers.",
+    "clinical_significance": "A shunt can alter oxygenation and impose volume or pressure load; surgical shunts may palliate congenital heart disease by redirecting pulmonary blood flow."
+  },
+  {
+    "name": "Sick sinus syndrome",
+    "definition": "A group of sinus-node disorders causing inappropriate bradycardia, sinus pauses, chronotropic incompetence, or alternating bradycardia and atrial tachyarrhythmia.",
+    "clinical_significance": "It can cause fatigue, dizziness, syncope, and atrial fibrillation and may require rhythm monitoring or pacing when symptoms correlate with pauses."
+  },
+  {
+    "name": "Silent ischemia",
+    "definition": "Objective myocardial ischaemia occurring without the person experiencing typical anginal chest pain.",
+    "clinical_significance": "It may be detected by ECG, ambulatory monitoring, stress testing, or imaging and can delay recognition of coronary disease or infarction."
+  },
+  {
+    "name": "Sinus (SA) node",
+    "definition": "The sinoatrial node, a specialised group of cells in the right atrium that normally initiates the heart’s electrical rhythm.",
+    "clinical_significance": "Its rate sets the basic heart rhythm; dysfunction can cause sinus bradycardia, pauses, chronotropic incompetence, or alternating atrial tachyarrhythmias."
+  },
+  {
+    "name": "Sodium",
+    "definition": "An essential electrolyte that is the principal extracellular cation and helps regulate fluid balance, nerve activity, and muscle function.",
+    "clinical_significance": "Sodium and water balance influence blood volume and blood pressure; excess retention contributes to congestion in heart failure, while severe abnormalities can disturb rhythm and neurological function."
+  },
+  {
+    "name": "Sphygmomanometer",
+    "definition": "An instrument that measures arterial blood pressure using an inflatable cuff and pressure sensor or column.",
+    "clinical_significance": "Accurate measurement is fundamental to diagnosing and monitoring hypertension, hypotension, and haemodynamic change."
+  },
+  {
+    "name": "Stem cells",
+    "definition": "Cells capable of self-renewal and differentiation into one or more specialised cell types.",
+    "clinical_significance": "Stem-cell biology is relevant to developmental cardiology and regenerative research, but potential cardiovascular therapies depend on specific cell type and evidence."
+  },
+  {
+    "name": "STEMI",
+    "definition": "A ST-segment-elevation myocardial infarction, an acute myocardial infarction associated with persistent ST elevation or an equivalent ECG pattern indicating acute transmural ischaemia in the appropriate context.",
+    "clinical_significance": "STEMI commonly reflects acute coronary occlusion and carries risk of extensive myocardial damage, arrhythmia, shock, and mechanical complications."
+  },
+  {
+    "name": "Stent",
+    "definition": "A mesh or tube-like prosthesis deployed inside a narrowed or weakened vessel to support its lumen and maintain blood flow.",
+    "clinical_significance": "Coronary and peripheral stents improve vessel patency after angioplasty, but thrombosis, restenosis, migration, or fracture can occur."
+  },
+  {
+    "name": "Stenosis",
+    "definition": "Abnormal narrowing of a tubular passage, such as an artery, vein, or heart-valve orifice.",
+    "clinical_significance": "Stenosis increases resistance to flow and creates upstream pressure or downstream underperfusion; clinical effects depend on location and severity."
+  },
+  {
+    "name": "Stethoscope",
+    "definition": "An acoustic instrument used to hear internal body sounds, including heart sounds, murmurs, breath sounds, and vascular bruits.",
+    "clinical_significance": "Auscultation can provide clues to valve disease, heart failure, lung congestion, and turbulent arterial flow, although findings often require imaging confirmation."
+  },
+  {
+    "name": "Stokes-Adams disease",
+    "definition": "Syncope or near-syncope caused by transient complete atrioventricular block or prolonged pauses, historically associated with third-degree heart block.",
+    "clinical_significance": "The underlying pause can produce profound cerebral hypoperfusion, seizures, injury, or sudden death and indicates serious conduction-system disease."
+  },
+  {
+    "name": "Streptococcal infection (“strep” infection)",
+    "definition": "An infection caused by bacteria of the genus Streptococcus, including throat and skin infections caused by group A Streptococcus.",
+    "clinical_significance": "Untreated or recurrent group A streptococcal infection can precede rheumatic fever and chronic rheumatic valve disease; invasive infection can also cause sepsis."
+  },
+  {
+    "name": "Streptokinase",
+    "definition": "A thrombolytic protein that forms a complex with plasminogen and promotes conversion to plasmin, which degrades fibrin clots.",
+    "clinical_significance": "It can restore flow by dissolving thrombus in selected emergencies, but systemic bleeding and intracranial haemorrhage are important risks."
+  },
+  {
+    "name": "Sternum",
+    "definition": "The flat bone forming the front of the central thoracic cage and articulating with the ribs and clavicles.",
+    "clinical_significance": "The sternum is the principal landmark and access route for median sternotomy in many open cardiac operations."
+  },
+  {
+    "name": "Stress",
+    "definition": "A state of physiological or psychological strain produced by internal or external demands.",
+    "clinical_significance": "Acute stress activates sympathetic and hormonal responses that raise heart rate and blood pressure; chronic stress may interact with behavioural and metabolic cardiovascular risks."
+  },
+  {
+    "name": "Stroke",
+    "definition": "A sudden neurological deficit caused by focal brain infarction from vascular occlusion or intracranial haemorrhage.",
+    "clinical_significance": "Stroke can cause permanent disability or death; determining whether it is ischaemic or haemorrhagic is central to diagnosis and treatment selection."
+  },
+  {
+    "name": "Subarachnoid hemorrhage",
+    "definition": "Bleeding into the cerebrospinal-fluid space between the arachnoid membrane and pia mater, often from a ruptured intracranial aneurysm.",
+    "clinical_significance": "It can cause sudden severe neurological injury, raised intracranial pressure, vasospasm, and secondary cerebral ischaemia."
+  },
+  {
+    "name": "Subclavian arteries",
+    "definition": "Paired arteries arising from the brachiocephalic trunk or aortic arch that supply the upper limbs and contribute branches to the neck and brain.",
+    "clinical_significance": "Subclavian stenosis can cause arm ischaemia or vertebrobasilar symptoms and can reverse flow through the vertebral artery or affect bypass graft perfusion."
+  },
+  {
+    "name": "Sudden death",
+    "definition": "Unexpected death occurring within a short interval of symptom onset, commonly from an abrupt cardiac or neurological event.",
+    "clinical_significance": "Sudden cardiac death most often results from ventricular arrhythmia in structural or electrical heart disease, though coronary occlusion and other causes are possible."
+  },
+  {
+    "name": "Superior vena cava",
+    "definition": "The large vein that returns deoxygenated blood from the head, neck, upper limbs, and upper chest to the right atrium.",
+    "clinical_significance": "Obstruction causes superior vena cava syndrome with venous congestion, facial or upper-limb swelling, and collateral vein formation."
+  },
+  {
+    "name": "Supraventricular tachycardia (SVT)",
+    "definition": "A tachyarrhythmia arising from atrial tissue or the atrioventricular junction, with ventricular activation above the bundle branches and usually a narrow, rapid rhythm.",
+    "clinical_significance": "SVT can cause palpitations, hypotension, dyspnoea, or syncope; recurrent rapid rates may impair ventricular function."
+  },
+  {
+    "name": "Syncope",
+    "definition": "A brief loss of consciousness and postural tone caused by transient global cerebral hypoperfusion, followed by spontaneous recovery.",
+    "clinical_significance": "Cardiac syncope may indicate bradyarrhythmia, tachyarrhythmia, structural obstruction, or inadequate output and carries potential risk of injury or sudden death."
+  },
+  {
+    "name": "Systolic blood pressure",
+    "definition": "The highest arterial pressure reached during ventricular contraction, represented by the upper number in a blood-pressure measurement.",
+    "clinical_significance": "Persistent elevation reflects increased arterial load and predicts vascular events, left-ventricular hypertrophy, stroke, and heart failure."
+  },
+  {
+    "name": "Tachycardia",
+    "definition": "A heart rate faster than expected for age and clinical context, usually referring to an adult resting rate above 100 beats per minute.",
+    "clinical_significance": "Tachycardia may be physiological or arrhythmic; sustained rapid rates can reduce filling, lower output, cause ischaemia, or produce cardiomyopathy."
+  },
+  {
+    "name": "Tachypnea",
+    "definition": "An abnormally rapid respiratory rate for age and clinical context.",
+    "clinical_significance": "It may reflect pulmonary congestion, hypoxia, metabolic acidosis, pain, infection, or circulatory stress and is an important sign when assessing heart failure or shock."
+  },
+  {
+    "name": "Tamponade",
+    "definition": "Cardiac tamponade is compression of the heart by accumulated fluid, blood, or gas in the pericardial space, limiting diastolic filling.",
+    "clinical_significance": "Reduced filling lowers stroke volume and cardiac output and can cause obstructive shock; the severity depends on the rate and volume of accumulation."
+  },
+  {
+    "name": "Thallium-201 stress test",
+    "definition": "A nuclear myocardial-perfusion study using thallium-201 uptake during stress and rest to display regional blood flow and viable myocardium.",
+    "clinical_significance": "Reversible perfusion defects suggest inducible ischaemia, whereas persistent defects may represent scar or nonviable tissue."
+  },
+  {
+    "name": "Third-degree heart block",
+    "definition": "Complete atrioventricular block in which no atrial impulses conduct to the ventricles, leaving the ventricles dependent on a slower escape rhythm.",
+    "clinical_significance": "It can cause profound bradycardia, low output, syncope, heart failure, or cardiac arrest and generally signifies advanced conduction disease."
+  },
+  {
+    "name": "Thrombolysis",
+    "definition": "The enzymatic breakdown of fibrin within a blood clot, either naturally or through a thrombolytic medicine.",
+    "clinical_significance": "Restoring flow by dissolving thrombus can limit infarction in selected arterial occlusions, but bleeding is the major treatment-related hazard."
+  },
+  {
+    "name": "Thrombosis",
+    "definition": "Formation of a blood clot within a blood vessel or heart chamber during life, potentially obstructing flow.",
+    "clinical_significance": "Thrombosis can cause myocardial infarction, ischaemic stroke, limb ischaemia, DVT, or pulmonary embolism depending on its location and embolic behaviour."
+  },
+  {
+    "name": "Thrombolytic therapy",
+    "definition": "Treatment with medicines that activate plasminogen or otherwise promote dissolution of fibrin-rich intravascular thrombi.",
+    "clinical_significance": "It can reopen an occluded artery or vein in selected time-sensitive conditions, but eligibility is limited by the risk of major or intracranial bleeding."
+  },
+  {
+    "name": "Thrombus",
+    "definition": "A blood clot formed within a blood vessel or cardiac chamber that remains attached to its site of formation.",
+    "clinical_significance": "A thrombus can obstruct local flow or detach as an embolus and cause infarction in a distant organ."
+  },
+  {
+    "name": "Thyroid",
+    "definition": "An endocrine gland in the front of the neck that produces thyroid hormones regulating metabolism, growth, and energy use.",
+    "clinical_significance": "Thyroid excess or deficiency can alter heart rate, rhythm, vascular resistance, lipid levels, and cardiac contractility."
+  },
+  {
+    "name": "Tissue plasminogen activator (tPA)",
+    "definition": "A naturally occurring or recombinant protein that converts plasminogen to plasmin and promotes fibrin clot breakdown.",
+    "clinical_significance": "Recombinant tPA can restore flow in selected acute thrombotic conditions, but its use can cause serious bleeding, including intracranial haemorrhage."
+  },
+  {
+    "name": "Trans fat",
+    "definition": "An unsaturated fat containing at least one trans-configured carbon-carbon double bond, produced industrially or occurring in small amounts in some animal foods.",
+    "clinical_significance": "Industrial trans fat raises LDL and lowers HDL cholesterol and increases atherosclerotic cardiovascular risk."
+  },
+  {
+    "name": "Transcatheter aortic valve implantation (TAVI)",
+    "definition": "A procedure that delivers and deploys a replacement aortic valve through a catheter, usually without surgical removal of the native valve; also called TAVR.",
+    "clinical_significance": "TAVI relieves severe aortic stenosis in selected patients and avoids open-heart surgery, while risks include vascular injury, stroke, conduction block, and paravalvular leak."
+  },
+  {
+    "name": "Transcatheter intervention",
+    "definition": "A cardiovascular procedure performed by advancing instruments through a blood vessel to diagnose or treat a cardiac or vascular lesion.",
+    "clinical_significance": "It permits revascularisation, valve treatment, ablation, or structural repair without open surgery, with risks related to access, embolisation, bleeding, and vessel injury."
+  },
+  {
+    "name": "Transesophageal echocardiography",
+    "definition": "Ultrasound imaging of the heart from a probe positioned in the oesophagus behind the heart.",
+    "clinical_significance": "It provides high-resolution views of valves, atria, aorta, thrombus, and endocarditis when transthoracic images are inadequate or during procedures."
+  },
+  {
+    "name": "Transient ischemic attack (TIA)",
+    "definition": "A transient episode of neurological dysfunction caused by focal brain, spinal-cord, or retinal ischaemia without established tissue infarction.",
+    "clinical_significance": "TIA is a warning of future stroke and indicates a need to identify embolic, large-artery, or small-vessel mechanisms."
+  },
+  {
+    "name": "Transplantation",
+    "definition": "Transfer of an organ, tissue, or cells from a donor or another site to replace or support diseased tissue in a recipient.",
+    "clinical_significance": "Heart transplantation can restore circulation in selected end-stage heart failure, but rejection, infection, graft vasculopathy, and immunosuppressant toxicity remain concerns."
+  },
+  {
+    "name": "Tricuspid valve",
+    "definition": "The three-leaflet atrioventricular valve between the right atrium and right ventricle.",
+    "clinical_significance": "Tricuspid stenosis obstructs right-sided filling, while regurgitation causes systemic venous congestion and may reflect right-ventricular or pulmonary disease."
+  },
+  {
+    "name": "Triglyceride",
+    "definition": "A molecule consisting of glycerol esterified to three fatty acids and the principal form of stored fat and circulating dietary fat.",
+    "clinical_significance": "Elevated triglycerides often accompany metabolic disease and atherogenic lipoproteins and, at very high levels, increase pancreatitis risk."
+  },
+  {
+    "name": "Ultrasound",
+    "definition": "Imaging that uses high-frequency sound waves and their echoes to display tissues, organs, or moving blood.",
+    "clinical_significance": "Ultrasound is fundamental to echocardiography and vascular assessment because it provides structural and haemodynamic information without ionising radiation."
+  },
+  {
+    "name": "Valve replacement",
+    "definition": "Surgical or transcatheter replacement of a diseased heart valve with a mechanical or biological prosthesis.",
+    "clinical_significance": "Replacement restores forward flow or limits regurgitation when native-valve disease causes obstruction, symptoms, ventricular dysfunction, or other clinically important consequences."
+  },
+  {
+    "name": "Valvuloplasty",
+    "definition": "A procedure that enlarges or reshapes a narrowed heart-valve opening, usually with a balloon catheter or surgical technique.",
+    "clinical_significance": "It can reduce stenotic obstruction and improve forward flow, although restenosis, valve regurgitation, embolism, or residual obstruction may occur."
+  },
+  {
+    "name": "Varicose vein",
+    "definition": "A superficial vein that is persistently enlarged, elongated, and tortuous because of venous-valve incompetence or increased venous pressure.",
+    "clinical_significance": "Varicose veins can cause aching, oedema, skin changes, bleeding, or superficial thrombophlebitis, but are distinct from deep-vein thrombosis."
+  },
+  {
+    "name": "Vascular",
+    "definition": "Relating to blood vessels, including arteries, veins, capillaries, and lymphatic vessels when specified.",
+    "clinical_significance": "The term encompasses diseases and procedures involving vessel structure, flow, inflammation, thrombosis, or vascular access."
+  },
+  {
+    "name": "Vasodilators",
+    "definition": "Medicines or other agents that relax vascular smooth muscle and widen blood vessels.",
+    "clinical_significance": "Vasodilation lowers vascular resistance or venous pressure and can improve selected forms of hypertension, angina, heart failure, or pulmonary vascular disease; hypotension may result."
+  },
+  {
+    "name": "Vasopressors",
+    "definition": "Medicines that raise vascular tone and arterial pressure, usually through adrenergic or other vasoconstrictor receptors.",
+    "clinical_significance": "They support perfusion in selected forms of shock but can increase cardiac afterload, provoke ischaemia, and reduce blood flow to peripheral tissues."
+  },
+  {
+    "name": "Vein",
+    "definition": "A blood vessel that returns blood towards the heart and usually contains valves that limit reverse flow.",
+    "clinical_significance": "Venous obstruction, thrombosis, or valve failure impairs return and can cause oedema, congestion, embolism, or chronic venous disease."
+  },
+  {
+    "name": "Ventricle (right and left)",
+    "definition": "One of the two lower heart chambers: the right ventricle pumps blood to the lungs and the left ventricle pumps blood to the systemic circulation.",
+    "clinical_significance": "Ventricular size, pressure, and contractility determine cardiac output; ventricular failure, hypertrophy, or arrhythmia can cause severe haemodynamic compromise."
+  },
+  {
+    "name": "Ventricular Assist Device (VAD)",
+    "definition": "A mechanical pump that supports blood flow from one or both ventricles to the pulmonary artery or aorta.",
+    "clinical_significance": "VAD support can bridge advanced heart failure to transplantation, recovery, or long-term therapy, with risks including bleeding, infection, thrombosis, stroke, and right-heart failure."
+  },
+  {
+    "name": "Ventricular fibrillation",
+    "definition": "Chaotic ventricular electrical activity that produces uncoordinated contraction and no effective forward blood flow.",
+    "clinical_significance": "It is a cause of cardiac arrest and requires immediate defibrillation for a meaningful chance of restoring circulation."
+  },
+  {
+    "name": "Ventricular tachycardia",
+    "definition": "A rapid cardiac rhythm arising from ventricular myocardium, consisting of three or more consecutive ventricular beats.",
+    "clinical_significance": "It may cause palpitations, hypotension, syncope, or cardiac arrest and often indicates myocardial scar or another structural or electrical substrate."
+  },
+  {
+    "name": "Vertigo",
+    "definition": "A false sensation that the person or surroundings are spinning or moving, usually caused by vestibular or neurological dysfunction.",
+    "clinical_significance": "Vertigo can mimic presyncope or complicate assessment of stroke; associated focal neurological signs may indicate a cerebrovascular cause."
+  },
+  {
+    "name": "Wolff-Parkinson-White syndrome",
+    "definition": "A pre-excitation syndrome in which an accessory atrioventricular pathway conducts impulses around the AV node, producing a characteristic ECG pattern and susceptibility to tachyarrhythmia.",
+    "clinical_significance": "Re-entry can cause episodic supraventricular tachycardia, and rapid conduction during atrial fibrillation may produce dangerous ventricular rates."
+  },
+  {
+    "name": "X-ray",
+    "definition": "Imaging that uses ionising radiation to create projections or computed images of internal structures.",
+    "clinical_significance": "Chest and vascular X-ray-based studies can show heart size, pulmonary congestion, device position, calcification, or contrast-filled vessels, depending on the examination."
+  }
+]
