@@ -1,0 +1,129 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=15mm,headheight=14pt,footskip=18pt]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\setlist{nosep,leftmargin=*}
+\renewcommand{\headrulewidth}{0.4pt}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\small Water-Related Infection Assessment}
+\rhead{\small Confidential clinical record}
+\cfoot{\small Page \thepage\ of \pageref{LastPage}}
+
+\newcommand{\boxx}{\ensuremath{\square}}
+\newcommand{\checkitem}[1]{\boxx\,#1\quad}
+\newcommand{\linefield}[2]{#1\ \underline{\hspace{#2}}}
+\newcommand{\writearea}[1]{\vspace{1pt}\par\noindent\rule{\linewidth}{0.35pt}\par\vspace{#1}}
+\newcommand{\sectionbar}[1]{\vspace{3pt}{\large\bfseries #1}\par\vspace{1pt}\hrule\vspace{3pt}}
+
+\begin{document}
+\begin{center}
+  {\LARGE\bfseries Medical Examination and Diagnosis Form}\\[-1pt]
+  {\large Water-Related Infections}
+\end{center}
+\small
+\textbf{Clinician-use documentation aid.} This form supports history-taking and clinical documentation; it is not a diagnostic scoring tool or a substitute for clinical judgment, local protocols, or public-health reporting requirements.
+
+\sectionbar{1. Patient and encounter}
+\linefield{Patient name:}{7.0cm} \linefield{Record / ID:}{3.2cm}\\
+\linefield{Date of birth:}{3.0cm} \linefield{Age:}{1.5cm} \linefield{Sex / gender as clinically relevant:}{4.2cm}\\
+\linefield{Encounter date / time:}{4.0cm} \linefield{Clinician:}{5.0cm}\\
+\linefield{Preferred language:}{4.0cm} \linefield{Interpreter / ID:}{4.0cm} \checkitem{Interpreter not needed}
+
+\sectionbar{2. Presenting illness}
+\linefield{Chief concern:}{12.5cm}\\
+\linefield{Symptom onset (date / time):}{4.5cm} \linefield{Course / progression:}{6.0cm}\\
+\textbf{Symptoms reported (check all that apply):}\\
+\checkitem{Diarrhea}\checkitem{Bloody stool}\checkitem{Vomiting / nausea}\checkitem{Abdominal pain / cramps}\\
+\checkitem{Fever / chills}\checkitem{Rash}\checkitem{Wound pain / redness / swelling / drainage}\checkitem{Blisters}\\
+\checkitem{Eye symptoms}\checkitem{Ear symptoms}\checkitem{Cough / breathing symptoms}\checkitem{Headache / confusion / weakness}\\
+\checkitem{Jaundice / dark urine}\checkitem{Urinary symptoms}\checkitem{Other:}\underline{\hspace{4.8cm}} \checkitem{None reported}\\
+\linefield{Temperature at home / highest reported:}{5.0cm} \linefield{Stool frequency / 24 h:}{3.8cm}\\
+\linefield{Associated symptoms, duration, and relevant negatives:}{8.3cm}
+\writearea{5mm}
+
+\sectionbar{3. Water and environmental exposure history}
+\linefield{Exposure date(s) / time(s):}{5.2cm}\\
+\linefield{Location (site, city, region):}{10.0cm}\\
+\textbf{Water source / setting:}\\
+\checkitem{Drinking water}\checkitem{Freshwater (lake / river / stream)}\checkitem{Saltwater}\checkitem{Brackish water}\\
+\checkitem{Floodwater / sewage}\checkitem{Pool / hot tub / splash pad}\checkitem{Well / private supply}\checkitem{Other:}\underline{\hspace{2.0cm}}\\
+\checkitem{Building plumbing / cooling tower}\checkitem{Humidifier / nebulizer / medical water system}\\
+\textbf{Source and treatment (tap, bottled, boiled, filtered, disinfected, unknown):}\\
+\underline{\hspace{15cm}}\\
+\textbf{Water advisory / testing / contamination known or suspected:}\\
+\underline{\hspace{15cm}}\\
+\textbf{Possible route(s):} \checkitem{Swallowed}\checkitem{Inhaled mist / aerosol}\checkitem{Nose / aspiration}\\
+\checkitem{Open wound / cut}\checkitem{Eye}\checkitem{Ear}\checkitem{Other / unclear}\\
+\linefield{Activity, duration, amount, and water conditions (if known):}{6.3cm}\\
+\linefield{Open wound / skin break; site, cause, and date:}{7.3cm}\\
+\linefield{Other relevant exposures (food / seafood, animals, soil, travel, work):}{5.0cm}\\
+\linefield{Others with similar illness? Names / relationship, onset, shared exposure:}{4.0cm}
+\writearea{5mm}
+
+\newpage
+\sectionbar{4. Relevant health history and risk factors}
+\checkitem{Chronic liver disease}\checkitem{Diabetes}\checkitem{Kidney disease}\checkitem{Chronic lung disease}\\
+\checkitem{Immunocompromising condition / therapy}\checkitem{Cancer / transplant / HIV}\checkitem{Pregnancy}\\
+\checkitem{Chronic skin condition / open wound}\checkitem{Recent surgery / piercing / tattoo}\checkitem{Contact lenses}\checkitem{Infant / older adult}\\
+\checkitem{Other:}\underline{\hspace{3.0cm}}\\
+\linefield{Relevant medical / surgical history:}{8.0cm}\\
+\linefield{Current medicines (include recent antimicrobials):}{7.0cm}\\
+\linefield{Allergies and reactions:}{5.5cm}\\
+\linefield{Immunization / prophylaxis relevant to exposure:}{4.7cm}
+
+\sectionbar{5. Examination and initial acuity}
+\linefield{BP:}{2.2cm} \linefield{HR:}{2.0cm} \linefield{RR:}{2.0cm} \linefield{Temp:}{2.0cm} \linefield{SpO$_2$:}{2.0cm} \linefield{Weight:}{2.0cm}\\
+\textbf{Urgent findings / escalation considered:}\\
+\checkitem{Hemodynamic instability / sepsis concern}\checkitem{Altered mental status / neurologic deficit}\\
+\checkitem{Respiratory compromise}\checkitem{Severe dehydration}\checkitem{Rapidly progressive wound / necrosis / hemorrhagic blisters}\\
+\checkitem{Jaundice / bleeding}\checkitem{Other:}\underline{\hspace{3.5cm}}\quad\checkitem{None identified}\\
+\linefield{Urgent action, referral / transfer, clinician notified, time:}{5.0cm}\\
+\textbf{Examination findings:}\\
+\linefield{General appearance / hydration / perfusion:}{7.0cm}\\
+\textbf{Skin / wound findings (site, size, borders, warmth, tenderness, drainage, progression):}\\
+\underline{\hspace{15cm}}\\
+\linefield{Eyes / ears / nose / throat:}{8.0cm} \linefield{Respiratory:}{4.3cm}\\
+\linefield{Abdominal:}{5.0cm} \linefield{Neurologic:}{5.7cm}\\
+\linefield{Other pertinent examination:}{7.0cm}
+\writearea{4mm}
+
+\sectionbar{6. Investigations and results}
+\textit{Record tests selected and interpreted by the treating clinician; document specimen, collection time, and pending results.}\\
+\begin{tabularx}{\linewidth}{|>{\raggedright\arraybackslash}p{3.5cm}|>{\raggedright\arraybackslash}p{2.4cm}|X|>{\raggedright\arraybackslash}p{2.4cm}|}
+\hline
+Test / specimen & Collected & Result / interpretation & Pending / date \\
+\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\end{tabularx}
+
+\sectionbar{7. Clinical assessment}
+\linefield{Working diagnosis / syndrome:}{7.0cm} \linefield{Severity:}{2.8cm}\\
+\linefield{Suspected organism / cause (if known):}{6.8cm} \linefield{Exposure route:}{3.0cm}\\
+\linefield{Differential diagnosis / important alternatives:}{5.1cm}\\
+\linefield{Exposure-to-onset interval / epidemiologic link:}{5.5cm}\\
+\linefield{Public-health consultation / reporting (per local rules):}{4.8cm}\\
+\linefield{Contact / case or outbreak reference:}{6.5cm}
+
+\sectionbar{8. Plan and follow-up}
+\checkitem{Treatment / supportive care documented}\checkitem{Specialist / emergency referral}\checkitem{Public-health follow-up}\\
+\linefield{Plan, counseling, and precautions discussed:}{6.5cm}\\
+\linefield{Follow-up date / responsible clinician:}{6.6cm}\\
+\linefield{Pending results owner and action plan:}{6.7cm}\\
+\linefield{Clinician name / signature:}{6.0cm} \linefield{Date / time:}{3.5cm}
+
+\vfill
+\footnotesize Exposure prompts are informed by CDC/ATSDR's \textit{Taking an Exposure History} and CDC's \textit{Waterborne Disease Outbreak Investigation Toolkit}. Adapt to local reporting, privacy, and documentation requirements.
+\end{document}

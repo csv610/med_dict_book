@@ -1,0 +1,153 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=15mm,headheight=14pt,footskip=18pt]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\renewcommand{\headrulewidth}{0.4pt}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\small Snakebite Assessment and Treatment Record}
+\rhead{\small Confidential clinical record}
+\cfoot{\small Page \thepage\ of \pageref{LastPage}}
+
+\newcommand{\boxx}{\ensuremath{\square}}
+\newcommand{\checkitem}[1]{\boxx\,#1\quad}
+\newcommand{\linefield}[2]{#1\ \underline{\hspace{#2}}}
+\newcommand{\ruledline}{\par\noindent\rule{\linewidth}{0.35pt}\par\vspace{3mm}}
+\newcommand{\sectionbar}[1]{\vspace{3pt}{\large\bfseries #1}\par\vspace{1pt}\hrule\vspace{3pt}}
+
+\begin{document}
+\begin{center}
+  {\LARGE\bfseries Snakebite Assessment, Treatment and Monitoring Record}\\[-1pt]
+  {\large Clinician-use form}
+\end{center}
+\small
+\textbf{Important:} This is a documentation form, not a treatment protocol. Stabilize and manage urgently according to current local/regional guidance, the specific antivenom product information, and poison-centre or specialist advice. Antivenom selection, indications, dose, and first-aid recommendations vary by region and snake species.
+
+\sectionbar{1. Patient and encounter}
+\linefield{Patient name:}{6.6cm} \linefield{Record / ID:}{3.4cm}\\
+\linefield{Date of birth:}{3.0cm} \linefield{Age:}{1.5cm} \linefield{Weight:}{2.0cm} \linefield{Pregnancy status if relevant:}{3.2cm}\\
+\linefield{Facility / unit:}{8.0cm}\\
+\linefield{Arrival date / time:}{4.0cm} \linefield{Clinician:}{4.5cm}\\
+\linefield{Local protocol / version used:}{6.5cm}\\
+\linefield{Poison centre / specialist contacted:}{7.5cm}
+
+\sectionbar{2. Bite and pre-hospital history}
+\linefield{Bite date / time (or best estimate):}{5.5cm} \linefield{Location / region:}{4.8cm}\\
+\linefield{Time to first aid:}{2.8cm} \linefield{Time to facility:}{3.0cm} \linefield{Witnessed?}{1.0cm}\\
+\linefield{Bite site(s), side, number of bites:}{7.0cm}\\
+\linefield{Pain / symptoms began:}{6.0cm}\\
+\textbf{Snake description (only if safely observed / photographed; do not delay care for identification):}\\
+\linefield{Color / pattern / size / other description:}{6.5cm} \checkitem{Photo from safe distance available}\\
+\textbf{First aid / actions before arrival (check and describe):}\\
+\checkitem{Limb rested / immobilized}\checkitem{Constricting items removed}\checkitem{Wound washed / covered}\\
+\checkitem{Tourniquet / tight band}\checkitem{Incision / suction}\checkitem{Ice / electric shock}\checkitem{Herbal / traditional application}\\
+\linefield{Other measures, medicines, dose, and time:}{6.0cm}\\
+\linefield{Relevant history, medicines (especially anticoagulants), allergies:}{4.2cm}
+
+\sectionbar{3. Immediate assessment and initial findings}
+\textbf{Primary survey / urgent findings:}\\
+\checkitem{Airway concern}\checkitem{Breathing difficulty / respiratory weakness}\checkitem{Circulatory instability / shock}\\
+\checkitem{Altered consciousness / seizure}\checkitem{Active bleeding}\checkitem{Rapidly progressive swelling / tissue injury}\\
+\linefield{Immediate stabilization, escalation / transfer, time:}{5.5cm}\\
+\linefield{BP:}{2.0cm} \linefield{HR:}{2.0cm} \linefield{RR:}{2.0cm}\\
+\linefield{SpO$_2$:}{2.0cm} \linefield{Temp:}{2.0cm} \linefield{GCS / AVPU:}{2.2cm}\\
+\textbf{Initial symptoms / examination (record present and absent):}\\
+\checkitem{Local pain / tenderness}\checkitem{Swelling}\checkitem{Bruising / blistering / necrosis}\checkitem{Fang marks}\\
+\checkitem{Ptosis / diplopia / bulbar symptoms}\checkitem{Weakness / paralysis}\checkitem{Bleeding / bruising}\checkitem{Vomiting / abdominal symptoms}\\
+\checkitem{Dark urine / reduced urine}\checkitem{Myalgia / muscle tenderness}\checkitem{Nausea / sweating / collapse}\checkitem{Other}\\
+\linefield{Pertinent findings, onset, and progression:}{7.5cm}
+\ruledline\ruledline\ruledline\ruledline
+
+\newpage
+\sectionbar{4. Examination and serial observation}
+\linefield{General / mental status:}{7.0cm}\\
+\linefield{Airway / voice / swallowing:}{7.0cm}\\
+\linefield{Respiratory effort / strength:}{5.0cm} \linefield{Perfusion / pulses:}{5.0cm}\\
+\textbf{Bite-site assessment:} \linefield{Site / side:}{3.5cm} \linefield{Limb circumference site:}{3.2cm}\\
+\linefield{Initial swelling extent / landmarks:}{7.2cm} \linefield{Time marked:}{2.5cm}\\
+\linefield{Neurovascular status distal to bite (pulse, sensation, movement, capillary refill):}{2.0cm}\\
+\textbf{Serial observation record (use local observation schedule):}\\
+\begin{tabularx}{\linewidth}{|p{1.8cm}|p{1.7cm}|p{1.7cm}|p{1.7cm}|X|p{1.8cm}|}
+\hline
+Date / time & BP / HR & RR / SpO$_2$ & GCS / neuro & Swelling / bleeding / systemic signs & Action / initials \\
+\hline
+\rule{0pt}{8mm} & & & & & \\\hline
+\rule{0pt}{8mm} & & & & & \\\hline
+\rule{0pt}{8mm} & & & & & \\\hline
+\rule{0pt}{8mm} & & & & & \\\hline
+\rule{0pt}{8mm} & & & & & \\\hline
+\end{tabularx}
+
+\sectionbar{5. Investigations and results}
+\textit{Select tests and intervals according to the clinical picture and regional protocol; record collection time and trend.}\\
+\begin{tabularx}{\linewidth}{|p{3.6cm}|p{2.0cm}|X|p{2.4cm}|}
+\hline
+Test / specimen & Date / time & Result / trend & Pending / action \\
+\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\rule{0pt}{7mm} & & & \\\hline
+\end{tabularx}
+\linefield{Other tests / imaging / ECG and interpretation:}{5.5cm}
+
+\sectionbar{6. Clinical impression}
+\checkitem{No current evidence of envenoming}\checkitem{Local envenoming}\checkitem{Systemic envenoming}\checkitem{Uncertain / evolving}\\
+\checkitem{Neurotoxic features}\checkitem{Coagulopathy / bleeding}\checkitem{Cytotoxic / local tissue injury}\checkitem{Myotoxic / renal}\\
+\checkitem{Cardiovascular / autonomic}\checkitem{Other:}\underline{\hspace{3.0cm}}\\
+\linefield{Suspected species / family (certainty and basis):}{5.0cm}\\
+\linefield{Differential / complications considered:}{6.0cm}\\
+\linefield{Assessment time and clinician:}{5.5cm}
+
+\newpage
+\sectionbar{7. Treatment and antivenom decision}
+\linefield{Treatment decision time:}{3.8cm} \linefield{Decision-maker:}{4.0cm}\\
+\checkitem{Antivenom given}\checkitem{Not indicated per local protocol}\checkitem{Deferred / unavailable}\checkitem{Specialist advice obtained}\\
+\linefield{Indication / clinical evidence and protocol reference:}{4.5cm}\\
+\linefield{If not given or deferred, reason and review plan:}{5.0cm}\\
+\textbf{Antivenom administration (complete for each product / dose):}\\
+\linefield{Product / manufacturer / regional coverage:}{5.0cm}\\
+\linefield{Dose / units / vials:}{3.5cm} \linefield{Route:}{2.0cm} \linefield{Dilution / rate per product instructions:}{2.2cm}\\
+\linefield{Lot / batch:}{3.5cm} \linefield{Expiry:}{2.5cm} \linefield{Start date / time:}{3.0cm} \linefield{Finish:}{1.8cm}\\
+\linefield{Prescriber:}{3.8cm} \linefield{Administrator:}{3.8cm}\\
+\linefield{Independent check per local policy:}{7.0cm}\\
+\linefield{Premedication / other medicines (drug, dose, route, time):}{4.2cm}\\
+\linefield{Clinical response / repeat-dose decision and rationale:}{4.6cm}
+
+\sectionbar{8. Antivenom monitoring and reaction record}
+\textit{Monitor and manage reactions according to the product information and local emergency protocol.}\\
+\begin{tabularx}{\linewidth}{|p{1.6cm}|p{2.1cm}|X|p{2.8cm}|}
+\hline
+Date / time & Vital signs & Symptoms / reaction / severity & Action / response / initials \\
+\hline
+\rule{0pt}{8mm} & & & \\\hline
+\rule{0pt}{8mm} & & & \\\hline
+\rule{0pt}{8mm} & & & \\\hline
+\rule{0pt}{8mm} & & & \\\hline
+\rule{0pt}{8mm} & & & \\\hline
+\end{tabularx}
+\linefield{Reaction type / suspected product:}{5.0cm}\\
+\linefield{Treatment and outcome:}{6.0cm}
+
+\sectionbar{9. Supportive care, disposition, and follow-up}
+\checkitem{Airway / respiratory support}\checkitem{Circulatory support}\checkitem{Wound care}\checkitem{Analgesia}\\
+\checkitem{Blood products / hemostatic support}\checkitem{Renal support}\checkitem{Surgical / specialist review}\checkitem{Other}\\
+\linefield{Other treatment (drug / intervention, dose, route, time):}{4.4cm}\\
+\linefield{Tetanus / wound-care plan:}{5.0cm}\\
+\linefield{Fluid balance / urine monitoring:}{5.5cm}\\
+\linefield{Disposition:}{2.5cm} \linefield{Receiving service / facility:}{5.0cm} \linefield{Date / time:}{2.4cm}\\
+\linefield{Pending results owner / action:}{5.5cm}\\
+\linefield{Counseling, return precautions, follow-up plan:}{5.5cm}\\
+\linefield{Clinician name / signature:}{6.0cm} \linefield{Date / time:}{3.5cm}
+
+\vfill
+\footnotesize References informing this documentation layout: WHO \textit{Guidelines for the Management of Snakebites}, 2nd ed. (2016); CDC/NIOSH venomous snake guidance. Adapt to current local protocols and product information.
+\end{document}
